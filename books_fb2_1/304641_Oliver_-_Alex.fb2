@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf_social</genre>
+   <author>
+    <first-name>Lauren</first-name>
+    <last-name>Oliver</last-name>
+   </author>
+   <book-title>Alex</book-title>
+   <annotation>
+    <p>This was a short story which was only available in the first print runs of Lauren Oliver’s <emphasis>Requiem. </emphasis> The short story gives us a glimpse into the childhood of Alex, the torture he underwent in the Crypts, how he escaped and his slow path towards reuniting with Lena once again.</p>
+   </annotation>
+   <keywords>dystopia</keywords>
+   <date>2013</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="Delirium"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 0.9.33, FictionBook Editor Release 2.6.6</program-used>
+   <date value="2013-06-02">2.6.2013</date>
+   <id>49254cad-2af2-4c5d-8e0c-5e9892d9d6f0</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <year>2013</year>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Lauren Oliver</p>
+   <p>ALEX</p>
+   <p><emphasis>A Delirium Story</emphasis></p>
+  </title>
+  <section>
+   <p>Let me tell you something about dying: it’s not as bad as they say.</p>
+   <p>It’s the coming-back-to-life part that hurts.</p>
+   <empty-line/>
+   <p>I was a kid again in Rhode Island, running through the gallery, heading toward the ocean.</p>
+   <p>The gallery was what we called the long, covered walk-way that ran from the harbor all the way to the old square, where you could still find bombs, undetonated, embedded in the brick. There was a rumor that went around among us—if you stepped on one, you’d explode. This kid Zero once dared me to do it, and I did just so he’d leave me alone. Nothing happened. Still, I wouldn’t have done it again.</p>
+   <p>You never know. A second time it could go <emphasis>boom. </emphasis></p>
+   <p>The gallery was all in brick and housed shops that a hundred years ago must have catered to tourists, vacationers, families. The storefront windows were all gone, maybe shot out, but probably just broken after the blitz, when anyone who survived went looting for supplies.</p>
+   <p>There was, in order: Lick ‘n’ Swirl Ice Cream; Benjamin’s Pizza; the Arcade; the Gift Gallery; T-Shirts-n-More; Franny’s Ice Cream. The ice cream machines had been taken apart for scrap, but the pizza oven in Benjamin’s was still there, big as a car, and sometimes we used to stick our heads inside and inhale and pretend we smelled baking bread.</p>
+   <p>There were also two art galleries, and funny enough, most of the art was still hanging on the walls. You can’t use paintings as shovels or canvas as a blanket; no point in stealing art, no one to sell it to after the blitz and no money to buy it with. There were photographs of tourists from Before, wearing bright T-shirts and strappy sandals and eating ice cream cones piled high with different-colored scoops, and paintings of the beach at dawn, and at dusk, and at night, and in the rain, and in the snow. There was one painting, I remember, that showed a broad, clean sweep of sky and the ocean drawn out to the horizon, and the sand littered with seashells and crabs and mermaid’s purses and bits of seaweed. A boy and girl were standing four feet apart, not facing each other, not acknowledging each other in any way, just standing, looking out at the water. I always liked that painting. I liked to think they had a secret.</p>
+   <p>So when I died and turned kid again I went back there, back to the gallery—before Portland, and the move up north, and her. All the stores had been repaired, and there were hundreds of people standing behind the glass, palms pressed to the windowpanes, watching me as I ran. They were all shouting to me, but I couldn’t hear them. The glass was too thick. All I could see was the ghost-fog of their breath against the glass and their palms, flat and pale, like dead things.</p>
+   <p>The longer I ran, the farther the ocean seemed, and the smaller I got, until I was so small I was no bigger than a piece of dust. Until I was no bigger than an idea. I knew I’d be okay if I could only reach the ocean, but the gallery just kept on growing, huge and full of shadows, and all those people kept calling to me silently from behind the glass.</p>
+   <p>Then a wave came and pushed me backward, and slammed me against something made of stone, and I became big again. My body exploded outward like I’d gone and stepped on that bomb and I was breaking apart into ten thousand pieces.</p>
+   <p>Everything was on fire. Even my eyes hurt when I tried to open them.</p>
+   <p>“I don’t believe it,” were the first words I heard.</p>
+   <p>“Someone up there must be looking after him.”</p>
+   <p>Then someone else: “No one looks after this garbage.”</p>
+   <p>I was alive again.</p>
+   <p>I wanted to die.</p>
+   <empty-line/>
+   <p>One time, when I was twelve, I burned down a house.</p>
+   <p>Nobody was living there. That’s why I chose it. It was just some half-run-down white clapboard farmhouse, sitting in the middle of a bunch of lumpy outhouses and barns, like deer turds gathered at the bottom of a big hill. I have no idea what happened to the family that used to live here, but I liked to imagine that they’d gone off to the Wilds, made a clean break for the border once the new regulations kicked in, once people started getting locked up for disagreeing.</p>
+   <p>It was close to the border, only fifty feet from the fence. That’s why I chose it too.</p>
+   <p>I had started with small thing—matchbooks, papers; then piles of leaves, heaped carefully into a garbage can; then a little locked wooden shed on Rosemont Avenue. I watched from Presumpscot Park, sitting on a bench, while the firemen came to put out the shed fire, sirens screaming, geared up. I watched while the neighbors gathered, until there were so many they blocked my view and I tried to stand. But I couldn’t stand. My feet and legs were numb.</p>
+   <p>Like bricks. So I just sat and sat, until the crowd thinned and I saw the shed wasn’t a shed anymore but just a pile of charred wood and metal and molten plastic, where a bunch of toys had fused together.</p>
+   <p>All because of the smallest spark. All because of the <emphasis>click</emphasis> of a lighter in my hand.</p>
+   <p>I couldn’t stop.</p>
+   <p>Then: a house. It was summer, six o’clock, dinner hour. I figured if anyone smelled the smoke they might think it was a barbecue, and I’d have plenty of time to get out of there. I used rags stuffed with kerosene and a Bic lighter I had stolen from the desk of the principal’s office at my school: yellow with smiley faces on it.</p>
+   <p>Right away I knew it was a mistake. The house went up in less than a minute. The flames just… swallowed it.</p>
+   <p>The smoke blocked out the sun and turned the air blurry from the heat. The smell was awful. Maybe there’d been dead animals in the house, mice and raccoons. I hadn’t thought to check.</p>
+   <p>But the worst was the noise. It was louder, way louder, than I had expected. I could hear wood popping, splitting apart, could hear individual splinters burst and crackle into nothing. Like the house was screaming. But weirdly, when the roof went down, there wasn’t any sound at all. Or maybe I couldn’t hear by then, because my lungs were full of smoke and my head was pounding and I was running as fast as I could. I called the fire department from an old pay phone, disguising my voice. I didn’t stay to watch them come.</p>
+   <p>They saved the barn, at least. I found out later. I even went to a few parties there, years afterward, on nights I couldn’t stand it anymore: all the pretending, the secrets, the sitting around and waiting for instructions.</p>
+   <p>I even saw here there, once.</p>
+   <p>But I never went back without remembering the fire—the way it ate up the sky, the sound of a house, a <emphasis>something</emphasis>, shriveling into nothing.</p>
+   <p>That’s what it was like waking up in the Crypts. No-longer-dead. But without her.</p>
+   <p>Like burning alive.</p>
+   <empty-line/>
+   <p>I have nothing to say about my months there. Imagine it, then imagine worse, then give up and know you can’t imagine it.</p>
+   <p>You think you want to know, but you don’t.</p>
+   <p>No one expected me to live, so it was like a game to the guards to see how much I could take. One guy, Roman, was the worst. He was ugly—fat lips, eyes glassed over like a fish on ice in the grocery store—and mean as hell.</p>
+   <p>He liked to put his cigarettes out on my tongue. He cut the insides of my eyelids with razors. Every time I blinked, I felt like my eyes were exploding. I used to lie awake at night and imagine wrapping my hands around his throat, killing him slowly.</p>
+   <p>See? I told you. You don’t want to know.</p>
+   <p>But the worst was where they put me. The old cell where I’d once stood with Lena, staring at the words etched into the stone. A single word, actually. Just <emphasis>love</emphasis>, over and over.</p>
+   <p>They’d patched up the hole in the wall, reinforced it and barred it with steel. But I could still taste the outside, still smell the rain and hear the distant roar of the river beneath me. I could watch the snow bending whole trees into submission, could lick the icicles that formed on the other side of the bars. That was torture—being able to see, and smell, and hear, and being trapped in a cage. Like standing on the wrong side of the fence, only a few feet from freedom, and knowing you’ll never cross it.</p>
+   <p>Yeah. Like that.</p>
+   <empty-line/>
+   <p>I got better—somehow, miraculously, without wanting it or willing it or trying. My skin grew together, sealed in the bullet, still lodged somewhere between two ribs. My fever went down, and I stopped seeing things whenever I closed my eyes: people with holes in their faces instead of mouths, buildings catching fire, skies filled with blood and smoke.</p>
+   <p>My heart kept going, and some small, distant part of me was glad.</p>
+   <p>Slowly, slowly, I grew back into my body. One day, I managed to stand up. A week later, to walk the cell, staggering between the walls like a drunk.</p>
+   <p>I got a beating for that one—for healing too fast.</p>
+   <p>After that I moved only at night, in the dark, when the guards were too lazy to do random checks, when they slept or drank or played cards instead of making the rounds.</p>
+   <p>I wasn’t thinking of escape. I wasn’t thinking of her.</p>
+   <p>That came later. I wasn’t thinking anything at all. It was just will, forcing my blood through my veins and my heart to keep opening and shutting and my legs to try and move.</p>
+   <p>When I remembered, I remembered being a little kid. I thought about the homestead on the Rhode Island coast, long before I moved homesteads with a few others and came to Maine: the gallery and the smell of low tide, and all the brick covered in layers of bird shit, crusty as salt spray. I remembered the boats this guy Flick made out of timber and scrap, and the time he took me fishing and I hooked my first trout: the blush pink of its belly and how good it tasted, like nothing I’d ever eaten before. I remembered Brent, who was my age and like a brother, and how his finger looked after he got cut on an old bit of razor wire, puffy and dark as a storm cloud, and how he screamed when they cut it off to stop the infection from spreading. Dirk and Mel and Toadie: all of them dead, I heard later, killed on some secret mission to Zombieland.</p>
+   <p>And Carr, in Maine, who taught me all about the resistance, who helped me memorize facts about the new me when it was time for me to cross over.</p>
+   <p>And I remembered my first night in Portland, how I couldn’t get comfortable on the bed, and how I moved onto the floor, finally, and fell asleep with my cheek against the rug. How weird everything was: the supermarkets stocked with food I’d never seen before, and trash bins heaped with stuff that was still usable, and rules, rules for everything: eating, sitting, talking, even pissing and wiping yourself.</p>
+   <p>In my mind, I was reliving my whole life again—slowly, taking my time. Delaying.</p>
+   <p>Because I knew, sooner or later, I’d get to her.</p>
+   <p>And then… Well, I’d already died once. I couldn’t live through it again.</p>
+   <empty-line/>
+   <p>The guards lost interest in me after a while.</p>
+   <p>In the quiet, and the dark, I got stronger. Eventually she came. She appeared suddenly, exactly like she’d done that day—she stepped into the sunshine, she jumped, she laughed and threw her head back, so her long ponytail nearly grazed the waistband of her jeans.</p>
+   <p>After that, I couldn’t think about anything else. The mole on the inside of her right elbow, like a dark blot of ink. The way she ripped her nails to shreds when she was nervous. Her eyes, deep as a promise. Her stomach, pale and soft and gorgeous, and the tiny dark cavity of her belly button.</p>
+   <p>I nearly went crazy. I knew she must think I was dead.</p>
+   <p>What had happened to her after crossing the fence? Has she made it? She had nothing, no tools, no food, no idea where to go. I imagined her weak, and lost. I imagined her dead.</p>
+   <p>She might as well be.</p>
+   <p>I told myself that if she was alive she would move on, she would forget me, she would be happy again. I tried to tell myself that was what I wanted for her.</p>
+   <p>I knew I would never see her again.</p>
+   <p>But hope got in, no matter how hard and fast I tried to stomp it out. Like these tiny fire ants we used to get in Portland. No matter how fast you killed them, there were always more, a steady stream of them, resistant, ever-multiplying.</p>
+   <p><emphasis>Maybe</emphasis>, the hope said. <emphasis>Maybe</emphasis>.</p>
+   <empty-line/>
+   <p>Funny how time heals. Like that bullet in my ribs. It’s there, I know it’s there, but I can barely feel it at all anymore.</p>
+   <p>Only when it rains. And sometimes, too, when I remember. The impossible happened in January, on a night like all other winter nights, frigid black, and long.</p>
+   <p>The first explosion woke me from a dream. Two other explosions followed, buried somewhere beneath layers of stone, like the rumblings of a faraway train. The alarms started screaming but just as quickly went silent.</p>
+   <p>The lights shut off all at once.</p>
+   <p>People were shouting. Footsteps echoed in the halls.</p>
+   <p>The prisoners began banging on walls and doors, and the darkness was full of shouting.</p>
+   <p>I knew right away it must be freedom fighters. I could <emphasis>feel</emphasis> it, the way I could always feel it in my fingertips when I was supposed to do a job, like a drop, and something was wrong—an undercover cop hanging around, or a problem with a contact. Then I’d keep my head down, keep it moving, regroup.</p>
+   <p>Later I found out that in the lower wards, two hundred cell doors swung open simultaneously. Electrical problem.</p>
+   <p>Two hundred prisoners made a break for it, and a dozen had made it out before the police and regulators showed up and started shooting.</p>
+   <p>Our doors were closed with deadbolts, and stayed shut.</p>
+   <p>I beat on the door so hard my knuckles split. I screamed until my voice dried up in my throat. We all did.</p>
+   <p>All of us in Ward Six, all of us forgotten, left to rot. The minutes that had passed since the lights went off felt like hours.</p>
+   <p>“Let me out!” I screamed, over and over. “Let me out.</p>
+   <p>I’m one of you.”</p>
+   <p>And then, a miracle: a small cone of light, a flashlight sweeping down the hall, and the pattern of fast footsteps.</p>
+   <p>I’ll admit it. I called to be let out first. I’m not too proud to say it. I’d spent five months in that hellhole, and escape was on the other side of the door. Days, years passed before my door swung open.</p>
+   <p>But it did. Swing open.</p>
+   <p>I recognized the guy with the keys. I knew him as Kyle, though I doubt that was his real name. I’d seen him at one or two meetings of the resistance. I’d never liked him.</p>
+   <p>He wore really tight button-down shirts and pants that made him look like he had a constant wedgie.</p>
+   <p>He wasn’t wearing a button-down then. He was wearing all black, and a ski masked pushed back on his head, so I could see his face. And in that moment, I could have kissed him.</p>
+   <p>“Let’s go, let’s go.”</p>
+   <p>It was chaos. It was hell. Emergency lights flashing, illuminating in strobe prisoners clawing at one another to get through the doors, and guards swinging with clubs or firing, randomly, into the crowd to hold them back. Bodies in the halls, and blood smearing the linoleum, speckled on the walls.</p>
+   <p>I knew from all my times at the Crypts, there was a service entrance in the basement, next to the laundry room.</p>
+   <p>By the time I made it to the first floor, the cops were flowing in, bug-eyed in their riot gear. The screaming was so loud. You couldn’t even hear what the cops were yelling. Five feet away from me, I watched some woman wearing a hospital gown and paper slippers shank a cop right in the neck with a pen. I thought, <emphasis>Good for her. </emphasis></p>
+   <p>Like I said: I’m not too proud.</p>
+   <p>There was a pop, and a fizz, and something went ricocheting down the hall. Then a hard burn in my eyes and throat and I knew they’d chucked in the tear gas, and if I didn’t get out then, I’d never get out. I made for the laundry chute, trying to breathe through the filthy cotton of my sleeve. Pushing people when I had to. Not caring.</p>
+   <p>You have to understand. I wasn’t just thinking of me. I was thinking of her, too.</p>
+   <p>It was a long shot, but I had no choice. I crawled into the laundry chute, as narrow as a coffin, and dropped. Four long seconds of darkness and free fall. I could hear my breath echoing in the metal cage.</p>
+   <p>Then I was down. I landed in a big pile of sheets and pillowcases that smelled like sweat and blood and things I didn’t want to think about. But I was safe, and nothing was broken. The laundry room was black, empty, the old machines still. The whole room had that moist feel that all laundry rooms do, like a big tongue.</p>
+   <p>I could still hear screaming and gunshots from upstairs, rolling down the laundry chute, amplified and transformed. It sounded like the world was ending.</p>
+   <p>But it wasn’t.</p>
+   <p>Out of the laundry room, around the corner, no problem at all. The service door was supposed to be alarmed, but I knew the staff always disabled it so they could go out for smoke breaks without going upstairs.</p>
+   <p>So: outside, and to the black rush of the Presumpscot River.</p>
+   <p>To freedom.</p>
+   <p>For me, the world was beginning.</p>
+   <empty-line/>
+   <p>How did I love her?</p>
+   <p>Let me count the ways.</p>
+   <p>The freckles on her nose like the shadow of a shadow; the way she chewed on her lower lip when she was thinking and the way her ponytail swung when she walked and how when she ran she looked like she was born going fast and how she fit perfectly against my chest; her smell and the touch of her lips and her skin, which was always warm, and how she smiled. Like she had a secret.</p>
+   <p>How she always made up words during Scrabble.</p>
+   <p>Hyddym (secret music). Grofp (cafeteria food). Quaw (the sound a baby duck makes). How she burped her way through the alphabet once, and I laughed so hard I spat out soda through my nose.</p>
+   <p>And how she looked at me like I could save her from everything bad in the world.</p>
+   <p>This was my secret: she was the one who saved me.</p>
+   <empty-line/>
+   <p>I had trouble finding the old homestead. It took me almost a full day. I’d crossed over the river, into a part of the Wilds I didn’t know, and there were no landmarks to guide me. I knew I had to circle southeast, and I did, keeping the city’s perimeter in my sights. It was cold outside, but there was lots of sun, and ice ran off the branches. I had no jacket, but I didn’t even care.</p>
+   <p>I was free.</p>
+   <p>There should have been freedom fighters around, escaped prisoners from the Crypts. But the woods were silent and empty. Sometimes I saw a shape moving through the trees and turned around, only to see a deer bounding away, or a raccoon moving, hunched, through the undergrowth. I found out later that the Incidents in Portland were carried out by a tiny, well-trained group—only six people in total. Of them, four were caught, tried, and executed for terrorism.</p>
+   <p>I found the old homestead at last, long after it got dark, when I was using the moon to navigate and piling up branches as markers so I could be sure I wasn’t just turning in circles. I smelled smoke and followed it. I came out into the long alley, where Grandpa Jones and Caitlyn and Carr used to set up shop in their patched-up tents and makeshift houses, where the old trailers stood. It seemed like a lifetime ago I’d lain in bed with Lena and felt her breath tickling my chin and held her while she slept, felt her heart beating through her skin to mine.</p>
+   <p>It <emphasis>was</emphasis> a lifetime ago. Everything was different.</p>
+   <p>The homestead had been destroyed.</p>
+   <p>There’d been a fire. That much was obvious. The trees in the surrounding area were bare stumpy fingers, pointing blackly to the sky, as if accusing it of something. It looked like there’d been bombs, too, from the covering of metal and plastic and broken glass vomited across the grass. Only a few trailers were still intact. Their walls were black with smoke; whole walls had collapsed, so charred interiors were visible—lumpy forms that might have been beds, tables.</p>
+   <p>My old house, where I’d lain with Lena and listened to her breathe and willed the darkness to stay dark forever so we could be there, together, always — that was gone completely. Poof. Just some sheet metal and the concrete rubble of the foundation.</p>
+   <p>Maybe I should have known. Maybe I should have taken it as a sign.</p>
+   <p>But I didn’t.</p>
+   <p>“Don’t move.”</p>
+   <p>There was a gun against my back before I knew it. I was strong again, but my reflexes were weak. I hadn’t even heard the guy coming.</p>
+   <p>“I’m a friend,” I said.</p>
+   <p>“Prove it.”</p>
+   <p>I pivoted slowly, hands up. A guy was standing there, crazy skinny and crazy tall, like a human grasshopper, with the squinty look of someone who needs glasses but can’t get them in the Wilds. His lips were chapped, and he kept licking them. His eyes flicked to the fake procedural scar on my neck.</p>
+   <p>“Look,” I said, and drew up my sleeve, where they’d tattooed my intake number at the Crypts.</p>
+   <p>He relaxed then, and lowered the gun. “Sorry,” he said. “I thought the others would be back by now. I was worried….” Then his eyes lit up, as if he had just registered what he said. “It worked,” he said. “It worked. The bombs…?”</p>
+   <p>“Went off,” I said.</p>
+   <p>“How many got out?”</p>
+   <p>I shook my head.</p>
+   <p>He licked his lips again. “I’m Rogers,” he said. “Come on. Sit. I got a fire going.”</p>
+   <p>He told me about what had happened while I’d been inside: a big sweep on the homesteads, extending from Portland all the way down to Boston and into New Hampshire. There’d been planes, bombs, the works, a big show of military might for the people in Zombieland who’d started to believe that the invalids were real, and out there, and growing.</p>
+   <p>“What happened to the homesteaders?” I asked. I was thinking of Lena. Of course. I was always thinking of Lena.</p>
+   <p>“Did they get out?”</p>
+   <p>“Not everyone.” Rogers was twitchy. Always moving, standing up and sitting down, tapping his foot. “A lot of them did, though. At least, that’s what I heard. They went south, started doing work for the R down there.”</p>
+   <p>We talked for hours, Rogers and me. Eventually, others came: prisoners who’d made it across the border into the Wilds, and two of the freedom fighters who’d launched the operation. As the darkness drew tighter they materialized through the trees, drawn to the campfire, appearing suddenly from the shadows, white-faced, as if stepping into this world from another. And there were, in a way.</p>
+   <p>Kyle, constant-wedgie-boy, never made it back. And then I felt bad, really bad.</p>
+   <p>I never even thanked him.</p>
+   <empty-line/>
+   <p>We had to move. There would be retribution for what we’d done. There would be air strikes, or attacks from the ground. Rogers told me the Wilds weren’t safe anymore, not like they used to be.</p>
+   <p>We agreed to catch a few hours of sleep and then take off. I suggested south. That’s where everyone had gone—that’s where Lena, if she had survived, would be. I had no idea where. But I would find her.</p>
+   <p>We were a small, sad group: a bunch of skinny, dirty convicts, a handful of trained fighters, a woman who’d been on the mental ward and wandered off soon after she joined us. We lost two people, actually. One guy, Greg, had been on Ward Six since he was fifteen years old and had been caught by the police distributing dangerous materials: poster for a free underground concert. He must have been forty by then, skinny as a rail and insect-eyed, with hair growing all the way down his back.</p>
+   <p>He wanted to know when the guards would come by to bring us food and water. He wanted to know when we were allowed to bathe, and when we could sleep, and when the lights would come on. In the morning, when I woke up, he was already gone. He must have gone back to the Crypts. He’d gotten used to it there.</p>
+   <p>Rogers shook us all awake before dawn. We’d made camp in one of the remaining trailers. It was decently sheltered from the wind, even though it was missing one of its walls. For a moment, waking up with a layer of frost crusting the blanket and my clothes, with the smell of the campfire stinging the back of my throat and the birds just starting to sing—I thought I was dreaming.</p>
+   <p>I’d thought I would never see the sky again. Anything, anything is possible, if you can just see the sky.</p>
+   <empty-line/>
+   <p>The attack came sooner than we were expecting.</p>
+   <p>It was just after noon when we heard them. I knew right away they were untrained—they were making way too much noise.</p>
+   <p>“You”—Rogers pointed at me—“up there.” He jerked his head toward a small embankment; at the top were the ruins of a house. “Everyone, split. Spread out. Just let ‘em pass.” But he shoved a gun in my hand, one of the few we had.</p>
+   <p>It had been a long time since I’d held a gun. I hoped I’d remember how to shoot.</p>
+   <p>The leaves crunched under my shoes as I jogged up the hill. It was a clear day, cold, and my breath burned in my lungs. The old house had the rotten smell of an unwashed sock. I pushed open the door and crouched in the dark, leaving the door cracked open an inch so I could keep watch.</p>
+   <p>“What the hell are you doing?”</p>
+   <p>The voice made me spin around and nearly topple over. The man was filthy. His hair was long, wild, and reached below his shoulders.</p>
+   <p>“It’s all right,” I started to say, trying to calm him down. But he cut me off.</p>
+   <p>“Get out.” He grabbed my shirt. His fingernails were long and sharp, and he stunk. “Get out. Do you hear me? This is my place. Get out.”</p>
+   <p>He was getting louder and louder. And the zombies were close—would be on top of us any second.</p>
+   <p>“You don’t understand,” I tried again. “You’re in danger. We all are.”</p>
+   <p>But now he was wailing. All his words ran together into a single not. “Getoutgetoutgetout.”</p>
+   <p>I shoved him down and tried to get a hand over his mouth, but it was too late. There were voices from outside, the <emphasis>crackle-crackle</emphasis> of feet through the dry leaves. While my attention was distracted, he bit down on my hand, hard.</p>
+   <p>“Getoutgetoutgetout!” He started up his screaming as soon as I drew my hand back. “Getoutgetoutget—“</p>
+   <p>He was cut silent only by the first volley of bullets.</p>
+   <p>I’d rolled off him just in time. I threw myself flat on the ground and covered my head. Soft wood and plaster rained down on me as they emptied twenty rounds into the walls. Then there were other shots, this time farther off.</p>
+   <p>Our group had broken cover.</p>
+   <p>The door squeaked open. A band of sunlight grew around me. I stayed still, on my stomach, hardly breathing, listening.</p>
+   <p>“This one’s dead.” The floorboards creaked; something skittered in the corner.</p>
+   <p>“How about the other one?”</p>
+   <p>“He’s not moving.”</p>
+   <p>Holding my breath, willing my muscles not to move, not to twitch even. If my heart was still beating, I couldn’t feel it. Time was slowing down, stretching into long, syrupy seconds.</p>
+   <p>I’d killed only once in my life, when I was ten years old, just before I moved to Portland. Old Man Hicks, we called him. Sixty years old, the oldest person I knew in the Wilds by far, crippled by arthritis, bedridden, cataracts, full-body pain, day in and day out. He begged us to do it.</p>
+   <p><emphasis>When the horse ain’t no good, you’re doing the horse a favor. Put me down, </emphasis>he used to say. <emphasis>For the love of God, put me down. </emphasis></p>
+   <p>They made me do it. So I would know that I could. So I would know I was ready.</p>
+   <p>“Yup.” The man stopped above me. Toed me with one of his boots, right between the ribs. Then squatted. I felt his fingers on my collar, searching for my neck, for my pulse.</p>
+   <p>“Looks pretty dead to me, alr—“</p>
+   <p>I rolled over, hooked an arm around his neck, and pulled him down on top of me as the second guy brought his gun up and let two bullets loose. He had good aim. The guy I was using like a shield got hit twice in the chest. For a split second, the shooter hesitated, realizing what he’d done, realizing he’d just emptied a round into his partner’s chest, and in that second I rolled the body off me, aimed, and pulled the trigger. It didn’t take more than a single shot.</p>
+   <p><emphasis>Like riding a bike, </emphasis>I thought, and had a sudden image of Lena on her bike, skidding down onto the beach, legs out, laughing, while her tires shuddered on the sand. I stood up and searched the men for guns, IDs, money.</p>
+   <p>People do terrible things, sometimes, for the best reasons.</p>
+   <empty-line/>
+   <p>“What’s the worst thing you’ve ever done?”</p>
+   <p>We were lying on the blanket in the backyard of 37 Brooks, like we always did that summer. Lena was on her side, cheek resting on her hand, hair loose. Beautiful.</p>
+   <p>“The worst thing I’ve ever done…” I pretended to think about it. Then I grabbed her by the waist and rolled her on top of me as she shrieked and begged me to stop tickling. “It’s what I’m thinking of doing right now.”</p>
+   <p>She laughed and pushed herself off me. “I’m serious,”</p>
+   <p>she said. She kept one hand on my chest. She was wearing a tank top, and I could see one of her bra straps—pale seashell-colored pink. I reached out and ran a finger along her collarbones, my favorite place: like the silhouette of tiny wings.</p>
+   <p>“You have to answer,” she said. And I almost did. I almost told her then. I wanted her to tell me it was okay, that she still loved me, that she would never leave. But then she leaned down and kissed me and her hair tickled my chest, and when she drew back her eyes were bright and honey-colored. “I want to know all your deep, dark secrets.”</p>
+   <p>“All of them? You sure?”</p>
+   <p>“Mm-hmm.”</p>
+   <p>“You were in my dream last night.”</p>
+   <p>Her eyes were smiling. “Good dream?”</p>
+   <p>“Come here,” I said. “I’ll show you.” I rolled her down onto the blanket and moved on top of her.</p>
+   <p>“You’re cheating,” she said, but she laughed. Her hair was fanned out across the blanket. “You didn’t answer my question.”</p>
+   <p>“I don’t have to,” I said, and kissed her. “I’m an angel.”</p>
+   <empty-line/>
+   <p>I’m a liar.</p>
+   <p>I was lying even then. She deserved an angel, and I wanted to be hers.</p>
+   <p>When I was in the Crypts, I’d often sat awake and made a list of things she should know, things I would tell her if I ever found her again—like about killing Old Man Hicks when I was ten, how I was shaking so hard Flick had to hold my wrists steady. All the information I passed on when I was in Portland, coded messages and signals—information used I-don’t-know-how for I-don’t-know-what.</p>
+   <p>Lies I told and had to tell. Times I said I wasn’t scared and I was.</p>
+   <p>And now, these last sins: two regulators, dead.</p>
+   <p>And one more for the road.</p>
+   <p>Because when the fight was over, and I came down from the house to take stock of the damage, I saw someone familiar: Roman, the guard from the Crypts, lying in the leaves with a handle sticking out of his chest, his shirt clotted with blood. But alive. His breath was a liquid gargle in his throat.</p>
+   <p>“Help me,” he said, choking on the words. His eyes were rolling up to the sky, wild, like a horse’s. And I remembered Old Man Hicks saying, <emphasis>When the horse ain’t no good, you’re doing the horse a favor. </emphasis></p>
+   <p>So I did. Help him. He was dying anyway, slowly. I put a bullet through his head, so it would go quick.</p>
+   <p><emphasis>I’m sorry, Lena. </emphasis></p>
+   <empty-line/>
+   <p>We lost three of our group in the fight that day, but the rest of us moved on. We went slowly, zigzagging. Any time we heard rumors of a populated homestead, we scouted for it.</p>
+   <p>Rogers liked the company, the information, the opportunity to communicate with other freedom fighters, restock our weapons, trade for better provisions. I only cared about one thing. Each time we got close to a camp, I got my hopes up all over again. Maybe this one… maybe this time… maybe she’d be there. But the farther we got from Portland, the more I worried. I had no way of finding Lena. No way of knowing whether she was alive, even.</p>
+   <p>By the time we made it to Connecticut, spring was coming. The woods were shaking off the freeze. The ice on the rivers opened up. There were plants poking up everywhere. We had good luck. The weather held, we got lucky with a few rabbits and geese. There was food enough.</p>
+   <p>Finally, I got a break. We were camping for a few days in the old husk of a shopping center, all blown-out windows and low cement buildings with faded signs for HARDWARE and DELI SANDWICHES and PRINCESS NAILS, a place that kind of reminded me of the gallery, and we came across a trader who was going in the opposite direction, heading north to Canada. He camped with us for the night, and in the evening he unrolled a thick mohair blanket and spread out all his wares, whatever he had for sale: coffee, tobacco and rolling papers, tweezers, antibiotics, sewing needles and pins, a few pairs of glasses.</p>
+   <p>(Even though none of the glasses in the trader’s collection were the right fit, Rogers traded a knife for a pair anyway. They were better than nothing.)</p>
+   <p>Then I saw it: buried in a tangle of miscellaneous jewelry, crap no one would use except for scrap metal, was a small turquoise ring on a silver chain. I recognized it immediately. I’d seen her wear it a hundred times. I’d removed it so I could kiss her neck, her collarbones. I’d helped her fasten the little clasp, and she’d laughed because my fingers were so clumsy.</p>
+   <p>I reached for it slowly, like it was alive—like it might leap away from my fingers.</p>
+   <p>“Where did you get this?” I asked him, trying to keep my voice steady. The turquoise felt warm in my hand, as if it still carried a little bit of her heat in the stone.</p>
+   <p>“Pretty, isn’t it?” He was good at what he did: fast talker, a guy who knew how to survive. “Sterling and turquoise. Probably sell for a decent amount on the other side. Forty, fifty bucks if you need some quick cash. What are you giving for it?”</p>
+   <p>“I’m not buying,” I said, though I wanted to. “I just want to know where you got it.”</p>
+   <p>“I didn’t steal it,” he said.</p>
+   <p>“Where?” I said again.</p>
+   <p>“A girl gave it to me,” he said, and I stopped breathing.</p>
+   <p>“What did she look like?” Big eyes, like maple syrup. Soft brown hair. Perfect.</p>
+   <p>“Black hair,” he said. No. Wrong. “Probably early twenties. Had a funny name—Bird. No, Raven. She was from up this way, actually. Came south last year with a whole crew.” He lowered his voice and winked. “Traded the necklace and a good knife, just for a Test. You know what I mean.”</p>
+   <p>But I’d stopped listening. I didn’t care about the girl, Raven, or whatever her name was—I knew she might have taken it off Lena. I knew this might mean that Lena was dead. But it could mean that she had made it, joined up with a group of homesteaders, made it south. Maybe Lena had traded with the girl, Raven, for something she needed.</p>
+   <p>It was my only hope.</p>
+   <p>“Where was she?” I stood up. It was dark already, but I couldn’t wait. It was my first—my only—clue about where Lena might be.</p>
+   <p>“Big warehouse just outside of White Plains,” he said.</p>
+   <p>“There was a whole big group of ’em. Two or three dozen.”</p>
+   <p>He frowned. “You sure you don’t want to buy it?”</p>
+   <p>I was still holding on to the necklace. “I’m sure,” I said. I put it down carefully; I didn’t want to leave it behind, but I had nothing but the gun Rogers had given me and a knife I’d taken off one of the regulators, plus a few IDs. Nothing I could trade.</p>
+   <p>Rogers figured we’d made it ten miles west to Bristol, Connecticut; that meant, roughly figuring, New York City was another one hundred miles and White Plains thirty less than that. I could do thirty miles a day if the terrain was good and I didn’t make camp for more than a few hours each night.</p>
+   <p>I had to try. I had no idea whether Raven was on the move and whether Lena, if she was with them, would soon be moving too. I’d been asking, praying, for a way to find her, for a sign that she was still alive—and a sign had come.</p>
+   <p>That’s the thing about faith. It works.</p>
+   <empty-line/>
+   <p>Rogers gave me a pack with a flashlight, a tarp for bedding down, and as much food as he could spare, even though he said it was craziness starting out right away, in the dark, all alone. And he was right. It was craziness. <emphasis>Amor deliria nervosa. </emphasis>The deadliest of all the deadly things.</p>
+   <p>Sometimes I think maybe they were right all along, the people on the other side in Zombieland. Maybe it would be better if we didn’t love. If we didn’t lose, either. If we didn’t get our hearts stomped on, shattered; if we didn’t have to patch and repatch until we’re like Frankenstein monsters, all sewn together and bound up by who knows what.</p>
+   <p>If we could just float along, like snow.</p>
+   <p>That’s what Zombieland is: frozen, calm, quiet. It’s the world after a blizzard, the peacefulness that comes with it, the muffled silence and the sense that nothing in the world is moving. It’s beautiful, in its own way.</p>
+   <p>Maybe we’d be better off.</p>
+   <p>But how could anyone who’s ever seen a summer—big explosions of green and skies lit up electric with splashy sunsets, a riot of flowers and wind that smells like honey—pick the snow?</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRof
+Hh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwh
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgAR
+CAFAAOIDAREAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAABQACAwQGAQf/xAAZAQADAQEB
+AAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAdjwXHyULjOL1Zr55XWxtEGTt8iodsy2
+7WZT6XQzjiKTLCL0K/tpRkiarjoCSbbH53oOHfIelnR3n0DztNJ5tiLi76WMClaKpBfp1Jc1
+kiUGadvfUqkxeu+NZXCdHvXRxMhC4wLmiIBc2C20obHWpUbPz71Gaq65R5N+staA5rmpe0oo
+FWFdp1xVsXStDd2Okv2MhSAg7TrQW6YCinrfGJCH1Gghnucs4TDSIE19XWBUaATwrQ7IhmZi
+doF9GjW0l0aE9Mgp6OCgdTY6QJiR1rqHMlhGJRvKC6vR3ccvnK39CHDpEYnaZsZpaSI6OjiT
+g6lynbiXopNsZxtAgsTEbqNvokEynV+dzXtd9XG9BmfTIaqbBh9YA7ZyRnVpC+jo6kUk4oHX
+pGCZwaBAgQGebkH7dFbS+gkXccvS/H5/OfW3OYbWkZXsROK0PM6uijrMdGOf7N2055U8xCOt
+d8GgQIECBBq8DO7lcfBdpWsY0Hn80FvRY6x76TRppcL849GNvg7tqFR5p1ukM1kq7kZrVS2k
+IECBAgQe1+NrQ9DLyfqTE7WWe68vO3OmN7jYZ59zohl0jtzJ9UaLJ6OKo6TmanWcF1Ap7rB9
+yp7CQgQIECBB7N4e4jrjzX0IRBvkz1vl54709g3fR3hxGb6zTdHUZQXxenxA5KbNZVnehD9S
+tSgYgQIECBAg23DWY6ofKOc9bYd/jXnXRnme8u5ZDd+gtyc7dGJ6OhMmksyVqOAmRAk+1LU0
+CBAgQIJRbDgNHy0Uy0hpEKAqnzf0pq6RbzjR8HOD7NQnX08YgQIEHWJKzMW8IF9O3BoECBAg
+02ZNmFs6sc7Ddc+icFA4YnMuQx2+IbsjP9tx00ziECBM6F7AM8cAe5Vr04xAgQIEHomNNSwm
+83sjaYVFLj4Wf5KC+gZXtBPTlG0mXIKrbhNZfyVWje+NsV5dMB7fMF63wECBAgQTBpOawm9R
+mfpfE/Mu6dNiiPKgu9XeegfdhXd1Ke8lYam0VnOdTw1RdH+PQjqYD08g2z4CBAgQIC8lEfHR
+aKF3nBckMipTLc7G6q3Oe487SzsyW6z+xk5ihU2Ideq9OwqDdeX6OJnAQIECBBak3zMwwKOM
+U6COb2/I/OO+ZhbfzrM8tZ7pjUDym8jdKzXRJWEQDZow0ZA9tK7rgIECBAgtyttm8XbrWttk
+aqjO5GfGJ3RBr0byqKdjD4SRxvLtYz05HM0eUzUwrUkxQvSGnwECBAgQazNehct4zZDND0jh
+dVmM2kt0LHWxLWhwfofDXl/oLf8AmvG95FSpXOh51NdFZWT1gHekdHEIECBAgtINZMVousLw
+z/M2OA3WZhtASze55X571yfzLUznNm1m34Q9jdvrXknVItjkdBjaB6EDKHM5K425FqWaYeU4
+oJ0UaI29jzsdrJjEHCz3Q3o1/HJydINl510FRq+lMgXTv5UX53ne2YrH5xMKrWvRbvJnsw0H
+n+xkqSFqeZZHrqSTR4lG0JsSNfhnDd5jVwU5M5NSoUhluZXPAN6DjCvLz0NtIq0cz1XnZfCh
+HTPl2qalreaBNAbo0lQZlhqU7VZBfPOhVOkhZMloUVgDsqXTKbW0G88SgfYAe+LUvR5hjF5v
+dZ+1oc0U5x6eY63TstA6WVyxEVSsvSEAByHKJ0moFpQtj6K92xvX+ZtV1jN98IE0agLIuQ86
+za5D+esd1p1XVauY87W4km61VhcJnGUY6U1hN0GCRvPUVqpNoSDg+h6MjYZOhzMJqsnsUWHU
+UnoPcHOeXGI/Rdq3DYLpUMyURI1WSgqnDA0QVXG0CBAgPpem5ODOsfaA6TKzdc14zXSjpjoW
+FPOjPdGYPe+lQhwJok+zsoEFe6a3HTa2gQIECCRSSG1N4UKUIHs7qmmpnn03JAiHkO1h96ei
+s3wJZkpM3hgG6910OAgeiaFXt8YgQOBAgQPT0Kqiixlnrsc8P1XPRQbrMjDg+pPE5ONjW0CB
+Bq/PjU8dedeuUNWgQIECDoXg9EkCT0LLImoyHQaRLONj6KQIECBAgQIECA/x5MeojpTKOD4C
+BAg6jfo1MvJLfNVnoVnrEWECwwegEo4CBAgQIECBB0OtcTMxVJqlSQIEHQIo0qAq1qOPQc5P
+J0W8ZU5SyNnAQIECBAgQIJp0irPiCkzOppVpZTbJRvNo+MQ51ZWQzEUWDtEKY1HQ42xtAgQI
+ECBAd5KCdctC4ghnPG6bq/BavKlDQuMereESixbrQoweDmoqdCqip8GgQkHBoCfPlBrUI7Rd
+nNQvJhWgwqxcct0GWqXVSFG5mHEitKuMjbSQaSJnQQcBjde6ip7HhqfojNTBW6t883ulg8Y1
+ulhYkg6GxFnWoM65YLnO/VslXmMAVK0+tU4mqy5dV8ps26o80wbpW58zQn0549ZmtnZhFKrM
+cuWn6dYBdaQwcIlbpKxGWWw6LyvLltezYVjOeznT61XaHZzo9bEZSQ1cKrHShXRW787R/TnS
+JmanZeig+cHt7DTJW6A5Td0oZCO63k8stbvec54PbXFKGyFaKbB2cntbEZRotKqp5dIHvej5
+GaxINIB7S5luBrUF1HE2HfWiKYZlW6fnnYquAySdjmQhRBwEA6kgqDZbG25lWg5aDb50tBMd
+KPzAO9IxIfQehrI2yWOTqYzS0hB0OMa2kOEkdDjGttH/AP/EACkQAAICAQQBBAMAAwEBAAAA
+AAIDAQQABRESExQQICEiFTAxMjM0JDX/2gAIAQEAAQUCgAnJUGStS48RFhadutK1Mk0qsnXr
++MxsfWRiDs14OwQQa7IdtdFUpuWUyy10MnA08iEKS9jo1VC6quYsUShzK8yPQU5Fc5gqxjgV
+SE+KoG1MS7KOrMfaAu8JKGyJiFixHF1D5lO/lQ1Z3RIYlo8QsDvdazg5oxFOx8XCHhqSthvV
+nc7BOOZW866pmuc2Y56hZ/8ApSAflHPkXM2tVbFiJJtgz9RKQIda2SAhC5Xyxv2FLOOF8gYE
+nCvHxK9vj2TLz3Zjjkq0sbkyyXvsyqwN41mTOU+cRxNkpx1xj48091WWAxj5M4fwrEWT7N80
+++SGs1PyB8hIJUyO48cpljJ0s5UrTnAfVMl1ZI8slcBkmmu+w6SLnOc855zznkHk7+OtRMxz
+eZTPv3wSxFuVQu+mIo2Jt4OMXBhvtn1y1KVKsXo8OH+VDKHASQPX6REzJDx9FPNWHYYzJn2i
+oikhkZ9RnfF1ClGmuRViTDsi22Ii41BaW+bDW2Ca2ap7ABVLNjvKWM2X6VphGFXMsIePpv7p
+KBJpcj9a0QTtwGvZ+zqvYkL13sX3zEVEXFlElZx1B9OnpxhZF+4TPoAYPxJsmZ/Rc0hqAYs1
++xUFy3bIwn7pp8wLSOzF6IqM4ioNQk0aiq2q2iqCuoqaiy6CosLSxucNqS6TWQ8YE/0Txg9Q
+oLsjPxOJDmVWsG1g0iLrX2oWhmvN0F24tTAXrajC8ad9OprGsI8F2bihwbVexZhAxKnwtkva
+tT53Z+grILbb1SF15+Z4fGnK7GFUOItyYzlcpWDmTJruNAOU75Qs9D69mLYMIHAAClAWbEIv
+PPsVaNcMPmf6H6oWNbLsXVYcfjXSFOomsBRvF9MyUfU5bHD+yivyiwmA9QOQILLAmTKcgiGT
+YTJ/V/cqLEUpoju7iK4alHpdRHBySk4SeLrziggBuF+lQ7k8RiPezRrSx4W5r6fqL+TdTgLi
+4dfv/wAi47eEo7CKnEQQQvHWhDCKSn3orE3Jq8Abvy9860Hk6oRFS5TGPYto6JEqps1RVnBj
+7IEQG9qsKw7bHYW/L0Ug3FMbSIcsmNp8QurrnNNAYB4hIW1xH6Np3rEptJyJUSwOcRcrtqTP
+FtdjtTsd4S6wU3TUpaM47mVVohEfMr8DSDEhwZmJEOwoJfXIxzqxvN/6JvFsc++ws6tqJ+5H
+JZUueMJlEziLMpV99huCKpecmmZizNd1oB0yvtJgTtZq9yopMBZNnczNE9576cmRRqloK6yn
+lPvJhGWk0kdGpUhqN5Z/chRzFEFFZehTYeALdXRLpqHVXjWEtVbU2lKOfW6sYPfcLJn73zlp
+6PS733dSVTyw0bhMGBKff0lxpLdU0wpkpiJmdJ0yZJ9NZ14qTVTLGsJ6yWzT7002hcVJTtst
+NYiKIEr18Byx2lkfMvX2adX1Bi6YqdZaCWbkJCXv0dk+VPAh1eUBmjIllrf4JjDx6rNaNLqb
+ZqTofezTFeQ9x8UjceqRsca0B327knI1yGC8blQp0LXQ2gQpa86uEUnPvSfU12pEdi1ZOy2r
+YKu7UdQ72ovV8TIWT1HUicfpSs+M+zEWakxirDbOAPiLa4mSpEtHTGB4yqwrNoQ1V1Ipfm2T
+HrASWEEj7gQbFadp67i3UTrUzrMBgJVwYIxg7xle4M6dpS+63/56dp9znBRxlTjQytZhk1bK
+mrvalNY3thpRiVwbbSIQ+crJ7JJIrhhciwY3khgfXQlx01BhLv7mtikWdhcFhLDsqVW07Aaa
+8E2urvuQUbYPyVcZ2X0cTOS9BymMzad9mlGJdKpdZlnrA8YKd/T+5pivH06JHs1S341Qikyi
+N8r0yRWtt7smNpWsmTXMK0T9jE+ICUwTrBYIlOEshzhgDlCODEpBrjHJj2ePBxYpwuZ/qG9L
+S1phOZrSYXevLtIysdYYsrSQeJzy1UdWIDJc9k86nHuTtZdYT1mlcsOXyGVH9np0IdiYGbQi
+tRcALHVyVMhkx6K1EdrlwGD61KJ2hPRGAiND5kXXUdXZSt1rB1wRbudql6cba9hI12VEixVe
+ZTasmozT/o9AGSz4QinO1mflHTNZVh0vMwiphe/QXc1zsItcW1utVY3sVTtSTLLA0YogbRoq
+pk+0tTTyZHfArWUrNKmT4ZmUVBnyFxLHS5tH4dsvxisiYk8JhlyGrKffptnxbKrKngHQZWNQ
+EE7V/FrXfHGg/uVqHGCT2OGvoLDyasIG6GxnuEj9h5ZywCyrBEF4CVZMs55yzf38pxN1qUVn
+9RvmFNJhGOaY6EvsTBFoMBC2WCGLRh41wzJczyxmwl6DOJeSiZYXZE/bAyUyk4j3b+kRuTtO
+lWWkiudOU5jbVYwTaf2kMObSavqmdo9kFnL3adWgsbUXC7QcG++ovtt0v+3V19NnRnQuLtxI
+rr1e82lYapNBrrTkGk/1LudUHqTCwik590ZotQeIVxC1q71tNVsq8IYsoqCoqrewQk2dlu6x
+2T+2sCuhgx7kWm18PXSDLdzzCRVZZKpS8eqPEQZZVXizc6bMzvP6pCY9axDwAQJXUMqp1vJO
+1V8dnHOOcc44pZGytYGrC9UEajdRPps3W2VzuWbZxzb9L4iB9EEAtt2QbkpEUoMktZAmyKY9
+0pPktHN81zEwUYkxDZbCSxlbgHjM3hREXQeTXPbx2ThDm3vPlOSGccrgMuauNy5lnDDFAI7l
+FYEviGbWwsCEC4SjyFdpPGQ8hcF3xugxXMOVzhy+BuGUyGdedededeSvJHb0kF8r9ZFeOOUK
+0OsvVCTWtU6eEwBgFdpLBJNivHlMhK3Cunzt1oSaBrlhyJYisPSLVcjrqXl5Ka8r2g7AIqxq
+KhDKvCAJKCpIGoZ+OgqaKyLmNDiWB/t1TbnMfIIYNK6PMBgI0lXzNX62kJCZqN7rpxXnUEf9
+qSGWAslOy2jbTMSAlQ1bbtH/AD1KYlfLv0uZ41Y6vxTYVFFEj+LiPCrt+fR/+ercu5FMnL1D
+jDacd1St96njuE6pCdmnY6LIJlepWt4tpUQrfLPIAgfT5b4FvyqArMpbY4L1WZ74rEVfVN9t
+PbHe047vn8KkSaZxxpUHCxVhRqPK1lkzydMTYaItsm2QtuCAuEZOeTCG04AKwTMi9YiIuPIp
+ss6SuNIe4oxUS2XKbVnzHYFg1z5r5zzrGxXHFHZgt2nzrG0XrEZN1+d08m2WsjFM4HF4eDn8
+55ZyyDmJGQZVI955ZznOc5LJLI3KZxByI2O6c5ZyzlnLOWb5vnLOc5zzlm/p/8QAIREAAgIB
+BAMBAQAAAAAAAAAAAAEQEQISICEwAzFAQRP/2gAIAQMBAT8BhqGKWIyGZTUrfh7LMoUMY9lj
+MvY4ZXJRRQuhOUyxuWIYmWZDGXF7bL2rdShxRpKGiiihlCGiiiiiiutlihFFFQ4xy57dZezI
+swYouWNmowx5mzULoVmK2eT1GAmZZCc0PE08iUWPkWPTorbkZIxsWQnYsYc6ZooXSxqcmahJ
+M0jR4vcOF8FDizJWLxsxUakYIsubmxl9WobhYlFD9jFhyekZZmGXx0UKWMeQ8rMsTx49OTE+
+u54NFj8R/M0CW+ijLBmK6HD2Lks1Goe1zqMEZeiunFDwKhiHkxOzNUjUJ7GazUjgTHl1JjzF
+6HGmLHyULEqWfzNBXwocpFmrey2K/iuKh7XlRqFl1OaHsqL3tI0orufRblfYxMuXsWzJmLvo
+Ze57WKFFzzkYqi9jlilDmpuFN7F4x47LLmioaMeBsZc3vudRk+hTiuTNVvqFC7kyxCdDyuMh
+MubGIZZZfSocoa4llFRRUIYkUV3Ib4GzVC2uK+BFlWZI0ld1ldTPH6MvgxQh9CGeP0ZfBU1v
+QzB8GXwPEqGIsQyyyyxMyZY2WWWWX0/0LiioQxooqEZfBUWJmTNRqNRZZZYmZMTLLLLLLNRq
+LLLLLhocIZxsQxQ1CRwUVLFRxDFLMtr9mIzE/RC9jj8E4yEOfyPwU2ZFDFFCLEoSK5HNQxIY
+ho/Cj8FKHjDixObiy4ZjsuKGXuQ4ooorkoooooqMzEooooqKKKKKn//EACURAAICAgIBBQEB
+AQEAAAAAAAABAhEDEhAhMQQTIDBBIjJRQv/aAAgBAgEBPwGM1NGR0yHcrZB/ySImxkYrsxsm
++PwbYmdibN3ZbriuK5ySpFNswKkUZPT6R/kcJWQxuzEZfJDwRHRqiqJDL6O+EUNOxXXxbLJL
+YhiR4LH2uyfptnaNXBmxOdkJki2IaGSH0bsnlZDKxSP02LLL4YoiiI8lcygmPE7J4JEMbHdi
+iU0zJLoXgXY/I5pE4ufgxQryJI1NTU1NSivjfwRI/CrLouyrJ5KdGLslKma7MrRCy2yE/guH
+89i+aJ1Q8tOjufZeoslnt7MknFF2RyUSkpIjqQj3yxP6UpEV8M16jT2MXUTK02Yod2a/pKcP
+DHFRdoU4yZkVeCAuGzyJfTDMmKS5RllE/mz3OuiyOXVD9RJ9Iad2zElKFE8WoiLqRElNIU+z
+3ERd/TBUY5C4yT1RPK2xJtkMH/ScKNGQlTJQcu0enTj5M+R2bmtmSL1JbChIUWY/H0qMvJhj
+JsSo2PUeDapdnp0mdUZO2Y4qh4Yt2UuMkFIeKiKcWOVjhbMWOvI4IS+nH6cUdSedLofq0j3F
+JGSKbPTvUu0adnhGXLTMU74oaNEaIoQ+LX0J0Z8jY1JmSHXRjjOrKbFcWYsioeSJLKTuTMEf
+lRrxkZBtv6NkaxsyxSXQsLn2hpRhR/lm2xLI14Pff6Rk5GPE2RjXyssyZlEWbZkEq+j20Jdm
+lohFwZllGUqJ4erGmO7MPpd+2LBCBHxzfD49zseRHqJ9kJuz08m19FErUrIyZJ9UPC9rF2qH
+jj4J+l7tEWscRzlKRCVIWRDfCGOVE7st0ShszH6Ux49fohOyXfEkRXXfDjbsslitixpInVHu
+6sj6j8NxMchRHiseJHtdkVX01ykPrjI3RibT4k+jLKRjx7y7JYYx8EfNnvJ9IhC+IslIaFaE
+/osc+xMuicxPol2z267IIY9nMUYJGSLsyz1VHpsTfZHobIvsatm6RsJ/Q0TMNmbpEZWPLRGd
+8J0eSdJCjKUjToyw2mQ/mJDsl4Nv6N0eZCiJJD+bPbsjGh9+T24oyYLMcGhczjaI9SLHFXY+
+yCoZm6INshREfxchcP4WWOi+Fx7f9WMbIxEMyKyOOhQIqhsvnLLVEZNkeGxczLZbEihypEJ7
+S4ZOJGIxjViXMiIxE4bEMVC4U7FzknRHJZFIQyb26MWNRGWPsiS415sZHhMT+Hv0YfUbFlE8
+diw0RVcTI3ZvTISskR6GTlRGXDZ+H78k+ZekMODUSPBsWWbHklGj27MaolLoj2ic9WVsrEmu
+GfhR4E+Fyvok6FLZinQ1siMUiU0hLYf/AAlhbdi6E/hZJ2QRZsWWL6JKycNezHHnKmYvB+ku
+kSk9iHZRRRQ0RGJGpr9NDViVCXGSJBUZcmpPO2Y/6ZjXxfFC+LdHuR+qTImZIjjRjxpcofwr
+5eoyEMjsxO0V9WXsxossv7JYdiPpEhKi/ovirKHyvrRfD+dFFFjkXYhL7FPmQiyeTVEJ7DNi
++WaijzZsX9OMXEvBFcSimiNIk7KOzsp8dnZ2dnZXFll8X8I0bGxKRGRsNi2uy6PdQpo3RujZ
+GyN0bo3Rujc2LNjY2NjYT4hPskxSF2TtMjVWbETyxQVjiJIkiPgso6NSSoidIZGhpUIrogX3
+xDyT8CPCJ+DG/wCRvsxeOI+RvsXZ+UJdH6V0J9kfBlMfkysj3Es/88R8CL74j5JrogMfaIuj
+WyCoT7I+SceyCofkXgrs/DTsiyashGjIrIeBor+Shf5ImvfEoajyMhJ8tCviuyyy3wkNULsf
+FlliQ0XxZHrmcbHjIY6NTU1K7EjU1NTUriZA1NTU1NSijU1NTUrj/8QANRAAAQMDAgQFAwMD
+BAMAAAAAAQACEQMSITFBEBMiUSAwMkJhBCNxM1KRYnKBFEOhsYKSwf/aAAgBAQAGPwLAWRhE
+AaKSwcyMIBzIITgQDC5ZZadiFUa71aBeiAmPFO6HaJj2U7TuE4BuVTj6ch4KF7IjMI9EBGGE
+q98hq9H/ALIF1OZTOQ3J2UBuO6a2mzpGru6MNmNVIYYWaZEoF7YHDp4WOGCjgiFDBvlDXGER
+oCnnUpvTiU74GE+Q912qo66qkM6Jw1X0/qw5U4mSmNJJkp9MOVWnnAThebZVtYBzVSrUhEvh
+AOJslUxnXChuCRlVAM//ABMfJuCwZA8AI1TG2dW6D6YEKUHbtwVgaoxgrmDGVECd19P07Shj
+I0UkCU0QMoZEhXYLxui8AX7lOe1rZKJ7q2o1rxsChb0hugChxQJyRoU6o2HP3cVeRB+N09/7
+seMcx55fZO5JsDc/lNqXg36oQDad0AJITWaDuoOXzqE01n4bhsKTwp2vBEqYlOF8F+cou8bC
+3T3KdGDVxUD0t08qPU3sV6aicS2GjThbKDRlEJr3tMA4hGrTx2ThVF1U+koB7rTCcQcjjAUc
+Oh0LqdPiwoPhuhEPqQ5xQ65JGic6pTgTCdUe4uHZVKgdAJy1GkWi1VWzdS7BT20TS90zorRr
+x5hEu9oRcSPJgFT4BK12RhNqA3O7Fct7IKLYkJlelTJVQP8As1eyL21STqQnU61O92xTxbpx
+lXHynVLwQhc0j8+DpChdSuBhFz6huUucSUNgFfdOZlYc2PeCrqTA0FVLs3otoDAXQ0mFaykS
+73FXPFrVA8mCJuV/uaMIjwQoagDqviEXxITAKmqimb53RJIeXpraMNa3ujZU6mZKHLow46lF
+jadsjLk5jrYCOjmu0R8nlnWJRLdTgKVKtGqMFRPHVFgOOIc5xtGyrh1QsGyhtIyNSi5tS1xK
+aBVa8nROa5lpOqtmWoujyZdSEOCw2ANggY1Qv6WIcvU78CsqBwyscZCMHVaoEE4UvMnzA2xs
+u3Ka7LfhdWiay6C7QcC9EgLTzceRIF34Qp8gyzRy5dfQbrlu9C57W/bDuFrfBAyVJ8j4WPJZ
+b+lGZTalOtLSVqUwj17p9+MyjTFzSsqZRp0257rAWeMNCjhCvHDIWiLh5EQnUar8+1fCuDZA
+WXhpjIRIO6aD0MYMwqnXFJiDabIpjdQMnuqkq8sIbwmPuPwuoRwkoNDhjgAE1jRLiVyhtr5G
+VMLKONUSMTtwe1urt1vCgNgqZTXW3fCN7rWn2hUyWdQXILZxKa6mBLVc6nqrYVrmweAqVPUV
+M/d9qnyJeblzfWXj+EAHzKzwJt0TWv0XK5gZTjZObTdc3uv6dyvtUXOd+5c1tIzuE8OGPamm
+oPuFPr1cU5wzusi34Upjv6VzHjpag3V3ZXe4qAZ8iYTqjPU7ZG/VQFzqwwNAnU2saJVlKHV3
+ZJT6TxFRQ5lvwvTLTqE3QSvjdCpRZodQr90afvUvB4U6u7MFChQb191vO5Tm08/Kz5HU4Wgb
+oOn8ItfS+8RhwV2zVgo0yzUarlirO+F/qvqDnaVUc09O3ACo8hrMpzg+OlHl1C0Epri6/GpR
+qNAgZyhmWjsiCNQvtZBElTTexk/yhSpwJ9b0aLWtH9Slx8hrtgrgTYNlc4yg8H8pvKcQ2Mqm
+01jhqA2b6nI0qRikO2/G6JHZNqCibY/hEjZBlss0gJwLbHamd06d0S3UbLlOi5XgJzTgEIsb
+Uv8AHnxOe3Ibqny4teNE36f6czUeepFrhEaq5z/4XS6VITw76hzXjZGWhzN5T4a6R6VcGz+V
+M5V7HKo6oBEThCypbbqCmiA6m5TaBwYw7lOpg+nhJ0U+Oq93p0VVtMdPZSpY77h1CtnCDQrM
+F068JY6EH1Mhg1QZTYAzhog+xsjYbqtX0jFh3WdNuNOO6efnxaeBsjLslaf5U0z1OwpJkqAu
+aYB3VjBgb8MKoysy7sFpCLS2UDug1rsRlQJWWkcQ/cmFVDjAAJ8UQp4NqRMbFafbOyLaYk/K
+YGsteOHS039zsmAV5c4o0NHRgr7g/wArBhXuF3aUXv0blPe90D44W/yeysodI/7T6X1D+i3d
+GEzkvDXR1BMa06Yaq8l0xaUA26fldRHgE4UDwPOjQNUalwc7sECXBrI0CIHW5pWWgW6ptXYa
+LlTd1SCUKznDOiaLrp/4TwN1Y/EFdKq26x/xxwset/8A0mlPdvzE1xcGTq7dXHTZF911whnk
+PpHMacGmnTLiTkdkQ9lpOr05rXcykcFWsHwArqzv/Fuqq0o1O+yFQgm1GyjAQfUw75X3CQ34
+Ui8/HdYNRgWHVHIQyANkXlB3c2qux7oeHS35TRWbJbuEGikA2c/Kc2oz+z48icQdZRdTNwGp
+T306nUqlAMJe7Ulb8xWBozvuja+8DvqnU4FwdqhQpiSVNU2fCAGXDQoPz8yshE9vBDPVzAUZ
+93mPpsMB2qk6ndPEh5PuTQduBLn2iE503SVUeYvlSItRqVHGfamS+4ISrWmR4Lm/wpq9LxgR
+p4sKY8kAJhBkHUhfbn5BX2wYXMcby3ZYJjt2UWktBwg2c7+ZngY8imwblfUUXZhTPrGifTdg
+OOqiXF40XMquspTqhQ+jpFtH93dcp8tjVFrmny8cJPkc9wk7J/1G5TbTOIlQz90p1d9Fzi/9
+uybY3p7FTSAu7J9Oq0NY4YIXLMWg+c578kbJxb6e/iIY4iU1tNtzRrch0hsIhmy5c5ObuyuC
+5z5bcqgMPnQnz3te6GpznmANGq8Oz2RbMAaqJkHTwho1KqyyahwrQIeTCFFrjG5QY/2rPnsc
+8S0ahW02Q2Vir1nZawj1nG5QpmoJOittMoUzg6K2wypDT0oy3qU2m3unGZh0KOWZUBuRsvQU
+02+pHoOPJzxbeOlWWwVDjpwY22T3TKg0ah6vTEoVTJAKLDOR6k4OJdPdFxkg+0qAXN2hT/WH
+J/W4gtgSjdOinOHSrTPpLUWjHz38mHsnKDWU8uEzwF3obkp7Dkyn1j9My5qv5YcP2qOR7ZXL
+fTtkxIX+nfJB0KcwsOOypNtJ5m/ZB1P9Nyc2pTy1syF0MtR+orHoGg7rP0zbfhU3Bt1J+6ax
+rDJEyupl3wqf2AQdSmGnTAY4ap99JrmsGvyh9Ry4J9qhzCPyjXFESEWW2PAnCLTtwbcmY24N
+5Y6nmT+FTqkZ0T+nEZWdCi3axOrtJcWnROe71RhZcbuyZ/cqn0tT0k4lV2/0cGNb7c8KYdMK
+nj2oZhUu6cN6SFP92UAT0d03lH3J4doubS6y/fsieALFT1i1Oe4Q3ZMYJ6RCrUt9QqlE4cdl
+aGQPlPc0zDYUOwHHKkDoO6qd5wqL7eo1E8uBBT3n9QNjg6l/ugaFWBplUfp2mXTmFT/tTqhB
++FRMe1Gm49DwnRpOEz8prG91W6f8J/0jzqMIte0jgYdBUuqFfqldb5UNqkBDmOkpzeYbAgG1
+SB2XW6VArOhZrFTziN0Q59091DXRiFjVNLj+CF+qVLHwV+sVHOMKHVSRwkGCo5xhfrFZrFXX
+dXddby788JULGngDYgDLj5HSdVLySB53/8QAJRABAAICAgICAgMBAQAAAAAAAQARITFBUWFx
+ECCBoTCRscHR/9oACAEBAAE/IRLjcwxsgYvN5L9TADCZvDiBjI+DDIjbwJE2HAsAesgi49nJ
+DA2KuGSjl9y0dZu8d8PZBXnR4lMvC3K7Y7geH6JtH89InoVLWiMZTyc4BTjZBazaGPBcKCND
+47jYoGJ0wfDAxr8RU0VjzLVs0tC0aj1lDGwVKWypbcpxL5XxBOraEaYecCPEN10cSA5S8I1P
+QxXUtApbjcrRYuTqDsWJaK0anG5EGb8RVw3Sdj4lhwS8QnSAN6mF0gKEzC2o4YB22IBAMb4i
+1SgBHauib+H7QMBnqmw1Fxk0q4rZuRVUsOIzYxD7l4ErafP3Nyaf7LlICrLqWk6U8H+Ig6UM
+CU2HWYNfHnRdhqAWtCUgH4ZHMWZxWGMY65mdzHXZLeh+BEQeRgwDWs/7KvfM2+bluYT0cYA5
+q9iFNjEsJkRiM6sDwhVd+4KVDwmCUos7RS2MxOJd/wBxEEbfAj4o5WKu2NnuW5mEvLVUV1MQ
+Wv2mdSjqCofYPgpKOWvMast3/wAJlX6KJlVNVgoy+oiwdPUyk8mC6XW6+NIRm+gz7lpv4RGO
+QtnmLxB+RQWsRW3zBrUstjcPBx1L/rQIZ7j4uCxkHM5HVOCYjAIagZpZ5W/jzkO2wSNkPnkm
+wPrhZmjydx1T5U4IVhluLDxENP8AQzOOcxnVjL+5pQplha7+hnpc4pRDt9sReV+RQIuWFNk7
+hhm7DuHrw0HmBFDQ1GOnmAvocK6jVVhLLvQcx2X44i51Fvf8ABH4Nx3KSz6K9SAruW2Eb1hC
+8ECUuwYEBgXG7AIdWAhqOoMcApk+I1cxNxylNpk3/p1LuhiLi/hGzTPUsDGCIeEpnMwvEYVo
+qJDQkLwY3EDxy6TKGv8ARKrNs1xPyRHEMIOQdEshsyBiQdfZMxFpZXLYiJNymbvpucS51z/C
+YDscQFBiNfmtwV1gmOLjFRUYpQyxpLNtF4qKjYbZeZ4bI5lyAWDmcez5WfrIpHQnXeD5qncy
+w6JphfH8NS+oEoOhQFOOko9L8yughnvAWFYagwQNJFgVwgXb5PK+o7mU1LS92GFOku87H5r+
+DNBb6l5zPyQDcWpsfzS9zsG/hoDMVnUVzjG0l/a9Q7T5v61cI71A8P3RF8Itwm9MxGaLTB87
+wW7CxxL2PEOwv1PUsZ6hziXCQdp8V9snSdppkVp1H71y16dTOkQ0GcF3uXlAxDiG9HqNUu0e
+Y7lpO5iNmOIsMfn5qALn8+5xepddIzxEtS05r4haYzBhxS6lCOcBqP3NyvqGoDylY32mU7cp
+MaNSHFFcSIQfgCFV0Xv4SEgFaQlB9Q++6ZcMQ9uOVaimZOS5gUQcJzMyQTRVcbZpfFDBBBLd
+/b/AZ8rs8zR+VESyY5apsPM3Ol0+LOTFAjs78y+QJlEZ1LjRdveULExxEXQOU5guqNxH5Atd
+QUp4TAqGqiLFYOezUPKh/qYtqKHXmKqy3eY/e2ReZYpKRIBFXddTITNrEB0LYAEmz1MrK58z
+GeZAyyo2NHaaa108RGgpViMmeBGNYb7ubpBliLWbLDHMX9ZZR3Esbwm6D/2wDDxHiJaWtr1P
+dAm33tJT6g3XmHwTLS+cyt1r1BNfYcxfJkX3F7ldGvE8dI7l7Ti30x0gYBasCZhXKFFYniBF
+CEGS5cMIYuBoJXySmzvMEc3bkcTgywiMg0x+7HSuJyjAiuHEOFytGWNVV5lMiK1epoT9GGhB
+a2zFtcRO0JaCUahWEdgwuG2ghLaA598oK5XCDacF4XBXaB6grXeC8MreXV4TD7r7IJVnDmPb
+Cx++1bLYPM1QgfTBcf8AgOByTqnzzKN2zL3LMY27k6mpBSGWXmcw+GHUMvmDVu2mI33/ACIn
+9CMdS1As55ZHV69HcxWqaHEc5oFJXqHPwWnh+KjGCAlN/DH4KrzBgicK8uI1SxXidyMRWQ/x
+KVIxIBkmtcXaMF0ScDgu2r8TIa+OkH3PHEA0mbMAPFi5kJqn52blb7uTmC2a2KsbjWk7Q0/H
+h4cYjpnBL8TDQDO/nca1iOLo2rd+JwBkgfq3A0aviDnlgUi8vKLxGVDeoY39gIHF8RyVvOoU
+Qs3qaQPzeEv99Mbco06+DmC5z+sai3aJUzwCCUanPxbsW4wNDLxBwnEMvXFDMIpTETiXjJti
+dh4ia9ZTwRUIf7kShmE7DbH5XPBcoyUrrqek7ZqA3R3KveAmxl59z/NiOU5TJ4nh5Tx3GR2i
+d3NvhlL9ChYRImAEEKu332TCwYr8SoJm9WJp2eobL1L1/W8bfCXqVSYsHTL3jXHaWlPScHEg
+sYAwdPiaFuik9EwUMG04dzhBwvPnMPbOkcxL9mJi91nEuxn4DNqU/JFGXwQELxG6lPx44Tkb
+39AiZoWrnLQDpiOy8yC4eU1FaOLLsiAWmiO4efPhHiDdDoTUIZrcXJDg9wFj7PEYN17YaRHM
+Riitw3EKL58S1gsMvJFdZqNX2kHQF/5CO66FeBBgsvH/AGFze/i5cvPwbj2nb6TKVggqojoS
+qJ7DiFGl9pCqc4M2tpZAgeOcopXVbKNfGfMamcPj1DvYOdyxRaVWEu+U1ip/RCqoXlRfVmAu
+9BxHdl5f5nCbyFYgo5Jlh92grnr94bji8OlwILVdBxKM1madRLiVI7mXJGajxTCuH8Ci5tQc
+y1NGagRVdNy4b2RgEVHD5sFWg4lrIDKbzeWQs5TI4xuONWtiSmMstvuYM6l2V5TPDZWWoIcw
+IcLBohmVNPPzDqRghaLB+I51XO42RQgm18R7eGIGRLv4qZYzw9pcN9YIvrUBmZA1KR+g0TmN
+piPsC4hGApwJWxU8gZkIvl6n6i1lBgdKBxzyrUOnu1OIEw35+RlH/sbxb+tAiVfFwzafcjYJ
+jmJNEOfUwB1Yxw2L5wTuKnMLtgrz1Cag4ZhkCbWFTZwsd/xB3oXVxylyvtlK4wv4zLynMqWB
+Z1mDv+8xjrXSPNMByQLZH6zPmDaPENeEqm38V/L8qttS8e74+olJRgyiIFLZYzVI0amcVNwr
+TM3smtErL3K66RcUIOaNS/aq245f4tyfN41F0czioO5YoAo5i6Ka1HDuCX/EXctLTc7UQ21x
+0Tdui+u5YjLY/wCTX/oy9krLy0V/CkWPwTNnsj9LMqCjM0yoqxwwcuIuk1u4fbdHc3nHB4Z6
+hJ3Etlt4mUl5QiAyDUCBYRDySzyiOGO6BK5IG5rSOA7HiIcS0plMp+mlNEYArrZIGjMu46bJ
+pcwz+4YHXapUjDDy0yr4buDzXLtjl5ADjMEQac7ig264YSvxbGpd7mB6KmGtrrXNRjSiZDWg
+ecSlCzY6tu47yjUtBzPSevwp8mqGPlxGDYpcRzhDiFkd7YPJOP4jOYxtnLRMeis7AV1Q4IGo
+BYdTLDKjAt0XKP8AcQ9M/tSEj2Gn9sVWtTKP29cuxb7jMJJ8IlBgPqlpxB9VB3FkMpzekyjn
+TiWjielwsZCUalZqsOjH3xVKzK0WBeJwq+cs95dBk3UJQiLyoOimCDgqB8ohLLyjzmJYqGWi
+rfW4BHi8c1crwYoO9P5lWbpeYumUwgQ8xsXxD+yQArgdzOehRC05a7lFVlZJmRhUX6tZXuO4
+rUHPEq+oS1bVuO4zzEf6b7igNAN3O+JTqi2weNxczKC3ehNDh3hltasW4mXc7BEcCbQQxstf
+ioQBW7lT2e8ksDVcQw6xeyJeyjxFpdFuMyAUk9gMHuEXChGpi6op5jLeNITDHwlhVOWI+sH4
+OI0LB2xq2fibpnK9kdNYTIAmrgkyxRCRBMMuJjzAZPQjVo4CCE/wBJcJ4UqLuArwgdQGyuSK
+hHhN4guC0pUiFjcx3lfISj8GxGqJhGYIjScxCpHMH/BqIhgPwRGzEwEBs6StGHEY6jFDLI1D
+i0tLFeYRhBrrqW+AJHkj6swJEikqiHKoqdEr4lpeXl4qWl4M+C0tFPx//9oADAMBAAIAAwAA
+ABDQSyovwxQmK6s33gBh9kbLcjDgQ3uE9OqgXS55G1kWAlrAmcYJKoccRdGxC1EmyIcd2JHL
+PMATw2cwwTbMlX+wACPAfqiJLYmWVIAAQCl7+efOpJiAAADP4iA24xTdBZAAAAL+ykLpTKzG
+AAAAn9c15HQRTPCAAAP8oHY3LSbLnkAADter9HpDbRxlgAADd5RWu9LSxCMAAAyYhnxNR3xZ
+WAAADk0ycfk0wT5IAADbAq+vF+gJsGAAARpGEYgGy5ngsAAB1DHdFvygnVoAAATAwMh6fhP4
+9o+3AlLTqfrzFNEYBH0URQ9XsSf4cTI8EQPCzbC4BGWeh8YSR3ca8Zb0pxZPVmSHK+9Xx1tU
+olvXXS3ARkKlTh54x4L4ADAAZ58R+aIaeRQQbgY0O9COWBLECNRYDCAswFuO4yAdXbAAy99E
+yAAAADUvQAZ4xghAAAAARn6YAOR/xIAAAAAPO0X9+pYnsSSQAVafR9Siutl1GAvcJg/07Fet
+d8st9LfGPfweMObari986oEMMEPq9fXMpHQh5oK5F9Hpz8fM94IxRuqLLV6CWK3+DVHHHTKq
+l0E48kb/xAAeEQEBAQEBAQEBAQEBAAAAAAABABEhEDEgQTBRYf/aAAgBAwEBPxA9n5njMusQ
+hjfR4HMgSJ7uhayfsm2SEHqzUDJd8XbfK7COR1txiCHHl+EYxiBH144kPsnZ+z6OWhL6fPg9
+bIZ4WeHWX0eXgMbv/ZyxZblvpu/j4k8wLbjOE5AjLLZm6Xd3ZLV09geJUxU5HhkH4SS7b47E
+tgh5/wDM8SXEudt+oTLb+R9n0I/GID5llybfVoQgmDby4s5E3UXWccjqW2Wfo/3JZ4MmAP2Q
+HigckyB8eYmaIJZmlkMGf4hyGfMpko8sLDy4WZ4HZJO7FmzOP8nxNd8zjT4iLK47hlLDxYIO
+Tyyz/FuCcnrJvmAyE8Oyzl/S4uvBnUxyDLYxyf8AFbLbtp25mlOIKSzK72sd/YSlp/hnguMn
+PCSsJTkiybH73LGZY/eQMOffK6w7P/UCCk5eT12I/WWrTzwAfZz/ABN+QsFuWPqEfLe9ss+x
+4sMrLUtW3YR6n9raeHLfyUs+wvk33BsTrwWyPCTkNCrMtyW3f2ll4YdXPil2A/tg+TRjHkal
+luP7jL5OFutm2Z+98y3OS+Pw2bFOC6cmeRk+EkOTrNF3+/sgjwsjkvm5FVY631vn9iKZ+sWS
+7+wglHbPHMeJsTc8DJJNkEo7bMELP2S+blrbLttpb/yH1f8Ak7QrNh+2F/LDzbfMs9eW76eJ
+tlkW2+LZHjpdFvivtsPhnzMnUnh7tssj1nmz5D2Hlv4lyUOfhv0sd14WQzxm55JbogkB/Z75
+3xRKvlCHI1HoFh7vh14xqKFwv+kTN3kQJji0nzciYg+AtYn3LJIzyO2mG/kldkIYmR2FPPst
+mWfZ7ZkNsbOsc/AWTATqFg2KOW/5YRFhCxIY7Yv+InUFn62UMotye+DCYEdRM9kll14FKH7S
+PxkcYfIwdOwg8JhZ4D9af4PhBCHJZexgg7+Usgs/JuJ8tt/JH2F04Y+LHj/mngQf4OLh3/mJ
+LP8AXi2OwM7Ofz9nfJ4LJn/VcQzZIxx4WT3FzBs/A/NmYo/4IZ146ufBC6eNWdvvwEjZZZZB
+FttttvooGMWkAR3OL4nuNyL6unqv7/GvxyE2C5tlySuNgNt7Hb+9gbk+2IDYrMgTsxiDzAiX
+/ayc2AERn7b6NvIdb+Snxf8AUtZDwfx5bYmx8l4V9Lcti/8AJZwbL2yfRxy7t5k6biOrBk7c
+Igc8OmRlh5dtwt3F0sn1JPmTt268Mh2DJUl9IMbXgi1t9I43RPmWjl9iC+M8XSGzbsYcs90t
+xDj9WDl9TE/Ikyde75BZf//EAB8RAQEBAQEBAAMBAQEAAAAAAAEAESExECBBUWEwcf/aAAgB
+AgEBPxCaGRI0I3BPGP7jvJkh0uHbpk+lucfAhOoBIw7rN+EtZA72JIeZL1+P9hL6Yh24cs+I
+FBvYONrALtL3HCdSo5bfIWNybKZzZ9t7fqwflOInbJuWgJVSOhGetqueWvS7RWQDY9ISwMZQ
+GZO/qV6tB5bbVqHSG/DJ7LLJuXbzy6CWt/LVyGWeLY2OB5cGSXTY9Ref1O5kBviB5P0JnUmx
+JjEGCD4OWrLMuSLKyBE9SXkESRLksDWAQg9ZEKmEi9jM+LKcyEEH45jXzLFhQggf4lepOCAX
+OwoI27Awz4n+BJ1HC6y7l1wh0ss/NJnYSedI7MLJZs9LC+WeEGO7XoYhYllh17ADl/7Y+TMY
++b+S+Eg5PxB7IOzjU4xFLrcSZgWixCbORU7JC5q3tMTpZFwgEn/DR7cvZiT7dixVy0ybNGSx
+pJmlwCGhSltSU9I/DBPWZ4xMLeNh5P55+rIMgsW3UHAXSlN/RvUucRhkBkZ5cTdUyvMj5EIG
+MdseWZ/wZgffYOcKNhuAh4b9CE6bCONLRmaylkWLBKOWh/wETGEB2UD6tVR5J9kAiwv3HmHy
+GD5v3tphRxxhDnzH6/Pf9ymh+ADVrPtqzK6biw1nmXcSAYfOfRtSi9t7cVbsEfmARHUjSYfy
+zCblHOEuLZ/0fNwcRIezBlDhJMMgtmxqIGfz2nI4Eg7C6fA+xGhuCyT788IjLcG0tH4xZOS7
+TBp7CkR/4ZNhAAnfPgGJy7iA8u5eeiHPWezrDU+a27y0IFY8gEDiGfzweR81b9EP7tnLsW3Z
+DmKSdNlq7DO9/tJeoML0sGRNk3ZMt3388wmL+Ee0K5GxcP1YYJE7YNljfL/US+L/AEV08zi4
+XSXUZDkn1jfJ/PhNGCIOpItvHA9jE+RNTVhezgHVySwQ2GpDIM6u22mzC9fkY/X5lyR6gPI5
+yHkIFoTEedlLfgNzJXNh/wBLaxs0raUluyD2QkD5t+oQgJbZMjJT4k5AlqxK7kG0zGRwuD5J
+vfgcnWSvsy2CwjVvYZ+M52PPmE9m/Vr2QeQjcriPZloA9iLdOTb2GXi0YThjGWmSupY5PbJk
+C1j80Ywy7cyy8tWTu3E51iY1v8Tgg9lgcbL5PTPgndhzbxIe2Hx3YbZTmwMHLSyntq7Y8i3l
+kn5goMkDt35Ji0I7EQ7q0J+t+Kke28+A2zbOtuNsY/BJeb1kp8lPZjVvRnlAfECsI2Db/VtJ
+APZNglbAfuT+RpafGz7JCPG6hASuR9HkMMXSLfGwWhaNzyDF4kkFh5eYDCz8mVZeJbGsbufN
+GySZ+0zS8SeMui4u/nO4IfcYgz80v6vHfo3TbO2heR+ATCDGMeQb8Y7BMHzPpnWE4Nv4nJtw
+j4L+yTJLxjcsBsv9Xr4lnwH4r0Pkv2mZ+SSWZBAWccWCKO/819XSjOHxv4ssqHXJPq4MtyuW
+vPl/5cTd2SMPzPuTGGHZwWTkekFefE/5ky78/wA3DevuJZAbEpKMOZNwjC0sQLLe2WWWWfUr
+DkkI51nrdFFsL9CWdgiTDs68gDACzXxkHBkY+m/G2/AHlyRuzLTrPU+WzFt9hDv1T+BQ/CKz
++pj+F7ia2yuIgLhZHbw/IKjekRNnwfkNvIpfvIjpkLlnNJVBewjZC5JB5paHbqSJHUB9uMHz
+WLWIqXjFdW6s1k9h7t24TE9SkYQ29VOYGJz24Z8BjZZvLq89uqbl52nEObP9F0lhy/c2TPhG
+OR0WLsXqIzi74uNWJnybtmiDFm2p4bmDZxTchel5ZZmQLGn6ne2BC5mWjRC/kv8AkaeWL6WB
+ey4bJeZGlr+Qw8tP6k3ZlthmWv8ALWZlqZruXbBLvkXr4xInEHJFmRAshBeoGWLFixAgybFi
+xAgWX//EACgQAQACAgMAAQQCAgMBAAAAAAEAESExQVFhcRCBkaEgsTDB0eHw8f/aAAgBAQAB
+PxBaUOu45FwbvUCslkOWXeb/APGXCyQNbm90A7+GLrAct7fEWXqhfqnLS9D1CUgbdhWiYGgT
+G/2Rww/wEqx8zCbLV2CU2LsthLDYao16hYJNCbxZzo/qVLLebr8VM8dS7a5U6bnwlrEcY9Bs
+mEcIGAlAS2MrE1Vi5Y1wNnlFdU5MWYGqo7hO6xGHOzCeJySrjkv7RtTqcNzDgL+kYFgXm9Q1
+pM3Y25l+a1FBJPcCVnvyV/wABrpl9IWGn5h/A8uBVxLjhHwb35NY0EukTKBZDN8PkF5rzDHM
+KpJBFY5JWpoYCs1+IXDEGbXVyjFzttNwDEjgWv6iKoeXFVwckOsPOLscdwPycri/gQ7SF1Wu
+2WLZLhDP7iFseBi2VVe2X5LA7BGD8rXWHc3wXDarLB9lnE/rFp3MYPZtKFWoe5gzaR5lsNtB
+w9glPoR6UxFerlPEu3G05lF1UVunMRK6XGYitNNqVTitzbCRColsHiA5egviIAoDkpOKjLbe
+A+9DzijxucrMIbiNRAZ7Z4lyB3remORru+8PxECb5O4lbDf0sNjqWUKyK7DTuMVLH+kJvSTt
+PcG9yWqlFtApVnsRXqeXU/UwZRaz24BjzEyvNwFFIMm4WFpTp0yo4gbxkbD7x1X31iR0UbiY
+qEjPa+ZZXSKZC2SCViwtwoxOpau4UOTeSArreHF8fqJ5s3EAg6ugtfMdDMVWXL+irOPvzLE2
++EbO23ZdCSgCg4WD4h72wMutZCvhHNSuTywewQLLKp1GNg0bgSlSjqgoq4jYj2lqnI9wD9Qe
+bADw78S1wgP8ZbesVEAq7YnkZAigInGho8S9ar/csSgYUN/mEDOgAfepZowcxb/gqDyDnk+m
+kE4hFXLBKewXyTlfTYIvSqcI83DNEu24cxdiVAlh7LVAjytbPJbOgoZOy43iYu/bPMJ+xTEK
+3N8wnT2uBgqAUBaxCFqJ+RigO1l6viXt8SWJaL/G7ByJCL+grMSnEYaqLZVhhFHMrRh0cTil
+JYAi1BsGsyx5apLU6EBkHTC0F2qy8nhLHpMXGqaIoUKOqCZjUFvnNRBjO7cvUF/TWLVIc0Md
+2r+t/wAViHbYuDWolSn0YZi74HYSkCOxiHgw4xGhEn3A4iA6oUFQtxwOLl4VDmjqGQXayFZm
+a2rpvNQhbdOlcS7NNLbFQxzDXsw5dWwXkcEi1TcBLGF9/R/mdRm2yIpewDYY1ZlH7jSK5lZw
+OZq1l3D3KynMEwytw1JTMSK6WdNwzPCowqxDq8jmHGLGS7SrkjPcpLOCpmiUgIF+Y/cdhrkx
+BqWYtvkqxhFM/eDopmdWMyLcn36P833GZTA+YqJmn+47suR8xOKNXzAvm1xoj8pN45jKo8xJ
+BdvMw8mI6so7GYMLi6gksuhdT8W8yjfmV/CI7lwLFS7IiXT75BziiNYVxDgHQcDphGDGTMAk
+C7t1MTBr0lR/mH7BMLlWAmwhGCrV3WANpHHNT5kWEGDyIxgKpgENU5mcDEuS1Zq4j2lDcSmt
+zW4c4jeWGXJGHgXMoksRiwqtDqXbr5o1fkq9RYWiRP53dCTlFUcttPRCbDPDV9zJwsoHMO2+
+bKGaBuy7lqSufZT4HREmwryXuNcMD5SYhZEVdRx9/pYKuWktlstu4LKKZsubl+S3qVvH8yM9
+42zJvQGn9oy45r5IeITbsajrlqrAgToABawRV1kjHtg3qIlJ5xCaueoCKhWOI6BtuAriKC6l
+SllIahcp6jtAdxSK3WWty0b8Te/5oH9YXbj/AC1tUpWsQpfINmUJxW8+wbhdJukbNKpVTXF0
+GLHem+ozRYsYYneKUIPgvO47huWUKHQEubaRe5VFGQVTUMgC06lMVlSQz3JuPBAUSnYL3qyo
+4/ne4Bz2jBtxWosCHkLxD6lkl18zz8G1jUyrCchmDTgvCx/uMxNo3wJbKdWMsCAGld9QkStt
+O+pkyCpxFErLWDMW245ytmHXDoauMlN8VMNW2nUS61EOYhBsedRm8sJ5MJxC5hzSWevD41Ns
+a/mYCjZcg1cXkrtZiIrboGH0yofhMSZbDRKzd0alKe2HBFShS2jSlUg6NMDUmQIeq/XukxIm
+Pn2liGmDh3DvdfBMVH69Rg+I364OGVNcfkYJcw32OZnsUw7h4LausZWBLlvD3q2fLcvecefz
+F0XVvZDMSOBBBprENuUSFSp5iFJ4Q/h25RD68UFh6h1V8Nd9yfFk9I5S7xLpAXMILEIcwSw7
+hVKXyGo0oRTCwvBGI2x2PqAt4ehiAtoZ5+ZUJCPYUS5ZbFmOEmaBwn9olHlH+EXrp+EWl2H8
+0ylzQtCU/K3PRg7h/ejRtj94AS7ALWb9ePlewXBOuHbEXc4mReqUUXRk3b6iCsrtuPdFJf3P
+YDgxEAZ0YBwKhISjYLyyzADXeKgoRtqg+ewUHWMaHMoAubxAqBUG6VYrNDxh38wBSlW/csBS
+f9LxVw7vmO3+ZzQzTC9EovOUx8KhpVLqBCJi0ixsDvBTZRgD/wDcYmfJA+XiZpMpQo7fZo2f
+wGIncCqwg9OotUCXRjFxpm10ud5i3OTCv15AaGTSn55lkDkOCyGc6jiC7ufZHj2CaGvzLIBX
+lLpB7vFqI5lyMUuq+4pTaf8AALKwAckoPEX0DUpzDxHUF9CxCymSA1tmDtOicPv2IhLDsX3/
+AKTStOqw7nkp3KmBd8sMHW95I80pApm+aidHBzhHzWjXWGotgbE2Bw/UUs6Icf8Aceg47adx
+FVaLY/KNhUFpMQWzeA8kZ9kibTxlsvnPkoxYd/MoM1DxEhniRVFHcV8qmomsyvZ8EZuXB1Yr
+Idy1k9GR2yoqgc13fUu+nUHj2GeC9l6BxjZFfWYa5gPlRK+0xqLpkN1R2ewOukvz6ShyPcYX
+v7wWRdafpZfIXKc/MNMVcpLFkeWM1ynsbiJbXSOaQ7F3cL7GDEL1Dt7JWOYHdsuYHRA2oj4A
+MLhNm2CVh8SVXKEzcD8uosgzIWajWlAwGGPEpRpsHYdS0KuZipv7ZruVEEpevYVSte8NkUXQ
+eCYueKquHCYTG7Mr7NHwWZXliUAVYdMv0WHeOqtkVwcrxAD5MZZzWInlltbCuonX3joxLdlS
++O5c9iL41Eym44q1OoduKRbTKg2rHNS5trMD3HoCuAblpQaTmEFgOs+IqQ7bI7I+5zNqygss
+0Lis5EcxF1F2jU9JTl+AEV1U3ZQRRghrxKc7maXLs1aOktaM3IZa2CwC7f8AM/aTAcM8nMtK
+qN+pa5YOUsyPhxFxDuEYTJTSAvJHRs+IqOpcuOQW8leg6jEWDNk19UK6UHoHZUqN/wD1eMxQ
+n6v6wlQcs1M6k1WfKVzHBHFyGFiL2v8AbepZSVOGAo532iQ+7oYBpJWy3FjbKmpOpidCod5j
+aBdB2IgoPwBbtHvVwqzwwci6Z6BxGzVpdtdxkgWrXI/m4JsDhWVXiH3rFB/qGvOwjdTIpL4R
+BmVAArFKhILrTDmvY7gtkxUAnK0FpSWGfulrpDovtzE9ixrNaIK+saLrQsdx6ThwStJ3DSWo
+Z6rRknUQxuxMD/iG/ksIMe+9e4gQaB33/cGwr8aSZLOPY/xWep7hdoWH0J7KSUyajT0AR4My
+6KaUvodZIVYyIzyLCIBA8JkfDiZjc2/MqVu6nZlKMWKgxWQWQKOkyB03XcpZFNX2M6TPx/3h
+jHEuCi98qiXi4Nq1Gyes4lTZsl+CECsdzcUgoCYX75KWAURh4CoeZeEFOO+I21KFOlmVkyZQ
+9EJK3FLJSVYDZ7MmRnCAVRDpYF3i7gJNdHLNEsNMbPhIISFhajhiYSFLjrUuMsv+IsUXLQ97
+2u7E4schVXL1HCyL4jFrZMPiYDmg76+IGFie6dl8zAlK9uuYaQtcK5zFf4BOWDnXcDBYbD82
+cQMVagPUqGkIWlykxTWl8sSYVfmoout3LAew1MocAvwmO1OfopiLLE7jpuPb6Yr6b+g0wX4U
+PdZcpiWGIAq78wmS0cpcMoqGuLuC1Zt0R36lLw+mIXYrkIUAALspxETASD2ltbbYhT55EFoo
+TK4mUCbHmKLwNvLUrYHH0o8ysJstaPTPmQ0vV5hqg2Dh7m2V9b7HoS2F+EUBKSP1NDl7gmyU
+fuExcfEBXn4magQo9BmQiS6fZQIIq/pR0BAE0LtlNwLL5HUd2pt+4gaShCvuhAr/AFemVGwG
+kd/ShnZp4HEoZSv5ZM5XuB6XEXMy4jv6v15RurAHqBpoUyBAYhNfOqbMS28LHkpqDGyhl0p8
+jRw4SztT2V6wWAEvCkj0fMd9CAbDn/GVdINVExVatYtJPcvvvUQpq5r+AtRviZwAVcjti7pX
+fAf+JdHRAlrhklQKl4FQDh1g+ZfOIT46gLL59jbes0vpiJ5J8yuUHK9GM0Y3LXsr/Eq5dmWV
+1C6cFwu4JqNA1fUZS8fW4vEEBUodHkYAD/TKV5CJ0pVnaB6lY86yHij7R23TOLEKLHUssK74
+ywTRUtUWaHEdrVf4n6aJX0+SA4+iWbpWH1L9pubB8EYZ7H10Quk98lSq2kpME3fMpbSziJtV
+DH5R3EKWG0HspIyiUtwjefFZ8eShZYeXGogIooXqHXKS6gi6iJx/gOItMVNnHP0vIBTQjECI
+pnVQPWYzDi7ItJmRojFTDbing+8vEpzYVctVL8eQNWSpz8eC8xI0S4Mi9wCh7erdS78JWUFR
+E5opiNeDxtsuIwvGHZ3BHRYcEOo3Alq8FJ41Ky5VGEW6I0nU6DE8p4TwlP0uOnH8ypRTFHU/
+OIkQG/HHrggCGIuH4ghgZ+6OpJ5JuYibNc6rHse4Axy2qc+RVgiiaqvGIgEVLVNsXKLaKAEc
+4lNQrHAqyuZcdAJTbd/EvK2wH/1RITOqZq+OIj6lope444ZJWBR/cQM3ZzpQgngDePMNalWV
+eZXlfbUokV5CNWKuYHUS1n0FwAB6JWoXReJUBMhmKwWA08VFh7r0xFkKuoO3MeFUuyjsg845
+dq+txsT3Ibi7/dRKb4tvTyMqe7VmmGwf9Ko4cuW43zBQE3Jf3I5zP3V1FCFFZUne6g1Ige1x
+M1xBxLjjj2+RLjVzg8b3Lqrm27cQffiL5RBrTA6RcKOKj9kQsCwTgKXuMNI0p7cEAUJOaYq0
+FZCiQyLgEe66h2mbXLBISIIYr9SuN5ma/wDVAhGynawUNRYa3qdxngBcdeAdX8peRBxTMrxY
+qC9ZlHtB3nUU4g5PoIGKVW/CFhOwfMuSst+P/cKxo1xqWiXRW1cDWVKHOribqC8wuFy7onJW
+5cH52f8A1xAWDuvhm5EqKsb3KEMb1zzEBQJPOYA1wGCWcmT6xFtblM7xqi3cuKJnIs8Ql0oT
+K24iM1KKHcVguwLpA9hOsgwQeeTn2axg5iwg35BX3hgQRNCvcOdNtBgqLZq1qEgqFM5L/crP
+l1qq5iSBoX9yH2mHu5W6ytT8Y3GcCr5w1TC8g6YfSlYLmMkwqZfcByiBgMbhziKPxh8dy7o6
+jmfTWmi2FVVZKpk4gCmwKioyzPp4+bl2DwDCcfqHSNsvkXkDf5lNR+h/1CRqgBM4cug/1BbZ
+QTUpzS117iECxm1D9zmassQwTsBCgX+IeJKArBLwou7bH9R1QKAvqOGfgL9FTPR1vsTICKH/
+AHBtGaf0y/eSkoP9TfUogv7jIkOUf6hWx4Up86gDWoDJFsarC5JZ0FgzmEMOdT+pYG+EKv1B
+2icIhmVBhHCoC1WAjdWkHzh3Ea6xHqCHi1CVE4IPqb+11UVQYOK6lfLOC5c2uCLU5KQ1UQGp
+WgiZcjFTVZbRHAMtJSWes957xfMWYB9C9JbzFZykt7n/2Q==</binary>
+</FictionBook>

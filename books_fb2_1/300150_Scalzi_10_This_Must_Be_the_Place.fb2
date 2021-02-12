@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>John</first-name>
+    <last-name>Scalzi</last-name>
+   </author>
+   <book-title>This Must Be the Place</book-title>
+   <date></date>
+   <coverpage>
+    <image l:href="#thiwsr.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="THe Human Division" number="10"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>John</first-name>
+    <last-name>Scalzi</last-name>
+   </author>
+   <program-used>calibre 0.8.56, Fiction Book Designer, FictionBook Editor Release 2.6.6</program-used>
+   <date value="2013-03-29">29.03.2013</date>
+   <id>FBD-C38AE0-96FA-8441-D2A4-012C-C85D-D5781F</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>John Scalzi</p>
+   <empty-line/>
+   <p>This Must Be the Place</p>
+  </title>
+  <section>
+   <p>Hart Schmidt took the shuttle from the <emphasis>Clarke</emphasis> to Phoenix Station and an interstation tram to the station’s main commuter bay, and then he caught one of the ferries that arrived at and departed from Phoenix Station every fifteen minutes. The ferry headed down to the Phoenix Station Terminal at the Phoenix City Hub, which aggregated most of the civilian mass transportation for the oldest and most populous city of the oldest and most populous human interstellar colony planet.</p>
+   <p>Upon exiting the ferry, Hart walked through spaceport terminal C and boarded the interterminal tram for the PCH main terminal. Three minutes later, Hart exited the tram, went from the platform to the immensely long escalator and emerged in the main terminal. It was one of the largest single buildings humans had ever built, a vast domed structure that housed stores, shops, offices, hotels and even apartments for those who worked at the hub, schools for their children, hospitals and even a jail, although Hart had no personal experience with the last two.</p>
+   <p>Hart smiled as he came out into the main terminal and stepped onto the terminal floor. In his mind, as always, he imagined the mass of humanity bustling through suddenly grabbing the hands of the people next to them and waltzing in unison. He was pretty sure he’d seen a scene like that in a movie once, either here in the main terminal or in a terminal or station much like it. It never happened, of course. It didn’t mean that Hart didn’t keep wishing for it.</p>
+   <p>His first stop was the PCH Campbell Main Terminal Hotel. Hart checked into a one-step-above-standard-sized room, dropped his bag at the foot of the queen-sized bed and then immediately gloried, after months of sharing his broom-closet-sized “officer quarters” on the <emphasis>Clarke</emphasis> with another diplomat, in having nearly forty square meters of no one else in his living space.</p>
+   <p>Hart sighed contentedly and immediately fell into a nap. Three hours later he awoke, took a shower that was indecently hot and indecently long and ordered room service, not neglecting a hot fudge sundae. He tipped the room service delivery person exorbitantly, ate until he felt he would explode, switched the entertainment display to the classic movies channel and watched hundred-year-old stories of early colonial drama and adventure, starring actors long dead, until his eyes snapped shut seemingly of their own accord. He slept dreamlessly, the display on, for close to ten hours.</p>
+   <p>Late the next morning, Hart checked out of the Campbell, took another interterminal tram to train terminal A and hopped on train 311, with travel to Catahoula, Lafourche, Feliciana and Terrebonne. Schmidt stayed on the train all the way to Terrebonne and then had to run to connect with the Tangipahoa express, which he caught as the doors were closing. At Tangipahopa, he boarded the Iberia local and got off at the third stop, Crowley. A car was waiting for him there. He smiled as he recognized Broussard Kueltzo, the driver.</p>
+   <p>“Brous!” he said, giving the man a hug. “Happy Harvest.”</p>
+   <p>“Long time, Hart,” Brous said. “Happy Harvest to you, too.”</p>
+   <p>“How are you doing?” Hart asked.</p>
+   <p>“The same as always,” he said. “Working for your dad, hauling his ass from place to place. Keeping up the Kueltzo family tradition of being the power behind the Schmidt family throne.”</p>
+   <p>“Come on,” Hart said. “We’re not <emphasis>that</emphasis> helpless.”</p>
+   <p>“It’s okay for you to think that,” Brous said. “But I have to tell you that one day last month I had to take Mom into the hospital for tests, and your mother was out at one of her organization meetings. Your dad called my mom’s PDA, asking how to work the coffee machine. She’s getting blood drawn and she’s walking him through pressing buttons. Your dad is one of the most powerful people on Phoenix, Hart, but he’d starve in a day if he was left on his own.”</p>
+   <p>“Fair enough,” Hart said. “How is your mother?” Magda Kueltzo might or might not actually be the power behind the Schmidt throne, but there was no doubt most of the family was deeply fond of her.</p>
+   <p>“Much better,” Brous said. “In fact, she’s busy working the meal you’re going to be stuffing down your throat in just a few hours, so we better get you to it.” He took Hart’s bag and swung it into the car’s backseat. The two men hopped into the front; Brous punched in the destination and the car drove itself.</p>
+   <p>“It’s not a very demanding job,” Hart ventured as the car pulled itself away from the station.</p>
+   <p>“That’s sort of the point,” Brous said. “In my quote unquote spare time, I get to work on the poetry, which incidentally has been doing very well, thanks for asking. That is insofar as poetry does well, which you understand is a highly relative thing and has been for centuries. I am an established poet now, and I make almost nothing for it.”</p>
+   <p>“Sorry about that,” Hart said.</p>
+   <p>Brous shrugged. “It’s not so bad. Your dad has been generous in that way of his. You know how he is. Always thumping on about people having to make their own way in the world and the value of an honest day’s labor. He’d rather die than fund a grant. But he gives me a ridiculously easy job and pays me well enough that I can work on my words.”</p>
+   <p>“He likes being the patron,” Hart said.</p>
+   <p>“Right,” Brous said. “I won the Nova Acadia Poetry medal last year for my book and he was more proud of it than I was. I let him put the medal in his office.”</p>
+   <p>“That’s Dad,” Hart said.</p>
+   <p>Brous nodded. “He did the same thing with Lisa,” he said, mentioning his sister. “Had her scrub toilets at the house for a year, then paid her enough for it to survive grad school in virology. Went to her doctoral ceremony. Insisted on getting a picture. It’s on his desk.”</p>
+   <p>“That’s great,” Hart said.</p>
+   <p>“I know you and he have gone a few rounds on things,” Brous ventured.</p>
+   <p>“He’s still irritated that I went into the Colonial Union diplomatic service rather than into Phoenix politics,” Hart said.</p>
+   <p>“He’ll get over it eventually,” Brous suggested.</p>
+   <p>“How long are you going to keep the job?” Hart asked, changing the subject.</p>
+   <p>“It’s funny you should ask,” Brous said, catching the attempt and rolling with it. “The medal helped me get a teaching position at University of Metairie. It was supposed to start at the beginning of the fall, but I asked for them to set it back a semester so I could help your dad through the election season.”</p>
+   <p>“How did it go?” Hart said.</p>
+   <p>“Oh, man,” Brous said. “You haven’t been following it at all?”</p>
+   <p>“I’ve been in space,” Hart said.</p>
+   <p>“It was brutal,” Brous said. “Not for your dad, of course. No one even ran against him here. They’re going to have to wheel him out of his office. But the rest of the PHP took a thumping. Lost sixty seats in the regional parliament. Lost ninety-five in the global. The New Greens formed a coalition with the Unionists and put in a new prime minister and heads of department.”</p>
+   <p>“How did that happen?” Hart asked. “I’ve been away for a while, but not so long that Phoenix should have suddenly gone squishy. I say that as a squishy sort, understand.”</p>
+   <p>“Understood,” Brous said. “I voted New Green in the regional myself. Don’t tell your dad.”</p>
+   <p>“Deep dark secret,” Hart promised.</p>
+   <p>“The PHP got lazy,” Brous said. “They’ve been in power so long, they forgot they could be voted out. Some bad people in key positions, a couple of stupid scandals, and a charismatic head of the New Green party. Add it all up and people took a chance on someone new. It won’t last, I think; the New Greens and the Unionists are already arguing and the PHP will do some housecleaning. But in the meantime your dad is in a foul mood about it. Even more so because he was one of the architects of the global party strategy. The collapse makes him look bad personally, or so he feels.”</p>
+   <p>“Oh, boy,” Hart said. “This will make it a cheerful Harvest Day.”</p>
+   <p>“Yeah, he’s been moody,” Brous said. “Your mother has been keeping him in line, but you’re going to have the whole family at home this Harvest, and you know how he gets with the whole clan there. Especially with Brandt rising in the Unionist party.”</p>
+   <p>“The Schmidt boys,” Hart said. “Brandt the traitor, Hart the underachiever and Wes…well, Wes.”</p>
+   <p>Brous smiled at that. “Don’t you forget your sister,” he said.</p>
+   <p>“No one forgets Catherine, Brous,” Hart said. “Catherine the Unforgettable.”</p>
+   <p>“They’re all already there, you know,” Brous said. “At the house. They all got in last night. All of them, all their spouses and children. I’m not going to lie to you, Hart. One of the reasons I came to get you was so I could have a few minutes of quiet.”</p>
+   <p>Hart grinned at this.</p>
+   <p>Presently the Schmidt family compound came into view, all 120 acres of it, with the main house set on a hill, rising above the orchards, fields and lawns. Home.</p>
+   <p>“I remember when I was six and Mom came to work here,” Brous said. “I remember driving up to this place and thinking there was no way one family could live in that much space.”</p>
+   <p>“Well, after you arrived, it wasn’t just one family,” Hart said.</p>
+   <p>“True enough,” Brous said. “I’ll tell you another story you’ll find amusing. When I was in college, I brought my girlfriend to the carriage house and she was amazed we had so much living space there. I was afraid to take her up to the main house after that. I figured she’d stop being impressed with me.”</p>
+   <p>“Was she?” Hart asked.</p>
+   <p>“No,” Brous said. “She became unimpressed with me for other reasons entirely.” He switched the car to manual, led it up the rest of the driveway and stopped at the front door. “Here you are, Hart. The entire family is inside, waiting for you.”</p>
+   <p>“What would it cost for you to drive me back?” Hart joked.</p>
+   <p>“In a couple of days I’ll do it for free,” Brous said. “Until then, my friend, you’re stuck.”</p>
+   <empty-line/>
+   <p>“Ah, the prodigal spaceman returns,” Brandt Schmidt said. He, like the rest of the Schmidt siblings, lounged on the back patio of the main house, watching the various children and spouses on the front surface of the back lawn. Brandt came up to Hart to give him a hug, followed by Catherine and Wes. Brandt pressed the cocktail he had in his hand into Hart’s. “I haven’t started on this one yet,” he said. “I’ll make another.”</p>
+   <p>“Where’s Mom and Dad?” Hart asked, sipping the drink. He frowned. It was a gin and tonic, more than a little heavy on the gin.</p>
+   <p>“Mom’s in with Magda, fussing over dinner,” Brandt said, going over to the patio bar to mix himself another highball. “She’ll be back presently. Dad’s in his office, yelling at some functionary of the Phoenix Home Party. That will take a while.”</p>
+   <p>“Ah,” Hart said. Best to miss out on that.</p>
+   <p>“You heard about the latest elections,” Brandt said.</p>
+   <p>“A bit,” Hart said.</p>
+   <p>“Then you’ll understand why he’s in a bit of a <emphasis>mood,</emphasis>” Brandt said.</p>
+   <p>“It doesn’t help that you continue to needle him about it,” Catherine said, to Brandt.</p>
+   <p>“I’m not <emphasis>needling</emphasis> him about it,” Brandt said. “I’m just not letting him get away with revising recent electoral history.”</p>
+   <p>“That’s pretty much the definition of ‘needling,’” Wes said, laconically, from his lounge, which was close to fully reclined. His eyes were closed, a tumbler of something brown on the patio itself, by his outstretched hand.</p>
+   <p>“I recognize I’m telling him things he doesn’t want to hear right now,” Brandt said.</p>
+   <p>“Needling,” Catherine and Wes said, simultaneously. They were twins and could do that from time to time. Hart smiled.</p>
+   <p>“Fine, I’m needling him,” Brandt said, took a sip of his gin and tonic, frowned and went back to the bar to add a splash more tonic. “But after so many years of listening to him talk about the historical import of each election and the PHP’s role in it, I think it’s perfectly fine to have a bit of turnabout.”</p>
+   <p>“That’s exactly what this Harvest Day needs,” Catherine said. “Another perfectly good dinner from Magda growing cold because you and Dad are going at it again at the table.”</p>
+   <p>“Speak for yourself,” Wes said. “They never stopped me from eating.”</p>
+   <p>“Well, Wes, you’ve always had a special talent for tuning out,” Catherine said. “It puts the rest of us off our appetite.”</p>
+   <p>“I don’t apologize for being the only one of us who has any interest at all in politics,” Brandt said.</p>
+   <p>“No one wants you to apologize,” Catherine said. “And you know we all have an interest in politics.”</p>
+   <p>“I don’t,” Wes said.</p>
+   <p>“We all have an interest in politics except for Wes,” Catherine amended, “who is just happy to coast on the benefits of the family having a good political name. So, by all means, Brandt, discuss politics all you like with Dad. Just wait until we get to the pie before you start going after each other.”</p>
+   <p>“Politics and pie,” Wes said. “Mmmmmm.” He started fumbling about for his drink, connected with it and brought it to his lips, eyes still closed.</p>
+   <p>Brandt turned to Hart. “Help me out here,” he said.</p>
+   <p>Hart shook his head. “I wouldn’t mind getting through an entire Harvest Day without you and Dad tossing verbal knives at each other,” he said. “I’m not here to talk politics. I’m here to spend time with my family.”</p>
+   <p>Brandt rolled his eyes at his younger brother. “Have you <emphasis>met</emphasis> our family, Hart?”</p>
+   <p>“Oh, don’t pester Hart about planetside politics,” Catherine said. “This is the first time he’s spent any time at home in Lord knows how long.”</p>
+   <p>“Last Harvest Day,” Hart volunteered.</p>
+   <p>“You can’t genuinely expect him to keep up with the relatively trivial politics of Phoenix when he’s grappling with Colonial Union-wide crises,” Catherine said to Brandt, and then swiveled her head to Hart. “What was your most recent interstellar diplomatic triumph, Hart?”</p>
+   <p>“I helped electrocute a dog in order to save a peace negotiation,” Hart said.</p>
+   <p>“What?” Catherine asked, momentarily flummoxed.</p>
+   <p>Wes cracked open an eye to look at Hart. “Is this like sacrificing a chicken to the gods?” he asked.</p>
+   <p>“It’s more complicated than it sounds,” Hart said. “And I would note that the dog survived.”</p>
+   <p>“Well, thank goodness for <emphasis>that,</emphasis>” Brandt said, and turned to his sister. “I stand corrected, fair Catherine. Hart’s clearly got more important things on his mind than mere <emphasis>politics</emphasis>.”</p>
+   <p>Before Catherine could retort, Isabel Schmidt descended and embraced her youngest son. “Oh, Hart,” she said. She gave him a peck on the cheek. “So good to see you, son. I can’t believe it’s been another whole year.” She stepped back. “You look almost exactly the same.”</p>
+   <p>“He <emphasis>is</emphasis> almost exactly the same,” Brandt said. “He’s not old enough yet to age poorly.”</p>
+   <p>“Oh, Brandt, do shut up,” Isabel said, not unkindly. “He’s thirty. That’s plenty old to start aging badly. You started at twenty-seven.”</p>
+   <p>“Ouch, Mother,” Brandt said.</p>
+   <p>“You brought it up, honey,” Isabel said, and then turned her attention back to Hart. “You still enjoying the Colonial Union diplomatic service?” she asked. “Not getting bored with it?”</p>
+   <p>“It’s not boring,” Hart admitted.</p>
+   <p>“You still working with, oh, what’s her name,” Isabel said. “Ottumwa?”</p>
+   <p>“Abumwe,” Hart said.</p>
+   <p>“That’s the one,” Isabel said. “Sorry. You know I’m terrible with names.”</p>
+   <p>“It’s all right,” Hart said. “And yes, I’m still working with her.”</p>
+   <p>“Is she still an asshole?” Catherine asked. “The last time you were home, the stories you told about her made her sound like a real piece of work.”</p>
+   <p>“What stories do your assistants tell about you?” Brandt asked his sister.</p>
+   <p>“If they tell stories, they don’t stay my assistants,” Catherine said.</p>
+   <p>“She’s gotten better,” Hart said. “Or at the very least, I think I understand her better.”</p>
+   <p>“That’s good to hear,” Isabel said.</p>
+   <p>“Ask him about the dog,” Wes drawled from his lounge.</p>
+   <p>“The dog?” Isabel said, looking over to Wes and then back to Hart. “What about a dog?”</p>
+   <p>“You know what, I think I’ll tell you that one later, Mom,” Hart said. “Maybe after dinner.”</p>
+   <p>“Does it end badly for the dog?” Isabel asked.</p>
+   <p>“End? No,” Hart said. “It ends fine for the dog. It <emphasis>middles</emphasis> poorly for him, though.”</p>
+   <p>“Diplomacy is awesome,” Wes said.</p>
+   <p>“We thought you were coming in yesterday,” Isabel said, changing the subject.</p>
+   <p>“I got hung up at the hub,” Hart said, remembering his hotel room. “It was easier to head out first thing in the morning.”</p>
+   <p>“Well, but you’re staying for the week, right?” Isabel said.</p>
+   <p>“Five days, yes,” Hart said. He had another night at the Campbell reserved before he headed back to the <emphasis>Clarke</emphasis>. He intended to use it.</p>
+   <p>“Okay, good,” Isabel said. “If you have time, I have someone I’d like you to meet.”</p>
+   <p>“Oh, Mom,” Catherine said. “Are you really going to try this again?”</p>
+   <p>“There’s nothing wrong with introducing Hart to some options,” Isabel said.</p>
+   <p>“Does this option have a name?” Hart asked.</p>
+   <p>“Lizzie Chao,” Isabel said.</p>
+   <p>“This is the same Lizzie Chao who I went to high school with,” Hart said.</p>
+   <p>“I believe so,” Isabel said.</p>
+   <p>“She’s married,” Hart said.</p>
+   <p>“She’s separated,” Isabel said.</p>
+   <p>“Which means she’s married with an option to trade up,” Catherine said.</p>
+   <p>“Mom, I remember Lizzie,” Hart said. “She’s really not my type.”</p>
+   <p>“She has a brother,” Wes said, from his lounge.</p>
+   <p>“He’s not my type, either,” Hart said.</p>
+   <p>“Who <emphasis>is</emphasis> your type these days, Hart?” Isabel asked.</p>
+   <p>“I don’t have a type these days,” Hart said. “Mom, I work out of a spaceship all year around. I share quarters that are smaller than our kitchen pantry. I spend my days trying to convince aliens we don’t want to blow them up anymore. That’s an all-day job. Given my circumstances, it would be foolish to attempt any sort of relationship. It wouldn’t be fair to the other person, or to me, for that matter.”</p>
+   <p>“Hart, you know I hate sounding like the stereotypical mother,” Isabel said. “But you’re the only one of my children who isn’t in a relationship and having children. Even Wes managed it.”</p>
+   <p>“Thanks, Mom,” Wes said, lifting his hand in a lazy wave.</p>
+   <p>“I don’t want you to end up feeling the good things in life are passing you by,” Isabel said, to Hart.</p>
+   <p>“I don’t feel that way,” Hart said.</p>
+   <p>“Not now,” Isabel said. “But honey, you’re thirty and you’re still at deputy level. If it doesn’t happen for you in the next year or two, it’s not going to happen. And then where are you going to be? I love you and want you to be happy. But it’s time you start thinking realistically about these things and whether the CU diplomatic service is really the best use of your talents and your life.”</p>
+   <p>Hart leaned over and gave his mother a peck on the cheek. “I’m going to go up and unpack, and then I’m going to check in on Dad,” he said. He swallowed the rest of his drink and walked into the house.</p>
+   <p>“Subtlety still counts for something, Mom,” Hart heard Catherine say as he entered the house. If his mother responded, however, it was lost to Hart.</p>
+   <empty-line/>
+   <p>Hart found his father, Alastair Schmidt, in his home office, situated in his parents’ wing of the third floor, which included their bedroom, its master bath suite, attached and separate wardrobes, individual offices, library and drawing room. The children’s wing of the house was no less appointed but arranged differently.</p>
+   <p>Alastair Schmidt was standing behind his desk, listening to one of his political underlings give him a report through a speaker. The underling was no doubt in a Phoenix Home Party cubicle in Phoenix City, trying desperately to get out of the office in order to celebrate Harvest Day with his family but pinned to his desk by the baleful attention of Schmidt, one of the grand old men of the party and of Phoenix global politics generally.</p>
+   <p>Hart poked his head around the open door and waved to let his father know he was home; his father waved him into the room brusquely and then turned his attention back to his unfortunate apparatchik. “I wasn’t asking why the data was difficult to locate, Klaus,” he said. “I was asking why we don’t seem to have it at all. ‘Difficult to locate’ and ‘not in our possession’ are two entirely separate things.”</p>
+   <p>“I understand that, Minister Schmidt,” Klaus the apparatchik was saying. “What I’m saying is that we’re hampered by the holiday. Most people are out. The requests we filed are in and will be honored, but they have to wait until people get back.”</p>
+   <p>“Well, you’re in, aren’t you?” Alastair said.</p>
+   <p>“Yes,” Klaus said, and Hart caught the slight edge of misery in his voice at the fact. “But-”</p>
+   <p>“And the entire government doesn’t in fact shut all the way down even on major global holidays,” Alastair said, cutting off Klaus before he could offer another objection. “So your job right now is to find the people who are still working today, just like you are, get that data and those projections, and have them on my desk in an encrypted file before I go to bed tonight. And I have to tell you, Klaus, that I tend to go to bed early on Harvest Day. It’s all that pie.”</p>
+   <p>“Yes, Minister Schmidt,” Klaus said, unhappily.</p>
+   <p>“Good,” Alastair said. “Happy Harvest, Klaus.”</p>
+   <p>“Happ-” Klaus was cut off as Alastair severed the connection.</p>
+   <p>“His Harvest isn’t going to be happy because you’re making him work on Harvest Day,” Hart observed.</p>
+   <p>“If he’d gotten me that data yesterday like I asked and like he’d promised, he’d be at home, chewing on a drumstick,” Alastair said. “But he didn’t, so he’s not, and that’s on him.”</p>
+   <p>“I noticed he still called you ‘minister,’” Hart said.</p>
+   <p>“Ah, so you know about the election,” Alastair said. “Brandt gloating, is he?”</p>
+   <p>“I heard it from other sources,” Hart said.</p>
+   <p>“Officially, the Green-Union government is extending an olive branch to the PHP by asking me to stay on as minister for trade and transport,” Alastair said. “Unofficially, the point was made to the coalition that they have no one near competent to run the ministry, and that if they are going to screw up any one ministry, the one they don’t want to screw up is the one that makes sure food arrives where it’s supposed to and that people are able to get to work.”</p>
+   <p>“It’s a legitimate point,” Hart said.</p>
+   <p>“Personally, the sooner this Green-Union coalition collapses, the happier I’ll be, and I gave some thought to turning it down, just to watch the ensuing train wreck,” Alastair said. “But then I realized that there would probably be actual train wrecks, and that’s the sort of thing that will get everyone’s head on a spike, not just the heads of those in the coalition.”</p>
+   <p>Hart smiled. “That famous Alastair Schmidt compassion,” he said.</p>
+   <p>“Don’t you start,” Alastair said. “I get enough of that from Brandt. It’s not that I don’t care. I do. But I’m also still pissed about the election results.” He motioned at the chair in front of the desk, offering Hart the seat; Hart took it. Alastair sat in his own seat, regarding his son.</p>
+   <p>“How is life in the Colonial Union diplomatic corps?” Alastair asked. “I imagine it must be exciting, what with the collapse of relations between the Earth and the Colonial Union.”</p>
+   <p>“We live in interesting times, yes,” Hart said.</p>
+   <p>“And your Ambassador Abumwe seems to be in the thick of things lately,” Alastair said. “Dashing between assignments all across known space.”</p>
+   <p>“They have been keeping her busy,” Hart said.</p>
+   <p>“And you’ve been busy as well?” Alastair asked.</p>
+   <p>“Mostly,” Hart said. “I’m doing a lot of work with Lieutenant Harry Wilson, who is a CDF technician who handles various tasks for us.”</p>
+   <p>“I know,” Alastair said. “I have a friend who works for the Department of State. Keeps me up-to-date on the diplomatic reports from the <emphasis>Clarke</emphasis>.”</p>
+   <p>“Is that so,” Hart said.</p>
+   <p>“Not a whole lot of future in electrocuting dogs, Hart,” Alastair said.</p>
+   <p>“<emphasis>There</emphasis> we go,” Hart said.</p>
+   <p>“Am I wrong?” Alastair asked.</p>
+   <p>“Do you actually read the reports you get, Dad?” Hart said. “If you read the report about the dog, then you know what happened was that we ended up saving the peace negotiations and helped secure an alliance for the Colonial Union with a race that had been leaning toward aligning with the Conclave.”</p>
+   <p>“Sure, after you carelessly allowed the dog to be eaten by a carnivorous plant, revealing the death site of a king whose disappearance started the race’s civil war, the discovery of which threatened a peace process that by all indications wasn’t threatened before,” Alastair said. “You don’t get credit for putting out fires you set yourself, Hart.”</p>
+   <p>“The official report reads differently than your interpretation, Dad,” Hart said.</p>
+   <p>“Of course it does,” Alastair said. “If I were your bosses, I would write it that way, too. But I’m not your boss, and I can read between the lines better than most.”</p>
+   <p>“Are you going somewhere with this, Dad?” Hart said.</p>
+   <p>“I think it’s time you came back to Phoenix,” Alastair said. “You gave the Colonial Union your best shot, and they’ve misused your talent. They stuck you with a diplomatic team that’s been catching lost-cause missions for years, and assigned you to a CDF grunt who uses you for menial tasks. You’re too accommodating to complain, and maybe you’re even having fun, but you’re not going anywhere, Hart. And maybe that’s fine early in your career, but you’re not early in your career anymore. You’ve dead-ended. It’s over.”</p>
+   <p>“Not that I agree with you,” Hart said, “but why do you care, Dad? You’ve always told us that we have to make our own path, and you told us that we would have to sink or swim on our own. You’re a veritable raft of tough-love metaphors on the subject. If you think I’m sinking, you should be willing to let me sink.”</p>
+   <p>“Because it’s not just about <emphasis>you,</emphasis> Hart,” Alastair said. He pointed at the speaker through which he had been yelling at Klaus. “I’m seventy-two years old, for Christ’s sake. Do you think I want to be spending my time keeping some poor bastard from enjoying his Harvest Day? No, what I want to do is tell the PHP to get along without me and spend more time with those grandkids of mine.”</p>
+   <p>Hart stared at his father blankly. At no point in the past had his father ever evinced more than the most cursory interest in his grandchildren. <emphasis>Maybe that’s because they’re not interesting yet,</emphasis> a part of Hart’s brain said, and he could see the point. His father had become more engaged with his own children the older they got. And he could have his softer side; Hart’s eyes flickered to the medal case on the wall, holding Brous’s Nova Acadia award.</p>
+   <p>“I can’t do that because I don’t have the right people following me,” Alastair continued. “Brandt’s gloating because the Unionists have their share of power, but the thing is the reason it happened is because the PHP hasn’t cultivated new talent, and now it’s biting us in the ass.”</p>
+   <p>“Wait,” Hart said. “Dad, are you wanting me to join the PHP? Because I have to tell you, that’s really not going to happen.”</p>
+   <p>“You’re missing my point,” Alastair said. “The PHP hasn’t developed new talent, but neither have the Greens or the Unionists. I’m still on the job because the whole next generation of political talent on Phoenix are, with very few exceptions, complete incompetents.” He pointed in the direction of the patio, where the rest of the family was. “Brandt thinks I get annoyed with him because he’s in with the Unionists. I get annoyed with him because he’s not rising through its leadership fast enough.”</p>
+   <p>“Brandt likes politics,” Hart said. “I don’t.”</p>
+   <p>“Brandt likes everything <emphasis>around</emphasis> politics,” Alastair said. “He doesn’t give a crap about the politics itself, yet. That will come. It will come to Catherine, too. She’s busy building a power base in the charity world, rolling over people and getting them to thank her for it by supporting her works. When she finally transfers over into politics, she’s going to make a beeline for prime minister.”</p>
+   <p>“And what about Wes?” Hart asked.</p>
+   <p>“Wes is Wes,” Alastair said. “One in every family. I love him, but I think of him as a sarcastic pet.”</p>
+   <p>“I don’t think I would tell Wes that if I were you,” Hart said.</p>
+   <p>“He figured it out a long time ago,” Alastair said. “I think he’s at peace with it, especially as it requires nothing from him. As I said. One in every family. We can’t afford two.”</p>
+   <p>“So you want me to come home,” Hart said. “And what do I do then? Just walk into some political role you’ve picked out for me? Because no one will see the obvious nepotism in that, Dad.”</p>
+   <p>“Give me some credit for subtlety,” Alastair said. “Do you really think Brandt is where he is with the Unionists all on his own? No. They saw the value in the Schmidt brand name, as it were, and we came to an arrangement about what they’d get in return for fast-tracking him in the organization.”</p>
+   <p>“I would <emphasis>definitely</emphasis> not tell Brandt that if I were you,” Hart said.</p>
+   <p>“Of course not,” Alastair said. “But I am telling <emphasis>you</emphasis> so that you will understand how these things work.”</p>
+   <p>“It’s still nepotism,” Hart said.</p>
+   <p>“I prefer to think of it as advancing people who are a known quantity,” Alastair said. “And aren’t you a known quantity, Hart? Don’t you have skills, honed through your diplomatic career, that would have immediate use at a high level? Would you really want to start near the bottom? You’re a little old for that now.”</p>
+   <p>“You’ve just admitted the Colonial Union diplomatic corps taught me skills,” Hart said.</p>
+   <p>“I never said you didn’t have them,” Alastair said. “I said they were being wasted. Do you want to use them as they ought to be used? This is the place, Hart. It’s time to let the Colonial Union take care of the Colonial Union. Come back to Phoenix, Hart. I need you. We need you.”</p>
+   <p>“Lizzie Chao needs me,” Hart said, ruefully.</p>
+   <p>“Oh, no, stay away from her,” Alastair said. “She’s bad news. She’s been banging my field rep here in Crowley.”</p>
+   <p>“Dad!” Hart said.</p>
+   <p>“Don’t tell your mother,” Alastair said. “She thinks Lizzie is a nice girl. And maybe she is nice. Just without very good judgment.”</p>
+   <p>“We wouldn’t want that,” Hart said.</p>
+   <p>“You’ve had enough bad judgment in your life so far, Hart,” Alastair said. “Time to start making some better choices.”</p>
+   <empty-line/>
+   <p>“Didn’t expect to see you again so soon,” Brous Kueltzo said. He was leaning up against the car, reading a message on his PDA. Hart had walked down to the carriage house.</p>
+   <p>“I needed to get away from the family for a bit,” Hart said.</p>
+   <p>“Already, huh?” Brous said.</p>
+   <p>“Yeah,” Hart said.</p>
+   <p>“And you still have four days to go,” Brous said. “I’ll pray for you.”</p>
+   <p>“Brous, can I ask you a question?” Hart said.</p>
+   <p>“Sure,” Brous said.</p>
+   <p>“Did you ever resent us?” Hart asked. “Ever resent me?”</p>
+   <p>“You mean, for being obscenely rich and entitled and a member of one of the most important families on the entire planet through absolutely no effort of your own and for having everything you ever wanted served up to you on a platter without any idea how hard it was for the rest of us?” Brous said.</p>
+   <p>“Uh, yes,” Hart said, taken slightly aback. “Yes. That.”</p>
+   <p>“There was a period where I did, yeah,” Brous said. “I mean, what do you expect? Resentment is about sixty percent of being a teenager. And all of you-you, Catherine, Wes, Brandt-were pretty clueless about the rarefied air you lived in. Down here in the flats, living above the garage? Yeah, there was some resentment there.”</p>
+   <p>“Do you resent us now?” Hart said.</p>
+   <p>“No,” Brous said. “For one thing, bringing that college girlfriend back to the carriage house brought home the point that all things considered, I was doing just fine. I went to the same schools you did, and your family supported and cared for me, my sister and my mom, and not just in some distant noblesse oblige way, but as friends. Hell, Hart. I write <emphasis>poetry,</emphasis> you know? I have that because of you guys.”</p>
+   <p>“Okay,” Hart said.</p>
+   <p>“I mean, you all still have your moments of class cluelessness, trust me on this, and you all poke at each other in vaguely obnoxious ways,” Brous said. “But I think even if you had no money, Brandt would be a status seeker, Catherine would steamroll everyone, Wes would float along, and you’d do your thing, which is to watch and help. You’d all be you. Everything else is circumstance.”</p>
+   <p>“It’s good to know you think so,” Hart said.</p>
+   <p>“I do,” Brous said. “Don’t get me wrong. If you want to divest yourself of your share of the family trust fund and give to me, I’ll take it. I’ll let you sleep above the garage when you need to.”</p>
+   <p>“Thanks,” Hart said, wryly.</p>
+   <p>“What brought about this moment of questioning, if you don’t mind me asking?” Brous asked.</p>
+   <p>“Oh, you know,” Hart said. “Dad pressuring me to leave the diplomatic corps and join the family business, which is apparently running this entire planet.”</p>
+   <p>“Ah, <emphasis>that,</emphasis>” Brous said.</p>
+   <p>“Yes, that,” Hart said.</p>
+   <p>“That’s another reason why I don’t resent you guys,” Brous said. “This whole ‘born to rule’ shit’s gotta get tiring. All I have to do is drive your dad and string words together.”</p>
+   <p>“What if you don’t want to rule?” Hart said.</p>
+   <p>“Don’t rule,” Brous said. “I’m not sure why you’re asking that, though, Hart. You’ve done a pretty good job of not ruling so far.”</p>
+   <p>“What do you mean?” Hart asked.</p>
+   <p>“There’s four of you,” Brous said. “Two of you are primed to go into the family business: Brandt, because he likes the perks, and Catherine, because she’s actually good at it. Two of you want nothing to do with it: Wes, who figured out early that one of you gets to be the screwup, so it might as well be him, and you. The screwup slot was already claimed by Wes, so you did the only logical thing left to third sons of a noble family-you went elsewhere to seek your fortune.”</p>
+   <p>“Wow, you’ve actually thought about this a lot,” Hart said.</p>
+   <p>Brous shrugged. “I’m a writer,” he said. “And I’ve had a lot of time to observe you guys.”</p>
+   <p>“You could have told me all this earlier,” Hart said.</p>
+   <p>“You didn’t ask,” Brous said.</p>
+   <p>“Ah,” Hart said.</p>
+   <p>“Also, I could be wrong,” Brous said. “I’ve learned over time I’m full of just about as much shit as anyone.”</p>
+   <p>“No, I don’t think you are,” Hart said. “Wrong, I mean. I remain neutral about the ‘full of shit’ part.”</p>
+   <p>“Fair enough,” Brous said. “It sounds like you’re having a moment of existentialist crisis here, Hart, if you don’t mind me saying.”</p>
+   <p>“Maybe I am,” Hart said. “I’m trying to decide what I want to be when I grow up. A nice thing to wonder about when you’re thirty.”</p>
+   <p>“I don’t think it matters what age you are when you figure it out,” Brous said. “I think the important thing is to figure it out before someone else tells you what you want to be, and they get it wrong.”</p>
+   <empty-line/>
+   <p>“Who’s giving the toast this year?” Isabel asked. They were all seated at the table: Alastair and Isabel, Hart, Catherine, Wes and Brandt and their spouses. The children were sequestered away in the next room, on low tables, and were busy throwing peas and rolls at one another while the nannies vainly tried to keep control.</p>
+   <p>“I’ll give the toast,” Alastair said.</p>
+   <p>“You give the toast every year,” Isabel said. “And your toasts are boring, dear. Too long and too full of politics.”</p>
+   <p>“It’s the family business,” Alastair said. “It’s a family dinner. What else should we talk about?”</p>
+   <p>“And besides which, you’re still bitter about the election, and I don’t want hear about it tonight,” Isabel said. “So no toast from you.”</p>
+   <p>“I’ll give the toast,” Brandt said.</p>
+   <p>“Oh, hell, no,” Alastair said.</p>
+   <p>“Alastair,” Isabel said, admonishingly.</p>
+   <p>“You thought <emphasis>my</emphasis> toast was going to be long and boring and full of politics,” Alastair said. “The gloater in chief here will positively outstrip your expectations of me.”</p>
+   <p>“Dad does have a point,” Catherine said.</p>
+   <p>“Then you say it, dear,” Isabel said to her.</p>
+   <p>“Indeed,” Brandt said, clearly a little hurt at having his toast proposal rebuffed. “Regale us with tales of the people you’ve met and crushed in the last year.”</p>
+   <p>“The hell with this,” Wes said, and reached for the mashed potatoes.</p>
+   <p>“Wes,” Isabel said.</p>
+   <p>“What?” Wes said, spooning out a heap of potatoes. “By the time you figure out who’s toasting what, everything will be dry and cold. I have too much respect for Madga’s work for that.”</p>
+   <p>“I’ll make the toast,” Hart said.</p>
+   <p>“Ho!” Brandt said. “This is a first.”</p>
+   <p>“Quiet, Brandt,” Isabel said, and turned her attention to her youngest. “Go ahead, dear.”</p>
+   <p>Hart stood, picked up his glass of wine and looked over the table.</p>
+   <p>“Every year, whoever makes the toast gets to talk about the events in their life from the last year,” Hart said. “Well, I have to say this has been an eventful year. I got spit on by aliens as part of a diplomatic negotiation. My ship was attacked with a missile and almost blew up around me. I got a human head delivered to me by an alien as part of another, entirely different negotiation. And, as you all recently learned, I helped zap a dog into unconsciousness as part of a third negotiation. All the while living day to day in a ship that’s the oldest one in service, sleeping in a bunk that’s barely wide enough for me, rooming with a guy who is either snoring or passing gas most of the night.</p>
+   <p>“If you think about it, it’s a ridiculous way to live. It really is. And, as has also been pointed out to me recently, it’s a way that doesn’t seem to hold much of a future for me, assigned as I am to a low-ranking ambassador who has had to fight her way to the sorts of missions that more exalted diplomats would turn down as a waste of their talents and abilities. It does make you wonder why I do it. Why I <emphasis>have</emphasis> done it.</p>
+   <p>“And then I remember why I do it. Because as strange, and exhausting, and enervating, and, yes, even humiliating as it can be, at the end of the day, when everything goes right, it’s the most exciting thing I’ve ever done. Ever. I stand there and I can’t believe that I’ve been part of a group who meets with people who are not human but can still reason, and that we’ve reasoned together, and through that reason have agreed to live together, without killing each other or demanding more of the other than what each of us needs from the other.</p>
+   <p>“And it’s happening at a time in our history that’s never been more critical to humanity. We are out here, all of us, without the sort of protection and growth that Earth has always provided us before. And because of that, every negotiation, every agreement, every action we take-even those of us on the bottom rung of the diplomatic service-makes a difference for the future of humanity. For the future of this planet and every planet like it. For the future of everyone at this table.</p>
+   <p>“I love all of you. Dad, I love your dedication to Phoenix and your desire to keep it running. Mom, I love that you care for each of us, even when you snipe at us a little. Brandt, I love your ambition and drive. Catherine, I love the fact that one day you will rule us all. Wes, I love that you are the family jester, who keeps us honest. I love you and your wives and husbands and your children. I love Magda and Brous and Lisa, who have lived their lives with us.</p>
+   <p>“I was told recently by someone that if I wanted to make a difference, that this must be the place. Here, on Phoenix. With love and respect, I disagree. Dad, Brandt and Catherine will take care of Phoenix for us. My job is to take care of the rest of it. That’s what I do. That’s what I’m going to keep doing. That’s where what I do matters.</p>
+   <p>“So to each of you, my family, a toast. Keep Phoenix safe for me. I’ll work on everything else. When I come back for Harvest Day next year, I’ll let you know how it’s going. That’s a promise. Cheers.”</p>
+   <p>Hart drank. Everyone drank but Alastair, who waited until he caught his son’s eye. Then he raised his glass a second time and drank.</p>
+   <p>“That was worth holding off on the potatoes for,” Wes said. “Now pass me the gravy, please.”</p>
+  </section>
+ </body>
+ <binary id="thiwsr.jpg" content-type="image/jpeg">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
++yKnLqqlkibeOT3RGn4vXZZZcLO5eRAGi/Y297gmPPPDumIf8JV2PqWt0AuVn7c1tfsvsrsl
+VQ4tjENNV1FWZDE5jyQ0NABuAR1qxPtr7C/7Rwfq5PqoAmj353ZiOKYdsNmYdsNmp8FlqnUr
+ZnscZmszkZTfgSE0/bX2F/2ip/1Un1UPtr7C/wC0VP8AqpPqoAhrfY14eRc7TVJHZSt+su7f
+Y34MwfdNoa8jsiYPWpYN7Oww4bSQj+zk+qgd7Owx47RwH+zk+qgCnN6W7LCNg8BoKzDq6sqZ
+qipMT+nLbAZSdAAFC9htn37UbZ4ZhQALJZg6bsjb3zvmB+VWVvq2y2d2n2ew2mwbFIquaKrM
+j2ta5uVuQi+oHNQvdPjWHbPbfUuIYpVspaRkMrXSuBNiW6cATx7EAa+BjgY1jQGsaMrWgcAO
+AXOSpzNIaOPMqDHexsKeO0cH6qT6q8+2vsL/ALRQfq5PqoAmYVH7a7otr9sNra7F+6sNbFK7
+LBG6Z12RjRo9zxtr4SVPftr7C/7Rwfq5PqoDexsKDcbRwA/FSfVQBUX+Dttb+WYX+td9VD/B
+22t/LML/AFrvqq4PtvbEgfhLB+qk+qvftvbEn/8AySD9VJ9VAFOH2PG1g41uFjwyu+qq52k2
+fqdmMeqsHrZI31FMQHuiN2m4B0PlWpjvY2GJudo4D/ZyfVWc95eKUONbf4riOG1Daikmc0xy
+tBAcA0DgdeIQBEoheVg63BbvoZGxYZStdyhZ6IWG8HbA/GqJtVK2Gn6dnSyO4NbmFyfItXO3
+sbCk6bRU4A4fcpOH91AE4lnztLQ3iuChv22Nhf8AaOD9VJ9VD7a+wv8AtHB+qk+qgCi9+ULo
+t59Y53CSCFze0ZLfQq4Vo76sa2f2jxnDsUwTEoqt/QGGdrGuBbY3ae+A5H5lVyAAggggAIII
+IACCCCAAggggAXPWggggAIIIIACCCCAAhdBBAAQQQQAEEEEABBBBAAQQQQAEEEEABBBBAAug
+gggAXQQQQAEEEEABBBBAAQQQQALnrQQQQAEEEEABBBBAAuggggAIIIIACCCCAAggggAIIIIA
+CF0EEABBBBAAQQQQAEEEEABBBBAAQQQQAEEEEABBBBAAQQQQAEEEEABBBBAAQQQQAEEEEABB
+BBAAQQQQAEEEEABBBBAAQQQQAEEEEABBBBAAQQQQAEEEEABBBBAAQQQQAEEEEABBBBAAQQQQ
+AEEEEABBBBAAQQQQAEEEEABBBBAAQQQQAEEEEABBBBAH/9k=</binary>
+</FictionBook>

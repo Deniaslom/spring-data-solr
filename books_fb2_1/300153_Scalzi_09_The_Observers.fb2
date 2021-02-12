@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>John</first-name>
+    <last-name>Scalzi</last-name>
+   </author>
+   <book-title>The Observers</book-title>
+   <date></date>
+   <coverpage>
+    <image l:href="#observers.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Human Division" number="9"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>John</first-name>
+    <last-name>Scalzi</last-name>
+   </author>
+   <program-used>calibre 0.8.56, Fiction Book Designer, FictionBook Editor Release 2.6.6</program-used>
+   <date value="2013-03-29">29.03.2013</date>
+   <id>FBD-82497E-3C29-1040-549F-A672-F8B2-B9E296</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>John Scalzi</p>
+   <empty-line/>
+   <p>The Observers</p>
+  </title>
+  <section>
+   <p>“Lieutenant Wilson,” Ambassador Ode Abumwe said. “Come in. Sit down, please.”</p>
+   <p>Harry Wilson entered Abumwe’s stateroom on the new <emphasis>Clarke,</emphasis> which was even smaller and less comfortable than it had been on their previous spaceship. “This is cozy,” he said, as he sat.</p>
+   <p>“If by ‘cozy’ you mean ‘almost insultingly cramped,’ then yes, that’s exactly what it is,” Abumwe said. “If you actually meant ‘cozy,’ then you should have better standards of personal comfort.”</p>
+   <p>“I did in fact mean the first of those,” Wilson assured her.</p>
+   <p>“Yes, well,” Abumwe said. “When you have your spaceship shot out from under you and your replacement starship is half a century old and put together with baling wire and gum, you make do with what you have.” She motioned to her walls. “Captain Coloma tells me that this is actually one of the more spacious personal quarters on the ship. Larger than hers, even. I don’t know if that’s true.”</p>
+   <p>“I have an officer’s berth,” Wilson said. “I think it’s about a third of the size of this stateroom. I can turn around in it, but I can’t extend both of my arms out in opposite directions. Hart’s is even smaller and he’s got a roommate. They’re either going to kill each other or start sleeping together simply as a defensive maneuver.”</p>
+   <p>“It’s a good thing Mr. Schmidt is using his vacation time, then,” Abumwe said.</p>
+   <p>“It is,” Wilson agreed. “He told me he planned to spend it in a hotel room, by himself for a change.”</p>
+   <p>“The romance of the diplomatic life, Lieutenant Wilson,” Abumwe said.</p>
+   <p>“We are living the dream, ma’am,” Wilson said.</p>
+   <p>Abumwe stared at Wilson for a moment, as if she were slightly disbelieving the two of them had actually just made a commiserating joke together. Wilson wouldn’t have blamed her if she was. The two of them had not really gotten along for nearly all the time he had been assigned to her mission group. She was acerbic and forbidding; he was sarcastic and aggravating; and both of them were aware that in the larger scheme of things they were hanging on to the bottom rung of the diplomatic ladder. But the last several weeks had been odd times for everyone. If the two of them still weren’t what you could call friendly, at the very least they realized that circumstances had put them both on the same side, against most of the rest of the universe.</p>
+   <p>“Tell me, Wilson, do you remember the time when you reminded me we had something in common?” Abumwe asked the lieutenant.</p>
+   <p>Wilson frowned, trying to remember. “Sure,” he said, after a minute. “We’re both from Earth.”</p>
+   <p>Abumwe nodded. “Right,” she said. “You lived there for seventy-five years before joining the Colonial Defense Forces. I emigrated when I was a child.”</p>
+   <p>“I seem to recall you not being particularly pleased that I reminded you of the connection,” Wilson said.</p>
+   <p>Abumwe shrugged. “You made the connection right as the Earth and the Colonial Union had their falling-out,” she said. “I thought you were making some sort of implication.”</p>
+   <p>“I wasn’t trying to recruit you, I swear,” Wilson said, risking a little levity.</p>
+   <p>“I wasn’t under the impression you were,” Abumwe said. “I simply thought you were making a joke in terrible taste.”</p>
+   <p>“Ah,” Wilson said. “Got it.”</p>
+   <p>“But as it turns out, this shared connection has landed us an unusual assignment,” Abumwe said. She picked up her PDA, activated it and pressed at the screen. An instant later, Wilson’s BrainPal pinged and a note popped up in his field of vision; Abumwe had sent him a file.</p>
+   <p>Wilson unpacked and quickly scanned the file, closing his eyes to focus. After a minute, he smiled. “The Earthlings are coming,” he said.</p>
+   <p>“That’s right,” Abumwe said. “The Colonial Union is worried that the Earth still has a lack of confidence in the transparency of our dealings with it. It’s worried that the Earth will eventually decide to go it alone, or even worse, start negotiations with the Conclave to join its ranks. So as a gesture of goodwill, it’s going to allow a party of observers unimpeded access to one of its current set of diplomatic negotiations. They’ve selected our upcoming trade talks with the Burfinor. I am told that the secretary herself believes that my personal connection with the Earth-and the connection of my staff, meaning <emphasis>you</emphasis>-will have a meaningful positive impact on the relationship between the Colonial Union and the Earth.”</p>
+   <p>“And you believe that line?” Wilson said, opening his eyes.</p>
+   <p>“Of course not,” Abumwe said. “We were picked because our negotiations with the Burfinor are inconsequential. It looks good because we’re trading for the Burfinor’s biomedical technology, which will be impressive if you’ve never seen something like it before, and the Earth people haven’t. But it’s not something that’s particularly sensitive. So it doesn’t matter if the Earth people watch what we do. The bit about you and me having a history with Earth is just show.”</p>
+   <p>“Do we know if these people are <emphasis>actually</emphasis> from Earth?” Wilson asked. “Captain Coloma and I had a run-in with fake Earthlings not too long ago. The CDF was passing off former soldiers as representatives from Earth in order to find a spy. We’ve gotten played before, ma’am. We need to know whether we’re being played again, and if so, what for.”</p>
+   <p>Abumwe smiled, which was a rare enough thing that Wilson took special note of it. “You and I had the same thought on this, which is why I ran this past some of my own people at Phoenix Station,” she said. “Everything I can see about these people checks out. But then again I don’t have the same familiarity with Earth that you do, so there might be something I’m missing. You have the entire file on all five members of the observer mission. Go through it and let me know if something stands out for you.”</p>
+   <p>“Got it,” Wilson said. “Might as well let my personal history actually work for us.”</p>
+   <p>“Yes,” Abumwe said. “And another thing, Wilson. You left Earth only a decade ago. You’re still close enough to how people from Earth think and do things that you can give us insight into their state of mind regarding the Colonial Union and their relationship to us.”</p>
+   <p>“Well, that depends,” Wilson said. “I’m from the United States. If the observers are from elsewhere, I’m not going to be any more useful than anyone else.”</p>
+   <p>“One of them is, I think,” Abumwe said. “It’s in the files. Go ahead and see. If there is, then make friends with that one.”</p>
+   <p>“All right,” Wilson said. “This is the part where I officially note to you that I am supposed to be doing other work for you on this mission, specifically examining the equipment the Burfinor are giving us.”</p>
+   <p>“Of course,” Abumwe said, slightly irritated. “Do your actual job, and do this. In fact, combine the two and invite one of the observers to help you run your tests. We will score additional transparency points for that. All the while you’ll be learning things from them.”</p>
+   <p>“Spying on them,” Wilson said.</p>
+   <p>“I prefer the term ‘observing,’” Abumwe said. “After all, they will be observing <emphasis>us</emphasis>. There’s no reason not to return the favor.”</p>
+   <empty-line/>
+   <p>The humans from Earth constituted a carefully selected group, the members chosen to represent the entire planet, not only a single continent or political group or interest. From Europe, there was Franz Meyer, an economist and author. South America yielded Luiza Carvalho, a lawyer and diplomat. From Africa, Thierry Bourkou, an engineer. North America offered Danielle Lowen, a doctor. Asia presented Liu Cong, a diplomat who was the head of the observer mission.</p>
+   <p>Ambassador Abumwe welcomed them warmly to the <emphasis>Clarke,</emphasis> introduced Captain Coloma and Executive Officer Neva Balla and made introductions of her own staff. Wilson was introduced last of all, as the liaison between the observer mission and Abumwe. “Whatever you want or whatever questions you have, Wilson is here for you,” Abumwe said.</p>
+   <p>Wilson nodded and shook hands with Liu and, as agreed to by Abumwe, addressed him in standard Chinese. “Welcome to our ship, and I look forward to assisting you however I may,” he said, to the diplomat.</p>
+   <p>Liu smiled, glanced over to Abumwe and then turned his attention back to Wilson. “Thank you, Lieutenant,” he said. “I was not made aware that you spoke anything other than English.”</p>
+   <p>Wilson waited for his BrainPal to translate and then thought up a response; his BrainPal translated it and gave him the pronunciation, which he then attempted. “I don’t,” he said. “The computer in my head is able to translate what you say and offers me a response in the same language. So you may talk to me in whatever language you like. However, I ask that you let me respond in English, because I am sure I am mangling your language right now.”</p>
+   <p>Liu laughed. “Indeed you are,” he said, in unaccented English. “Your pronunciation is terrible. But I appreciate the effort. Can you do the same trick for my colleagues?”</p>
+   <p>Wilson could and did, conversing briefly in Brazilian Portuguese, Arabic and German before bringing his attention to Lowen.</p>
+   <p>“I don’t believe I need to do the translation trick with you,” he said to her.</p>
+   <p><emphasis>“Repete, s’il vous plait?”</emphasis> Lowen said.</p>
+   <p>“Uh,” Wilson said, and scrambled to respond in French.</p>
+   <p>“No, no, I’m just messing with you,” Lowen said, quickly. “I’m from Colorado.”</p>
+   <p>“We’ve known each other thirty seconds and already I can tell you’re difficult, Ms. Lowen,” Wilson said, testing.</p>
+   <p>“I prefer to think of it as challenging, Lieutenant Wilson,” Lowen said. “I assumed you’d be able to handle it.”</p>
+   <p>“I don’t mind,” Wilson assured her.</p>
+   <p>“You sound midwesterny to me,” Lowen said. “Maybe Ohio?”</p>
+   <p>“Indiana,” Wilson said.</p>
+   <p>“Did you hear about the Cubs?” Lowen said.</p>
+   <p>Wilson smiled. “I heard something about that, yes.”</p>
+   <p>“They finally won a World Series and the world did not end,” Lowen said. “All those prophecies, shot to hell.”</p>
+   <p>“Disappointing, really,” Wilson said.</p>
+   <p>“Not to me,” Lowen said. “The Earth is where I keep all my stuff.”</p>
+   <p>“You and Lieutenant Wilson seem to get along, Doctor Lowen,” Liu said, watching the exchange between the two.</p>
+   <p>“We seem to speak each other’s language, yes,” Lowen said.</p>
+   <p>“Perhaps you wouldn’t mind being our point person with the lieutenant,” Liu said. “It would be easier to route all our requests for him through a single person.”</p>
+   <p>“If you like, Ambassador Liu,” Lowen said, and turned back to Wilson. “That work for you, Lieutenant?”</p>
+   <p>“Will you submit all your requests in French?” Wilson asked.</p>
+   <p>“If you really have a hankering to experience my genuinely atrocious high school French any more than you already have, then, sure,” Lowen said.</p>
+   <p>“Then we have a deal,” Wilson said.</p>
+   <p><emphasis>“Merveilleux,”</emphasis> Lowen said.</p>
+   <p>Wilson glanced over to Abumwe, whose expression was caught between amusement and annoyance. <emphasis>Well, you wanted me to make friends with the American,</emphasis> Wilson thought.</p>
+   <empty-line/>
+   <p>The negotiations with the Burfinor did not go well.</p>
+   <p>“We regret to inform you that our minister in charge of trade has said that the initial conditions for our negotiation are, in her mind, too unfavorable toward us,” said Blblllblblb Doodoodo, whose first name was most accurately pronounced by humans by rapidly moving their finger back and forth on their lips and then crooning the second half.</p>
+   <p>“That is indeed regrettable,” Abumwe said. Wilson, who was in the back of the conference room, ready to give a report that he now suspected he would not give, could see the set in Abumwe’s jaw that signaled her irritation at this unexpected speed bump, but he did not imagine it was noticeable to anyone who hadn’t been with her for some time. At the very least, none of the observers from Earth seemed to notice. They seemed far more engaged in Doodoodo. Wilson reminded himself that the Earthlings were still new to spending time in the company of alien species; the Burfinor might be the first intelligent non-humans that any of them had ever seen in person. “Could you give us some further context to explain this change in opinion?” Abumwe asked.</p>
+   <p>“There is no doubt that the Colonial Union will benefit from the biomedical scanners we have offered to you,” Doodoodo said.</p>
+   <p>“Wilson?” Abumwe said, not looking at him.</p>
+   <p>“I’ve run the preliminary diagnostics on the machine we were given for review,” Wilson said. “It performed as advertised, at least for the time I had to work with it, which means it has an order of magnitude higher diagnostic ability than our own bioscanners. I’d want to spend more time with it, and I haven’t gotten to the other items we’re negotiating for. But in a general sense, the scanners do what they say, say what they do.”</p>
+   <p>“Precisely,” said Doodoodo. “These are of immense value to your colonies.”</p>
+   <p>“And so are our spaceships to yours,” Abumwe pointed out. The Colonial Union was hoping to sell five recently-retired frigates to the Burfinor in exchange for several hundred of the scanners.</p>
+   <p>“But there is a fundamental mismatch in the technologies, is there not?” Doodoodo said. “The technology we are offering you is state of the biomedical art; what you are offering us is a generation or more behind your latest ships.”</p>
+   <p>“The technology is robust,” Abumwe insisted. “I would remind you that we arrived here in a ship that is several generations older than the ships we are offering you. It’s still spaceworthy and in fine repair.”</p>
+   <p>“Yes, of course,” Doodoodo said. “We’re well aware how the <emphasis>Clarke</emphasis> is intended to be an advertisement for selling us these discounted goods. Nevertheless, the minister feels that the imbalance is too great. We seek a renegotiation.”</p>
+   <p>“These are initial terms that your minister originally sought out,” Abumwe said. “To make these changes now is highly unusual.”</p>
+   <p>Doodoodo tugged at the base of his eyestalks, gently. “I believe the minister is of the opinion that circumstances have changed.” One of Doodoodo’s eyes, possibly unconsciously, swiveled to take in the Earthling observers.</p>
+   <p>Abumwe did not fail to catch the implication but could do nothing about it in the moment. Instead she pressed forward, hoping to have Doodoodo go back to his boss with a request to reconsider her change in the negotiations. Doodoodo was exceedingly pleasant and sympathetic to his human counterpart but promised nothing.</p>
+   <p>During all this, Liu and his Earth counterparts said nothing and gave no indication of whatever they might be thinking. Wilson tried to catch Lowen’s eye for an indication of her thoughts, but she kept her focus forward, at Doodoodo.</p>
+   <p>Negotiations for the day ended shortly thereafter, and the humans, frustrated, rode the shuttle back to the <emphasis>Clarke</emphasis> in silence, and dispersed from the shuttle bay equally quiet. Wilson watched Abumwe stalk off, followed by her assistant. The other members of Abumwe’s staff on the shuttle milled about uncertainly for a moment before heading out themselves. In a corner of the bay, the Earth contingent huddled together for a moment, talking; at one point, Lowen popped her head up and looked in Wilson’s direction. Wilson tried not to read anything into it.</p>
+   <p>Eventually, the Earth cluster broke up and Liu and Lowen walked directly toward Wilson.</p>
+   <p>“Greetings, Earthlings,” Wilson said.</p>
+   <p>Liu looked politely puzzled; Lowen smiled. “How long have you been waiting to use that?” she asked.</p>
+   <p>“For at least a dozen years,” Wilson said.</p>
+   <p>“Was it everything you wanted it to be?” Lowen asked.</p>
+   <p>“It really was,” Wilson said.</p>
+   <p>“It was an interesting trade session you had today,” Liu said, diplomatically.</p>
+   <p>“That’s one way of putting it, yes,” Wilson said.</p>
+   <p>“So what happened back there?” Lowen said.</p>
+   <p>“You mean, why did a routine trade agreement fly off the rails, embarrassing the Colonial Union in front of the observers whom it wanted to impress with its diplomatic acumen?” Wilson said. He noted Liu’s expression to his summation of the day’s events, discreet though it was.</p>
+   <p>“Yes, that would be the event to which I was referring,” Lowen said.</p>
+   <p>“The answer is implicit in the question,” Wilson said. “You were there. The Burfinor know something of the Colonial Union’s predicament with Earth. I suppose they figured that we would be motivated to make a deal of any sort in order not to embarrass ourselves in front of you.”</p>
+   <p>“It didn’t work,” Lowen said.</p>
+   <p>“Yes, well,” Wilson said. “The Burfinor don’t know Ambassador Abumwe very well. She’s persistent, and she doesn’t like surprises.”</p>
+   <p>“What will happen now?” Liu asked.</p>
+   <p>“I expect that Ambassador Abumwe will go back tomorrow, inform Doodoodo that any new terms are entirely unacceptable and as politely as possible threaten to walk out of the negotiations,” Wilson said. “At which point our Burfinor friend is likely to walk back the request for new terms, because while it would be nice for the Colonial Union to get our hands on some sweet new biomedical scanners, the Burfinor have a low-grade border war simmering with the Eroj and are running low on ships. So they need this trade agreement more than we do, and if it fails, they lose more.”</p>
+   <p>“Interesting,” Liu said again.</p>
+   <p>“We didn’t want you to be bored,” Wilson said.</p>
+   <p>“You also didn’t want us to see a diplomatic negotiation where the Colonial Union would be at an actual disadvantage,” Lowen said, looking directly at Wilson.</p>
+   <p>“And you’re surprised by this?” Wilson asked, looking at both Liu and Lowen equally.</p>
+   <p>“No,” Liu said. “Although I’ll admit to being mildly surprised that you admit it.”</p>
+   <p>Wilson shrugged. “I’m a glorified tech support, not a trained diplomat,” he said. “I’m allowed to say obvious things.”</p>
+   <p>“Your boss might not be happy with you saying ‘obvious things’ to us,” Lowen noted.</p>
+   <p>Liu opened his mouth before Wilson did. “On the contrary, I think Ambassador Abumwe knew exactly what she was doing when she assigned Lieutenant Wilson as our liaison,” he said.</p>
+   <p>“She’s the opposite of stupid,” Wilson agreed.</p>
+   <p>“So I am learning,” Liu said, and then yawned. “I’m sorry,” he said. “Space travel is still new to me and I’ve discovered that it wears me out. I believe I will get some rest.”</p>
+   <p>“How are you finding your quarters?” Wilson asked.</p>
+   <p>“They’re cozy,” Liu said.</p>
+   <p>“What a diplomatic way of putting that,” Wilson said.</p>
+   <p>Liu laughed. “Yes, well. That’s <emphasis>my</emphasis> job,” he said. He excused himself and exited.</p>
+   <p>“Nice fellow,” Wilson said, as he left.</p>
+   <p>“An excellent fellow,” Lowen said. “One of the best diplomats in the world, and one of the nicest people you’d want to meet. He even gave up his private berth for Franz to use and roomed with Thierry. Franz got a bit claustrophobic. Said he’d seen prison cells that were larger.”</p>
+   <p>“It’s probably true,” Wilson said.</p>
+   <p>“The irony is that the person who is going to suffer most for it is Thierry,” Lowen said. “Liu is brilliant and wonderful, but he also snores like a freight train. Thierry’s got to suffer through that now. Don’t be surprised if for the next few days you see him look very, very tired.”</p>
+   <p>“You could prescribe him something to get to sleep,” Wilson said. “You’re a doctor, after all.”</p>
+   <p>“I don’t think my scripting privileges extend past Neptune,” Lowen said. “And anyway, Franz travels with a white noise generator to help him get to sleep. He’s already given it to Thierry for the duration. He should be fine. <emphasis>Should</emphasis> be.”</p>
+   <p>“Good,” Wilson said. “And you? How are your quarters?”</p>
+   <p>“They suck,” Lowen said. “And Luiza already claimed the bottom bunk.”</p>
+   <p>“It’s a hard life you lead,” Wilson said.</p>
+   <p>“If people only knew,” Lowen said. “Speaking of which, who do I have to kill to get a drink around here?”</p>
+   <p>“Fortunately, no one,” Wilson said. “There’s an officers lounge three decks down. It offers a regrettable selection of terrible light beers and inferior spirits.”</p>
+   <p>“I can fix that,” Lowen said. “I travel with a bottle of eighteen-year-old Laphroaig in my case.”</p>
+   <p>“That’s not necessarily healthy,” Wilson said.</p>
+   <p>“Relax,” Lowen said. “If I were genuinely an alcoholic, I’d take along something much cheaper. I brought it on the off chance I might have to butter up one of you folks and pretend to be friendly and such.”</p>
+   <p>“Thank God you didn’t have to do <emphasis>that,</emphasis>” Wilson said.</p>
+   <p>“Before we arrived, I thought I might ask Ambassador Abumwe if she’d like a drink,” Lowen said. “But I don’t really get the sense she’s the sort to appreciate a good buttering up.”</p>
+   <p>“I think you’ve accurately assessed the ambassador,” Wilson said.</p>
+   <p>“You, on the other hand,” Lowen said, pointing at Wilson.</p>
+   <p>“I am all about the buttering, Dr. Lowen,” Wilson assured her.</p>
+   <p>“Wonderful,” Lowen said. “First stop, the crawl space you folks laughingly call officers berths on this ship. Second stop, officers lounge. Hopefully, it is larger.”</p>
+   <empty-line/>
+   <p>The officers lounge was larger, but not by much.</p>
+   <p>“Does the Colonial Union have something against personal space?” Lowen asked, hoisting the Laphroaig onto the very small table. The officers lounge was empty, except for Lowen, Wilson and the Laphroaig.</p>
+   <p>“It’s an old ship,” Wilson explained while selecting a pair of cups from the lounge’s cupboard. “In the old days, people were smaller and appreciated a good snuggle.”</p>
+   <p>“I am suspicious of the veracity of your statement,” Lowen said.</p>
+   <p>“That’s probably wise,” Wilson said. He came over to the table and set down the cups. They made a <emphasis>click</emphasis> as they connected with the table.</p>
+   <p>Lowen, puzzled, reached for one of the cups. “Magnetic,” she said, lifting the cup.</p>
+   <p>“Yes,” Wilson said. “The artificial gravity doesn’t frequently cut out, but when it does it’s nice not to have cups floating about randomly.”</p>
+   <p>“What about the stuff in the cups?” Lowen asked. “What happens to that?”</p>
+   <p>“It gets slurped frantically,” Wilson said, picking up his own cup and waggling it in front of Lowen. Lowen eyed Wilson sardonically, opened the Laphroaig, tipped in a finger and a half and gave herself an equal amount. “To artificial gravity,” she said, in a toast.</p>
+   <p>“To artificial gravity,” Wilson said.</p>
+   <p>They drank.</p>
+   <empty-line/>
+   <p>Drink two, some minutes later:</p>
+   <p>“So, is it easy?” Lowen said.</p>
+   <p>“Is what easy?” Wilson asked.</p>
+   <p>Lowen waved at Wilson’s body. “Being green.”</p>
+   <p>“I can’t believe you just went there,” Wilson said.</p>
+   <p>“I know,” Lowen said. “Jim Henson and several generations of his descendants are now rolling in their graves, many dozens of light-years away.”</p>
+   <p>“It <emphasis>is</emphasis> a funny joke,” Wilson said. “Or at least was, the first six hundred times I heard it.”</p>
+   <p>“It’s a serious question, though!” Lowen said. “I’m asking from a place of medical curiosity, you know. I want to know if all those so-called improvements they give you Colonial Defense Forces soldiers are actually all that.”</p>
+   <p>“Well, start with this,” Wilson said. “How old do I look to you?”</p>
+   <p>Lowen looked. “I don’t know, maybe twenty-two? Twenty-five, tops? You being green messes with my age sense. A lot younger than me, and I’m thirty-five. But you’re not younger than me, are you?”</p>
+   <p>“I’m ninety,” Wilson said.</p>
+   <p>“Get out,” Lowen said.</p>
+   <p>“More or less,” Wilson said. “You’re out here long enough and you eventually lose track unless you check. It’s because as long as you’re CDF, you don’t actually age.”</p>
+   <p>“How is that even possible?” Lowen said. “Entropy still works out here, right? Physics hasn’t totally broken down?”</p>
+   <p>Wilson extended an arm. “You’re engaging in the pathetic fallacy,” he said. “Just because I look like a human being doesn’t mean I am. This body has more genetic material that’s not strictly human than it does material that is human. And it heavily integrates machines as well. My blood is actually a bunch of nanobots in a fluid. I am and every other CDF soldier is a genetically-modified cyborg.”</p>
+   <p>“But you’re still <emphasis>you,</emphasis> right?” Lowen asked. “You’re still the same <emphasis>person</emphasis> you were when you left Earth. Still the same consciousness.”</p>
+   <p>“That’s a question of some contention among us soldiers,” Wilson said, setting his arm back down. “When you transfer over to the new body, the machine that does the transfer makes it at least seem like for an instant you’re in two bodies at once. It <emphasis>feels</emphasis> like you as a person make the transfer. But I think it’s equally possible that what happens is that memories are transferred over to a brain specially prepared for them, it wakes up, and there’s just enough cross talk between the two separate brains to give the <emphasis>illusion</emphasis> of a transfer before the old one shuts down.”</p>
+   <p>“In which case, you’re actually dead,” Lowen said. “The <emphasis>real</emphasis> you. And this you is a fake.”</p>
+   <p>“Right.” Wilson took another sip of his drink. “Mind you, the CDF could show you graphs and charts that show that actual consciousness transfer happens. But I think this is one of those things you can’t <emphasis>really</emphasis> model from the outside. I have to accept the possibility that I could be a fake Harry Wilson.”</p>
+   <p>“And this doesn’t bother you,” Lowen said.</p>
+   <p>“In a metaphysical sense, sure,” Wilson said. “But in a day-to-day sense, I don’t think about it much. On the inside, it sure <emphasis>feels</emphasis> like I’ve been around for ninety years, and ultimately this version of me likes being alive. So.”</p>
+   <p>“Wow, this conversation went places I wasn’t expecting it to go,” Lowen said.</p>
+   <p>“If you think that’s weird, wait until I tell you that thanks to the mechanics of the skip drive, you’re in an entirely different universe and will never see your friends and family again,” Wilson said.</p>
+   <p>“Wait, what?” Lowen said.</p>
+   <p>Wilson motioned to the Laphroaig bottle. “Better pour yourself another drink,” he said.</p>
+   <empty-line/>
+   <p>Drink four, sometime later:</p>
+   <p>“You know what the Colonial Union’s problem is, don’t you?” Lowen asked.</p>
+   <p>“There’s just one problem?” Wilson responded.</p>
+   <p>“It’s arrogance!” Lowen said, ignoring Wilson’s question. “What sort of government decides that the smart thing to do, the prudent thing to do, the <emphasis>wise</emphasis> thing to do, is to keep an entire planet in an arrested state of development, just to use it to farm colonists and soldiers?”</p>
+   <p>“If you’re expecting me to act as defense for the Colonial Union’s practices, it’s going to be a very short debate,” Wilson said.</p>
+   <p>“And not just any planet,” Lowen said, ignoring Wilson again. Wilson smiled; clearly Lowen was self-winding when she was tipsy. “But Earth! I mean, seriously, are you fucking kidding me? The cradle of human life in the universe, the place from which we all spring, our home planet, for crying out loud. And a couple hundred years ago some pricks on Phoenix thought, Hey, screw them. Honestly, what did you <emphasis>think</emphasis> was going to happen when we found out how badly you’ve been messing with us? And for how long?”</p>
+   <p>“I reiterate my comment that if you’re expecting me to defend the Colonial Union, you’re going to be sorely disappointed,” Wilson said.</p>
+   <p>“But you’re one of them!” Lowen said. “You know how they think, at least, right? So what were they thinking?”</p>
+   <p>“I think they were thinking that they would never have to deal with the Earth finding out anything,” Wilson said. “And for the sake of accuracy, the Colonial Union <emphasis>did</emphasis> do a very fine job of keeping the Earth in the dark for a couple of centuries. If it hadn’t tried to kill off a friend of mine, and his entire family, <emphasis>and</emphasis> his colony, for the purposes of political expediency, they’d probably still be getting away with it.”</p>
+   <p>“Hold on,” Lowen said. “You know John Perry?”</p>
+   <p>“We left Earth on the same boat,” Wilson said. “We were part of the same group of friends. We called ourselves the Old Farts. There were seven of us then. There’s three of us now. Me, John and Jesse Gonzales.”</p>
+   <p>“Where is she?” Lowen asked.</p>
+   <p>“She’s on the colony of Erie,” Wilson said. “She and I were together for a while, but she eventually wanted to leave the CDF and I didn’t. She married a guy on Erie and has twin daughters now. She’s happy.”</p>
+   <p>“But all the rest are dead,” Lowen said.</p>
+   <p>“They told us when we joined that three-quarters of us would be dead in ten years,” Wilson said. He was lost in thought for a moment, then looked up at Lowen and smiled. “So strictly on a percentage basis, the Old Farts beat the odds.” He drank.</p>
+   <p>“I’m sorry to bring up memories,” Lowen said, after a minute.</p>
+   <p>“We’re talking and drinking, Doctor Lowen,” Wilson said. “Memories will surface just as a matter of course.”</p>
+   <p>“You can call me Danielle, you know,” Lowen said. “Or Dani. Either is fine. I figure if we’ve drunk this much Scotch together, we should be on a first-name basis.”</p>
+   <p>“I can’t argue with that,” Wilson said. “Then call me Harry.”</p>
+   <p>“Hello, Harry.”</p>
+   <p>“Hello, Dani.”</p>
+   <p>They clinked their cups together.</p>
+   <p>“They’re renaming my high school after your friend,” Lowen said. “It was Hickenlooper High. Now it’s going to be Perry High.”</p>
+   <p>“There is no higher honor to be bestowed,” Wilson said.</p>
+   <p>“I’m actually kind of annoyed by it,” Lowen said. “I get mail now saying, ‘Greetings, Perry Graduates,’ and I’m all, ‘What? I didn’t go there.’”</p>
+   <p>“If I know John at all, he’d be mildly embarrassed to have your high school’s name changed out from under you,” Wilson said.</p>
+   <p>“Well, to be fair, the man <emphasis>did</emphasis> free my entire planet from the Colonial Union’s systematic and centuries-long campaign of repression and social engineering,” Lowen said. “So I guess I shouldn’t begrudge him the high school.”</p>
+   <p>“Possibly not,” Wilson agreed.</p>
+   <p>“But that just brings us back around to the original question: What the hell was the Colonial Union thinking?” Lowen asked.</p>
+   <p>“Do you want a serious answer?” Wilson asked.</p>
+   <p>“Sure, if it’s not too complicated,” Lowen said. “I’m a little drunk.”</p>
+   <p>“I’ll use small words,” Wilson promised. “I would be willing to bet that in the beginning the Colonial Union justified it by thinking that they were both protecting the Earth by taking the focus off it and onto the Colonial Union worlds, and then also helping humanity in general by using the Earth to help our colonies grow as quickly as they could with new immigrants and soldiers.”</p>
+   <p>“So that’s at first,” Lowen said. “What about later?”</p>
+   <p>“Later? Habit,” Wilson said.</p>
+   <p>Lowen blinked. “‘Habit’? That’s it? That’s all you got?”</p>
+   <p>Wilson shrugged. “I didn’t say it was a <emphasis>good</emphasis> answer,” he said. “Just a serious one.”</p>
+   <p>“It’s a good thing I’m a diplomat,” Lowen said. “Or I would tell you what I <emphasis>really</emphasis> thought of that.”</p>
+   <p>“I can guess,” Wilson said.</p>
+   <p>“And what do <emphasis>you</emphasis> think, Harry?” Lowen asked. “Do you think that Earth and the Colonial Union should have an alliance? After everything that’s happened?”</p>
+   <p>“I’m not sure I’m the best-qualified person out there to answer that,” Wilson said.</p>
+   <p>“Oh, come on,” Lowen said, and waved at the officers lounge, whose population was still limited to the two of them and the Laphroaig. “It’s just you and me.”</p>
+   <p>“I think that it’s a scary universe out there,” Wilson said. “With not a lot of humans in it.”</p>
+   <p>“But what about the Conclave?” Lowen asked. “Four hundred alien races not actively killing each other. Doesn’t that make it a little less scary?”</p>
+   <p>“For those four hundred races? Sure,” Wilson said. “As long as it lasts. For everyone else? Still scary.”</p>
+   <p>“You’re cheerful,” Lowen said.</p>
+   <p>“I prefer ‘realist,’” Wilson said.</p>
+   <empty-line/>
+   <p>Six drinks, even later:</p>
+   <p>“Are you green everywhere?” Lowen asked.</p>
+   <p>“Excuse me?” Wilson said.</p>
+   <p>“I am asking purely on scientific grounds,” Lowen said.</p>
+   <p>“Thanks,” Wilson said, dryly. “That makes it so much better.”</p>
+   <p>“I mean, unless you prefer unscientific reasons for me asking,” Lowen said.</p>
+   <p>“Why, Dr. Lowen…” Wilson feigned shock. “I am not that kind of boy.”</p>
+   <p>“Once again, I am skeptical,” Lowen said.</p>
+   <p>“Tell you what,” Wilson said. “Ask me that question sometime when you haven’t just consumed a substantial portion of a bottle of fine single-malt Scotch whisky in a single sitting. If you’re moved to do so, you might get a different answer from me.”</p>
+   <p>“Fine,” Lowen said sourly, and then looked over at Wilson somewhat as an owl would. “You’re not drunk,” she said.</p>
+   <p>“No,” Wilson said.</p>
+   <p>“You drank as much as me, and I’m drunk as a skunk,” she said. “Even accounting for body mass, you should be plastered, too.”</p>
+   <p>“Benefit of the new body,” Wilson said. “A much higher alcohol tolerance. It’s more complicated than that, but it’s late and you’re drunk, so maybe we’ll save it for tomorrow. Speaking of which, it’s time to get you into your crawl space, if you want to be at the negotiations tomorrow without a hangover.” He stood up and offered his hand to Lowen.</p>
+   <p>She took it, wobbling only slightly. “Whoa,” she said. “Someone did something to the artificial gravity.”</p>
+   <p>“Yes,” Wilson said. “That’s it exactly. Come on.” He navigated her through the corridors and up the decks to the berths Captain Coloma had assigned to the observers.</p>
+   <p>“Almost there,” Wilson said to Lowen.</p>
+   <p>“About time,” Lowen said. “I think you took the scenic route. The scenic route that spins a bit.”</p>
+   <p>“Maybe I’ll bring you some water,” Wilson said. “And some crackers.”</p>
+   <p>“This is an excellent idea,” Lowen said, and then jumped a little at the noise of the door of one of the berths flying open and slamming against the bulkhead.</p>
+   <p>Wilson looked toward the noise and saw Thierry Bourkou, looking frantic. “Is everything all right, Mr. Bourkou?” he asked.</p>
+   <p>Bourkou turned to Wilson, saw Lowen on his arm and rushed toward them. “Dani, Dani, come quick,” he said. “It’s Cong.”</p>
+   <p>“What’s Cong?” Lowen asked, less tired and slurred than moments before. Wilson could see the panic on her colleague’s face, and his alarmed tone was pushing the drunkenness down. “What is it?”</p>
+   <p>“He’s not breathing,” Bourkou said. “He’s blue and he’s not breathing.” He grabbed Lowen’s hand and pulled her down the corridor toward his berth. “He’s not breathing and I think he might be dead.”</p>
+   <empty-line/>
+   <p>“He was fine when he lay down,” Bourkou said. “He and I have both been feeling tired, so we both took naps at the same time. Then he started snoring, so I turned on the white noise machine. Then I fell asleep. When I woke up I told him I was going to get him some tea and asked him if he wanted any. He didn’t respond, so I went to shake him. That’s when I saw his lips were blue.”</p>
+   <p>All of the observers were in the <emphasis>Clarke</emphasis>’s medical bay, along with Wilson, Abumwe, Captain Coloma and Doctor Inge Stone, the <emphasis>Clarke</emphasis>’s chief medical officer. Liu was also there, on a stretcher.</p>
+   <p>“Did he say anything other than that he was tired?” Stone asked Bourkou. “Did he complain about any other pains or ailments?”</p>
+   <p>Bourkou shook his head. “I’ve known Cong for ten years,” he said. “He’s always been healthy. The worst that’s ever happened to him is that he broke his foot when a motorcycle ran over it while he was crossing a street.”</p>
+   <p>“What happened to him?” Franz Meyer asked. After Liu, he was the ranking diplomat among the observers.</p>
+   <p>“It’s hard to say,” Stone said. “It almost looks like carbon monoxide poisoning, but that doesn’t make sense. Mr. Bourkou here was unaffected, which he wouldn’t have been if it was carbon monoxide, and in any event there is nothing near those berths which generates or outputs that.”</p>
+   <p>“What about the white noise generator?” Lowen asked. She was alert now, through a combination of caffeine, ibuprofen and nerves. “Is that something that could have done this?”</p>
+   <p>“Of course not,” Meyer said, almost scornfully. “It has no moving parts other than the speakers. It doesn’t output anything but white noise.”</p>
+   <p>“What about allergies or sensitivities?” Stone asked.</p>
+   <p>Meyer shook his head this time. “He was lactose-intolerant, but that wouldn’t have done this. And other than that he was not allergic to anything. It’s as Thierry said. He’s a healthy man. <emphasis>Was</emphasis> a healthy man.”</p>
+   <p>“Aren’t we overlooking something here?” asked Luiza Carvalho. Everyone looked to her; it was the first time she had spoken since the group gathered in the medical bay.</p>
+   <p>“Overlooking what?” asked Coloma.</p>
+   <p>“The possibility this isn’t a natural death,” Carvalho said. “Cong was a healthy man, with no previous health issues.”</p>
+   <p>“With all due respect, Ms. Carvalho, that’s probably further than we need to go for an explanation,” Stone said. “It’s rather more likely Mr. Liu fell prey to a previously undiagnosed condition. It’s not uncommon, especially for people who have been superficially healthy. Their lack of obvious health issues means they don’t get in to see a doctor as often as others would. That lets not so obvious issues sneak up on them.”</p>
+   <p>“I understand that the simplest explanation is usually the correct one,” Carvalho said. “Of course. But I also know that in my home country of Brazil, assassination by poisoning has made a comeback. Last year a senator from Mato Grosso was killed by arsenic.”</p>
+   <p>“A political assassination?” Abumwe asked.</p>
+   <p>“No,” Carvalho admitted. “He was poisoned by his wife for sleeping with one of his legislative aides.”</p>
+   <p>“To be indelicate, may we assume such a situation is not happening here?” Abumwe asked.</p>
+   <p>Meyer looked around at his colleagues. “It’s safe to say that none of us were sleeping with Cong,” he said, to Abumwe. “It’s also safe to say that none of us had any professional reason to want him dead, either. With the exception of Thierry, none of us knew him prior to this mission. The mission selection criteria were as much political as anything else. We all represent different political interests at home, so there was no direct competition or professional jealousy.”</p>
+   <p>“Do all of your factions get along?” Wilson asked.</p>
+   <p>“For the most part,” Meyer said, and then pointed at Lowen. “Doctor Lowen here represents America’s interests here, and the United States, for better or worse, still maintains a somewhat contentious primary position in global politics, especially post-Perry. The other political interests sought to minimize its influence on this mission, which is why Liu Cong was selected to head the mission, over U.S. objections, and why the U.S. representative-apologies here, Dani-is the most junior on the mission. But none of that rose to the level of skullduggery.”</p>
+   <p>“And I was with Lieutenant Wilson here for several hours, in any event,” Lowen said. This raised eyebrows, both Meyer’s and Abumwe’s. “Cong asked me to get to know our Colonial Union liaison better so we could get a better understanding of the lay of the land. So I did.” She turned to Wilson. “No offense,” she said.</p>
+   <p>“None taken,” Wilson said, amused.</p>
+   <p>“So it seems like poisoning or assassination is off the table,” Stone said.</p>
+   <p>“Unless it was someone on the Colonial Union side,” Carvalho said.</p>
+   <p>Abumwe, Wilson and Coloma exchanged glances.</p>
+   <p>This did not go unnoticed. “Okay, what was that?” asked Lowen.</p>
+   <p>“You mean the sudden, significant glances,” Wilson said, before Abumwe or Coloma could say anything.</p>
+   <p>“Yes, that would be what I’m talking about,” said Lowen.</p>
+   <p>“We’ve had some recent incidents of sabotage,” Abumwe said, shooting an irritated glance at Wilson.</p>
+   <p>“On this ship?” Meyer asked.</p>
+   <p>“Not originating on this ship, no,” Coloma said. “But affecting the ship.”</p>
+   <p>“And you think this could be another one of these?” Meyer said.</p>
+   <p>“I doubt that it is,” Abumwe said.</p>
+   <p>“But you can’t be one hundred percent sure,” Meyer persisted.</p>
+   <p>“No, we can’t,” Abumwe said.</p>
+   <p>“What am I missing here?” Stone asked, to Abumwe and Coloma.</p>
+   <p>“Later, Inge,” Coloma said. Stone closed her mouth, unhappy.</p>
+   <p>“I think we may have a potential issue here,” Meyer said.</p>
+   <p>“What do you suggest we do about it?” Abumwe asked.</p>
+   <p>“I think we need an autopsy,” Meyer said. “The sooner, the better.”</p>
+   <p>“Doctor Stone can certainly perform one,” Coloma said. Meyer shook his head; Coloma frowned. “Is that not acceptable?”</p>
+   <p>“Not by herself,” Meyer said. “With no offense offered to Doctor Stone, this has become a politically sensitive event. If someone from within the Colonial Union has been sabotaging your efforts, then all of the Colonial Union’s apparatus becomes suspect. I have no doubt at all that Doctor Stone will do a fine job with the autopsy. I also have no doubt at all that there are politicians back on Earth who would look at a Colonial Union doctor clearing the Colonial Union of the suspicious death of an Earth diplomat and use it for their own agendas, whatever those agendas might be.”</p>
+   <p>“There’s a problem, then,” Stone said. “Because all of my staff are Colonial Union, too.”</p>
+   <p>Meyer looked over to Lowen, who nodded. “I’ll do the autopsy with you,” she said, to Stone.</p>
+   <p>Stone blinked. “Are you a medical doctor?” she asked.</p>
+   <p>Lowen nodded. “University of Pennsylvania,” she said. “Specialized in hematology and nephrology. Practiced my specialty for about three months before I joined the State Department as an advisor.”</p>
+   <p>“Doctor Lowen is eliding the fact that her father is United States Secretary of State Saul Lowen,” Meyer said, smiling. “And that she was more or less dragooned into this role at her father’s behest. Which is to take nothing away from her own talents.”</p>
+   <p>“Anyway,” Lowen said, slightly embarrassed by Meyer’s commentary. “I have the degree and I have the experience. Between the two of us we can make sure no one complains about the results of the autopsy.”</p>
+   <p>Stone looked at Coloma, who looked over to Abumwe. Abumwe gave a nod. So did Coloma. “All right,” she said. “When do you want to start?”</p>
+   <p>“I need some sleep,” Lowen said. “I think we could all use some sleep. We all have a busy day tomorrow.” Stone nodded her assent; the Earth observers excused themselves and headed to their berths.</p>
+   <p>“What the hell were you thinking?” Coloma asked Wilson after they had gone.</p>
+   <p>“You mean, about letting them know about the sabotage,” Wilson said. Coloma nodded. “Look. They already caught us in the reaction. They knew something was up. We could have either lied poorly and had them distrust us, or we could tell them the truth and gain a little trust. The leader of their mission has died, and we don’t know why. We can use all the trust we can get.”</p>
+   <p>“The next time you get the urge to make diplomatic decisions, look to me first,” Abumwe said. “You’ve done it before, so I know you can do it now. This isn’t your mission and it’s not your call to make about what we tell them and what we don’t.”</p>
+   <p>“Yes, Ambassador,” Wilson said. “I wasn’t intentionally trying to make your job harder.”</p>
+   <p>“Lieutenant, I don’t give a damn about your <emphasis>intentions,</emphasis>” Abumwe said. “I thought you knew that by now.”</p>
+   <p>“I do,” Wilson said. “Sorry.”</p>
+   <p>“You’re dismissed, Wilson,” Abumwe said. “The grown-ups need to talk in private.” She turned to Coloma and Stone. Wilson took the hint and left.</p>
+   <p>Lowen was waiting in the corridor for him.</p>
+   <p>“You’re supposed to be asleep,” Wilson said.</p>
+   <p>“I wanted to apologize to you,” Lowen said. “I’m pretty sure what I said in there about spending time with you came out wrong.”</p>
+   <p>“That part where you said that you were spending time with me on Liu’s orders,” Wilson said.</p>
+   <p>“Yeah, that,” Lowen said.</p>
+   <p>“Would it make you feel better to know that my boss told me to spend time with you?” Wilson said.</p>
+   <p>“Not really,” Lowen said.</p>
+   <p>“I won’t admit it to you, then,” Wilson said. “At least not until you’ve had time to collect yourself.”</p>
+   <p>“Thanks,” Lowen said, wryly.</p>
+   <p>Wilson reached out and touched Lowen’s arm in sympathy. “Okay, seriously,” he said. “How are you?”</p>
+   <p>“Oh, you know,” Lowen said. “My boss is dead and he was a really nice man, and tomorrow I have to cut into him to see if someone murdered him. I’m just <emphasis>great</emphasis>.”</p>
+   <p>“Come on,” Wilson said, and put his arm around her. “I’ll walk you back to your berth.”</p>
+   <p>“Did your boss tell you to do that?” Lowen asked, jokingly.</p>
+   <p>“No,” Wilson said, seriously. “This one’s on me.”</p>
+   <empty-line/>
+   <p>Abumwe’s supreme irritation, first at the disposition of the trade negotiations at the end of the first day, and then at the death of Liu Cong and the possible implication thereof, was evident in the second day of negotiations. Abumwe began by tearing Doodoodo a new one, in as brilliant a show of venomous politeness as Wilson had ever seen in his life. Doodoodo and his fellow negotiators actually began to cringe, in the Burfinor fashion, which Wilson decided was more of a scrotal-like contraction than anything else.</p>
+   <p>Watching the ambassador do her work, and doing it with something approaching vengeful joy, Wilson realized his long-held wish that Abumwe would actually <emphasis>relax</emphasis> from time to time was clearly in error. This was a person who operated best and most efficiently when she was truly and genuinely pissed off; wishing for her to mellow out was like wishing an alpha predator would switch to grains. It was missing the point.</p>
+   <p>Wilson’s BrainPal pinged, internally and unseen by the others in the negotiating parties. It was Lowen. <emphasis>Can you talk?</emphasis> the message said.</p>
+   <p><emphasis>No, but you can,</emphasis> Wilson sent. <emphasis>You’re coming through my BrainPal. No one else will be bothered</emphasis>.</p>
+   <p><emphasis>Hold on, switching to voice,</emphasis> Lowen sent, and then her voice came through. “I think we have a big problem,” she said.</p>
+   <p><emphasis>Define “problem,”</emphasis> Wilson sent.</p>
+   <p>“We’ve finished the autopsy,” Lowen sent. “Physically there was nothing wrong with Cong. Everything looked healthy and as close to perfect as a man his age could be. There are no ruptures or aneurysms, no organ damage or scarring. Nothing. There is no reason he should be dead.”</p>
+   <p><emphasis>That indicates foul play to you?</emphasis> Wilson sent.</p>
+   <p>“Yes,” Lowen said. “And there’s another thing, which is the reason I’m talking to you. I took some of his blood for testing and I’m seeing a lot of anomalies in it. There’s a concentration of foreign particles in it that I haven’t seen before.”</p>
+   <p><emphasis>Poison compounds?</emphasis> Wilson asked.</p>
+   <p>“I don’t think so,” Lowen said.</p>
+   <p><emphasis>Have you shown them to Stone?</emphasis> Wilson asked.</p>
+   <p>“Not yet,” Lowen said. “I thought you actually might be more help for this. Can you receive images?”</p>
+   <p><emphasis>Sure,</emphasis> Wilson sent.</p>
+   <p>“Okay, sending now,” Lowen said. A notice of a received image flashed in Wilson’s peripheral vision; he pulled it up.</p>
+   <p><emphasis>It’s blood cells,</emphasis> Wilson sent.</p>
+   <p>“It’s not just blood cells,” Lowen said.</p>
+   <p>Wilson paid closer attention and saw specks amid the cells. He zoomed in. The specks gained in size and detail. Wilson frowned and called up a separate image and compared the two.</p>
+   <p><emphasis>They look like SmartBlood nanobots,</emphasis> Wilson finally sent.</p>
+   <p>“That’s what I thought they might be,” Lowen said. “And that’s bad. Because they’re not supposed to be there. Just like Cong isn’t supposed to be dead. If you have someone who isn’t supposed to be dead and no physical reason that he should have died, and you also have a high concentration of foreign material in his blood, it’s not hard deduction that the one has to do with the other.”</p>
+   <p><emphasis>So you think a Colonial did this,</emphasis> Wilson sent.</p>
+   <p>“I have no idea who did this,” Lowen said. “I just know what it looks like.”</p>
+   <p>Wilson had nothing to say to this.</p>
+   <p>“I’m going to go tell Stone what I found and then I’ll have to tell Franz,” Lowen said. “I’m sure Stone will tell Coloma and Abumwe. I think we have about an hour before this all gets bad.”</p>
+   <p><emphasis>Okay,</emphasis> Wilson sent.</p>
+   <p>“If you can think of something between now and then that will keep this from going to hell, I wouldn’t mind,” Lowen said.</p>
+   <p><emphasis>I’ll see what I can do,</emphasis> Wilson sent.</p>
+   <p>“Sorry, Harry,” Lowen said, and disconnected.</p>
+   <p>Wilson sat silently for a moment, watching Abumwe and Doodoodo as the two of them danced their verbal diplomatic dance about what was the correct balance of trade between starships and biomedical scanners. Then he sent a priority message to Abumwe’s PDA.</p>
+   <p><emphasis>Take a ten-minute break,</emphasis> it said. <emphasis>Trust me.</emphasis></p>
+   <p>Abumwe didn’t acknowledge the priority message for a few minutes; she was too busy hammering on Doodoodo. When the Burfinor representative finally managed to get a word in edgewise, she glanced down at her PDA and then glanced over at Wilson with a nearly unnoticeable expression that no one else would register as, <emphasis>You have got to be fucking kidding me</emphasis>. Wilson acknowledged this with an equally subtle expression that he hoped would read, <emphasis>I am so very not fucking kidding you</emphasis>. Abumwe stared at him for a second longer, then interrupted Doodoodo to ask for a quick recess. Doodoodo, flustered because he thought he was on a roll, agreed. Abumwe motioned to Wilson to join her in the hall.</p>
+   <p>“You don’t seem to be remembering our discussion from last night,” Abumwe said.</p>
+   <p>“Lowen found what looks like SmartBlood nanobots in Liu’s blood,” Wilson said, ignoring Abumwe’s statement. “If Stone hasn’t updated you about it yet, you’ll get the message soon. And so will Meyer and the rest of the observers.”</p>
+   <p>“And?” Abumwe said. “Not that I don’t care, but Liu is dead and these negotiations are not, and you didn’t need to interrupt them to give me an update I would be receiving anyway.”</p>
+   <p>“I didn’t interrupt you for that,” Wilson said. “I interrupted you because I need you to have them give me that scanner test unit back. Immediately.”</p>
+   <p>“Why?” Abumwe said.</p>
+   <p>“Because I think there’s something very fishy about SmartBlood nanobots being found in Liu’s bloodstream, and I want to get a much better look at them,” Wilson said. “The equipment in the medical bay came standard issue with the <emphasis>Clarke</emphasis> when it rolled off the line fifty years ago. We need better tools.”</p>
+   <p>“And you need it now why?” Abumwe said.</p>
+   <p>“Because when today’s negotiations are done, the shit is going to hit the fan,” Wilson said. “Ambassador, a diplomat from Earth is dead and it looks like the Colonial Union did it. When Meyer and the rest of the observers get back to the <emphasis>Clarke,</emphasis> they’re going to send a drone back to Phoenix Station and to the Earth’s mission there. They’re going to be recalled and we’re going to be obliged to take them back immediately. So you’re going to fail this negotiation, there’s going to be a deeper division between Earth and the Colonial Union and all the blame is going to come back to us. Again.”</p>
+   <p>“Unless you can figure this out between now and then,” Abumwe said.</p>
+   <p>“Yes,” Wilson said. “SmartBlood is tech, Ambassador. Tech is what I do. And I already know how to operate these machines because I worked with them while I was evaluating them. But I need one <emphasis>now</emphasis>. And you need to get it for me.”</p>
+   <p>“You think this will work?” Abumwe asked.</p>
+   <p>Wilson held his hands out in a <emphasis>maybe?</emphasis> motion. “I know if we don’t try this, then we’re screwed. If this is a shot in the dark, it’s still a shot.”</p>
+   <p>Abumwe took out her PDA and opened a line to Hillary Drolet, her assistant. “Tell Doodoodo I need to see him in the hall. Now.” She cut the connection and looked back to Wilson. “Anything else you want? As long as I am taking requests.”</p>
+   <p>“I need to borrow the shuttle to go back to the <emphasis>Clarke,</emphasis>” Wilson said. “I want both Lowen and Stone to watch me so there’s no doubt what I find.”</p>
+   <p>“Fine,” Abumwe said.</p>
+   <p>“I’d also like for you to drag on negotiations today as long as you can,” Wilson said.</p>
+   <p>“I don’t think that will be a problem,” Abumwe said.</p>
+   <p>Doodoodo appeared in the hallway, eyestalks waggling apologetically.</p>
+   <p>“And if at all possible, you might want to get that deal done today,” Wilson said, looking at Doodoodo. “Just in case.”</p>
+   <p>“Lieutenant Wilson, I am already far ahead of you on this one,” Abumwe said.</p>
+   <empty-line/>
+   <p>“Someone in this room is a killer!” Wilson said.</p>
+   <p>“Please don’t say that when they actually show up,” Lowen said.</p>
+   <p>“That’s why I’m saying it now,” Wilson said.</p>
+   <p>Wilson, Lowen and Stone were in the medical bay, awaiting Abumwe, Meyer, Bourkou and Coloma. Coloma was on her way from the bridge; the others were coming from the shuttle that had just docked.</p>
+   <p>“They’re on their way,” Lowen said, glancing at her PDA. “Franz tells me they wrapped up the negotiations today, too. Abumwe apparently got an excellent deal for the scanners.”</p>
+   <p>“Good,” Wilson said, and patted the scanner he had been using. “Maybe that will mean I can keep mine. This thing is sweet.”</p>
+   <p>Coloma arrived; Abumwe, Meyer and Bourkou followed a minute after.</p>
+   <p>“Now that we’re all here, let’s get started,” Wilson said. “If you’ll check your PDAs, you’ll see some images I sent to you.” Everyone in the room aside from Wilson, Stone and Lowen reached for their PDAs. “What you’re seeing there is a sample of Liu Cong’s blood. In it you’ll see red and white blood cells, platelets and also something else. That something else looks like SmartBlood nanobots. For those of you from Earth, SmartBlood is the non-organic substance that replaces blood in Colonial Defense Forces soldiers. It has superior oxygen-handling properties and other benefits.”</p>
+   <p>“How did that get into his blood?” Meyer asked.</p>
+   <p>“That’s an interesting question,” Wilson said. “Almost as interesting as the other question I have, which is <emphasis>when</emphasis> did it get into his blood.”</p>
+   <p>“If this is a Colonial Union product, then it would seem that it would have gotten into his system out here,” Bourkou said.</p>
+   <p>“I would have thought so, too,” Wilson said. “But then I got a closer look at the nanobots. Go ahead and look at the second image I sent you.”</p>
+   <p>They turned to look at the second picture, which showed two similar-looking objects, one next to the other.</p>
+   <p>“The first object is a close-up of what we found in Liu’s blood,” Wilson said. “The second is a close-up of an actual SmartBlood nanobot, which was taken from me, a couple of hours ago.” He held up his thumb to show the pinprick there.</p>
+   <p>“They look the same to me,” Meyer said.</p>
+   <p>“Yes, and I suspect they’re supposed to,” Wilson said. “It’s not until you look inside of them, in substantial detail, that you notice particular differences. If all we had was the <emphasis>Clarke</emphasis>’s equipment, we wouldn’t have been able to see the differences. Even with the Colonial Union’s top-of-the-line equipment, it would have taken some time. Fortunately, we have some new toys. So go ahead and flip to the next image.”</p>
+   <p>Everyone forwarded to the third image.</p>
+   <p>“I don’t expect any of you to know what you’re looking at here, but those with some technical experience with SmartBlood will note two major differences with the internal structure,” Wilson said. “The first has to do with how the nanobots handle oxygen sequestration. The second has to do with the radio receiver in the ’bot.”</p>
+   <p>“What do these differences mean?” Abumwe asked.</p>
+   <p>“With regard to oxygen sequestration, it means the ’bots are able to hold on to substantially more oxygen molecules,” Wilson says. “It doesn’t do anything with them, though. SmartBlood is designed to facilitate oxygen transfer to body tissue. What’s in Liu’s blood, however, doesn’t do that. It just holds on to the oxygen. It goes, grabs the oxygen in the lungs, and doesn’t let go. There’s less oxygen for the actual red blood cells to carry, and less for the body tissues to take in.”</p>
+   <p>“This stuff suffocated Cong,” Lowen said.</p>
+   <p>“Right,” Wilson said. “As for the receiver, well, SmartBlood takes direction from its owner’s BrainPal via an encrypted channel and reverts by default to its primary role, which is oxygen transport.” He pointed to Abumwe’s PDA. “This stuff also communicates by encrypted signal. Its default state is off, however. It’s only on the job when it’s receiving a signal. Its signal doesn’t come from a BrainPal, however.”</p>
+   <p>“Where does it come from?” Meyer asked.</p>
+   <p>Lowen held up an object. It was Meyer’s white noise generator.</p>
+   <p>“It can’t be,” Meyer said.</p>
+   <p>“It <emphasis>can</emphasis> be,” Wilson said. “And it is, because we checked it. How do you think we can describe what this stuff does? This is why I said the interesting question is <emphasis>when</emphasis> this stuff got into Liu’s blood. Because this”-Wilson pointed to the white noise generator, which Lowen now set on the table-“strongly suggests that it happened before you folks left Earth.”</p>
+   <p>“How did you find it?” Abumwe asked.</p>
+   <p>“We walked through Liu’s death,” Stone said. “We knew when he died, and we knew that these ’bots needed a transmitter, and Mr. Bourkou said that he had been running the white noise generator to drown out Liu’s snoring.”</p>
+   <p>“You can’t think I did it,” Bourkou said.</p>
+   <p>“You set this thing off in the same room,” Wilson said.</p>
+   <p>“It’s not even mine,” Bourkou said. “Franz let me borrow it. It’s his.”</p>
+   <p>“That’s true,” Wilson said, turning to Meyer.</p>
+   <p>Meyer looked shocked. “I didn’t kill Cong! And this doesn’t make logical sense in any event. Cong was supposed to have a berth to himself. This thing wasn’t supposed to have been in the same room.”</p>
+   <p>“A very good point,” Wilson said. “Which is why I checked the effective transmitting radius of the generator’s ’bot transmitter. It’s about twenty meters. Your berth is right next door, and the berths are narrow enough that Liu’s bunk is well within the radius, even accounting for signal attenuation through the common bulkhead.”</p>
+   <p>“We’ve been traveling for a more than a week before we arrived here,” Meyer said. “Before this we had individual staterooms, but we were still close enough for this thing to work. I used it every night. Nothing happened to Cong.”</p>
+   <p>“Interestingly, there are two transmitters in the white noise generator,” Wilson said. “One of them affects the ’bots. The second affects the first transmitter. It turns it on or off.”</p>
+   <p>“So it wouldn’t have done anything until you got here,” Lowen said.</p>
+   <p>“This is crazy,” Meyer said. “I don’t have a remote control for this thing! Go to my berth! Check for yourself!”</p>
+   <p>Wilson looked over at Captain Coloma. “I’ll have crew go through his berth,” she said.</p>
+   <p>“Have you dumped trash recently?” Wilson said.</p>
+   <p>“No,” Coloma said. “We usually don’t dump until we return to Phoenix Station, and when we do, we don’t do it in other people’s systems. That’s rude.”</p>
+   <p>“Then I would suggest we look through the trash,” Wilson said. “I can give you the transmitting frequency if it helps.” Coloma nodded.</p>
+   <p>“Why did you do it?” Bourkou asked Meyer.</p>
+   <p>“I didn’t do it!” Meyer yelled. “You are just as likely to have done it as I am, Thierry. You had the generator in your possession. You’re the one who convinced Cong to give up his berth for me. I didn’t ask him.”</p>
+   <p>“You complained about claustrophia,” Bourkou said.</p>
+   <p>“I joked about claustrophobia, you ass,” Meyer said.</p>
+   <p>“And I wasn’t the one who suggested it to him,” Bourkou said. “It was Luiza. So don’t pin it on me.”</p>
+   <p>A strange expression crossed Meyer’s face. Wilson caught it. So did Abumwe. “What is it?” she asked Meyer.</p>
+   <p>Meyer looked around at the group, as if debating whether to say something, then sighed. “I’ve been sleeping with Luiza Carvalho for the last three months,” he said. “During the selection process for this mission and then since. It’s not a relationship, it’s more taking advantage of a mutual opportunity. I didn’t think it would matter since neither of us was in a position to select the other for the mission.”</p>
+   <p>“All right,” Abumwe said. “So?”</p>
+   <p>“So Luiza always complained about me sleeping badly,” Meyer said, and pointed at the white noise generator. “Two weeks ago, after we knew who was on the mission, she bought me <emphasis>that</emphasis>. Said it would help me sleep.”</p>
+   <p>“Luiza was the one who suggested to Meyer that he let me borrow the generator,” Bourkou said. “To counteract Cong’s snoring.”</p>
+   <p>“Where is Ms. Carvalho?” Stone asked.</p>
+   <p>“She said she was going to her berth,” Abumwe said. “Lieutenant Wilson didn’t ask for her to be here, so I didn’t ask her to come.”</p>
+   <p>“We should probably have someone get her,” Wilson said, but Coloma was already on her PDA, ordering someone to get her.</p>
+   <p>Coloma’s PDA pinged almost immediately thereafter; it was Neva Balla. Coloma put her executive officer on the speaker so everyone in the room could hear. “We have a problem,” Balla said. “There’s someone in the portside maintenance airlock. It looks like one of the Earth people.”</p>
+   <p>“Send me the image,” Coloma said. When she got it, she bounced it to the PDAs of everyone else in the room.</p>
+   <p>It was Luiza Carvalho.</p>
+   <p>“What is she doing?” Lowen asked.</p>
+   <p>“Lock out the airlock,” Coloma said.</p>
+   <p>“It’s too late,” Balla said. “She’s already started the purge cycle.”</p>
+   <p>“She must have been listening in somehow,” Abumwe said.</p>
+   <p>“How the hell did she get in there?” Coloma asked, angry.</p>
+   <p>“The same way she got Meyer and Bourkou to help her kill Liu,” Wilson said.</p>
+   <p>“But why did she do it?” Meyer said. “Who is she working with? Who is she working for?”</p>
+   <p>“We’re not going to get an answer to that,” Wilson said.</p>
+   <p>“Well, we know one thing, at least,” Lowen said.</p>
+   <p>“What’s that?” Wilson asked.</p>
+   <p>“Whoever’s been sabotaging you up here, it looks like they’re on the job down there on Earth,” Lowen said.</p>
+   <p>“Almost got away with it, too,” Wilson said. “If we didn’t have that scanner, it would have looked like the Colonial Union killed him. By the time it was cleared up, it would have been too late to fix it.”</p>
+   <p>No one said anything to that.</p>
+   <p>In the video feed, Carvalho looked up to where the camera was, as if looking at the group in the medical bay.</p>
+   <p>She waved.</p>
+   <p>The air purged out of the airlock. Carvalho exhaled and kept exhaling long enough to stay conscious until the hull lock opened.</p>
+   <p>She let herself out.</p>
+   <p>“Dani,” Wilson said.</p>
+   <p>“Yeah, Harry,” Lowen said.</p>
+   <p>“You still have the Laphroaig?” Wilson asked.</p>
+   <p>“I do,” Lowen said.</p>
+   <p>“Good,” Wilson said. “Because right now, I think we all need a drink.”</p>
+  </section>
+ </body>
+ <binary id="observers.jpg" content-type="image/jpeg">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</binary>
+</FictionBook>

@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <description>
+    <title-info>
+      <genre>sf</genre>
+      <author>
+        <first-name>Eleanor</first-name>
+        <last-name>Arnason</last-name>
+      </author>
+      <book-title>Dapple: A Hwarhath Historical Romance</book-title>
+      <annotation>
+        <p>Dapple is the story of a woman in the Hwarhath society, where women are forbidden to perform certain jobs. One of them being an actor. Helwar Ahl’s (a.k.a. Dapple) family apprentices her to a sailor. After several years as a sailor, she sneaks off the ship to apprentice herself to a lowly acting troupe. Set upon by bandits, she must fend for herself and face her desire to break the prescribed ways, and force those around her to face her desires as well.</p>
+      </annotation>
+      <keywords />
+      <coverpage>
+        <image xlink:href="#cover.jpeg" />
+      </coverpage>
+      <lang>en</lang>
+    </title-info>
+    <document-info>
+      <author>
+        <first-name />
+        <last-name>www.PHILka.RU</last-name>
+      </author>
+      <program-used>calibre 0.9.0</program-used>
+      <date>17.4.2013</date>
+      <id>163545</id>
+      <version>1.0</version>
+    </document-info>
+    <publish-info>
+      <publisher>St Martin's Press</publisher>
+      <year>2000</year>
+      <isbn>978-0312262754</isbn>
+    </publish-info>
+  </description>
+  <body>
+    <section>
+      <p>Dapple: a hwarhath historical romance</p>
+      <p>
+        <strong>ELEANOR ARNASON</strong>
+      </p>
+      <empty-line />
+      <p>
+      <emphasis>Critically acclaimed author Eleanor Arnason published her first novel,</emphasis>&#160;The Sword Smith,&#160; 
+      <emphasis>in 1978, and followed it with novels such as</emphasis>&#160;Daughter of the Bear King&#160; 
+      <emphasis>and</emphasis>&#160;To the Resurrection Station.&#160; 
+      <emphasis>In 1991, she published her best-known novel, one of the strongest novels of the ‘90s,</emphasis>&#160;A Woman of the Iron People,&#160; 
+      <emphasis>a complex and substantial novel which won the prestigious James Tiptree Jr. Memorial Award. Her short fiction has appeared in</emphasis>&#160;Asimov’s Science Fiction, The Magazine of Fantasy &amp; science Fiction, Amazing, Orbit, Xanadu,&#160; 
+      <emphasis>and elsewhere. Her most recent novel is</emphasis>&#160;Ring of Swords,&#160; 
+      <emphasis>set in the same evocative fictional universe as is the bulk of her short fiction, including the story that follows.</emphasis></p>
+      <empty-line />
+      <p>
+      <emphasis>In this story she takes us to a distant planet inhabited by the alien</emphasis>&#160;hwarhath,&#160; 
+      <emphasis>and along with a brave and determined young girl who defies her family and sets off on a perilous adventure that takes her into uncharted territory of several sorts—into wild, lawless country inhabited by bandits and remorseless killers, and, perhaps even</emphasis>&#160;more 
+      <emphasis>dangerously, into a new social territory as well, as she assumes roles Forbidden to Women since time immemorial.. .</emphasis></p>
+      <empty-line />
+      <p>* * * *</p>
+      <empty-line />
+      <p>T</p>
+      <empty-line />
+      <p>here was a girl named Helwar Ahl. Her family lived on an island north and east of the Second Continent, which was known in those days as the Great Southern Continent. (Now, of course, we know that an even larger expanse of land lies farther south, touching the pole. In Ahl’s time, however, no one knew about this land except its inhabitants.)</p>
+      <empty-line />
+      <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; A polar current ran up the continent’s east coast and curled around Helwar Island, so its climate was cool and rainy. Thick forests covered the mountains. The Helwar built ships from the wood. They were famous shipwrights, prosperous enough to have a good-sized harbor town.</p>
+      <empty-line />
+      <p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Ahl grew up in this town. Her home was the kind of great house typical of the region: a series of two-story buildings linked together. The outer walls were mostly blank. Inside were courtyards, balconies, and large windows provided with the modem wonder, glass. Granted, the panes were small and flawed. But some ingenious artificer had found a way to fit many panes together, using strips of lead. Now the women of the house had light, even in the coldest weather.</p>
+      <empty-line />
+      <p>As a child, Ahl played with her cousins in the courtyards and common rooms, all of them naked except for their fog-grey fur. Later, in a kilt, she ran in the town streets and visited the harbor. Her favorite uncle was a fisherman, who went out in morning darkness, before most people woke. In the late afternoon, he returned. If he’d been lucky, he tied up and cleaned his catch, while Ahl sat watching on the dock.</p>
+      <empty-line />
+      <p>“I want to be a fisherman,” she said one day.</p>
+      <empty-line />
+      <p>“You can’t, darling. Fishing is men’s work.”</p>
+      <empty-line />
+      <p>“Why?”</p>
+      <empty-line />
+      <p>He was busy gutting fish. He stopped for a moment, frowning, a bloody knife still in his hand. “Look at this situation! Do you want to stand like me, knee deep in dead fish? It’s hard, nasty work and can be dangerous. The things that women do well&#160;— negotiation, for example, and the forming of alliances — are no use at all, when dealing with fish. What’s needed here,” he waved the knife, “is violence. Also, it helps if you can piss off the side of a boat.”</p>
+      <empty-line />
+      <p>For a while after that Ahl worked at aiming her urine. She could do it, if she spread her legs and tilted her pelvis in just the right fashion. But would she be able to manage on a pitching boat? Or in a wind? In addition, there was the problem of violence. Did she really want to be a killer of many small animals?</p>
+      <empty-line />
+      <p>One of the courtyards in her house had a basin, which held ornamental fish. Ahl caught one and cut off its head. A senior female cousin caught her before she was finished, though the fish was past help.</p>
+      <empty-line />
+      <p>“What are you doing?” the matron asked.</p>
+      <empty-line />
+      <p>Ahl explained.</p>
+      <empty-line />
+      <p>“These are fish to feed, not fish to eat,” her cousin said and demonstrated this by throwing a graincake into the basin.</p>
+      <empty-line />
+      <p>Fish surged to the surface in a swirl of red fins, green backs, and blue-green tails. A moment later, the cake was gone. The fish returned to their usual behavior: a slow swimming back and forth.</p>
+      <empty-line />
+      <p>“It’s hardly fair to kill something this tame&#160;—in your own house, too. Guests should be treated with respect. In addition, these fish have an uninteresting flavor and are full of tiny bones. If you ate one, it would be like eating a cloth full of needles.”</p>
+      <empty-line />
+      <p>Ahl lost interest in fishing after that. Her uncle was right about killing. It was a nasty activity. All that quickness and grace, gone in a moment. The bright colors faded. She was left with nothing except a feeling of disgust.</p>
+      <empty-line />
+      <p>Maybe she’d be a weaver, like her mother, Leweli. Or the captain of a far-traveling ocean-trader, like her aunt Ki. Then she could bring treasures home: transparent glass, soft and durable lead.</p>
+      <empty-line />
+      <p>When she was ten, she saw her first play. She knew the actors, of course. They were old friends of her family and came to Helwar often, usually staying in Ahl’s house. The older one&#160;—Perig—was quiet and friendly, always courteous to the household children, but not a favorite with them. The favorite was Cholkwa, who juggled and pulled candy out of ears. He knew lots of funny stories, mostly about animals such as the&#160; 
+      <emphasis>tli,</emphasis>&#160;a famous troublemaker and trickster. According to the house’s adults, he was a comedian, who performed in plays too rude for children to see. Perig acted in hero plays, though it was hard to imagine him as a hero. The two men were lovers, but didn’t usually work together. This was due to the difference in their styles and to their habit of quarreling. They had, the women of Ahl’s house said, a difficult relationship.</p>
+      <empty-line />
+      <p>This time they came together, and Perig brought his company. They put on a play in the main square, both of them acting, though Cholkwa almost never did dark work.</p>
+      <empty-line />
+      <p>The play was about two lovers—both of them warriors—whose families quarreled. How could they turn against one another? How could they refuse their relatives’ pleas for help? Each was the best warrior in his family. Though she hadn’t seen a play before, Ahl knew how this was going to end. The two men met in battle. It was more like a dance than anything else, both of them splendidly costumed and moving with slow reluctant, grace. Finally, after several speeches, Perig tricked Cholkwa into striking. The blow was fatal. Perig went down in a gold and scarlet heap. Casting his sword away, Cholkwa knelt beside him. A minor player in drab armor crept up and killed Cholkwa as he mourned.</p>
+      <empty-line />
+      <p>Ahl was transfixed, though also puzzled. “Wasn’t there any way out?” she asked the actors later, when they were back in her house, drinking&#160; 
+      <emphasis>halin</emphasis>&#160;and listening to her family’s compliments.</p>
+      <empty-line />
+      <p>“In a comedy, yes,” said Cholkwa. “Which is why I do bright plays. But Perig likes plays that end with everyone dead, and always over some ethical problem that’s hardly ever encountered in real life.”</p>
+      <empty-line />
+      <p>The older man was lying on a bench, holding his&#160; 
+      <emphasis>halin</emphasis>&#160;cup on his chest. He glanced at Cholkwa briefly, then looked back at the ceiling. “Is what you do more true to reality? Rude plays about animals? I’d rather be a hero in red and gold armor than a man in a&#160; 
+      <emphasis>tli</emphasis>&#160;costume.”</p>
+      <empty-line />
+      <p>“I’d rather be a clever&#160; 
+      <emphasis>tli</emphasis>&#160;than someone who kills his lover.”</p>
+      <empty-line />
+      <p>“What else could they do?” asked Perig, referring to the characters in the play.</p>
+      <empty-line />
+      <p>“Run off,” said Cholkwa. “Become actors. Leave their stupid relatives to fight their stupid war unaided.”</p>
+      <empty-line />
+      <p>It was one of those adult conversations where everything really important was left unspoken. Ahl could tell that. Bored, she said, “I’d like to be an actor.”</p>
+      <empty-line />
+      <p>They both looked at her.</p>
+      <empty-line />
+      <p>“You can’t,” said Perig.</p>
+      <empty-line />
+      <p>This sounded familiar. “Why not?”</p>
+      <empty-line />
+      <p>“In part, its custom,” Cholkwa said. “But there’s at least one good reason. Actors travel and live among unkin; and often the places we visit are not safe. I go south a lot. The people there love comedy, but in every other way they’re louts and savages. At times I’ve wondered if I’d make it back alive, or would someone have to bring my ashes in an urn to Perig?”</p>
+      <empty-line />
+      <p>“Better to stay here,” said Perig. “Or travel the way your aunt Ki does, in a ship full of relatives.”</p>
+      <empty-line />
+      <p>No point in arguing. When adults started to give advice, they were never reasonable. But the play stayed with her. She imagined stories about people in fine clothing, faced with impossible choices; and she acted them out, going so far as to make a wooden sword, which she kept hidden in a hayloft. Her female relatives had an entire kitchen full of knives and cleavers and axes, all sharp and dangerous. But the noise they would have made, if they’d seen her weapon!</p>
+      <empty-line />
+      <p>Sometimes she was male and a warrior. At other times, she was a sailor like Ki, fighting the kinds of monsters found at the edges of maps. Surely, Ahl thought, it was permissible for women to use swords when attacked by monsters, rising out of the water with fangs that dripped poison and long curving claws?</p>
+      <empty-line />
+      <p>Below her in the barn, her family’s&#160; 
+      <emphasis>tsina</emphasis>&#160;ate and excreted. Their animal aroma rose to her, combining with the scent of hay. Later she said this was the scent of drama: dry, aging hay and new-dropped excrement.</p>
+      <empty-line />
+      <p>The next year Cholkwa came alone and brought his company. They did a decent comedy, suitable for children, about a noble&#160; 
+      <emphasis>sul</emphasis>&#160;who was tricked and humiliated by a&#160; 
+      <emphasis>tli.</emphasis>The trickster was exposed at the play’s end. The&#160; 
+      <emphasis>sul’s</emphasis>&#160;honor was restored. The good animals did a dance of triumph, while the&#160; 
+      <emphasis>tli</emphasis>&#160;cowered and begged.</p>
+      <empty-line />
+      <p>Cholkwa was the&#160; 
+      <emphasis>tli.</emphasis>&#160;Strange that a man so handsome and friendly could portray a sly coward.</p>
+      <empty-line />
+      <p>Ahl asked about this. Cholkwa said, “I can’t talk about other men, but I have that kind of person inside me: a cheat and liar, who would like to run away from everything. I don’t run, of course. Perig would disapprove, and I’d rather be admired than despised.”</p>
+      <empty-line />
+      <p>“But you played a hero last year.”</p>
+      <empty-line />
+      <p>“That was more difficult. Perig understands nobility, and I studied with him a long time. I do as he tells me. Most people are tricked and think I know what I’m doing. But that person—the hero —doesn’t speak in my mind.”</p>
+      <empty-line />
+      <p>Ahl moved forward to the play’s other problem. “The&#160; 
+      <emphasis>sul</emphasis>&#160;was noble, but a fool. The&#160; 
+      <emphasis>tli</emphasis>&#160;was clever and funny, but immoral. There was no one in the play I could really like.”</p>
+      <empty-line />
+      <p>Cholkwa gave her a considering gaze, which was permissible, since she was still a child. Would she like it, when men like Cholkwa&#160;—unkin, but old friends — had to glance away? “Most people, even adults, wouldn’t have seen that. It has two causes. I wrote the&#160; 
+      <emphasis>sul’s</emphasis>&#160;lines, and, as I’ve told you, I don’t understand nobility. The other problem is my second actor. He isn’t good enough. If Perig had been here, he would have made the&#160; 
+      <emphasis>sul</emphasis>&#160;likable —in part by rewriting the lines, but mostly because he could play a stone and make it seem likable.”</p>
+      <empty-line />
+      <p>Ahl thought about this idea. An image came to her: Perig in a grey robe, sitting quietly on a stage, his face unmasked and grey, looking calm and friendly. A likable rock. It could be done. Why bother? In spite of her question, the image remained, somehow comforting.</p>
+      <empty-line />
+      <p>Several days later, Cholkwa did a play for adults. This event took place at night in the town hall, which was used for meetings and ceremonies, also to store trade goods in transit. This time the back half was full of cloth, big bales that smelled of fresh dye, southern blue and the famous Sorg red.</p>
+      <empty-line />
+      <p>Ahl snuck out of her house after dark and went in a back door, which she’d unlocked earlier. Climbing atop the bales, she settled to watch the play.</p>
+      <empty-line />
+      <p>Most of it was past her understanding, though the audience gasped, groaned, clapped, and made hissing noises. Clearly, they knew what was going on.</p>
+      <empty-line />
+      <p>The costumes were ugly, in her opinion; the animals had huge sexual parts and grimacing faces. They hit each other with padded swords and clubs, tumbled and tossed each other, spoke lines that were&#160;— as far as she could tell — full of insults, some sly and others so obvious that even she made sense of them. This time the&#160; 
+      <emphasis>sul</emphasis>&#160;was an arrogant braggart with a long narrow head and a penis of almost equal size and shape. The&#160; 
+      <emphasis>tli,</emphasis>&#160;much less well endowed, was clever and funny, a coward because he had to be. Most of his companions were large, dangerous, and unjust.</p>
+      <empty-line />
+      <p>It was the&#160; 
+      <emphasis>tli’s</emphasis>&#160;play. Mocking and tricking, he won over all the rest, ending with the&#160; 
+      <emphasis>sul’s</emphasis>&#160;precious ancestral sword, which he carried off in triumph to his mother, a venerable female&#160; 
+      <emphasis>tli,</emphasis>&#160;while the&#160; 
+      <emphasis>sul</emphasis>&#160;howled in grief.</p>
+      <empty-line />
+      <p>
+      <emphasis>The Sword Recovered or The Revenge of the Tli.</emphasis>&#160;That was the name of&#160;the play. There was something in back of it, which Ahl could not figure out. Somehow the&#160; 
+      <emphasis>sul</emphasis>&#160;had harmed the&#160; 
+      <emphasis>tli’s</emphasis>&#160;family in the past. Maybe the harm had been sexual, though this didn’t seem likely.&#160; 
+      <emphasis>Sulin</emphasis>&#160;and&#160; 
+      <emphasis>tli</emphasis>&#160;did not interbreed. Puzzled, she climbed down from the bales and went home. The night was foggy, and she almost lost her way in streets she’d known her entire life.</p>
+      <empty-line />
+      <p>She couldn’t ask Cholkwa to explain. He would have told her relatives that she’d seen the play.</p>
+      <empty-line />
+      <p>After this, she added comedy to her repertoire, mixing it with the stories about heroes and women like her aunt, far-travelers who did&#160; 
+      <emphasis>not</emphasis>&#160;have to die over some kind of unusual ethical dilemma.</p>
+      <empty-line />
+      <p>The result was a long, acted-out epic tale about a hero, a woman sailor, a clever&#160; 
+      <emphasis>tli,</emphasis>&#160;and a magical stone that accompanied the other three on their journey. The hero was noble, the sailor resourceful, and the&#160; 
+      <emphasis>tli</emphasis>&#160;funny, while the stone remained calm and friendly, no matter what was going on. There wasn’t any sex. Ahl was too young, and the adult comedy had disgusted her. It’s often a bad idea to see things that are forbidden, especially if one is young.</p>
+      <empty-line />
+      <p>In the end, one of her cousins&#160;—a sneak worse than Cholkwa in the children’s play—found out what she was doing and told her senior female relatives. “Clearly you have too much free time,” they said, and assigned her work in the house’s big weaving room. The sword was destroyed, along with the bits of armor she’d made. But her relatives decided the&#160; 
+      <emphasis>tli</emphasis>&#160;mask, constructed of bark paper over a frame of twigs, was good enough to keep. It was hung on the weaving room wall, where it stared down at her. Gradually, the straw whiskers disappeared, and large eyes —drawn in ink —faded.</p>
+      <empty-line />
+      <p>Don’t think that Ahl was too unhappy, or that her relatives had been unjust. Every child has to learn duty; and she’d gotten bored with her solitary play, as well as increasingly uncomfortable with hiding her props. Better to work at a loom and have ideas in her mind. No sneaking cousin could discover&#160; 
+      <emphasis>these,</emphasis>&#160;and everything she imagined was large and bright and well-made, the swords of real steel, sharp and polished, as bright as the best glass.</p>
+      <empty-line />
+      <p>Two years passed. She became an adequate plain weaver, but nothing more. “We thought you might have a gift for beauty,” said her mother. “The mask suggested this. But it’s obvious that you lack the ability to concentrate, which is absolutely necessary in any kind of art. Anything worth doing is likely to be slow, difficult, and boring. This is not an invariable rule, but it works in most situations.”</p>
+      <empty-line />
+      <p>“Give her to me,” said Ki. “Maybe she’d be happier in a more active life.”</p>
+      <empty-line />
+      <p>Ahl went to sea. At first, it was not an enjoyable experience, though she had little problem with motion sickness. Her difficulty lay in the same region as always: she spent too much time thinking about her stories. As a result, she was forgetful and careless. These are not good traits in an apprentice sailor; and Ki, who had always seemed pleasant and friendly at home in Helwar, turned out to be a harsh captain.</p>
+      <empty-line />
+      <p>At first the punishment she gave to Ahl was work. Every ship is full of nasty jobs. Ahl did most of them and did them more than once. This didn’t bother her. She wasn’t lazy, and jobs—though nasty—required little thought. She could make up stories while she did them.</p>
+      <empty-line />
+      <p>Her habit of inattention continued. Growing angry, Ki turned to violence. On several occasions, she stuck Ahl: hard slaps across the face. This also had no effect. The girl simply did not want to give up her stories. Finally, Ki beat her, using a knotted rope.</p>
+      <empty-line />
+      <p>Most likely this shocks you. Nowadays we like to believe that our female ancestors never did harm to one another. It’s men who are violent. Women have always used reason.</p>
+      <empty-line />
+      <p>Remember this was a sailing ship in the days before radio and engines. Weather satellites did not warn sailors of approaching storms. Computers did not monitor the ship’s condition and send automatic signals to the Navigation Service. Sailors had to rely on their own skill and discipline.</p>
+      <empty-line />
+      <p>It was one thing to be forgetful in a weaving room. If you fail to tie off a piece of yarn, what can happen? At most, a length of cloth will be damaged. Now, imagine what happens if the same person fails to tie a rope on board a ship. Or forgets to fasten a hatch in stormy weather.</p>
+      <empty-line />
+      <p>So, after several warnings and a final mistake, Ahl received her beating. By this time she was fourteen or fifteen, with a coat of fur made thick by cold weather. The fur protected her, though not entirely; and later, when she remembered the experience, it seemed that shame was the worst part: to stand naked on the ship’s deck, trying to remain impassive, while Ki used the rope she had failed to tie across her back.</p>
+      <empty-line />
+      <p>Around her, the other sailors did their work. They didn’t watch directly, of course, but there were sideways glances, some embarrassed and others approving. Overhead the sky was cloudless. The ship moved smoothly through a bright blue ocean.</p>
+      <empty-line />
+      <p>The next day she felt every bruise. Ki gave her another unpleasant cleaning job. All day she scraped, keeping her lips pressed together. In the evening she went on deck, less stiff than she’d been earlier, but tired and still sore. Ahl leaned on the rail and looked out at the ocean. In the distance, rays of sunlight slanted between grey clouds. Life was not entirely easy, she thought.</p>
+      <empty-line />
+      <p>After a while, Ki’s lover Hasu Ahl came next to her. Ahl had been named after the woman, for reasons that don’t come into this story, and they were alike in several ways, being both tall and thin, with small breasts and large strong, capable hands. The main difference between them was their fur. Hasu Ahl’s was dark grey, like the clouds which filled the sky, and her coloring was solid. Our Ahl was pale as fog. In addition, she had kept her baby spots. Dim and blurry, they dotted her shoulders and upper arms. Because of these, her childhood name had been Dapple.</p>
+      <empty-line />
+      <p>Hasu Ahl asked how she felt.</p>
+      <empty-line />
+      <p>“I’ve been better.”</p>
+      <empty-line />
+      <p>They became silent, both leaning on the rail. Finally Hasu Ahl said, “There’s a story about your childhood that no one has told you. When you were a baby, a witch predicted that you would be important when you grew up. She didn’t know in what way. I know this story, as do your mother and Ki and a few other people. But we didn’t want your entire family peering at you and wondering, and we didn’t want you to become vain or worried; so we kept quiet.</p>
+      <empty-line />
+      <p>“It’s possible that Ki’s anger is due in part to this. She looks at you and thinks, ‘Where is the gift that was promised us?’ All we can see&#160;—aside from intelligence, which you obviously have — is carelessness and lack of attention.”</p>
+      <empty-line />
+      <p>What could she say? She was inattentive because her mind was full of stories, though the character who’d been like Ki had vanished. Now there was an orphan girl with no close relatives, ignored by everyone, except her three companions: the hero, the&#160; 
+      <emphasis>tli,</emphasis>&#160;and the stone. They cared for her in their different ways: the hero with nobility, the&#160; 
+      <emphasis>tli</emphasis>&#160;with jokes, and the stone with solid friendliness. But she’d never told anyone about her ideas. “I’m not yet fifteen,” Ahl said.</p>
+      <empty-line />
+      <p>“There’s time for you to change,” Hasu Ahl admitted. “But not if you keep doing things that endanger the ship and yourself. Ki has promised that if you’re careless again, she’ll beat you a second time, and the beating will be worse.”</p>
+      <empty-line />
+      <p>After that, Hasu Ahl left. Well, thought our heroine, this was certainly a confusing conversation. Ki’s lover had threatened her with something like fame and with another beating. Adults were beyond comprehension.</p>
+      <empty-line />
+      <p>Her concentration improved, and she became an adequate sailor, though Ki said she would never be a captain. “Or a second-in-command, like your namesake, my Ahl. Whatever your gift may be, it isn’t sailing.”</p>
+      <empty-line />
+      <p>Her time on board was mostly happy. She made friends with the younger members of the crew, and she learned to love the ocean as a sailor does, knowing how dangerous it can be. The coast of the Great Southern Continent was dotted with harbor towns. Ahl visited many of these, exploring the steep narrow streets and multi-leveled marketplaces. One night at a festival, she made love for the first time. Her lover was a girl with black fur and pale yellow eyes. In the torchlight, the girl’s pupils expanded, till they lay across her irises like bars of iron or narrow windows that opened into a starless night.</p>
+      <empty-line />
+      <p>What a fine image! But what could Ahl do with it?</p>
+      <empty-line />
+      <p>Later, in that same port, she came to an unwalled tavern. Vines grew over the roof. Underneath were benches. Perig sat on one, a cup in his hand. She shouted his name. He glanced up and smiled, then his gaze slid away. Was she that old? Had she become a woman? Maybe, she thought, remembering the black-furred girl.</p>
+      <empty-line />
+      <p>Where was Cholkwa? In the south, Perig said.</p>
+      <empty-line />
+      <p>Because the place was unwalled and public, she was able to sit down. The hostess brought&#160; 
+      <emphasis>halin.</emphasis>&#160;She tasted it, savoring the sharp bitterness. It was the taste of adulthood.</p>
+      <empty-line />
+      <p>“Watch out,” said Perig. “That stuff can make you sick.” Was his company here? Were they acting? Ahl asked. Yes. The next night, in the town square. “I’ll come,” said Ahl with decision. Perig glanced at her, obviously pleased.</p>
+      <empty-line />
+      <p>The play was about a hero, of course: a man who suspected that the senior women in his family, his mother and her sisters, had committed a crime. If his suspicion was true, their behavior threatened the family’s survival. But no man can treat any woman with violence, and no man should turn against his mother. And what if he were wrong? Maybe they were innocent. Taking one look at the women, Ahl knew they were villains. But the hero didn’t have her sharpness of vision. So he blundered through the play, trying to discover the truth. Men died, mostly at his hands, and most of them his kin. Finally he was hacked down, while the women looked on. A messenger arrived, denouncing them. Their family was declared untouchable. No one would deal with them in the future. Unable to interbreed, the family would vanish. The monstrous women listened like blocks of stone. Nothing could affect their stubborn arrogance.</p>
+      <empty-line />
+      <p>A terrible story, but also beautiful. Perig was the hero and shone like a diamond. The three men playing the women were grimly convincing. Ahl felt as if a sword had gone through her chest. Her stories were nothing next to this.</p>
+      <empty-line />
+      <p>Afterward, Ahl found Perig in the open tavern. Torches flared in a cool ocean wind, and his fur—touched with white over the shoulders — moved a little, ruffled. Ahl tried to explain how lovely and painful the play had been.</p>
+      <empty-line />
+      <p>He listened, giving her an occasional quick glance. “This is the way it’s supposed to be,” he said finally. “Like a blade going to a vital spot.”</p>
+      <empty-line />
+      <p>“Is it impossible to have a happy ending?” she asked, after she finished praising. “In this kind of play, yes.”</p>
+      <empty-line />
+      <p>“I liked the hero so much. There should have been another solution.” “Well,” said Perig. “He could have killed his mother and aunts, then killed himself. It would have saved his family, but he wasn’t sure they were criminals.”</p>
+      <empty-line />
+      <p>“Of course they were!”</p>
+      <empty-line />
+      <p>“You were in the audience,” said Perig. “Where I was standing, in the middle of the situation, the truth was less evident; and no man should find it easy to kill his mother.”</p>
+      <empty-line />
+      <p>“I was right, years ago,” Ahl said suddenly.&#160; 
+      <emphasis>“This</emphasis>&#160;is what I want to do. Act in plays.”</p>
+      <empty-line />
+      <p>Perig looked unhappy.</p>
+      <empty-line />
+      <p>She told him about her attempts to weave and be a sailor, then about the plays she had acted in the hayloft and the stories in her mind. For the first time, she realized that the stories had scenes. She knew how the hero moved, like Perig acting a hero. The&#160; 
+      <emphasis>tli</emphasis>&#160;had Cholkwa’s brisk step and mocking voice. The stone was a stone. Only the girl was blurry. She didn’t tell Perig about the scenes. Embarrassing to admit that this quiet aging man lived in her mind, along with his lover and a stone. But she did tell him that she told stories.</p>
+      <empty-line />
+      <p>He listened, then said, “If you were a boy, I’d go to your family and ask for you as an apprentice&#160;— if not this year, then next year. But I can’t, Ahl. They’d refuse me and be so angry I might lose their friendship.”</p>
+      <empty-line />
+      <p>“What am I to do?” asked Ahl.</p>
+      <empty-line />
+      <p>“That’s a question I can’t answer,” said Perig.</p>
+      <empty-line />
+      <p>A day later, her ship left the harbor. On the long trip home, Ahl considered her future. She’d seen other companies of actors. Perig and Cholkwa were clearly the best, but neither one of them would be willing to train her. Nor would any company that knew she was female. But most women in this part of the world were broad and full-breasted, and she was an entirely different type. People before, strangers, had mistaken her for a boy. Think of all the years she had acted in her loft, striding like Perig or mimicking Cholkwa’s gait. Surely she had learned something!</p>
+      <empty-line />
+      <p>She was seventeen and good at nothing. In spite of the witch’s prediction, it wasn’t likely she’d ever be important. It seemed to her now that nothing had ever interested her except the making of stories&#160;— not the linked verse epics that people recited on winter evenings, nor the tales that women told to children, but proper&#160; 
+      <emphasis>stories,</emphasis>&#160;like the ones that Perig and Cholkwa acted.</p>
+      <empty-line />
+      <p>Before they reached Helwar, Ahl had decided to disguise herself as a boy and run away.</p>
+      <empty-line />
+      <p>First, of course, she had to spend the winter at home. Much of her time was taken by her family. When she could, she watched her uncles and male cousins. How did they stand and move? What were their gestures? How did they speak?</p>
+      <empty-line />
+      <p>The family warehouse was only half-full, she discovered. This became her theater, lit by high windows or (sometimes) by a lamp. She’d bought a square metal mirror in the south. Ahl leaned it against a wall. If she stood at a distance, she could see herself, dressed in a tunic stolen from a cousin and embroidered in the male style. Whenever possible, she practiced being a man, striding across the wood floor, turning and gesturing, speaking lines she remembered out of plays. Behind her were stacks of new-cut lumber. The fresh, sweet aroma of sawdust filled the air. In later life, she said this was the smell of need and possibility.</p>
+      <empty-line />
+      <p>In spring, her ship went south again. Her bag, carefully packed, held boy’s clothing, a knife and all her money.</p>
+      <empty-line />
+      <p>In a town in the far south, she found an acting company, doing one of Perig’s plays in ragged costumes. It was one she’d seen. They’d cut out parts.</p>
+      <empty-line />
+      <p>So, thought Ahl. That evening, she took her bag and crept off the ship. The night was foggy, and the damp air smelled of unfamiliar vegetation. In an alley, she changed clothing, binding her four breasts flat with strips of cloth. She already knew where the actors were staying: a run-down inn by the harbor, not the kind of place that decent female sailors would visit. Walking through the dark streets, bag over her shoulder, she was excited and afraid.</p>
+      <empty-line />
+      <p>Here, in this town, she was at the southern edge of civilization. Who could tell what the inland folk were like? Though she had never heard of any lineage that harmed women. If things got dangerous, she could pull off her tunic, revealing her real self.</p>
+      <empty-line />
+      <p>On the other hand, there might be monsters; and they&#160; 
+      <emphasis>did</emphasis>&#160;harm women. Pulling off her tunic would do no good if something with fangs and scales came out of the forest. At most, the thing might thank her for removing the wrapping on its dinner.</p>
+      <empty-line />
+      <p>If she wanted to turn back, now was the time. She could be a less-than-good sailor. She could go home and look for another trade. There were plenty in Helwar, and women could do most of them. She hadn’t really wanted to fish in the ocean, not after she killed the fish in the basin. As for the other male activities, let them&#160; 
+      <emphasis>have</emphasis>&#160;fighting and hunting dangerous animals! Let them log and handle heavy timbers! Why should women risk their lives?</p>
+      <empty-line />
+      <p>She stopped outside the inn, almost ready to turn around. Then she remembered Perig in the most recent play she’d seen, at the moment when the play’s balance changed. A kinsman lay dead at his feet. It was no longer possible to go back. He’d stood quietly, then lifted his head, opening his mouth in a great cry that was silent. No one in the audience made a noise. Somehow, through his silence and their silence, Ahl heard the cry.</p>
+      <empty-line />
+      <p>She would not give that up. Let men have every other kind of danger. This was something they had to share.</p>
+      <empty-line />
+      <p>She went in and found the actors, a shabby group. As she had thought, they were short-handed.</p>
+      <empty-line />
+      <p>The senior man was pudgy with a scar on one side of his face. “Have you any experience?” he asked.</p>
+      <empty-line />
+      <p>“I’ve practiced on my own,” said Ahl.</p>
+      <empty-line />
+      <p>The man tilted his head, considering. “You’re almost certainly a runaway, which is bad enough. Even worse, you’ve decided you can act. If I was only one man short, I’d send you off. But two of my men are gone, and if I don’t find someone, we won’t be able to continue.”</p>
+      <empty-line />
+      <p>In this manner, she was hired, though the man had two more questions. “How old are you? I won’t take on a child.”</p>
+      <empty-line />
+      <p>“Eighteen,” said Ahl.</p>
+      <empty-line />
+      <p>“Are you certain?”</p>
+      <empty-line />
+      <p>“Yes,” she answered with indignation. Though she was lying about almost everything else, eighteen was her age.</p>
+      <empty-line />
+      <p>Maybe her tone convinced the man. “Very well,” he said, then asked, “What’s your name?”</p>
+      <empty-line />
+      <p>“Dapple,” she said.</p>
+      <empty-line />
+      <p>“Of no family?”</p>
+      <empty-line />
+      <p>She hesitated.</p>
+      <empty-line />
+      <p>The man said, “I’ll stop asking questions.”</p>
+      <empty-line />
+      <p>She had timed this well. They left the next morning, through fog and drizzling rain. Her comrades on the ship would think she was sleeping. Instead, she trudged beside the actors’ cart, which was pulled by a pair of&#160; 
+      <emphasis>tsina.</emphasis>&#160;Her tunic, made of thick wool, kept out the rain. A broad straw hat covered her head. Oiled boots protected her feet against mud and pools of water.</p>
+      <empty-line />
+      <p>From this point on, the story will call her Dapple. It’s the name she picked for herself and the one by which she was known for the rest of her life. Think of her not as Helwar Ahl, the runaway girl, but Dapple the actor, whose lineage did not especially matter, since actors live on the road, in the uncertain regions that lie between family holdings and the obligations of kinship.</p>
+      <empty-line />
+      <p>All day they traveled inland, through steep hills covered with forest. Many of the trees were new to her. Riding in the cart, the pudgy man&#160;—his name was Manif—told her about the company. They did mostly comedies, though Manif preferred hero plays. “These people in the south are the rudest collection of louts you can imagine. They like nothing, unless it’s full of erect penises and imitations of intercourse; and men and women watch these things together! Shocking!</p>
+      <empty-line />
+      <p>“They even like plays about&#160; 
+      <emphasis>breeding,</emphasis>&#160;though I prefer—of course—to give them decent comedies about men having sex with men or women having sex with women. But if they insist on heterosexuality, well, we have to eat.”</p>
+      <empty-line />
+      <p>This sounded bad to Dapple, but she was determined to learn. Maybe there was more to comedy than she had realized.</p>
+      <empty-line />
+      <p>They made camp by the side of the road. Manif slept in the cart, along with another actor: a man of twenty-five or so, not bad looking. The rest of them pitched a tent. Dapple got an outside place, better for privacy, but also wetter. The rain kept falling. In the cart, Manif and his companion made noise.</p>
+      <empty-line />
+      <p>“Into the&#160; 
+      <emphasis>halin,</emphasis>&#160;I notice,” said one of Dapple’s companions.</p>
+      <empty-line />
+      <p>“And one another,” a second man added.</p>
+      <empty-line />
+      <p>The third man said, “D’you think he’ll go after Dapple here?”</p>
+      <empty-line />
+      <p>It was possible, thought Dapple, that she’d done something stupid. Cholkwa had warned her about the south.</p>
+      <empty-line />
+      <p>“He won’t if Dapple finds himself a lover quickly,” said the first man.</p>
+      <empty-line />
+      <p>This might have been a joke, rather than an offer. Dapple couldn’t tell. She curled up, her back to the others, hoping that no one would touch her. In time, she went to sleep.</p>
+      <empty-line />
+      <p>The next day was clear, though the ground remained wet. They ate breakfast, then struck the tent and continued inland. The change in weather made Dapple more cheerful. Maybe the men would make no advances. If they did, she’d find a way to fend them off. They might be shabby and half as good as Perig and Cholkwa, but they didn’t seem to be monsters or savages; and this wasn’t the far north, where a war had gone on for generations, unraveling everything. People on this continent understood right behavior.</p>
+      <empty-line />
+      <p>As she thought this, one of the&#160; 
+      <emphasis>tsina</emphasis>&#160;screamed and reared. An arrow was stuck in its throat.</p>
+      <empty-line />
+      <p>“Bandits!” cried Manif and shook the reins, crying, “Go, go,” to the animals.</p>
+      <empty-line />
+      <p>But the shot animal stumbled, unable to continue; and the second&#160; 
+      <emphasis>tsin</emphasis>&#160;began to lunge, trying to break free of the harness and its comrade. The actors pulled swords. Dapple dove into the edge-of-forest brush. Behind her was shouting. She scrambled up a hill, her heart beating like a hammer striking an anvil, though more quickly. Up and up, hoping the bandits would not follow. At last she stopped. Her heart felt as if it might break her chest; her lungs hurt; all her breath was gone. Below her on the road was screaming. Not the 
+      <emphasis>tsin</emphasis>&#160;any longer, she thought. This sound was men.</p>
+      <empty-line />
+      <p>When she was able to breathe, she went on, climbing more slowly now. The screaming stopped. Had the bandits noticed her? Had they counted the company? Four of them had been walking, while Manif and his lover rode. But the lover had been lying in back, under the awning, apparently exhausted by his efforts of the night before. If the bandits had been watching, they might have seen only five people.</p>
+      <empty-line />
+      <p>No way to tell. She continued up the hill, finally reaching a limestone bluff. There was a crack. She squeezed her way in, finding a narrow cave. There she stopped a second time, leaning against the wet rock, trying to control her breath. Somehow she’d managed to keep her bag. She dropped it at her feet and pulled her knife.</p>
+      <empty-line />
+      <p>For the rest of the day, she waited, then through the night, dozing from time to time, waking suddenly. No one came. In the morning, she went down the hill, stopping often to listen. There was nothing to hear except wind in the foliage and small animals making their usual noises.</p>
+      <empty-line />
+      <p>The road was empty, though there were ruts to show that a cart had passed by. Dapple saw no evidence that a fight had ever taken place. For a moment she stood with her mouth open, wondering. Had it been a dream? The attack and her flight from it? Or had the actors managed to drive off the bandits, then gone on, condemning her as a coward? Across the road, a bird took flight. Large and heavy, it was mottled black and white and green. Not a breed native to Helwar, but she knew it from her travels in the south. It ate everything, plant and animal, but had a special liking for carrion.</p>
+      <empty-line />
+      <p>Dapple crossed the road. On the far side, beyond the bushes, was a hollow. Something lay there, covered by branches and handfuls of leaves. She moved one of the branches. Underneath was the shot&#160; 
+      <emphasis>tsin,</emphasis>&#160;dead as a stone; and underneath the&#160; 
+      <emphasis>tsin</emphasis>&#160;were the actors. She couldn’t see them entirely, but parts protruded: a hand, a leg to the knee. One face&#160;— Manif s — stared up at her, fur matted with dark blood, one eye already gone.</p>
+      <empty-line />
+      <p>Shaking, she replaced the branch, then sat down before she fell. For a while, she did nothing except rock, her arms around her knees, silent because she feared to mourn out loud.</p>
+      <empty-line />
+      <p>Finally, she got up and uncovered the grave. There was no way for her to move the&#160; 
+      <emphasis>tsin’s</emphasis>&#160;huge body, but she climbed down next to it, touching the actors, making sure they were all dead. Everything she touched was lifeless. There was nothing in the grave except the corpses. The bandits had taken everything else: the cart, the surviving&#160; 
+      <emphasis>tsin</emphasis>&#160;and the company’s belongings. There was no way to bury the actors properly. If she tried, she would be leaving evidence of her existence.</p>
+      <empty-line />
+      <p>She climbed back out of the grave. Where should she go? Back to the harbor town? But the bandits had obviously been waiting along the road, and they might have gone back to waiting. If so, they were likely to be where they’d been before: somewhere to the east.</p>
+      <empty-line />
+      <p>If they intended to set ambush farther west, surely they would have done a better job of covering the bodies. Birds had found them already. By tomorrow, this spot would be full of noisy, filthy eaters-of-carrion.</p>
+      <empty-line />
+      <p>It’s possible she wasn’t thinking clearly in reasoning this out. Nonetheless, she decided to go west. According to Manif, there was a town less than a day’s journey away: solid, fortified, and fond of acting. Slinging her bag over her shoulder, Dapple went on.</p>
+      <empty-line />
+      <p>The road wound through a series of narrow valleys. After she had gone a short distance, she saw the cart ahead of her, motionless in the middle of the road. She glanced back, planning to run. Two men stood there, both holding swords. Goddess! Ahl glanced at the forest next to her. As she did so, a man stepped out of the blue-green shadow. He also held a sword.</p>
+      <empty-line />
+      <p>“I should have gone east,” said Dapple.</p>
+      <empty-line />
+      <p>“Some of our cousins went in that direction. Most likely, you would have met them.”</p>
+      <empty-line />
+      <p>Was this the moment to reveal she was a woman? “Are you going to kill me?”</p>
+      <empty-line />
+      <p>“That depends on what you do,” the man said. “But I’d prefer not to.”</p>
+      <empty-line />
+      <p>The other bandits came close. There were four of them, all dressed in worn, stained clothing.</p>
+      <empty-line />
+      <p>“He’s handsome,” said the youngest fellow, who had a bandage wrapped around one arm. “Worth keeping.”</p>
+      <empty-line />
+      <p>“For what purpose?” asked Dapple, feeling uneasy.</p>
+      <empty-line />
+      <p>“We’ll tell you later,” said the man from the forest.</p>
+      <empty-line />
+      <p>After that, they took her bag and knife, then tied her hands in front of her. The man with the injured arm took the rope’s other end. “Come along, dear one. We have a long way to go before nightfall.”</p>
+      <empty-line />
+      <p>He led her off the road, onto a narrow path. Animals had made it, most likely. A second man followed. The others stayed behind.</p>
+      <empty-line />
+      <p>The rest of the day they traveled through steep forest. Now and then, the path crossed a stream or went along a limestone outcropping. Dapple grew tired and increasingly afraid. She tried to reassure herself by thinking that men rarely killed women and that rape&#160;—of women by men, at least—was an almost unknown perversion.</p>
+      <empty-line />
+      <p>But women rarely traveled alone. Obviously they came to little harm, if they stayed at home or traveled in large companies; and this was the south, the region where civilization ended; and these men were killers, as she had seen. Who could say what they might do?</p>
+      <empty-line />
+      <p>For example, they might kill her before learning she was a woman. Was this the moment to tell them? She continued to hesitate, feeling ashamed by the idea of abandoning her disguise. She had wanted to be different. She had planned to fool other people by using her intelligence and skill. Now, at the first set-back, she was ready to give up.</p>
+      <empty-line />
+      <p>What a finish to her ambitions! She might die in this miserable forest—like a hero in a play, though with less dignity.</p>
+      <empty-line />
+      <p>Worst of all, she needed to urinate. She knew from Perig and Cholkwa that all actors drank only in moderation before they went on stage. But she hadn’t thought that she’d be acting this afternoon. Her bladder was full and beginning to hurt.</p>
+      <empty-line />
+      <p>Finally, she confessed her need.</p>
+      <empty-line />
+      <p>“Go right ahead,” one of her captors said, stopping by a tree.</p>
+      <empty-line />
+      <p>“I’m modest and can’t empty my bladder in front of other men.”</p>
+      <empty-line />
+      <p>“We won’t watch,” said the second bandit in a lying tone.</p>
+      <empty-line />
+      <p>“Let me go behind those bushes and do it. You’ll be able to see my head and shoulders. I won’t be able to escape.”</p>
+      <empty-line />
+      <p>The bandits agreed, clearly thinking that she was some kind of fool. But who can explain the behavior of foreigners?</p>
+      <empty-line />
+      <p>Dapple went behind the bushes. Now her childhood practice came in useful; unlike most women, she could urinate while standing up and not make a mess. From situations like these we learn to value every skill, unless it’s clearly pernicious. Who can predict the future and say, this-and-such ability will never be of use? She rejoined the bandits, feeling an irrational satisfaction.</p>
+      <empty-line />
+      <p>At nightfall, they came to a little stony valley far back in the hills. A stream ran out of it. They waded in through cold water. At the valley’s end was a tall narrow cave. Firelight shone out. “Home at last!” said the bandit who held Dapple’s rope.</p>
+      <empty-line />
+      <p>They entered. The cave widened at once. Looking around, Dapple saw a large stone room. A fire burned in the middle. Around it sat women in ragged tunics. A few children chased each other, making shrill noises like the cries of birds. At the back of the cave were more openings, two or maybe three, leading farther in.</p>
+      <empty-line />
+      <p>“What have you brought?” asked one of the women, lifting her head. The fur on the woman’s face was white with age, and the lenses of her eyes were cloudy.</p>
+      <empty-line />
+      <p>“A fine young man to impregnate your daughters,” said the man holding the rope.</p>
+      <empty-line />
+      <p>The old woman rose and came forward. Her body was solid, and she moved firmly, though with a cane. Bending close, she peered at Dapple, then felt an arm. “Good muscle. How old is he?”</p>
+      <empty-line />
+      <p>“Tell her,” the man said.</p>
+      <empty-line />
+      <p>“Eighteen.”</p>
+      <empty-line />
+      <p>“Men are active at that age, no question, but I prefer someone older. Who knows anything about a lad of eighteen? He hasn’t shown the world his nature. His traits may be good or bad.”</p>
+      <empty-line />
+      <p>“This is true, mother,” said the man with the rope. “But we have to take what we get. This one is alive and healthy. Most likely, he can do what we need done.”</p>
+      <empty-line />
+      <p>Dapple thought of mentioning that she could not impregnate a female, but decided to wait.</p>
+      <empty-line />
+      <p>“Come over to the fire,” the old woman said. “Sit down and talk with me. I like to know who’s fathering the children in our family.”</p>
+      <empty-line />
+      <p>Dapple obeyed. The man went with them. Soon she was on the stone floor, a bowl of beer next to her. In her hand was a piece of greasy meat, a gift from the old woman. Around her sat the rest of the family: thin women with badly combed fur. Most likely they had bugs. One held a baby. The rest of the children were older, ranging from a girl of four or five to a boy at the edge of adulthood. The boy was remarkably clean for a member of this family, and he had a slim gracefulness that seemed completely out of place. The other children continued to run and scream, but he sat quietly among his female relatives, watching Dapple with eyes as yellow as resin.</p>
+      <empty-line />
+      <p>The man, Dapple’s captor, sat in back of her, out of sight, though when she moved her bound hands, she could feel him holding the rope.</p>
+      <empty-line />
+      <p>There had been five families in these hills, the old woman said. None of them large or rich, but they survived, doing one thing or another.</p>
+      <empty-line />
+      <p>Five lineages of robbers, thought Dapple.</p>
+      <empty-line />
+      <p>“We all interbred, till we were close kin, but we remained separate families, so we could continue to interbreed and find lovers. The rest of the families in this region never liked us and would have nothing to do with us. We had no one except each other.”</p>
+      <empty-line />
+      <p>Definitely robbers.</p>
+      <empty-line />
+      <p>In the end, the large and powerful families in the region combined against the five. One by one, they were destroyed. It was done in the usual way: the men were killed, the women and children adopted.</p>
+      <empty-line />
+      <p>“But our neighbors, the powerful ones, never allowed any of the people they adopted to breed. They would not let women and children starve, but neither would they let traits like ours continue. We were poisoned and poisonous, they said.</p>
+      <empty-line />
+      <p>“Imagine what it was like for those women and children! It’s one thing for a woman to lose her family name and all her male relatives. That can be endured. But to know that nothing will continue, that her children will die without children! Some of the women fled into the hills and died alone. Some were found by us. We took them in, of course, and bred them when we could. But where could we find fathers? The men who should have impregnated our daughters&#160;— and the women we adopted —were dead.</p>
+      <empty-line />
+      <p>“We are the last of the five families: more women than men, all of us poor and thin, with no one to father the next generation, except travelers like you.</p>
+      <empty-line />
+      <p>“But we refuse to give up! We won’t let rich and arrogant folk make us vanish from the world!”</p>
+      <empty-line />
+      <p>Dapple thought while drinking her beer. “Why did your men kill the rest of our acting company? There were five more&#160;—all male, of course, and older than I am.”</p>
+      <empty-line />
+      <p>The bandit matriarch peered past Dapple. “Six men? And you brought only&#160; 
+      <emphasis>one?”</emphasis></p>
+      <empty-line />
+      <p>“They fought,” said the man behind Dapple, his voice reluctant. “We became angry.”</p>
+      <empty-line />
+      <p>The matriarch hissed, a noise full of rage.</p>
+      <empty-line />
+      <p>“One other is still alive,” the man added. “My brothers will bring him along later.”</p>
+      <empty-line />
+      <p>“You wanted to rape him,” said the matriarch. “What good do you think he’ll be, after you finish? Selfish, selfish boys! Your greed will destroy us!”</p>
+      <empty-line />
+      <p>Obviously, she had miscounted, when she climbed into the actors’ grave. Who was still alive? Not Manif. She’d seen him clearly. Maybe his lover, who was young and handsome.</p>
+      <empty-line />
+      <p>“Don’t blame&#160; 
+      <emphasis>me,”</emphasis>&#160;said the man sullenly. “I’m not raping anyone. I’m here with this lad, and I haven’t touched him. As for the other man, he’ll still be usable. No one wants to make you angry.”</p>
+      <empty-line />
+      <p>The matriarch scratched her nose. “I’ll deal with that problem when your brothers and male cousins return. In the meantime, tie up this man. I need to decide who should mate with him.”</p>
+      <empty-line />
+      <p>“Why should I do this?” asked Dapple. “There is no breeding contract between your family and mine. No decent man has sex with a woman, unless it’s been arranged by his relatives and hers.”</p>
+      <empty-line />
+      <p>“We will kill you, if you don’t!” said the man behind Dapple.</p>
+      <empty-line />
+      <p>“What will you do if I agree to do this very improper thing?”</p>
+      <empty-line />
+      <p>The people around the fire looked uneasy.</p>
+      <empty-line />
+      <p>“One thing at a time,” said the matriarch. “First, you have to make one of our women pregnant. Later, we’ll decide what to do with you.”</p>
+      <empty-line />
+      <p>Dapple was led into another cave, this one small and empty except for a pallet on the floor and an iron ring set in the wall. Her captor tied her rope to the ring and left her. She sat down. Firelight came from the main cave, enough to light her prison. She tried to loosen the knots that held her. No luck. A cold draft blew down on her. At first, she thought it was fear. Glancing up, she saw a hole that led to starlight. Too far for her to reach, even if she could manage to free herself, and most likely too small to climb through. Only a few stars were visible. One was yellow and very bright: the Eye of Uson. It made her think of Manif s one eye. How was she going to escape this situation? The hole seemed unreachable, and the only other route was past the main cavern, full of bandits; and she was tired, far too tired to think. Dapple lay down and went to sleep.</p>
+      <empty-line />
+      <p>She woke to feel a hand shaking her. Another hand was over her mouth.</p>
+      <empty-line />
+      <p>“Don’t make any noise,” a voice whispered.</p>
+      <empty-line />
+      <p>She moved her head in a gesture of agreement. The hand over her mouth lifted. Cautiously, she sat up.</p>
+      <empty-line />
+      <p>The fire in the main cave still burned, though more dimly. Blinking, she made out a slim figure. She touched an arm. The fur felt smooth and clean. “You are the boy.”</p>
+      <empty-line />
+      <p>“A man now. Fifteen this spring. Are you really an actor?”</p>
+      <empty-line />
+      <p>“Yes.”</p>
+      <empty-line />
+      <p>“My father was one. They told me about him: a handsome man, who told jokes and juggled anything: fruit, stones, knives, though they never let him have sharp knives. After he made my mother pregnant, they kept him to impregnate another woman and because they enjoyed his company. But instead of doing as they planned, he escaped. They say, they’ll never trust another foreigner—or keep a man alive so long that he knows his way through the caves. His name was Cholkwa. Have you ever heard of him?”</p>
+      <empty-line />
+      <p>Dapple laughed quietly.</p>
+      <empty-line />
+      <p>“What does&#160; 
+      <emphasis>that</emphasis>&#160;mean?” asked the boy.</p>
+      <empty-line />
+      <p>“I’ve known him all my life. He stays at my family’s house when he’s on Helwar Island. Though he has never mentioned meeting your kin, at least when I was around.”</p>
+      <empty-line />
+      <p>“Maybe we weren’t important to him,” the boy said in a sad tone.</p>
+      <empty-line />
+      <p>Most likely, Cholkwa kept silent out of shame. His own family was far to the north, across the Narrow Ocean, and she’d never heard him speak about any of them. Maybe he had no relatives left. There’d been war in the north for generations now. Sometimes it flared up; at other times it died to embers, but it never entirely ended; and many lineages had been destroyed.</p>
+      <empty-line />
+      <p>He was a decent man, in spite of his lack of kin. How could he admit to breeding without a contract arranged by the senior women in his family? How could he admit to leaving a child who was related to him&#160;—granted, not closely, but a relative nonetheless — in a place like this?</p>
+      <empty-line />
+      <p>“Will your relatives kill me?” Dapple asked.</p>
+      <empty-line />
+      <p>“Once you have made one of my cousins pregnant, yes.”</p>
+      <empty-line />
+      <p>“Why are you here with me?”</p>
+      <empty-line />
+      <p>“I wanted to know about my father.” The boy paused. “I wanted to know what lies beyond these hills.”</p>
+      <empty-line />
+      <p>“What good will it do for you to know?”</p>
+      <empty-line />
+      <p>There was silence for a while. “When I was growing up, my mother told me about Cholkwa, his stories and jokes and tricks. There are cities beyond the hills, he told her, and boats as big as our cave that sail on the ocean. The boats go from city to city, and there are places&#160;—halls and open spaces —where people go to see acting. In those places, Cholkwa is famous. Crowds of people come to see him perform the way he did for my family in this cave. Are these stories true?”</p>
+      <empty-line />
+      <p>“Yes,” said Dapple. “Everywhere he goes, people are charmed by him and take pleasure in his skill. No actor is more famous.” She paused, trying to think of what to say next. The Goddess had given this boy to her; she must find a way to turn him into an ally. “He has no kin on this side of the ocean. Most likely, he would enjoy meeting you.”</p>
+      <empty-line />
+      <p>“Fathers don’t care about their children, and we shouldn’t care about them. Dead or alive, they do nothing for us.”</p>
+      <empty-line />
+      <p>“This isn’t true,” said Dapple with quiet anger. “Obviously, it makes sense for a child to stay with her mother and be raised by maternal kin. A man can’t nurse a baby, after all; and few mothers could bear to be separated from a small child. But the connection is still there. Most men pay some attention to their children, especially their sons. If something happens to the maternal lineage or to the relationship between a woman and her family, the paternal lineage will often step in. My mother is from Sorg, but she quarreled with her kin and fled to my father’s family, the Helwar. They adopted her and me. Such things occur.”</p>
+      <empty-line />
+      <p>“Nothing has happened to my family,” the boy said. “And my mother never quarreled with them, though she wasn’t happy living here. I know that.”</p>
+      <empty-line />
+      <p>“Your family is not fit to raise children,” said Dapple. “You seem to have turned out surprisingly well, but if you stay with them, they’ll make you a criminal, and then you’ll be trapped here. Do you really want to spend your life among thieves and people who breed without a contract? If you leave now and seek out Cholkwa, it may be possible for you to have a decent life.”</p>
+      <empty-line />
+      <p>The boy was silent for a moment, then exhaled and stood. “I have to go. They might wake.”</p>
+      <empty-line />
+      <p>A moment later, she was alone. She lay for a while, wondering if the boy would help her or if there was another way to escape. When she went back to sleep, she dreamt of Cholkwa. He was on a stage, dressed in bright red armor. His eyes were yellow and shone like stars. Instead of acting, he stood in a relaxed pose, holding a wooden sword loosely. “All of this is illusion and lies,” he told her, gesturing at the stage. “But there’s truth behind the illusion. If you are going to act, you need to know what’s true and what’s a lie. You need to know which lies have truth in back of them.”</p>
+      <empty-line />
+      <p>Waking, she saw a beam of sunlight shining through the hole in her ceiling. For a moment, the dream’s message seemed clear and important. As she sat up, it began to fade and blur, though she kept the image of Cholkwa in his crimson armor.</p>
+      <empty-line />
+      <p>One of the bandit males came and untied her. Together they went out, and she relieved herself behind bushes.</p>
+      <empty-line />
+      <p>“I’ve never known anyone so modest,” the bandit said. “How are you going to get a woman pregnant, if you can’t bare yourself in front of a man?”</p>
+      <empty-line />
+      <p>A good question, Dapple thought. Her disguise couldn’t last much longer. Maybe she ought to end it. It didn’t seem likely that the boy would help her; people didn’t turn against their kin, even kin like these; and as long as the bandits thought she was a man, they might do anything. No rules protect a man who falls into the hands of enemies. She might be dead, or badly injured, before they realized she wasn’t male. But something, a sense of foreboding, made her reluctant to reveal her true nature.</p>
+      <empty-line />
+      <p>“We have sex in the dark,” she told the bandit.</p>
+      <empty-line />
+      <p>“That can be managed,” he replied. “Though it seems ridiculous.”</p>
+      <empty-line />
+      <p>Dapple spent the rest of the day inside, alone at first, in a corner of the cave. The other bandits did not return, and the matriarch looked increasingly grim. Her kin sent their children outside to play. The men were gone as well. Those who remained—a handful of shabby women—worked quietly, giving the matriarch anxious glances. Clearly this was someone who could control her family! A pity that the family consisted of criminals.</p>
+      <empty-line />
+      <p>At last, the old woman gestured. “Come here, man. I want to know you better.”</p>
+      <empty-line />
+      <p>Dapple settled by the fire, which still burned, even in the middle of a bright day. This wasn’t surprising. The cave was full of shadows, and the air around them was cool and damp.</p>
+      <empty-line />
+      <p>Instead of asking questions, the woman grumbled. It was hard work holding together a lineage, especially when all the neighboring families were hostile, and she got little help. Her female relatives were slovenly. “My eyes may be failing, but I can still smell. This place stinks like a midden heap!” Her male kin were selfish and stupid. “Five men! And they have brought me&#160; 
+      <emphasis>one,</emphasis>&#160;with another promised, though I’ll believe in him when he appears!”</p>
+      <empty-line />
+      <p>All alone, she labored to continue her line of descent, though only one descendant seemed really promising, the boy who’d been fathered by an actor. “A fine lad. Maybe there’s something potent about the semen of actors. I hope so.”</p>
+      <empty-line />
+      <p>Evening came. The missing bandits did not appear. Finally the old woman looked at Dapple. “It seems our hopes rest in your hands&#160;—or if not in your hands, then in another part of your body. Is there a woman you prefer?”</p>
+      <empty-line />
+      <p>Dapple glanced around. Figures lurked in the shadows, trying to avoid the matriarch’s glance. Hard to see, but she knew what was there. “No.”</p>
+      <empty-line />
+      <p>“I’ll pick one, then.”</p>
+      <empty-line />
+      <p>“There is something you ought to know,” Dapple said.</p>
+      <empty-line />
+      <p>The old woman frowned at her.</p>
+      <empty-line />
+      <p>“I can’t impregnate a woman.”</p>
+      <empty-line />
+      <p>“Many men find the idea of sex with women distasteful,” the matriarch said. “But they manage the task. Surely your life is worth some effort. I promise you, you’ll die if you don’t try.”</p>
+      <empty-line />
+      <p>“I’m a woman,” said Dapple. “This costume is a disguise.”</p>
+      <empty-line />
+      <p>“Ridiculous,” the matriarch said. “Decent women don’t wear men’s clothing or travel with actors.”</p>
+      <empty-line />
+      <p>“I didn’t say I was a decent woman. I said I was female and unable to father children. Don’t you think&#160;—since I can’t help you —you ought to let me go?”</p>
+      <empty-line />
+      <p>“No matter what you are, we can’t let you go,” said the matriarch. “You might lead people to this cave.” Then she ordered her kin to examine Dapple.</p>
+      <empty-line />
+      <p>Three shabby women moved in. Standing, Dapple pulled off her tunic and underpants.</p>
+      <empty-line />
+      <p>“No question about it,” one of the women said. “She is female.”</p>
+      <empty-line />
+      <p>“What wretched luck!” cried the matriarch. “What have I done to deserve this kind of aggravation? And what’s wrong with you, young woman, running around in a tunic and tricking people? Have you no sense of right behavior?”</p>
+      <empty-line />
+      <p>There were more insults and recriminations, mostly from the old woman, though the others muttered agreement. What inhospitable and unmannerly folk! Dapple could hardly have fallen into a worse situation, though they weren’t likely to kill her, now that they knew she was a woman.</p>
+      <empty-line />
+      <p>At last, the matriarch waved a hand. “Tie her up for the night. I need to think.”</p>
+      <empty-line />
+      <p>Once again, Dapple found herself in the little side cave, tied to an iron ring. As on the previous night, stars shone through the hole in the ceiling, and firelight came down the corridor from the main cave, along with angry voices. Her captors were arguing. At this distance she couldn’t make out words, but there was no mistaking the tone.</p>
+      <empty-line />
+      <p>This time she made a serious effort to untie the rope that held her. But her hands had been fastened together, and her fingers couldn’t reach the knot. Gnawing proved useless. The rope was too thick and strong. Exhausted, she began to doze. She woke to a touch, as on the night before.</p>
+      <empty-line />
+      <p>“Is it you again?” she asked in a whisper.</p>
+      <empty-line />
+      <p>“My grandmother has chosen me to impregnate you,” said the boy, sounding miserable.</p>
+      <empty-line />
+      <p>“What do you mean?”</p>
+      <empty-line />
+      <p>“If you can’t father children on our women, then we’ll father children on&#160; 
+      <emphasis>you</emphasis>&#160;and adopt the children, as you were adopted by your father’s family. That plan will do as well as the first one, Grandmother says. The others say she’s favoring me, but I don’t want to do this.”</p>
+      <empty-line />
+      <p>“Breed without a contract? What man would? What are you going to do?”</p>
+      <empty-line />
+      <p>“Have sex with you, though I’ve never had sex with anyone. But Grandmother has explained how it’s done.”</p>
+      <empty-line />
+      <p>“You have reached a moment of decision,” said Dapple. “If you make the wrong choice now, your life will lead to ruin, like the life of a protagonist in a hero play.”</p>
+      <empty-line />
+      <p>“What does that mean?”</p>
+      <empty-line />
+      <p>“If you have sex with me against my will, and without a contract arranged by my female relatives, you will be a criminal forever. But if you set me free, I will lead you to your father.”</p>
+      <empty-line />
+      <p>“I have a knife,” said the boy uncertainly. “I could cut you free, but there’s no way out except through the main cave.”</p>
+      <empty-line />
+      <p>Dapple lifted her head, indicating the hole in the ceiling.</p>
+      <empty-line />
+      <p>The boy gazed up at the stars. “Do you think you could get through?”</p>
+      <empty-line />
+      <p>“I’d be willing to try, if there’s no other way. But how do we reach it?”</p>
+      <empty-line />
+      <p>“Standing on my shoulders won’t do. It’s too far up. But I could go outside and lower a rope. Can you climb one?”</p>
+      <empty-line />
+      <p>“I’ve worked as a sailor,” said Dapple. “Of course I can.”</p>
+      <empty-line />
+      <p>“I could tell them I need to urinate. I know where there’s a rope. It could be done. But if they catch us&#160;— “</p>
+      <empty-line />
+      <p>“If you stay here and do this thing, you will be a thief. Your children will be thieves. You’ll never see the cities beyond these hills or the ships as big as caves.”</p>
+      <empty-line />
+      <p>The boy hesitated, then pulled his knife and cut Dapple free. “Wait here,” he said fiercely, and left.</p>
+      <empty-line />
+      <p>She rubbed her hands and wrists, then stood and stretched. Hah! How stiff she was!</p>
+      <empty-line />
+      <p>Voices rose in the main cave, mocking the boy, then dropped back to a murmur. She began to watch the hole.</p>
+      <empty-line />
+      <p>After a while, a dark shape hid the stars. A rope dropped toward her. Dapple grasped it and tugged. It held. She took off her tunic and tied it to the bottom of the rope, then began her climb, going hand over hand up the rope. Cold air blew past her, ruffling the fur on her arms and shoulders. It smelled of damp soil and forest. Freedom, thought Dapple. A moment or two later, she reached the hole. Hah! It was narrow! As bad as she had feared!</p>
+      <empty-line />
+      <p>“Can you make it?” the boy whispered.</p>
+      <empty-line />
+      <p>“I have to,” Dapple said and continued to climb.</p>
+      <empty-line />
+      <p>Her head was no problem, but her shoulders were too wide. Rough stone scraped against them. She kept on, trying to force her body through the opening. All at once, she realized that she was stuck, like a piece of wax used to seal the narrow neck of a jar. Dapple groaned with frustration.</p>
+      <empty-line />
+      <p>“Be quiet,” whispered the boy and began to pull, leaning far back, all his weight on the rope. For a moment, she remained wedged in the hole. Then her shoulders were through, though some of her fur remained behind. Her elbows dug into dirt. She pushed up. The boy continued to pull, and Dapple popped into freedom. She stretched out on the damp ground, face down, smelling dirt, the forest, and the night wind.</p>
+      <empty-line />
+      <p>“You have no clothing on!” the boy exclaimed.</p>
+      <empty-line />
+      <p>“I took my tunic off,” said Dapple. “I knew the fit would be tight.”</p>
+      <empty-line />
+      <p>“You can’t travel like this!”</p>
+      <empty-line />
+      <p>She pulled the rope out of the hole, retrieving her tunic and putting it on.</p>
+      <empty-line />
+      <p>“Better,” said the boy, though he still sounded embarrassed.</p>
+      <empty-line />
+      <p>He had wrapped his end of the rope to a tree. She undid the knots and coiled the rope. “A knife, a rope, and four sound feet. I’d like more, but this will have to do. Let’s go.”</p>
+      <empty-line />
+      <p>They set off through the forest, the boy leading, since he had good night vision, and this was his country.</p>
+      <empty-line />
+      <p>“When will they discover that we are missing?” Dapple asked after a while.</p>
+      <empty-line />
+      <p>“In the morning. Tonight they’ll drink and tell each other rude stories about sex. Grandmother gave permission. It’s lucky to do this, when people breed.”</p>
+      <empty-line />
+      <p>It was never lucky to breed without a contract, Dapple thought, but said nothing. How was this boy going to survive in the outside world, knowing so little about how to behave? She’d worry about that problem when both of them were safe.</p>
+      <empty-line />
+      <p>They traveled all night. In spite of the boy’s keen eyes, the two travelers stumbled often and hit themselves against branches, sometimes thorny. No one living in a town can imagine the darkness of a forest, even when the sky above the trees is full of stars. Certainly Dapple had not known, living in a harbor town. How she longed for an ocean vista, open and empty, with starlight glinting off the waves!</p>
+      <empty-line />
+      <p>At dawn, they stopped and hid in a ravine. Water trickled at the bottom. Birds cried in the leaves, growing gradually quiet as the day grew warmer. Exhausted, the two young people dozed. Midway through the morning, voices woke them: men, talking loudly and confidently as they followed a nearby trail. The boy peered out. “It’s my relatives,” he said.</p>
+      <empty-line />
+      <p>“Is anyone with them?” asked Dapple fearfully. What would they do, if one of the actors had survived and was a prisoner? It would be unbearable to leave the man with savages, but if she and the boy tried to free the man, they would be killed or taken prisoner like him.</p>
+      <empty-line />
+      <p>“No,” said the boy after a while. “They must have killed him, after they finished raping him. My grandmother will be so angry!”</p>
+      <empty-line />
+      <p>These people were both monsters and fools. Was there anything she could learn from the situation? Maybe the nature of monsters, if she ever had to portray a monster in a play. The nature of monsters, Dapple thought as she crouched in the ravine, was folly. That was the thing she had to concentrate on, not her own sense of fear and horror.</p>
+      <empty-line />
+      <p>After a while, the boy said, “They’re gone. I didn’t expect them to come this direction. But now that they’ve passed us, we’d better put as much distance as possible between us and them.”</p>
+      <empty-line />
+      <p>They rose and went on. Shortly thereafter, they found the robbers’ camp: a forest clearing with the remains of a fire and Dapple’s last companion, Manif s lover. He must have endured as much as he could, then fought back. There were various wounds, which Dapple did not look at closely, and a lot of blood, which had attracted bugs.</p>
+      <empty-line />
+      <p>“Dead,” said the boy. “They should have buried him, but we can’t take the time.”</p>
+      <empty-line />
+      <p>Dapple went to the edge of the clearing and threw up, then covered her vomit with forest debris. Maybe the robbers wouldn’t find it, if they came back this way. Though the moist ground should tell the bandits who’d been here.</p>
+      <empty-line />
+      <p>The boy must have thought the same thing. After that, they traveled through streams and over rocks. It was a hard journey.</p>
+      <empty-line />
+      <p>Late in the afternoon, they descended into a valley. At the bottom was a larger-than-usual stream. The forest canopy was less thick than before. Sunlight speckled the ground. “We are close to the border of our country,” the boy said. “From this point on, it will be best to follow trails.”</p>
+      <empty-line />
+      <p>One ran along the stream, narrow, and used more by animals than people, Dapple thought. The travelers took it. After a while, a second stream joined the first. Together, they formed a river where small rapids alternated with pools. At sunset, turning a corner, they discovered a group of men swimming. Clothes and weapons lay on the riverbank.</p>
+      <empty-line />
+      <p>The boy stopped suddenly. “Ettin.”</p>
+      <empty-line />
+      <p>“What?” asked Dapple.</p>
+      <empty-line />
+      <p>“Our enemies,” he answered, sounding fearful, then added, “The people I am bringing you to. Go forward. I cannot.” He turned to go back the way they had come. Behind him the sky was sunset red; the boy’s face was in shadow. Nonetheless, Dapple saw his mouth open and eyes widen.</p>
+      <empty-line />
+      <p>A harsh voice said, “Neither can you go back, thief.”</p>
+      <empty-line />
+      <p>She turned as well. A man stood in the trail, short and broad with a flat ugly face. A metal hat covered the top of his head and was fastened under his chin with a leather strap. His torso was covered with metal-and-leather armor. A skirt made of leather strips hung to his knees. One hand held a sword, the blade bare and shining. She had never seen anyone who looked so unattractive.</p>
+      <empty-line />
+      <p>“Who are you?” she asked.</p>
+      <empty-line />
+      <p>“A guard. You can’t believe that men of Ettin would bathe without posting guards.”</p>
+      <empty-line />
+      <p>“I’m from the north,” said Dapple. “I know nothing about Ettin, which I imagine is your lineage.”</p>
+      <empty-line />
+      <p>He made a noise that indicated doubt. “The north? And this one as well?” The sword tip pointed at her companion.</p>
+      <empty-line />
+      <p>“I was traveling with actors,” Dapple said. “Robbers killed my comrades and took me prisoner. This lad rescued me and was guiding me to safety.”</p>
+      <empty-line />
+      <p>The guard made another noise that indicated doubt. Other men gathered. Some were guards out of the forest. The rest were bathers, their fur slick with water and their genitalia exposed. She knew what male babies and boys looked like, of course, but this was the first time she’d seen men. They weren’t as big as she’d imagined, after Cholkwa’s plays. Nonetheless, the situation was embarrassing. She glanced back at the first guard, meeting his eyes.</p>
+      <empty-line />
+      <p>“Are you threatening me?” he asked.</p>
+      <empty-line />
+      <p>“Of course not.”</p>
+      <empty-line />
+      <p>“Then look down! What kind of customs do you have in the north?”</p>
+      <empty-line />
+      <p>She looked at the ground. The air smelled of wet fur. “What’s this about?” the men asked. “What have you captured?”</p>
+      <empty-line />
+      <p>“Some kind of foreigner, and a fellow of unknown lineage, though local, I think. They say they’ve escaped from the robbers.”</p>
+      <empty-line />
+      <p>“If done, it’s well done,” said a swimmer. “But they may be lying. Take them to our outpost, and let the captain question them. If they’re spies, he’ll uncover them.”</p>
+      <empty-line />
+      <p>Who is talking about uncovering? Dapple thought. A man with water dripping off him and his penis evident to anyone who cared to look! Not that she glanced in his direction. It was like being in an animal play, though maybe less funny.</p>
+      <empty-line />
+      <p>Other men made noises of agreement. The swimmers went off to dry and dress. The men in armor tied Dapple’s hands behind her back, then did the same for the boy. After that, they ran a second rope from Dapple’s neck to the boy’s neck. “You won’t run far like this!” one said when the second rope was fastened.</p>
+      <empty-line />
+      <p>“Is this any way to treat guests?” asked Dapple.</p>
+      <empty-line />
+      <p>“You may be spies. If you are not, we’ll treat you well. The ettin have always been hospitable and careful.”</p>
+      <empty-line />
+      <p>Tied like animals going to market, they marched along the trail, which had grown wider and looked better-used. Half the men went with them. The rest stayed behind to guard the border.</p>
+      <empty-line />
+      <p>Twilight came. They continued through darkness, though under an open sky. By this time, Dapple was dazed by lack of sleep. One of the guards took her arm, holding her upright and guiding her. “You’re a pretty lad. If you are what you say, maybe we can keep company.”</p>
+      <empty-line />
+      <p>Another guard said, “Don’t listen, stranger. You can do better than Hattin! If you are what you say.”</p>
+      <empty-line />
+      <p>Her male disguise was certainly causing problems, though she needed it, if she was going to learn acting. What was she learning now? Danger and fear. If she survived and made it home, she would think about specializing in hero plays.</p>
+      <empty-line />
+      <p>Ahead of them gleamed firelight, shining from windows. A sword hilt knocked on a door. Voices called. Dapple could not understand what they were saying, but the door opened. Entering, she found herself in a courtyard made of stone. On one side was a stable, on the other side, a square stone tower.</p>
+      <empty-line />
+      <p>She and the boy were led into the tower. The ground floor was a single room with a fireplace on one side. A man sat next to the fire in a high-backed wooden chair. His grey fur was silvered by age, and he was even uglier than his relatives.</p>
+      <empty-line />
+      <p>“This is Ettin Taiin,” said the guard named Hattin. “The man who watches this border, with our help.”</p>
+      <empty-line />
+      <p>The man rose and limped forward. He’d lost an eye, though not recently, and did not bother to hide the empty socket. “Poor help&#160; 
+      <emphasis>you</emphasis>&#160;are!” he said, in a voice like stone grating against stone. “Nonetheless, I manage.” He looked directly at Dapple. The one eye that remained was bright blue; the pupil expanded in the dim light, so it lay across his iris like a black iron bar across the sky. “Who are you, and what are you doing in the land I watch?”</p>
+      <empty-line />
+      <p>She told her story a second time.</p>
+      <empty-line />
+      <p>“That explains&#160; 
+      <emphasis>you,”</emphasis>&#160;said Ettin Taiin. “And I’m inclined toward belief. Your accent is not local, nor is your physical type, though you are certainly lovely in a foreign way. But this lad”&#160;—He glared at the boy—”looks like a robber.”</p>
+      <empty-line />
+      <p>The boy whimpered, dropping to the floor and curling like a frightened&#160; 
+      <emphasis>tli.</emphasis>&#160;Because they were tied together, Dapple was pulled to her knees. She looked at the border captain. “There is more to the story. I am not male!”</p>
+      <empty-line />
+      <p>“What do you mean?” asked Ettin Taiin, his voice harsher than before.</p>
+      <empty-line />
+      <p>“I wanted to be an actor, and women are not allowed to act.”</p>
+      <empty-line />
+      <p>“Quite rightly!” said the captain.</p>
+      <empty-line />
+      <p>“I disguised myself as a young man and joined a company here in the south, where no one knows me, and where I’m not likely to meet actors I know, such as Perig and Cholkwa.”</p>
+      <empty-line />
+      <p>“Cholkwa is here right now,” said the captain, “visiting my mother and her sisters. What a splendid performer he is! I nearly ruptured myself laughing the last time I saw him. If he knows you, then he can speak for you; I am certainly not going to find out whether or not you’re female. My mother raised me properly.”</p>
+      <empty-line />
+      <p>“An excellent woman,” murmured the guards standing around.</p>
+      <empty-line />
+      <p>“When the robbers captured me, I told them I was female, and they told this lad to impregnate me.”</p>
+      <empty-line />
+      <p>“With no&#160; 
+      <emphasis>contract?</emphasis>&#160;Without the permission of your female relatives?” The stony voice was full of horror.</p>
+      <empty-line />
+      <p>“Obviously,” said Dapple. “My relatives are on Helwar Island, far to the north.”</p>
+      <empty-line />
+      <p>“You see what happens when women run off to foreign places, without the protection of the men in their family?” said the captain. “Not that this excuses the robbers in any way. We’ve been lax in letting them survive. Did he do it?”</p>
+      <empty-line />
+      <p>The boy, still curled on the floor, his hands over his head, made a keening noise. The guards around her exhaled, and Dapple thought she heard the sound of swords moving in their scabbards.</p>
+      <empty-line />
+      <p>“No,” Dapple said. “He got me out of prison and brought me here. That’s the end of the story.”</p>
+      <empty-line />
+      <p>“Nasty and shocking!” said the captain. “We will obviously have to kill the rest of the robber men, though it won’t be easy to hunt them down. The children can be adopted, starting with this lad. He looks young enough to keep. The women are a problem. I’ll let my female relatives deal with it, once we have captured the women. I only hope I’m not forced into acts that will require me to commit suicide after. I’m younger than I look and enjoy life!”</p>
+      <empty-line />
+      <p>“We’d all prefer to stay alive,” said Hattin.</p>
+      <empty-line />
+      <p>“Untie them,” said the captain, “and put them in separate rooms. In the morning, we’ll take them to my mother.”</p>
+      <empty-line />
+      <p>The guards pulled the two of them upright and cut their ropes. The captain limped back to his chair. “And feed them,” he added as he settled and picked up a cup. “Give the woman my best&#160; 
+      <emphasis>halin.”</emphasis></p>
+      <empty-line />
+      <p>Leading them up a flight of stairs, Hattin said, “If you’re a woman, then I apologize for the suggestion I made. Though I wasn’t the&#160; 
+      <emphasis>only</emphasis>&#160;one who thought you’d make a good bedmate! Ettin Taiin is going to be hearing jokes about that for years!”</p>
+      <empty-line />
+      <p>“You tease a man like him?” asked Dapple.</p>
+      <empty-line />
+      <p>“I don’t, but the senior men in the family do. The only way someone like that is tolerable, is if you can embarrass him now and then.”</p>
+      <empty-line />
+      <p>Her room had a lantern, but no fire. It wasn’t needed on a mild spring night. Was the man downstairs cold from age or injuries? The window was barred, and the only furniture was a bed. Dapple sat down. The guards brought food and drink and a pissing pot, then left, locking the door. She ate, drank, pissed, and went to sleep.</p>
+      <empty-line />
+      <p>In the morning, she woke to the sound of nails scratching on her door. A man’s voice said, “Make yourself ready.” Dapple rose and dressed. The night before, she’d unbound her breasts in order to sleep comfortably. She didn’t rebind them now. The tunic was thick enough to keep her decent; her breasts weren’t large enough to need support, and the men of Ettin were treating her like a woman. Better to leave the disguise behind, like a shell outgrown by one of the animals her male relatives pulled from the sea.</p>
+      <empty-line />
+      <p>Guards escorted her and the boy downstairs. There were windows on the ground floor, which she hadn’t noticed the night before. Shutters open, they let in sunlight. The Ettin captain stood at a table covered with maps. “Good morning,” he said. “I’m trying to decide how to trap the robbers. Do you have any suggestions, lad? And what is your name?”</p>
+      <empty-line />
+      <p>“Rehv,” the boy said. “I never learned to read maps. And I will not help you destroy my family!”</p>
+      <empty-line />
+      <p>Ettin Taiin rolled the maps&#160;— they were paper, rather than the oiled leather her people used —and put them in a metal tube. “Loyalty is a virtue. So is directness. You’ll make a fine addition to the Ettin lineage; and I’ll decide how to destroy&#160; 
+      <emphasis>your</emphasis>&#160;lineage later. Today, as I told you before, we’ll ride to my mother.”</p>
+      <empty-line />
+      <p>They went out and mounted&#160; 
+      <emphasis>tsina,</emphasis>&#160;the captain easily in spite of his lame leg, Dapple and the boy with more difficulty.</p>
+      <empty-line />
+      <p>“You aren’t riders,” said Ettin Taiin. “And that tells me your families don’t have many&#160; 
+      <emphasis>tsina.</emphasis>&#160;Good to know, for when I hunt the robbers down.”</p>
+      <empty-line />
+      <p>They spent the day riding, following a narrow road through forested hills. A small group of soldiers accompanied them, riding as easily as the captain and joking among themselves. Now and then they saw a cabin. “Hunters and trappers,” said Ettin Taiin. “There are logging camps as well. But no women. The robbers are too close. Time and time again we’ve tried to clean them out, but they persist, growing ever more inbred and nasty.”</p>
+      <empty-line />
+      <p>Riding next to her, the boy shivered, hair rising on his arms and shoulders. Now that she was apparently safe, Dapple felt pity and respect for him. He’d been confronted by the kind of decision a hero faces in a play. Should he side with his kin or with right behavior? A man without kin was like a tree without roots. The slightest wind would push him over. A man without morality was like—what? A tree without sunlight and rain.</p>
+      <empty-line />
+      <p>In most cases, hero plays ended in death. It was the easiest resolution. Unable to make a definite choice, the hero blundered through a series of half-actions and mistakes, until he was killed by enemies or friends, and the audience exhaled in relief. May the Goddess keep them from this kind of situation!</p>
+      <empty-line />
+      <p>Most likely, the boy would live to see his relatives die, while he was adopted by the Ettin. It was the right ending for the story of a child. Their duty was to live and grow and learn. Honor belonged to older people. Nonetheless, the story disturbed Dapple, as did the boy’s evident unhappiness and fear.</p>
+      <empty-line />
+      <p>Late in the afternoon, they entered a wide flat valley. The land was cultivated. The buildings scattered among fields and orchards were made of planks rather than logs. Many were painted: blue-grey, green, or white.</p>
+      <empty-line />
+      <p>“Barns,” said the Ettin captain. “Stables. Houses for herdsmen.”</p>
+      <empty-line />
+      <p>She was back in the ordinary world of people who understood rules, though she wasn’t certain the Ettin followed the rules she had learned on Helwar Island. Still, the pastures were fenced, the fields plowed in straight lines, and the orchard trees&#160;— covered with pale orange blossoms—were orderly.</p>
+      <empty-line />
+      <p>They reached the captain’s home as the sun went down. It was a cluster of buildings made of wood and stone, next to a river crossed by a stone bridge. The lower stories had no windows, and the doors were iron-bound. Built for defense, but no enemies were expected today. The largest door was open. Riding through it, they entered a courtyard surrounded by balconies. Children played in the early evening shadows, though Dapple couldn’t make out the game; it stopped the moment they appeared.</p>
+      <empty-line />
+      <p>“Uncle Taiin!” cried several voices.</p>
+      <empty-line />
+      <p>The captain swung down stiffly and was surrounded by small bodies.</p>
+      <empty-line />
+      <p>“An excellent man,” said one of the guards to Dapple. “Affectionate with children, respectful toward women, and violent toward other men.”</p>
+      <empty-line />
+      <p>“Even men of your family?” Dapple asked.</p>
+      <empty-line />
+      <p>“We win, and most of us come home; we don’t expect kindness from a leader on campaign.”</p>
+      <empty-line />
+      <p>A woman came into the courtyard, tall and broad, wearing a sleeveless robe. Age had whitened her face and upper arms. She carried a staff and leaned on it, but her head was erect, her blue eyes as bright as a polished blade.</p>
+      <empty-line />
+      <p>The children fell silent and moved away from their uncle. He lifted his head, looked straight at the old woman, and gave her a broad, boyish grin. Beyond question, this was his mother. Could actors replicate this moment? No. Children were not used in plays, and everything here was small and quiet: the man’s grin, the woman’s brief returning smile.</p>
+      <empty-line />
+      <p>“Taiin,” she said in greeting. Nothing more, but the voice rang—it seemed to Dapple —with joy. Her steel blue eyes flashed toward Dapple and the boy. “Tell me the names of our guests.”</p>
+      <empty-line />
+      <p>He did, adding, “The girl, if this is a girl, says that Cholkwa the actor will speak for her. The boy is almost old enough to be killed, but if he saved her, then he’s worth saving.”</p>
+      <empty-line />
+      <p>“I will form my own judgment,” said the matriarch. “But she’s clearly a girl.”</p>
+      <empty-line />
+      <p>“Are you certain?”</p>
+      <empty-line />
+      <p>“Use your&#160; 
+      <emphasis>eye,</emphasis>&#160;Taiin!”</p>
+      <empty-line />
+      <p>He obeyed with a slow sideways look. “She does seem more feminine than she did yesterday. But I’d be happier if she had on female clothing. Then, maybe, I could see her as a woman entirely. Right now, she seems to shift back and forth. It’s very disturbing!”</p>
+      <empty-line />
+      <p>“I’ll give her a bath and new clothes,” said the matriarch with decision. “You take care of the boy.”</p>
+      <empty-line />
+      <p>Dapple dismounted. The old woman led her through shadowy halls to a courtyard with two pools built of stone. Steps led down into each. One seemed ordinary enough, the water in it colorless and still; but the other was full of bright green water. Steam rose from its surface; the air around it had an unfamiliar, slightly unpleasant odor.</p>
+      <empty-line />
+      <p>“It comes from the ground like this,” said the matriarch. “We bring it here through pipes. The heat is good for old bones, stiff muscles, and the kind of injuries my son Taiin has endured. Undress! Climb in!”</p>
+      <empty-line />
+      <p>Dapple obeyed, pulling off her tunic. The matriarch exhaled. “A fine-looking young woman, indeed! A pity that you won’t be bred!”</p>
+      <empty-line />
+      <p>Because she had bad traits. Well, she didn’t mind. She had never wanted to be a mother, only an actor. Dapple entered the steaming water, sinking until she was covered. Hah! It was pleasant, in spite of the aroma! She stretched out and looked up. Though shadows filled the courtyard, the sky above was full of light. A cloud like a feather floated there. Last night, she’d slept in a guard house. The night before, she’d scrambled through a dark forest; and before that, she’d been in a cave full of robbers. Now she was back in a proper house&#160;— not entirely like her home, but close enough.</p>
+      <empty-line />
+      <p>Women appeared, bringing a chair for the matriarch, and a clothing rack, on which they hung new clothes for Dapple. Then they left. The matriarch sat down, laying her staff on the court’s stone floor. “Why did you disguise yourself as a man?”</p>
+      <empty-line />
+      <p>Dapple told her story, floating in the steaming pool. The old woman listened with obvious attention. When the story was done, she said, “We’ve been negligent. We should have cleared those people out years ago. But I&#160;—and my sisters and our female cousins — didn’t want to adopt the robber women. They’ll be nothing but trouble!”</p>
+      <empty-line />
+      <p>This was true, thought Dapple, remembering the women in the cave, especially the robber matriarch. That was not a person who’d fit herself quietly into a new household. Hah! She would struggle and plot!</p>
+      <empty-line />
+      <p>“But something will have to be done. We can’t let these folk rob and murder and force men to breed. No child should come into existence without the agreement of two families. No man should become a father without a proper contract. We are not animals! I’m surprised at Cholkwa. Surely it would be better to die, than to reproduce in this fashion.”</p>
+      <empty-line />
+      <p>She might have agreed before her recent experiences; but now, life seemed precious, as did Cholkwa and every person she knew and liked. If he had refused to cooperate with the robbers, she would have lost him when she barely knew him; and the boy who saved her would never have come into existence. The thought of her fate without the boy was frightening.</p>
+      <empty-line />
+      <p>Maybe none of this would have happened, if Cholkwa had died before she saw him act. Without him, she might have been content to stay in Helwar. Hardly likely! She would have seen Perig, and he was the one she wanted to imitate. Comedy was fine. Cholkwa did it beautifully. But she didn’t want to spend her life making rude jokes.</p>
+      <empty-line />
+      <p>Nor did she want to do exactly what&#160; 
+      <emphasis>Perig</emphasis>&#160;did. His heroes were splendid. When they died, she felt grief combined with joy. They were so honorable! Perig had so much skill! But her recent experiences suggested that real death was nothing like a play. Manif and his comrades would not rise to shouts of praise. Their endings had been horrible and final and solved nothing.&#160; 
+      <emphasis>Death</emphasis>&#160;was the problem here, rather than the problem’s solution. Why had they died? Why was she alive? Were tragedy and comedy the only alternatives? Did one either die with honor or survive in an embarrassing costume?</p>
+      <empty-line />
+      <p>These were difficult questions, and Dapple was too young to have answers, maybe too young to ask the questions clearly. But something like these ideas, though possibly more fragmentary, floated in her mind as she floated in the steaming pool.</p>
+      <empty-line />
+      <p>“That’s enough heat,” the matriarch said finally. “It will make you dizzy, if you stay too long. Go to the second pool and cool down!”</p>
+      <empty-line />
+      <p>Dapple obeyed, pausing on the way to pick up a ball of soap. This water was pleasant too. Not cold, but cool, as the matriarch had suggested, and so very fresh! It must come from a mountain stream. The soap lathered well and smelled of herbs. She washed herself entirely, then rinsed. The robbers would stay in her mind, but the stink of their cave would be out of her fur. In time, her memories would grow less intense, though she didn’t want to forget the boy—and was it right to forget Manif and the other actors?</p>
+      <empty-line />
+      <p>She climbed out of the second pool. A towel hung on the clothing rack, also a comb with a long handle. She used both, then dressed. The young women in this country wore kilts and vests. Her kilt was dark blue, the fabric soft and fine. Her vest was made of thicker material, bright red with silver fasteners down the front. The Ettin had provided sandals as well, made of dark blue leather.</p>
+      <empty-line />
+      <p>“Beyond question you are a handsome young woman,” the matriarch said. “Brave and almost certainly intelligent, but far too reckless! What are we going to do with you?”</p>
+      <empty-line />
+      <p>Dapple said nothing, having no answer. The matriarch picked up her staff and rose.</p>
+      <empty-line />
+      <p>They went through more shadowy halls, coming finally to an open door. Beyond was a terrace made of stone. A low wall ran along the far side. Beyond the wall was the river that ran next to the house, then pastures rising toward wooded hills. Everything was in shadow now, except the sky and the very highest hill tops. Two men sat on the terrace wall, conversing: Ettin Taiin and Cholkwa. The robber boy stood nearby, looking far neater and cleaner than before. Like Dapple, he wore new clothes: a kilt as brown as weathered bronze, and sandals with brass studs. Looking from him to Cholkwa, she could see a resemblance. Hah! The boy would be loved by many, when he was a little older!</p>
+      <empty-line />
+      <p>“I have introduced Cholkwa to his son,” Ettin Taiin said to his mother.</p>
+      <empty-line />
+      <p>Cholkwa stood and made a gesture of greeting. His gaze met Dapple’s briefly, then passed on as if she were a stranger. “What a surprise, Hattali! When I left the cave, running as quickly as possible, I did not know the woman was likely to produce a child.”</p>
+      <empty-line />
+      <p>“You should have come to us, as soon as you escaped,” the matriarch said. “If we’d known what the robbers were doing, we would have dealt with them years ago. Do you know this young woman?”</p>
+      <empty-line />
+      <p>“She is Helwar Ahl, the daughter of a family that’s dear to me. A good young person, though Taiin tells me she has some crazy idea of becoming an actor.”</p>
+      <empty-line />
+      <p>“I told you that!” cried Dapple.</p>
+      <empty-line />
+      <p>“I told you it was impossible! My life is dangerous and disreputable, Ahl. No woman should lead it!” He glanced toward the matriarch. “My stay with the robbers occurred during my first trip south. I didn’t know your family, or much of anyone. After I escaped, I fled to the coast and took the first ship I could find going north. Hah! I was frightened and full of self-disgust! It was several years before I came south again. By then, I had convinced myself that the woman could not have been pregnant. I half-believed the story was a dream, caused by a southern fever. How could I think that such people were possible and real?”</p>
+      <empty-line />
+      <p>“I am,” said the boy. “We are.”</p>
+      <empty-line />
+      <p>“Think of the men who have died because you did not tell your story!” the matriarch said to Cholkwa. “Think of the children who have been raised by criminals! How can they possibly turn out well? What kind of person would turn away from children in such a situation?”</p>
+      <empty-line />
+      <p>Cholkwa was silent for a moment, then said, “I have no excuse for my behavior. I did what I did.”</p>
+      <empty-line />
+      <p>“Remember that he makes his living as a comic actor,” said the Ettin captain. “How can we judge a man who spends his time portraying small animals with large sexual organs? Let’s put these long-past happenings off to the side. We have enough problems in the present.”</p>
+      <empty-line />
+      <p>“This is true,” said the matriarch. “For one thing, I need a chair.”</p>
+      <empty-line />
+      <p>“I’ll tend to that,” said Cholkwa and hurried off.</p>
+      <empty-line />
+      <p>The captain, still lounging comfortably on the wall, glanced at his mother. “Have you decided how to deal with the robbers?”</p>
+      <empty-line />
+      <p>The old woman groaned, leaning on her staff and looking morose. “You will have to kill the men, and we will have to adopt the women and children, though I do not look forward to having females like these in our houses.”</p>
+      <empty-line />
+      <p>“This is a relief! I thought, knowing your opinion of the robber women, that you might ask me to kill them.”</p>
+      <empty-line />
+      <p>“Would you do it?”</p>
+      <empty-line />
+      <p>“If you told me to, yes.”</p>
+      <empty-line />
+      <p>“And then what?”</p>
+      <empty-line />
+      <p>“Why ask, Mother? The answer is obvious. I have always wanted to be famous, not infamous. If I had to do something so dishonorable, there would be no alternative left except suicide!”</p>
+      <empty-line />
+      <p>“This is what I expected,” the matriarch said. “Listening to Helwar Ahl’s story, I asked myself, ‘What is worse? Taiin’s death, or a house full of unruly women?’ No one should have to make such a decision! But I have made it, and I will endure the consequences.”</p>
+      <empty-line />
+      <p>“Be more cheerful! If you spread the women out among many houses, they may not be much of an aggravation.”</p>
+      <empty-line />
+      <p>“We’ll see. But I’m glad to know that you are an honorable man, Taiin, though it means your old mother will suffer.”</p>
+      <empty-line />
+      <p>“Think of the pleasure you’ll be able to take in my continued survival,” the captain said. “Not every mother of your age has a living son, especially one with my excellent moral qualities.”</p>
+      <empty-line />
+      <p>What a fine pair they were, thought Dapple. She could see them in a play: the fierce soldier and his indomitable parent, full of love and admiration for each other. In a hero play, of course, the captain would die and the matriarch mourn. Hah! What a sight she would be, alone on a stage, standing over the captain’s body!</p>
+      <empty-line />
+      <p>Women came onto the terrace with chairs and lanterns. The matriarch settled herself. “Bring food!”</p>
+      <empty-line />
+      <p>“Now?” asked a middle-aged woman. “When you are with company?”</p>
+      <empty-line />
+      <p>“Bring food for them as well,” said the matriarch.</p>
+      <empty-line />
+      <p>“Mother!” said the captain.</p>
+      <empty-line />
+      <p>“I’m too old and hungry to care about that kind of propriety. Manners and morality are not the same.”</p>
+      <empty-line />
+      <p>The rest of them sat down, all looking uneasy. The women brought food. Dapple discovered she was ravenous, as was the boy, she noticed. The two men poured themselves cups of&#160; 
+      <emphasis>halin,</emphasis>&#160;but touched no food. The matriarch ate sparingly. It wasn’t as bad as Dapple had expected, since no one spoke. This wasn’t like a pack of carnivores snarling over their downed prey, or like the monsters in old stories who chattered through mouths full of people. This meal was like travelers in a tavern, eating together because they had to, but quickly and in decent silence.</p>
+      <empty-line />
+      <p>Soon enough they were done. The matriarch took a cup of&#160; 
+      <emphasis>halin</emphasis>&#160;from her son. “One problem has been solved. We will adopt the robber women. Cholkwa’s behavior will be forgotten. My son is right! We have no ability to judge such a man, and Taiin&#160;—I know—wants to keep Cholkwa as a friend.”</p>
+      <empty-line />
+      <p>“This is true,” said the captain.</p>
+      <empty-line />
+      <p>“Only one problem remains: the girl, Helwar Ahl.”</p>
+      <empty-line />
+      <p>“No,” said the robber boy. “I also am a problem.” He glanced at Cholkwa. “I don’t want to stay here and watch these people kill my male relatives. Take me with you! I want to see foreign harbors and ships as large as caves!”</p>
+      <empty-line />
+      <p>Cholkwa frowned. For a moment, there was silence.</p>
+      <empty-line />
+      <p>Ettin Taiin refilled his cup. “This might be a good idea for two reasons. The boy is likely to suffer from divided loyalties. That’s always a problem when one adopts a child as old as he is. And I find him attractive. If he stays here and becomes Ettin, I will be troubled with incestuous thoughts. As much as possible, I try to keep my mind free of disturbing ideas. They cause sleepless nights on campaign and slow reflexes in battle.”</p>
+      <empty-line />
+      <p>“What about Helwar Ahl?” asked Cholkwa, obviously trying to go from one topic to another.</p>
+      <empty-line />
+      <p>“She can’t go with you,” the matriarch said. “A woman with an unrelated man! And we are not ocean sailors, nor are the other families in this region, the ones we trust. Take the boy, if he’s going to give Taiin perverted ideas, and tell the girl’s family, when you get north, that she’s here with us. They can send a ship for her.”</p>
+      <empty-line />
+      <p>“I want to be an actor,” said Dapple.</p>
+      <empty-line />
+      <p>“You can’t!” said Cholkwa.</p>
+      <empty-line />
+      <p>The matriarch frowned. “There are two things that men cannot do. One is have babies, because it’s impossible. The other is harm women and children, because it’s wrong. And there are two things that women cannot do: father children and fight in a war. These are absolute prohibitions. All other kinds of behavior may be difficult or disturbing, but they&#160; 
+      <emphasis>can</emphasis>&#160;be done. Granted, I would not want a daughter of mine to become an actor, though it might help make plays more interesting. There are too many penises in comedy, and too many honorable deaths in tragedy. These are male interests. Maybe the world would benefit from a play about real life!”</p>
+      <empty-line />
+      <p>“Surely you don’t mean that, Mother,” the Ettin captain said.</p>
+      <empty-line />
+      <p>“You’re a fine lad and my favorite child, but there is much you don’t know. The world does not consist entirely of sex and violence. It isn’t only men who take action, and there are kinds of action that do not involve violence or sex.”</p>
+      <empty-line />
+      <p>Dapple said, “I will run away again, I promise.”</p>
+      <empty-line />
+      <p>“From here?” asked the matriarch. “Surely you have learned how dangerous the south can be.”</p>
+      <empty-line />
+      <p>“From anywhere,” said Dapple.</p>
+      <empty-line />
+      <p>Ettin Hattali sipped&#160; 
+      <emphasis>halin.</emphasis>&#160;The others watched her. By this time, the sky was dark and full of stars, which shed enough light so that Dapple could see the old woman’s pale face. “Life is made of compromises,” Hattali said finally. “I will offer you one. Stay here until your family sends for you, and I will argue for you with them. You are useless for breeding already. A girl who runs off in all directions! This is not a trait any family will want to continue. I’ll say as much and argue that the world needs women who speak for women, not just in our houses and the meetings between families, but everywhere, even in plays. Who knows where the current interest in drama will lead? Maybe&#160;—in time—plays will be written down, though this seems unlikely to me. But if they remain at all, in any form, as spoken words or memory, women should have a share in them. Do we want men to speak for us to future generations?</p>
+      <empty-line />
+      <p>“Cholkwa, who has broken many rules before, can certainly break another one and teach you. If he wants the story of his behavior with the robbers kept quiet, if he wants to keep my son Taiin as a lover, he will cooperate.”</p>
+      <empty-line />
+      <p>Taiin and Cholkwa&#160;—lovers? For a moment, Dapple was distracted. This certainly explained why Taiin found the boy attractive. How could Cholkwa betray his longtime lover, Perig, for a lame man with one eye?</p>
+      <empty-line />
+      <p>Her family’s old friend sighed. “Very well, I’ll take the boy. No question I behaved badly when I mated with his mother. To create life without a contract! It was shameful! And you are right that I should have told my story. Then he would have gotten a proper home as a baby. Now he is old enough to love and mourn those criminals. I will not leave him here to watch his family die.” He paused.</p>
+      <empty-line />
+      <p>“And I will take your message to the Helwar. But I don’t like the idea of teaching the girl to act.”</p>
+      <empty-line />
+      <p>“If you don’t do it, I will ask Perig, or run off in disguise again!”</p>
+      <empty-line />
+      <p>“Have the young always been this much trouble?” Cholkwa asked.</p>
+      <empty-line />
+      <p>“Always,” said the matriarch in a firm tone.</p>
+      <empty-line />
+      <p>The captain stood up. “My leg aches, and I want either sleep or sex. Take the boy north, so he doesn’t bother me. Take the message, so my mother can be happy. Worry about teaching the girl next year.”</p>
+      <empty-line />
+      <p>The two men left, the boy following. He would be put in a room by himself, the captain said as they walked into the house. “It’s been a hard few days for you, Rehv my lad; and I don’t think you need to deal with Ettin boys.”</p>
+      <empty-line />
+      <p>Dapple was alone with the matriarch, under a sky patterned with darkness and light.</p>
+      <empty-line />
+      <p>“He made me angry when he used the word ‘can’t’ for a woman,” Ettin Hattali said. “No man has the right to say what women can and cannot do. Hah! I am old, to lose my temper and talk about women acting! But I will keep our agreement, young Ahl. What I said about plays is true. They are fine in their way, but they do not tell&#160; 
+      <emphasis>my</emphasis>&#160;story. So many years, struggling to keep my family going toward the front! The purpose of life is not to have honor and die, it’s to have honor and&#160; 
+      <emphasis>survive,</emphasis>&#160;and raise the next generation to be honorable. Who says&#160; 
+      <emphasis>that</emphasis>&#160;in any play?”</p>
+      <empty-line />
+      <p>“I will,” said Dapple and felt surprise. Was she actually going to become an actor and write plays? For the first time, her plan seemed possible rather than crazy. Maybe she wouldn’t be dragged back to safety. Maybe, with the matriarch on her side, she could have the life she wanted.</p>
+      <empty-line />
+      <p>The moment an idea becomes solid is the moment when another person reaches out and takes it in her grasp. How frightening this is! The fur on Dapple’s shoulders rose. “Do you think Cholkwa will agree to teach me?”</p>
+      <empty-line />
+      <p>“Most likely, when he gets used to the idea. He’s a good man, though foreign, and we have been his hosts many times over. That is a bond&#160;— not equal to kinship, perhaps, but strong; and there is also a bond between Cholkwa and Taiin. You may not believe this of my son, but he can persuade.”</p>
+      <empty-line />
+      <p>They sat a while longer under the stars. A meteor fell, then another. Dapple’s fur was no longer bristling. Instead, her spirit began to expand.</p>
+      <empty-line />
+      <p>* * * *</p>
+      <empty-line />
+      <p>TWO KNOTS THAT TIE OFF THE STORY</p>
+      <empty-line />
+      <p>Cholkwa took the boy as promised, and Rehv traveled with his father’s acting company for several years. But he had no gift for drama and no real liking for travel. Finally, in one harbor town or another, he fell in love. The object of his desire was a glassblower who made floats for fishing nets: good plain work that brought in an adequate income. The two men settled down together. Rehv learned to make glass floats and went on to finer work:&#160; 
+      <emphasis>halin</emphasis>&#160;cups, pitchers for beer, bowls for holding sand or flowers.</p>
+      <empty-line />
+      <p>Sometimes he made figures, cast rather than blown: actors, soldiers, matriarchs, robbers, decorated with gold and silver leaf. The actors’ robes were splendid; the weapons held by the soldiers and robbers gleamed; only the matriarchs lacked decoration. They stood on the shelves of his lover’s shop&#160;— as green as the ocean, as red as blood, as black as obsidian.</p>
+      <empty-line />
+      <p>Most people knew he had been an actor and had settled down because of love. Only his lover knew the entire story. He had grown up amid desperation and craziness; through luck and his own actions, he had managed to achieve an ordinary life.</p>
+      <empty-line />
+      <p>* * * *</p>
+      <empty-line />
+      <p>Dapple’s relatives agreed to let her learn acting, and Perig agreed to teach her. She traveled with him for several years, accompanied by one of her male cousins, who ended by becoming an actor himself. In time, she established her own company, composed of women. She was always welcome in Ettin, and Ettin Hattali, who lived to be 110, attended Dapple’s performances whenever possible, though toward the end she could no longer see the actors. She could still hear the voices, Hattali told her relatives; and they were the voices of women.</p>
+      <empty-line />
+      <p>* * * *</p>
+      <empty-line />
+    </section>
+  </body>
+  <binary id="cover.jpeg" content-type="image/jpeg">
+  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</binary>
+</FictionBook>

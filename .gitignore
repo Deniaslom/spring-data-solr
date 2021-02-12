@@ -1,0 +1,12 @@
+*.class
+*.iml
+*.jar
+*.txt
+*.idea
+/target/*
+*/*/target/*
+*.class
+lib/*
+/books_fb2_2
+/books_fb2_3
+/books_fb2_4

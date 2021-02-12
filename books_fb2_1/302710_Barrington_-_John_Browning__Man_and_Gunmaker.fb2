@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>nonf_biography</genre>
+   <author>
+    <first-name>James</first-name>
+    <last-name>Barrington</last-name>
+   </author>
+   <book-title>John Browning: Man and Gunmaker</book-title>
+   <annotation>
+    <p>John Browning was the most influential gun designer who ever lived. After building his first firearm at the age of thirteen, he went on to create a series of radical blueprints for pistols, rifles and machine guns that changed the way wars were fought and streets were policed. </p>
+    <p>His fingerprints are still on every gun manufactured today. </p>
+    <p>But who was the man behind the weapons? </p>
+    <p>How did he manage to revolutionise the way guns worked?</p>
+    <p>And what drove him to keep innovating right through his life. </p>
+    <p>‘John Browning: Man and Gunmaker’ by the best-selling military thriller writer James Barrington is a readable, concise history to the man and his legacy. </p>
+    <p>It is a must-read for gun collectors, enthusiasts and anyone interested in the history of firearms. </p>
+    <p>James Barrington is a trained military pilot and the author of worldwide best-sellers such as ‘Manhunt’, ‘Payback’ and ‘Overkill’.</p>
+   </annotation>
+   <date value="2012-10-16">2012</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Namenlos</nickname>
+   </author>
+   <program-used>calibre 0.9.29, FictionBook Editor Release 2.6.6</program-used>
+   <date value="2013-05-10">10.5.2013</date>
+   <id>199e962b-aa48-435d-8cda-3e6ba901a307</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>John Browning: Man and Gunmaker</book-name>
+   <publisher>Endeavour Press Ltd.</publisher>
+   <year>2012</year>
+  </publish-info>
+  <custom-info info-type="ASIN">B009SME1L0</custom-info>
+ </description>
+ <body>
+  <title>
+   <p>James Barrington</p>
+   <p>JOHN BROWNING</p>
+   <p><emphasis>Man and Gunmaker</emphasis></p>
+  </title>
+  <section>
+   <title>
+    <p>1. INTRODUCTION</p>
+   </title>
+   <p>In any survey of the history of firearms development, it will quickly become apparent that the inventive genius of one man advanced the state of the art at a totally unprecedented and unsurpassed rate. Nobody, before or since, has had a greater — or even anything approaching an equal — influence on the development of firearms. He was the author of 128 separate patents covering virtually all types of weapon from pistols upwards, and was unique in that his designs constituted virtually the entire output of three major American arms manufacturers in the first half of the last century, and have spawned countless imitations all over the world.</p>
+   <p>His name was John Moses Browning, whose name is probably most closely linked with the automatic pistols still produced in Belgium by Fabrique Nationale: in fact, in France the name ‘Browning’ has passed into the language and is used as a proper noun and a synonym for a pistol. But Browning was not just a designer of handguns. He also profoundly influenced the development of machine-guns, rifles and shotguns, and it is a measure of the enduring popularity of his designs that so many weapons covered by Browning patents are still manufactured today.</p>
+   <p>This short book attempts to paint a picture of Browning the man, as well as describe his outstanding achievements in his chosen field. In fact, it could be said that John Browning didn’t choose to become a gunsmith. You could argue that his upbringing and his family, and to some extent his surroundings, chose his profession for him. And it really all started with his father.</p>
+  </section>
+  <section>
+   <title>
+    <p>2. JONATHAN BROWNING — THE FATHER</p>
+   </title>
+   <p>John Browning was the son of Jonathan Browning, a Mormon who had been part of the great Mormon Exodus from Nauvoo, Illinois, to Utah in 1852. Jonathan had been born in 1805, and had trained at an early age as an apprentice gunsmith by the unusual device of simply arriving on the doorstep of a Nashville gunmaker named Samuel Porter and offering to work for him for nothing in exchange for lessons in gun barrel-making. Porter was so impressed with Jonathan’s work that he soon started paying him a wage of two dollars a week, in addition to providing bed and board, and when, after three months, Jonathan announced that he was returning to the Browning home at Brushy Fork, Tennessee, he offered him a share of the business if he would agree to stay.</p>
+   <p>No doubt Jonathan was tempted, but remained adamant. The two men parted as firm friends, Porter supplying Jonathan with rifling and boring tools as well as a selection of mandrels — used for hand-forging gun barrels — of different sizes. Also included in his pack was a rifle made by Porter but carrying a barrel made entirely by Jonathan, and on which the older man had stamped ‘JONATHAN BROWNING 1824’.</p>
+   <p>From this small and inauspicious beginning, Jonathan Browning established himself as a competent rural gunmaker, repairing damaged weapons and producing rifles to order, but his aspirations were higher. Following marriage and a family move from Brushy Fork to Quincy, Illinois, in 1834, he concentrated his considerable abilities on the problem of designing a simple but efficient repeating rifle.</p>
+   <p>The problem he had was that in those days the propellant was black powder and the ignition source a percussion cap. To load a rifle, a suitable measure of black powder was poured down the barrel from the muzzle, usually from a powder flask, to be followed by a small piece of wadding or other material. Then the ball would follow, which would be rammed firmly into place to compress the powder charge. A percussion cap would be placed on the nipple below the hammer, and the weapon was then ready to fire. When the trigger was pulled, the falling hammer struck the percussion cap, which fired a spark down a tube and into the barrel, igniting the black powder and driving the ball down the barrel.</p>
+   <p>Each barrel of a rifle was a single-shot weapon, and the only way a hunter could have a second shot immediately available was either to have a second weapon to hand, or use a double- or multiple-barrelled rifle, and it was that problem which Jonathan Browning set out to solve. What he did was to approach the problem using lateral thinking. Instead of adding another barrel, he decided to cut off the breech end of the barrel and then designed a kind of multi-chamber breech block.</p>
+   <p>His endeavour succeeded, and the result was one of the simplest practical repeating weapons ever produced. Known as a Slide Gun, a Slide Repeating Rifle, or sometimes a Harmonica Rifle, its five-shot magazine was fabricated from a solid rectangular bar, each chamber having an integral nipple, and was passed through the breech from side to side. The magazine was moved on after each shot by a thumb-operated lever,which also forced the chamber forward into a gas-tight alignment with the barrel, while the hammer was positioned below the breech in front of the trigger guard. Larger capacity magazines, with capacities of 10 or 25 shots, were available to special order from Jonathan, and each rifle was supplied with at least one spare magazine, thus giving the owner a minimum of ten rapid shots if required.</p>
+   <p>Crude though this may sound, the weapon was capable of sustained fire at a rate unequalled by any other weapon of the time, and as recently as 1952 an example of the weapon held in the Browning Family Collection was used to fire fifteen rounds without malfunction.</p>
+   <p>In fact, Jonathan also invented a second type of repeating rifle at about the same time. This was a cylinder repeating rifle, similar in concept to the mechanism of a single-action revolver.</p>
+   <p>The slide rifle which, like the cylinder repeater, was not patented by Jonathan Browning, was an immediate success in the area, producing far more orders than he could possibly fill, and would no doubt have become a much more popular weapon had Browning’s manufacturing capacity been equal to his design ability.</p>
+   <p>It’s worthwhile contrasting this weapon, essentially knocked together by a self-taught gunsmith in a blacksmith’s shop, with the Colt Revolving Rifle, produced in 1855 by this fully-equipped and experienced manufacturer of firearms. The Colt weapon was a failure, because its design didn’t address the problem which Jonathan Browning’s prodigious talent had solved: the Colt couldn’t maintain a gas-tight seal between the barrel and the chamber, which led to misfires, gas leakage and indifferent performance.</p>
+   <p>In 1840 Jonathan Browning, by then an established member of the community and a good friend of the young Abraham Lincoln, became deeply interested in religion and, in particular, the teachings of the Mormon Church. The direct result of this interest was the Browning family’s move, in 1842, to the city of Nauvoo, Illinois, which was being constructed on the instructions of Joseph Smith, the founder and Prophet of the Church of Jesus Christ of Latter-Day Saints.</p>
+   <p>The Mormons were not popular in the area, being subjected to frequent attacks by armed Illinois and Missouri gangs, and the violence reached a peak in June 1844 when Joseph Smith and his brother, Hyrum, were assassinated at Carthage, Illinois. This action was the spur that led to the great Mormon Exodus under Brigham Young, which started in 1846 and continued for some years. Though Jonathan Browning was eager to head west with the pioneers, Young recognized his worth and insisted that he stay to provide the weapons so desperately needed by the Saints, and it wasn’t until 1852 that Jonathan was permitted to follow the trail from Nauvoo that led eventually through the Rocky Mountains to Utah and Ogden in the valley of the Great Salt Lake.</p>
+   <p>The violence at Nauvoo and the long trek west had left their mark on Jonathan Browning, and he never again applied himself to the development of new weapons, contenting himself with repairing and refurbishing not only guns but any kind of mechanical contraption which required attention. The Browning gunsmith building in Nauvoo is now a museum open to the public.</p>
+   <p>Jonathan Browning settled in Ogden in 1852 with his first wife and eleven surviving children, and embraced the Mormon practice of polygamy. In 1854 he married his second wife, Elisabeth Clark, a Mormon convert from Virginia, and she gave birth to John Moses Browning the following year. In all, Jonathan took three wives and had twenty-two children. John Browning was particularly close to his younger brother, Matt, and his younger half-brothers, Jonathan Edmund (known as Ed), Thomas Samuel (nicknamed Sam), Will and George, who was a son of Jonathan’s third wife.</p>
+  </section>
+  <section>
+   <title>
+    <p>3. JOHN BROWNING — THE EARLY YEARS (1855–1870)</p>
+   </title>
+   <p>John Moses Browning was born in Ogden, Utah, on January 23 1855, and his brother Matthew Sandifer Browning, John’s life-long friend, confidant and business partner, was born a little under five years later on October 27 1859. From the first, the workshop where his father spent his days fascinated John Browning, and he began working there at the age of six. Within a year, his knowledge was so extensive that he could identify every part of a firearm by both name and function.</p>
+   <p>His mother educated him well, and by the time he was eight or nine he was not only able to read and write, but could also take orders from customers, recording their personal details and notes of the repair work they required on their weapons. He became so competent that he was often to be found there alone by customers requiring work on guns, and even at that young age he was frequently able not only to diagnose the problem, but also to estimate the length of time it would take his father Jonathan to fix it.</p>
+   <p>He made his first gun at the age of ten. It was crude in the extreme, consisting of a sawn-off flintlock barrel attached to a roughly-shaped stock by twists of wire, and with a piece of tin around the priming pan. It was fired by thrusting a glowing stick into the powder in the priming pan, John holding and aiming the gun while Matt applied this rudimentary form of ignition.</p>
+   <p>In John’s defence, it should be emphasized that he and Matt made the entire weapon in a single day when Jonathan was out, and that it did work. The latter fact was proven by the prairie chicken — a type of grouse — on the Browning breakfast table the following morning, ready for his father. When Jonathan finally thought to ask where the birds had come from, John explained about the gun, which Jonathan then asked to see. After studying it for a moment or two, he finally looked at John and suggested that he ought to be able to make a better one at his age — nearly eleven! After breakfast, John took the gun into the workshop and disassembled it. Neither John nor Jonathan ever mentioned the weapon again.</p>
+   <p>A more convincing demonstration of John Browning’s precocious talent occurred when he was thirteen. A freight driver appeared at the Browning shop with a badly damaged single barrel percussion shotgun; a heavy crate on his wagon had fallen and crushed the middle of the gun, breaking the stock and bending or twisting virtually every other part of it except the barrel, which had suffered only scratches. As Jonathan explained, a repair was possible, but it would be a lengthy process, and would probably cost far more than the weapon was worth. The trader took little convincing, and settled for a reconditioned gun from the Browning stock, but on his way out of the shop he bequeathed the ruined gun to John.</p>
+   <p>Ruined it may have been as far as the trader was concerned, but he was not looking at it through John’s eyes, nor with John’s gunsmithing experience behind him. Already the boy could weld, braze, drill and tap holes. He could fabricate the simpler parts of weapons and he could disassemble almost any type of gun. To John, the shotgun wasn’t a wreck, it was a challenge.</p>
+   <p>In his own words, he said: ‘I decided to take the gun apart, piece by piece, down to the last small screw, even though parts were mashed and twisted together. And when I did, finally finishing long after supper that night, the pieces all spread out before me on the bench, I examined each piece and discovered that there wasn’t one that I couldn’t make myself, if I had too. If I had been in school that day, I would have missed a valuable lesson.’</p>
+   <p>Having reduced the gun to its component parts, in his spare time over the next few weeks he repaired those parts he could, and fabricated new parts where the damage was beyond repair. The job had the tacit consent of the older Browning, despite Jonathan’s initial disapproval. John knew that, for his father had let him cut the wood for the new stock from his precious slab of walnut. And in completing the work, John moved subtly from childhood into manhood. Beforehand, he was just a boy who helped around the shop, an apprentice at best, but afterwards he was a gunsmith in his own right, and was accepted as such by Jonathan.</p>
+   <p>Many stories have been told about John Moses Browning. Some are total invention, but most have at least a basis in fact. One of these recounts that while still a child John made each of his brothers a gun from parts salvaged from Jonathan’s junk pile. In fact, John Browning knocked together probably dozens of non-functioning weapons out of scrap wood and steel for Matt, but the construction of a real gun was rather more difficult. First of all, Jonathan’s approval had to be obtained and then a suitable barrel found. Every other part of the gun John could make, but not the barrel.</p>
+   <p>And then a barrel almost fell into his hands. Matt, sweeping in the shop one day, discovered a burlap-wrapped object the size and shape of a gun barrel tucked away in a corner. When he unwrapped it, John found that it <emphasis>was</emphasis> a barrel, about .32 calibre, covered completely in beeswax, but what he didn’t know was who owned it. When Jonathan returned home, John broached the subject of the gun, suggesting that he make one for Matt’s birthday — he was going to be ten years old in about four months — and then showed his father the barrel Matt had found.</p>
+   <p>Jonathan burst out laughing, and told John how the barrel had been acquired. A stranger had seen one of Jonathan’s slide rifles and came to the shop carrying the barrel to ask for one to be made for him. As he and Jonathan were discussing the deal, Jonathan’s wife Elisabeth stepped into the shop and asked her husband how the smallpox patients were — the town was suffering from something of an epidemic at the time. Jonathan replied that he’d just returned from seeing them, at which the stranger cried out ‘Smallpox?’ and reached out to take his barrel back from Jonathan. Then he changed his mind and said he’d take a receipt, and then he decided not even to bother with that, and left the shop at a run. Jonathan never saw him again.</p>
+   <p>John duly made a slide gun in time for Matt’s birthday, and the two boys spent many happy hours hunting in the woods, John with his refurbished shotgun, and Matt with the first slide gun made by John Browning, then a mature fourteen-year old gunsmith. In those days the hunting was invariably for food, not for sport, and the concept of ‘sportsmanship’ was totally foreign. The ideal shot, as far as any hunter then was concerned, was at a sitting target or a flock of birds feeding on the ground. Indeed, this kind of shot became known as a ‘pot shot’, because that was exactly what it was — a shot to fill the cooking pot.</p>
+  </section>
+  <section>
+   <title>
+    <p>4. THE FIRST GUN</p>
+   </title>
+   <p>John Browning left school a few months after his fifteenth birthday, and thereafter effectively ran the Browning shop, assisted by his brothers — particularly by Matt — when the need arose, while Jonathan took less of a part. The elder Browning still spent time in the shop, however, and was probably responsible for his son’s first attempt at designing an original weapon.</p>
+   <p>Then a man in his early twenties, John looked in disgust at the parts of a gun brought in for repair, and remarked casually that he thought he could make a better one himself. To his surprise, his father took him completely seriously, and told him to go ahead and do so.</p>
+   <p>John’s task was not easy. He had plenty of ideas for the design, but the inadequacies of the Browning machine shop meant that the weapon had to be as simple as he could make it. He started with basic sketches, then produced templates which he altered as ideas and modifications occurred to him, and finally he fabricated the metal parts. Larger components he hand-forged, shaping them on the anvil and trying to get them as near as possible to the final design to avoid the filing and chiselling that would otherwise be necessary. But there was no short-cut in making the receiver; it had to be forged, then drilled, chiselled and filed out: a tiresome and exhausting job. The gun that eventually emerged was a single-shot rifle, lever-action and with an exposed hammer. It was simple, robust and reliable.</p>
+   <p>It is generally accepted that most successful weapons have taken at least two and often three or more years to progress from the initial idea to the test-firing stage. The time John Browning took to design and construct his rifle is not precisely known, but it was almost certainly less than one year. It is known that he started working on the weapon after his twenty-third birthday on 23 January 1878, and filed an application for a patent on 12 May 1879, the month after he married Rachel Teresa Child.</p>
+   <p>The patent application itself was also signed by Jonathan Browning as a witness, and  must have been filed quite some time after the gun was complete, because of John Browning’s complete lack of knowledge of patent procedure, blueprints and technical drawing, all of which necessitated considerable correspondence with the patent attorney in the east, and mail took a long time to get through. Perhaps the best evidence is the patent model itself, the barrel of which bears the inscription ‘J. M. BROWNING OGDEN U.T. 1878’.</p>
+   <p>What is perhaps even more staggering than the speed with which John produced this first rifle, even bearing in mind the limitations of the shop in which he was working, is the fact that he designed and produced a second gun during 1878 — another lever-action single-shot — though this weapon was not patented, and only one is known to survive.</p>
+   <p>Probably the biggest problem faced by John Browning at this time was not the design and making of a gun, but in patenting the finished weapon. No-one in Ogden had much idea what a patent was, far less how to apply for one, so John finally scrawled a note asking how he could patent a gun on an order form and sent it to Schoverling, Daly and Gales, a firm from which he had previously purchased supplies.</p>
+   <p>The result of this slightly unorthodox approach was the name of a patent attorney. A similar note was sent to him, and in due course John received a letter explaining the procedure and a copy of a patent application. After studying all the information to hand, John wrote out the design features that he thought were new and therefore patentable, and sent everything back to the patent attorney to be converted into correct legal language. And it worked, because the patent for the rifle, the Browning Single Shot, was granted on 7 October 1879, number 220,271.</p>
+   <p>Quite apart from the designing and patenting of this rifle, 1879 was a time of change for John Browning. After his marriage on 10 April 1879, a good deal of his time was spent in building a house for himself and his wife, and in constructing a new shop from which to conduct his business — all on a shoe-string budget. Just over two months later, on 21 June 1879, Jonathan Browning died peacefully. He had simply, John thought, died of weariness, but it was a source of great pleasure both to father and son that Jonathan had lived to see, and to fire, John’s single-shot rifle.</p>
+   <p>John had completely taken over the running of the Browning shop in 1878, and had done what he could to improve the business by increasing both the turnover and the prices charged, because Jonathan had always under-priced his work. He was initially assisted only by Matt, but had to enlist the services of his brother Ed (Jonathan Edmund) by the end of 1879. The arrangement worked extremely well, with Ed eventually becoming John’s model-maker.</p>
+   <p>Jonathan Browning had acted as a bespoke gunmaker, producing arms to order, but John’s vision of his future was rather different. The fact that he had designed and patented his own gun was common knowledge in Ogden and the surrounding area, and the weapon had already attracted considerable interest and, more importantly, several advance orders. Realizing the worth of the single-shot, John had decided to try to manufacture and sell it from a rudimentary production line, and had purchased the power tools he would need to achieve this for installation in his new shop in Ogden.</p>
+   <p>On the afternoon of their second day in the new shop, surrounded by a chaos of machinery, belts, packing cases and the entire contents of the old shop, as John and his brothers looked around wondering where to start, the door opened and an Englishman called Frank Rushton walked in. He was literally the right man in the right place at the right time. He was a gunsmith with years of experience and with a working knowledge of factory practices, and more importantly he was looking for work. Rushton brought his expertise to bear in getting the shop running smoothly, and then worked closely with John in training Matt and Ed in the intricacies of firearms manufacture. To the Brownings, he was invaluable, and he remained with the brothers for the rest of his life.</p>
+   <p>Contrary to the frequently-repeated story, John Browning did not refuse to sell any guns until he had produced six hundred models. In fact, he had decided to produce an initial run of twenty-five rifles, but he did not specify a production time-scale. He reasoned that making this number would enable him to work out the most effective routine for the shop, and would also be a sufficient training period for his brothers.</p>
+   <p>Three months were to elapse before the rifles were ready, but within a week every one had been sold and the Brownings had several unfilled orders. The price asked for the weapon was $25.00, but most sales realized rather more than this when the usual extras were added in — cover, powder, lead, primers and so on. John was pleased but not surprised, for he had expected to sell the initial production quickly to satisfy local demand, but contrary to his expectations the rifle continued to sell so well that they never subsequently held a stock of more than a dozen completed rifles in the shop.</p>
+   <p>Production was erratic at first, but eventually settled down at around two rifles a day, and the shop prospered as far as it was able. They began selling sporting goods as a side-line, and the usual rifle repair work continued to generate a reasonable income.</p>
+   <p>John, however, was already looking ahead, and on 20 March 1882 he filed a patent application for a repeating rifle with a tubular magazine, and this patent was granted in July of the same year. He did not attempt to produce this weapon, and instead filed a further patent on 13 September 1882 for another, and completely different, lever-action repeater fitted with a tubular magazine, which he again did not produce. He seems to have regarded these two designs as preliminary stages leading to the creation of what was to become the Model 86 Winchester.</p>
+   <p>This was a difficult time for John, because although business was good, the shop was taking up more and more of his working day, and he had precious little time to spare for new designs and he was a weapon designer at heart.</p>
+   <p>But in 1883 everything changed.</p>
+  </section>
+  <section>
+   <title>
+    <p>5. THE WINCHESTER CONNECTION</p>
+   </title>
+   <p>Andrew McAusland was a salesman for the Winchester Repeating Arms Company, and in 1883 he bought an unfamiliar second-hand single-shot rifle for the sum of fifteen dollars. The barrel bore the legend ‘BROWNING BROS. OGDEN, UTAH U.S.A.’, and the receiver was stamped with the number 463. McAusland clearly recognized the potential of the weapon, for he forwarded it to the Winchester factory where it was passed to the Vice President and General Manager, T G Bennett, who was immediately struck by the quality of the rifle and its sophisticated design.</p>
+   <p>Less than a week later, Bennett set out for Ogden with the intention of buying the Browning and all rights to it because it was, he admitted, the best single-shot rifle he had ever seen. He was clearly puzzled when he arrived at the Browning shop, for the seven people working there appeared little more than youths, but when he had established that he was in the right place, he lost no time in coming to the point.</p>
+   <p>Bennett and John Browning hardly haggled. Bennett was certainly aware that the tall young man standing before him was something of a prodigy and was prepared to pay almost whatever it cost to secure the rifle and a first option on the high-power repeater John had told him was coming. John was eager to sell, to raise sufficient funds to support the family business so that he could devote more of his time to inventing, and after a brief consultation with Matt, he asked the sum of ten thousand dollars. Bennett proposed eight thousand and offered to include the Brownings on the Winchester jobbing list, and made the offer conditional upon the new repeater being offered to Winchester first.</p>
+   <p>John accepted the terms and a cheque for one thousand dollars, and the agreement was formalized in two brief notes written out on the counter of the shop, after which Bennett returned to New Haven. The balance of seven thousand dollars followed in about a month, after Bennett had satisfied himself about the validity and protection of the Browning patent.</p>
+   <p>A persistent story is that Winchester also bought up the original production run of the weapon. This was manifestly not the case, as there would have been no more than a dozen rifles in the store on the day Bennett called. What did happen illustrates clearly John’s lack of business knowledge. Faced with both a steady demand for the single-shot and a good stock of parts, the Brownings continued turning out the rifle themselves, not realising that in selling the rights to the weapon to Winchester they had also deprived themselves of the right to manufacture it. The production was finally stopped after John received a letter from Bennett, but not before the entire stock of parts had been utilized.</p>
+   <p>Winchester introduced the Browning single-shot rifle in 1885, and it continued in production for thirty-five years in calibres from .22 right up to the extremely powerful .50/95 Winchester Express. It was a highly successful weapon, very popular with hunters, and extremely accurate and reliable. The locking system in particular proved immensely tough, even when the rifle was grossly over-stressed. Its success was marked by the gradual demise of all the other single-shot rifles on the American market, and it was only discontinued by Winchester in 1920 because of the increasing popularity of repeating arms, most of which were also Browning designs.</p>
+  </section>
+  <section>
+   <title>
+    <p>6. EARLY RIFLE DEVELOPMENT</p>
+   </title>
+   <p>In May 1884 John Browning applied for a patent for his new repeating rifle, and this was granted in October of that year. As if to prove his versatility, during the summer of 1884 he occupied himself in designing another rifle of the same type, but with a completely different operating mechanism.</p>
+   <p>Bennett had insisted on being the first manufacturer to see the new Browning model, so after the granting of the patent John and Matt set off to New Haven, John carrying the repeater wrapped in brown paper. In New York City the Brownings were entertained by a salesman from Schoverling, Daly and Gales, a man they knew well from his visits to Ogden and whose familiarity with guns they respected. After seeing the sights, eating a good meal and downing several drinks, they returned to the hotel where John showed him the new repeater. To say the salesman was impressed would be an understatement. It was, he declared, not only the best rifle in the world, but also probably the key to the future of the Winchester Company.</p>
+   <p>Bennett, when the Browning brothers saw him at New Haven shortly afterwards, agreed and purchased the patent outright from John for a reputed fifty thousand dollars, a quite enormous sum of money in 1884. But his faith was justified, for the 1886 Winchester, which became known as the Model 71 in 1936, remained in production for seventy one years, selling over 200,000 units, and incidentally, like the later Models 1892 and 1894, becoming familiar the world over from its appearances in countless western films. Indeed, the weapon is still very popular even today, despite production having ceased in 1957.</p>
+   <p>As well as buying the 1886, Bennett also asked John if he could design a lever-action repeating shotgun. John replied that he could, but suggested that a slide-action weapon might be preferable, adding that he had already designed such a gun. Bennett was interested, but pressed John to design a lever-action, as that feature had virtually become a Winchester trade-mark. He then asked roughly how long such a gun would take to design, and suggested two years, but John thought he could work a bit faster than that. That conversation took place in October 1884, and the patent on the new gun was filed in June 1885.</p>
+   <p>Winchester bought the design and introduced the weapon as the Model 1887. It had a simple, rugged and reliable action, and proved to be the world’s first successful repeating shotgun. It remained in production, though with a minor model change to the Model 1901 at the turn of the century to enable it to handle smokeless powders, until 1920, by which time over 78,000 had been sold.</p>
+   <p>It is instructive to realize that, due entirely to Bennett’s visit to Ogden in 1883, Winchester was able to introduce three entirely new weapons in a three year period, all of which went on to become market leaders in their classes and all were solely the product of John Browning’s genius. When the Model 87 went on sale, he was still only thirty-two years old.</p>
+   <p>Like Jonathan Browning, John was a Mormon and despite what he knew was his true vocation — designing weapons — he also accepted that he had commitments to the church. In 1887 was sent as a missionary to the southern states for two years, returning in March 1889. But by 1887 his head was already buzzing with new and exciting ideas for firearm designs, and there is no doubt that his eagerness to continue inventing and developing weapons contrasted sharply with his religious duties and beliefs. But he did his duty and went as a missionary, though after his return it is perhaps significant that he never again took an active role in church activities, limiting his participation to occasionally accompanying his wife Rachel to services. Almost certainly he regarded those two years as a complete waste of his time.</p>
+   <p>Upon his return, John Browning threw himself into his work with renewed vigour. An indication of his enthusiasm is that twenty patents were granted to him in just over three years. His method of working was rather unusual. By then he did not use blueprints, or even produce drawings, of the designs he was developing. Instead he would ‘assemble’ the mechanism in his head, and only start making templates or parts when he was certain that it would work smoothly and correctly.</p>
+   <p>Once a model had been constructed, he would take it into the hills around Ogden and test-fire dozens of rounds, noting critically the way the weapon behaved. Then he would sit at home after supper, loading the piece and working the action, noting any roughness or irregularity. The next morning Ed would find John in the shop, the gun stripped on the bench in front of him, while he filed, fingered or just considered a part. With any minor modifications made, the test-firing would begin again, and the process continued until he was sure the gun was right in every respect.</p>
+   <p>And then there were the trips out east to Winchester at New Haven, where John would show the gun or guns he had produced. And, invariably, T G Bennett would buy the weapons, usually with little haggling over the price, though John quite often accepted Winchester goods in part-payment. These the Browning brothers sold through their new and very much larger two-storey shop in Main Street, Ogden, where the business was booming.</p>
+   <p>The reliance placed upon John Browning by Bennett and the Winchester Company is exemplified by the fact that for almost twenty years no new gun introduced by Winchester was designed by anyone other than Browning. In fact, Bennett bought a total of forty four Browning guns over a period of seventeen years — a larger number of weapons than were patented by all the other inventors working in America in the same period — though only ten of these guns actually reached the production line.</p>
+   <p>It may seem poor business practice to buy goods which are never intended to be sold, but actually Bennett was ensuring the success of Winchester. By giving John Browning the asking price for any gun he produced, he was effectively giving Winchester a monopoly of Browning’s genius. He was well aware that if he refused to accept a gun, Browning could simply take it to Colt or one of the other major manufacturers, where he would be welcomed with open arms, and Winchester would then face a competitor producing a weapon of a similar quality to its own. As far as Bennett was concerned, the cost of thirty four patents was simply the equivalent of a payment on an insurance policy.</p>
+   <p>It must be emphasized that all these designs were entirely different. John Browning did not take out separate patents for only minor alterations, and frequently included notes within each patent application confirming that a particular mechanism could be adapted to a different weapon — a shotgun when the patent was for a rifle, and so on. And when each new patent was granted, the task of other firearms inventors in America became that much more difficult.</p>
+   <p>Bennett had finally agreed with John about the potential for a pump-action shotgun, and the weapon was duly introduced as the Model 93 (later known as the Model 97), and remained in production until 1957. This weapon was extensively used during the First World War, as so-called ‘trench guns’, and issued to those American troops who were demonstrably skilled in trap and skeet shooting. These men used the shotgun to destroy enemy hand grenades in flight, and in one celebrated incident a small force of some 200 US soldiers used devastating massed fire from their Model 97 shotguns at extremely close range to defeat a major assault by German troops.</p>
+   <p>Another pump-action weapon, the Model 90 .22 rifle, caused a certain amount of embarrassment at the Winchester factory. When Bennett had asked for the gun to be designed, John had been very busy and, breaking with his usual routine of providing a working model, he had sent only a set of detailed drawings.</p>
+   <p>After a short while, John received a letter from an official of the Winchester Company which recommended that he cease work on the weapon, as an assessment of the drawings by Winchester engineers had shown that the rifle would not function. John read the letter, made a working model of the gun as quickly as he could and sent it straight to Winchester with a terse note stating that, as far as he could see, it worked well enough. The Model 90, and its two later successors the Models 06 and 62, went on to become arguably the most popular .22 pump-action rifles ever produced, selling well over two million units and remaining in production until 1958.</p>
+   <p>In 1890 another request was made to John Browning by Bennett when the inventor was visiting New Haven with Matt, this time for a rifle similar to the highly acclaimed Model 86, but slightly scaled down to handle the .44/40 round and to replace the ageing Winchester 73. Bennett was clearly in a hurry, and he offered John ten thousand dollars if he could deliver a working model in three months, and <emphasis>fifteen </emphasis>thousand if he could manage it in two months. John thought for a few moments and consulted a calendar. He calculated that it would take him about six days to get back to Ogden and a further six days for the rifle to be sent from Ogden to New Haven. Then he turned to Bennett and told him that he would either have the new rifle in Bennett’s hands within thirty days — but for the sum of twenty thousand dollars — or he would give the gun to him.</p>
+   <p>Both Bennett and Matt, who was at the interview, were astounded. Bennett quickly recovered and included John’s proposal in his offer, but excluded John’s offer to give him the gun and this was accepted. John spent the journey back to Ogden mentally designing the new rifle. He started work on the receiver the day of his arrival home, began assembly within a week, and had the weapon firing in two weeks. Bennett received it in well under the thirty day period agreed, and sent the cheque for twenty thousand dollars immediately.</p>
+   <p>It’s worth emphasising just astonishing Browning’s achievement was. In those days, for most firearms manufacturers the normal time between the design of a new weapon appearing on the drawing board to the prototype being available for test-firing was about two years, but John Browning achieved exactly the same result in under a month.</p>
+   <p>The new rifle appeared in the Winchester catalogue as the Model 92 and continued in production until 1941, with over one million sold. It was often used in Hollywood westerns as a replacement for the earlier Model 73, and was carried in films by actors including John Wayne and Chuck Connors.</p>
+   <p>A modified version called the Model 53 was introduced in 1924, ceasing production in 1932, after which the Model 65 succeeded it and continued to be sold until 1947. In all, over one million units of the three models were sold.</p>
+   <p>The most successful Browning-designed Winchester models were the 1887 and 1897 shotguns, the falling-block single-shot Model 1885 and the lever-action rifle Models 1886, 1894 and 1895, most of which are still being manufactured and sold today in one form or another.</p>
+  </section>
+  <section>
+   <title>
+    <p>7. SMOKELESS POWDERS</p>
+   </title>
+   <p>1894 was a crucial year in firearms development, for it marked the beginning of the end for black powder weapons with the advent of the new, and very powerful, smokeless powders. Of course, the change was not immediate, for it took some time for old hunters to realize that the small-calibre lightweight rifles then being introduced actually had far more stopping power than their big-calibre weapons. The new .30/30, for example, boasted a muzzle velocity of 2200 feet per second, while the best that the old .50/110 could offer was about 1600 fps. When the much lighter weight of the rifle and its cartridges, the very much greater penetration and the flat trajectory were appreciated, the days of the black powder rifle were numbered.</p>
+   <p>Every rifle made by Browning for Winchester, from the single-shot onwards, was initially designed to take black powder loads. What is perhaps surprising — though less so bearing in mind Browning’s preoccupation with safe and simple actions — is the fact that every weapon was successfully converted to smokeless powder cartridges by the simple expedient of increasing the tensile strength of the barrel steel. Just how good an indication this is of the inherent strengths of Browning’s designs can be appreciated when it is remembered that the old black powder .32/40 generated a breech pressure of about 25,000 pounds per square inch, while the nearly identical calibre .30/30 smokeless powder load produced almost 40,000 psi.</p>
+   <p>The first American smokeless powder rifle was, predictably enough, a Browning-designed Winchester, the Model 94. Originally produced in .32/40 and .38/40 black powder models, it was swiftly reintroduced in .30/30 calibre with the same model number. And it was an immediate and lasting success, selling over a million and a half units by 1914 and over two and a half million by 1961. By the end of the twentieth century, well over seven million Model 1894 rifles had been manufactured, far more than any other centre-fire sporting rifle from any manufacturer. It’s often known as the Winchester 30-30, after the most popular cartridge used in it. Winchester advertised it, with not a trace of false modesty, as ‘the most popular hunting rifle ever built — bar none’.</p>
+   <p>With the Model 94 established, Winchester introduced the Model 95. This was another Browning lever-action rifle, but this time with a box magazine in front of the trigger guard, which quickly became a popular big-game weapon. Its appeal was rather more limited than that of the lighter and cheaper 94, mainly because of the much more powerful cartridges for which it was chambered — from the .30/40 Krag up to the very powerful .405 — but it nevertheless sold more than four hundred thousand units before being discontinued in 1931.</p>
+   <p>The weapon was adopted in 1895 by the US Army as the Musket .30 Army Model 1895. Interestingly, the weapon also saw war service as a .30/40 Krag musket with the US Army in the Spanish-American War and, when it was chambered for the 7.62 mm Russian cartridge, almost three hundred thousand were sold to Russia in the early part of the First World War.</p>
+   <p>With the last weapon Browning designed for Winchester, his career came full circle, for it was another single-shot rifle. It had been requested by Bennett for one reason only — to drive the popular Belgian Flobert .22 from the market. John Browning did not find it a difficult request to comply with, as not only did he have a design for such a rifle, he had five different working models, all of which he sent to Winchester and all of which Bennett bought. Four of the weapons had been designed by Browning in 1892, but the fifth had been completed only a short time prior to Bennett’s request.</p>
+   <p>It was this version which was chosen to compete with the Flobert, and was introduced by Winchester as the Model 1900, retailing for a mere five dollars. It was entirely successful in competition with the Belgian gun, driving the foreign weapon from the shelves in a single year, and went on to spawn a host of derivations, including a 9 mm shotgun version. All calibres of this model were discontinued in 1946, after almost one and a half million units had been sold.</p>
+   <p>Interestingly, the four rifles that Winchester bought but didn’t manufacture were all variations on the same theme, and all covered by a single patent. This was one of the simplest designs ever for a firearm, possessing effectively only two moving parts: a combined hammer and trigger, and a single coil spring which acted as both a mainspring and trigger spring. And the reason Bennett bought it was simply to ensure that nobody else could come along and use the concept to start manufacturing a rifle that would undercut even the Model 1900.</p>
+   <p>Overall, John Browning and Winchester enjoyed a 19-year working relationship, and in the four years between 1884 and 1887, Browning sold no less than twenty different gun designs to Winchester, far more than the company could actually produce commercially. But Bennett purchased everything Browning offered to him, keenly aware that if he didn’t there was nothing to stop Browning striking a deal with another manufacturer. In all, Winchester manufactured and sold seven Browning-designed rifles and three shotguns.</p>
+   <p>Or, to be absolutely accurate, Bennett bought every weapon Browning offered him until the end of the century, when the tall American produced a radical new weapon design that would cause a permanent rift between him and Bennett.</p>
+  </section>
+  <section>
+   <title>
+    <p>8. THE AUTOMATIC SHOTGUN</p>
+   </title>
+   <p>Despite his numerous rifle designs for Winchester, John Browning was still experimenting in other fields, and in 1898 he began working on the weapon that was to cause his celebrated break with Winchester, and would become the most profitable of all the sporting arms he invented: the automatic shotgun.</p>
+   <p>It was a difficult time to contemplate such a gun, primarily because shotgun cartridges were still in a transitional stage between black powder and smokeless loads, and the new cartridges proved very inconsistent even in a manually-operated weapon. In an automatic they often failed to eject properly.</p>
+   <p>Then Browning invented the shock absorber, which effectively cured all his difficulties at one stroke. This tiny component, costing almost nothing to make, reduced the recoil of the weapon, permitted consistent functioning with all loads and, incidentally, gave Browning a total monopoly on the automatic shotgun market until his patent expired. It was to be a further fifty-four years, over half a century, after the introduction of the Browning weapon before another successful autoloader design was marketed, such were the difficulties of developing a mechanism that worked and which did not infringe John Browning’s patents.</p>
+   <p>In fact, Browning developed two different designs almost simultaneously, and fired both exhaustively before selecting the second one as the better weapon, and it was this version which he took to New Haven in 1899 to show Bennett. On this occasion, Browning left without concluding a deal with Bennett, who was somewhat conservative in his thinking and regarded the radical new weapon with some suspicion, because he much preferred the idea of a pump- or lever-action weapon. Browning also left without the shotgun, which the Winchester engineers were going to study.</p>
+   <p>Over the succeeding months there was considerable correspondence between Browning and Winchester, as minor changes were made to the design and the patent applications — which Winchester had for some time been making on John Browning’s behalf — were filed. Although filed by Winchester patent attorneys, all the patents were taken out in Browning’s name, and this established procedure undoubtedly became a cause of considerable irritation to Winchester over the following half-century.</p>
+   <p>By April 1900 Browning was getting irritated with the lack of any positive response from Winchester about the shotgun, and wrote to Bennett requesting a decision, but without receiving a satisfactory answer. Finally, in a somewhat heated meeting at New Haven in 1902, John Browning spelt out his terms. He was so confident that the weapon would be a success that he wanted a huge price outright which was to be an advance on royalties. In all his previous dealings with Bennett, royalties had never been discussed — Winchester invariably bought the weapons outright — and Bennett refused to discuss royalties on this occasion as well. John picked up his shotgun and left. The long and highly profitable relationship he had enjoyed with Winchester was over.</p>
+   <p>In fairness to Bennett, he was in a difficult position. The automatic shotgun was a revolutionary concept, which worried Winchester. If they bought and produced the weapon, and it was a commercial failure, the reputation of the company would suffer badly, but if it was a success, then the sales of their well-established lever and pump-action shotguns would be hit. As far as Bennett was concerned, the best choice would probably have been to buy the gun but not manufacture it, as he had done with many other of Browning’s designs. But John’s demand for royalties, rather than a straight sale for cash, precluded his taking this course of action.</p>
+   <p>With the shotgun under his arm, and his anger and irritation dying away, John Browning saw that he had two alternatives. He could either offer the weapon to another major American manufacturer, or he could take it overseas. He opted for the first choice, and arranged a meeting with Marcellus Hartley, the president of Remington Arms. On the afternoon of the appointment, while John waited in his secretary’s office, Marcellus Hartley died of a heart attack.</p>
+   <p>John Browning’s decision was made for him by factors completely outside his control. He took his shotgun to Europe, and to the youthful FN group in Belgium.</p>
+   <p>But well before he took this step, Browning had ventured into an entirely new field of weapon design — the machine-gun.</p>
+  </section>
+  <section>
+   <title>
+    <p>9. AUTOMATIC WEAPONS DEVELOPMENT</p>
+   </title>
+   <p>The story is often told how John Browning, while out hunting, fired his gun near some bulrushes, and noted the disturbance this caused in the vegetation some distance away. This sparked his interest in the automatic operation of weapons, and led not only to the automatic shotgun, but also to his automatic pistol and machine-gun designs. The fact that John Browning’s middle name was Moses probably made the tale about the bulrushes almost inevitable, but actually the story is almost true.</p>
+   <p>In reality, the incident occurred in the autumn of 1889 at the weekly shoot of the Ogden Rifle Club at the club range by the river to the east of town. John wasn’t firing at the time but was watching a friend, Will Wright, shoot, and noted the way the muzzle blast caused the movement of a clump of weeds between Wright and the target.</p>
+   <p>Of course, he had noticed the same thing hundreds of times before, as any hunter would, but on this occasion he suddenly saw it as something else — a form of energy released by the action of firing that was being wasted, but which could be trapped and utilized. Ed and Matt were with John for the shoot, and they recalled that he immediately lost interest in the afternoon’s sport, summoned his brothers and returned to the Browning shop. He knew he had work to do.</p>
+   <p>In the shop he secured an old .44 Model 73 to a board, took a block of wood through which he had drilled a hole slightly larger than .44 calibre, placed it by the muzzle, lined up the hole with the barrel and fired. The block bounced all over the shop and, as the smoke cleared, John remarked casually to his brothers that they might have a workable machine-gun in ten years. More to the point, he announced that he was going to make a gas-operated gun the following day.</p>
+   <p>If any man other than John Browning had made such a claim, it would have appeared to be an idle boast, but coming from John, as his brothers well knew, it was simply a statement of intent, and by four o’clock the following afternoon the world’s first gas-operated rifle was undergoing test-firing.</p>
+   <p>It was a crude and basic design built on the same old black-powder Model 73 John had used the previous day and relied on muzzle blast to operate a simple lever — Browning called it a ‘flapper’ — which in turn pulled an actuating rod connected to the repeater mechanism. But it fired 16 rounds a second fully automatically from a single pull of the trigger. As far as John was concerned, the gun was a success, because it proved the principle of the mechanism. With the knowledge that he had acquired, he had the opportunity to develop the concept into a marketable weapon.</p>
+   <p>And develop it he did. The Model 73 was followed by a variety of other modified weapons as John Browning explored the new concept, and he filed his first patent application covering gas-operation of a firearm on 6 January 1890. That year, he built a working prototype machine-gun. It appeared rough and unfinished, with no tripod or firing grip, and neither a ventilated barrel nor a water jacket for cooling. But it worked, and worked well, and that was all that mattered.</p>
+   <p>Further development followed, with two more patents being filed in August 1891. One of these proposed a small turbine to harness the energy of the expanding gases while the other embodied the complete mechanism for the first of John Browning’s machine-guns.</p>
+   <p>By July 1892 Browning had conceived, and patented, the gas port — a hole drilled into the barrel which allowed the high-pressure gases behind the bullet to operate the weapon’s mechanism — which led indirectly to the automatic shotgun. But first he employed the knowledge he had gained to venture into yet another completely new field of weapon design: the handgun.</p>
+  </section>
+  <section>
+   <title>
+    <p>10. BROWNING’S PISTOLS — COLT AND FN</p>
+   </title>
+   <p>His first semi-automatic pistol, patented in 1895, was intended to demonstrate that the gas piston would function effectively in a handgun, which it did. More importantly, though, Browning realized the potential of recoil operation in small weapons, and within a year had filed three crucial patents which effectively covered the development of semi-automatic pistols for decades to come. These embodied the blowback action, the locked-recoil mechanism with a turning lock, and the same system with a pivoting lock.</p>
+   <p>Crucial to all of his designs was the telescoping bolt, which integrated the bolt and the barrel shroud into a single component now known as the pistol slide. This telescoping bolt design is today found on almost every modern semi-automatic pistol, as well as a number of fully automatic weapons.</p>
+   <p>John Browning had started work on pistols in 1894, and by July 1895 he was able to demonstrate his first finished design — a .38 calibre gas-operated weapon with an exposed hammer — to officials of Colt’s Patent Fire Arms Manufacturing Company at Hartford, Connecticut.</p>
+   <p>The result was an agreement, signed a year later, permitting Colt to produce Browning pistols on a royalty basis in the United States, and this agreement covered both Browning’s original design and an additional three pistols he had developed in the preceding year. It was one of these three weapons that appeared in 1900 as the .38 ACP Colt Model 1900, the first semi-automatic pistol to be commercially produced in America. This agreement with Colt was to prove as significant as Bennett’s purchase of the Browning single-shot rifle in Ogden, because from 1900 onwards every semi-automatic pistol manufactured by Colt has been based upon a Browning design.</p>
+   <p>Browning’s agreement with Colt specifically excluded the sale of his pistols outside America, as it was his intention to arrange a separate contract with a European manufacturer. In this context, an extremely fortuitous meeting occurred at the Colt factory in 1897, between John Browning and a man named Hart Berg. Berg was the commercial director of a firm called Fabrique Nationale d’Armes de Guerre, located at Liege, in Belgium, and he had travelled over to America to look at some of the most recent innovations in bicycle manufacture.</p>
+   <p>It may seem odd that the commercial director of an arms factory should be investigating bicycle production, but the FN company at that time was in a far from happy state.</p>
+   <p>The FN group had been founded in 1889 by ten businessmen in Liege specifically for the manufacture of 150,000 Mauser Model 1889 rifles for the Belgian government. As this venture proved successful, the organization decided to continue working in the armaments field, but after that initial order, no other contracts had been offered to the company. FN had been forced to switch its focus, and had primarily been involved in the making of bicycles, motorcycles and munitions. As Berg explained to John Browning, it was the probably most modern and efficient arms factory anywhere in the world, lacking only weapons to manufacture.</p>
+   <p>Browning could see the obvious opportunity. He and Berg got on well together, and when Berg returned to Belgium he took with him a light .32 calibre pistol Browning had developed, a draft production contract and considerable enthusiasm for the weapon. His colleagues at FN soon realized the potential of the pistol, as did various European firearms authorities who carefully examined the gun and then test-fired five hundred rounds through it without any stoppages.</p>
+   <p>Of equal importance as the performance of the pistol was the simplicity of its construction. The Liege experts calculated that setting up for a production run would only require an outlay of around twelve thousand francs, a remarkably modest investment for a new weapon. The eventual selling price of the gun reflected the accuracy of their estimate: it retailed for only thirty francs, while the cartridges for it cost a mere fifty five francs per thousand.</p>
+   <p>The contract with FN was formalized on 17 July 1897, though production did not start until 1898 and the pistol was not offered for sale until January 1899. This was one year before the introduction of the Colt Model 1900, thus making the FN model the first Browning semi-automatic pistol produced anywhere. It was an immediate Europe-wide success, and not least with the European underworld. Soon after its introduction a group of French criminals armed with Browning pistols held off the forces of the French police, who were armed with revolvers, for several days.</p>
+   <p>Unlike Colt and Winchester, who both produced Browning-designed weapons under their respective trade names, FN from the first used the word ‘Browning’ to designate their pistols, with the result that John’s surname was soon far better known in Europe than in America. Indeed, it was this policy, together with heavy advertising by FN for the pistols, which was largely responsible for the word ‘browning’ entering French common parlance as a synonym for ‘automatic pistol’.</p>
+   <p>John Browning made his first visit to the FN factory, and to Europe, in 1902, immediately after his break with Winchester. As well as wishing to visit the factory where his pistol was being produced, he wanted to see something of Europe and, just as important, he also wanted to see his automatic shotgun, wrapped and stowed carefully in his cabin on board the liner on which he’d crossed the Atlantic, go into production.</p>
+   <p>He hadn’t advised the factory that he was arriving, so he was able to spend a week in Paris seeing the sights before continuing on to Liege, where he arrived in February 1902. Berg had left FN in 1898, and John was perhaps a little unsure of the reception he would receive. In fact the director, Henri Frenay, was delighted to see the tall American inventor whose towering genius had literally pulled FN out of the doldrums and set it on course to becoming the largest arms manufacturer in Europe.</p>
+   <p>John probably hadn’t realized what an enormous difference his .32 pistol had made at the factory, but the days of empty benches and idle workers had gone. With the ever-increasing sales — half a million pistols were to be produced by 1909 — had come full employment and rapid expansion. And the FN company was eager to get into the sporting arms field, so the automatic shotgun was received with something akin to rapture.</p>
+   <p>As at Winchester, the FN engineers closely scrutinized the weapon, and their enthusiasm for it more than made up for the lukewarm response John had received from Bennett at New Haven. A contract to produce the shotgun was signed in March that year, and John remained in Liege for three months in order to supervise the production of the first models.</p>
+   <p>Part of the contract with FN was an order for ten thousand units for the technically non-existent Browning Automatic Arms Company. In fact, these were bought by John himself, as a measure of his confidence in his new gun, and were to be sold through Schoverling in America on his behalf. Any doubts harboured by anyone about the potential of the gun — which became known as the Browning Auto 5 — were dispelled when all ten thousand weapons were sold in less than a year. And that was only the start. Since then, the shotgun has been manufactured by Remington, Breda, Savage, Franchi and a number of other firms, and total world sales cannot even be estimated — by 1961 FN alone had produced nearly one and a half million units.</p>
+   <p>The output from both the FN and Colt factories showed a fairly close parallel in the early part of the twentieth century. Both companies were delighted with the success of the initial Browning designs, and both subsequently marketed a full range of Browning-designed pistols primarily intended for the civilian and police markets. John, however, could see the potential for the military use of certain of his pistols, and he soon began directing his efforts in this direction.</p>
+   <p>As a result, Colt introduced a Military Model .38 pistol in 1902, the calibre being deliberately chosen to match that of the current official army revolver. This weapon did attract some official interest, but the military opinion was that a more powerful cartridge than the .38 was required, following experiences in the Philippines against the Moro terrorists. This bitter campaign had shown that the comparatively small .38 round simply didn’t possess the one-shot ‘knock-down’ man-stopping capability that was needed for a military sidearm.</p>
+   <p>In 1905, in response to this requirement, Browning developed a new cartridge — the .45 ACP — that he believed would be more than powerful enough for military use, and submitted that to the Army Ordnance Board together with two pistols, one with a hammer, the other hammerless, and both variants of the same design, for testing. After demonstrations of the weapons by Browning, Colt began commercially manufacturing the hammer model in 1905 and by 1906 the Board was able to examine a production weapon.</p>
+   <p>Over 1906 and 1907 several different types of semi-automatic pistol, manufactured by Colt, Savage, Luger and other companies, were tested by the American military, but all proved to be unsatisfactory for the rigours of use in combat. The manufacturers were told that new trials would be carried out in 1910, and were requested to improve their designs by that time. During 1909 and 1910 Browning made a number of modifications to the design of his pistol to satisfy the revised brief.</p>
+   <p>The problem with most of these early semi-automatic pistols was that they were complicated designs, inherently fragile, and liable to jam or malfunction in adverse conditions — and especially the conditions likely to be encountered on the battlefield. The cartridges they fired were also felt to be inadequate as man-stoppers, one of the principal reasons why the American government was looking for a replacement for the official Army revolver.</p>
+   <p>The final selection trials for the .45 calibre sidearm took place in March 1911, and were rigorous. Each pistol had to fire six thousand rounds, being allowed to cool after each hundred and be cleaned and oiled after every thousand. Then the weapons were to chamber and fire a selection of deformed and abnormal loads, and finally be assessed again after being attacked by acid and with dust inserted into the mechanism. After details of the trial were published, two of the foreign pistols were immediately withdrawn, leaving the Colt with only a single competitor.</p>
+   <p>The complete trial occupied two days. At the end of that time, the Colt had fired the six thousand rounds without any stoppages, chambered all the odd loads with no difficulty at all and completed the acid and dust tests faultlessly. It was the first time ever that an automatic weapon of any type had achieved a perfect score in a government test, and the feat was not to be equalled until 1917 when a machine-gun — perhaps predictably a weapon also designed by Browning — matched the record.</p>
+   <p>When the Browning pistol successfully fired its final round, a soldier who had been assisting in loading the multiple magazines exclaimed: ‘She made it, by God.’ When John Browning made his brief acceptance speech after it was announced that his pistol had won, he concurred that he had very little to add to the soldier’s comment.</p>
+   <p>The Board reported in March, strongly recommending the adoption of the Browning Colt as the official US sidearm, and the recommendation was made official by the Chief of Ordnance of the General Staff and Secretary of War on 29 March 1911. The pistol was renamed the Colt 1911, or the M1911, and remained the official US Services’ pistol until 1985 when it was replaced — amid considerable controversy — by the 9 mm Beretta Model 92. Quite apart from the fact that the Beretta is an Italian, rather than an American, weapon, which was seen by many people in the States as being a non-patriotic choice, it’s been well-established that the 9 mm round is much less effective as a man-stopper than the heavier .45 bullet. On the other hand, the Beretta is a lighter weapon and easier to handle, with a larger magazine capacity.</p>
+   <p>Nearly three million M1911s were manufactured for the American military during the First and Second World Wars, and the campaigns in Korea and Vietnam, and the pistol was first used in action in the Border War with Mexico, during General ‘Black Jack’ Pershing’s pursuit of Pancho Villa. In the First World War, an American Army sergeant named York used his M1911 to capture 132 German soldiers, and it also proved extremely popular among the criminal fraternity, being used by, amongst others, Bonnie Parker, Pretty Boy Floyd, Machine-gun Kelly and John Dillinger. There was even one account during the Second World War of a pilot who had been forced to bail out of his B-24 bomber using his 1911 to shoot down a Japanese Zero fighter which was strafing him.</p>
+   <p>Whatever the truth of that story, everybody who used the weapon in combat praised both its total reliability, no matter what the conditions, and its prodigious stopping power. The design has been produced in one form or another by almost every major weapon manufacturer in the world, and has proved to be arguably the most successful semi-automatic pistol ever made. The only conceivable challenger to this title is the Browning Hi-Power which is also, of course, also a Browning design. Total manufacturing figures of the M1911 have never been assessed.</p>
+   <p>Despite being heavily involved with his work with Colt, Browning did not neglect his responsibilities at the FN factory and supplied the company with a succession of highly successful pistol designs, including the Model 1922 and, of course, the pistol for which the name Browning is best known; the Model 35 or Hi-Power. This pistol represented a logical development, and simplification, of Browning’s earlier designs, and most notably that of the Colt 1911, which externally closely resembles the slightly smaller Browning.</p>
+  </section>
+  <section>
+   <title>
+    <p>11. THE MACHINE-GUNS</p>
+   </title>
+   <p>John Browning’s remark to his bothers in 1889, after the experiment with the Model 73 and the block of wood, that he might be able to build a machine-gun in about ten years was extremely pessimistic. In November 1890, just over a year later, Matt Browning wrote to Colt and offered to demonstrate just such a weapon. John had chosen to contact Colt because the company had made the hand-cranked Gatling gun, and was about the only major arms manufacturer in America with any experience of machine-guns. This was actually the first contact between the Brownings and Colt, though certainly the Colt management knew who they were — indeed, in their reply to Matt they made specific reference to the fine qualities of the Winchester 86 — and extended an invitation for the Brownings to visit Hartford.</p>
+   <p>John and Matt arrived at the Colt factory in Hartford early in 1891, bringing with them the prototype machine-gun and four belts of ammunition. The weapon was the world’s first gas-operated machine-gun, a system which was to surpass mechanical recoil operation as the standard design for the vast majority of high-powered self-loading weapons in the future.</p>
+   <p>John had considerable doubts about their mission. The gun looked very rough indeed, heat-blackened and with the hammer marks of its forging still visible, and could not by any stretch of the imagination be considered a production weapon.</p>
+   <p>But he knew it would work, and the Brownings ignored the doubtful looks on the faces of the Colt president, John Hall, and his works manager. Instead, he and Matt just set up the gun on its mount and prepared it for operation. Then John chambered the first round, checked that everybody was clear of the firing line, and triggered the weapon. The prototype machine-gun blasted two hundred rounds without a single pause or malfunction down the firing tunnel.</p>
+   <p>When he turned round, all expressions of doubt on the faces of the Colt men had vanished. In fact, John later described Hall as ‘bug-eyed’, and added: ‘The changed expression of Hall and his men put a pound of fat on my ribs’. The Colt team was clearly very impressed. John then explained the reasons for the rough appearance of the weapon, while Matt filled in the background, tracing the development of the gun from that afternoon at Ogden when John saw more than just bending weeds in a muzzle blast. At Hall’s request, the Brownings agreed to stay on in Hartford for a few days to discuss the weapon.</p>
+   <p>Unfortunately, there was only a fairly limited market for a machine-gun, and there appeared to be little interest in such a weapon at government level, but Hall did suggest an unofficial showing for some officers he knew in the services to attempt to generate some enthusiasm that way. John agreed to bring the gun back if such a demonstration could be arranged, but Hall vetoed his suggestion to try to tidy the weapon up a bit, because he knew how dramatically his own opinion had changed when the gun started firing, and thought it a good move to leave it just as it was.</p>
+   <p>The expected invitation didn’t come until late in 1891, and it was, as Hall had suggested, an unofficial demonstration to two officers from the Naval Ordnance section. The catch, as far as Browning was concerned, was that they wanted the gun to fire continuously for three minutes, which meant, at the 600 rounds a minute John had adjusted the gun to maintain, eighteen hundred cartridges. While he had no doubts about the gun’s ability to keep firing for three minutes, he was actually quite concerned about the task of stitching and then loading sufficient ammunition belts to provide that number of rounds.</p>
+   <p>He accepted, persuaded a tentmaker to stitch the belts for him — he had decided on ten belts, each carrying two hundred rounds — and Matt and Ed hand-loaded them for him. John went to Hartford alone, a day early, where he devised and had made a series of wooden boxes, each of which would hold one ammunition belt. He designed these to clip on to the side of the gun, enabling the new belt to be inserted and the firing to continue almost without pause.</p>
+   <p>At the demonstration, John sat on a bicycle seat attached to one leg of the mount, pulled back the breechblock and let it carry forward, and then pressed the trigger. The next three minutes were a blur of action. The slamming report of the gun, the change of ammunition box every twenty seconds, and the haze of smoke around him. The barrel turned from black to blue, and finally to red, and then the firing stopped, but not because something had broken. It had stopped because all eighteen hundred rounds had been fired.</p>
+   <p>The officers were ecstatic — the weapon was an almost unbelievable advance on the familiar Gatling — and that evening they all went out to the Heublein Hotel in Hartford to celebrate. There John ate a hearty meal and, for the first time in his life, he drank champagne. As he later remarked, it was just as wall that he had a good meal, because for a long time that was all he did get from the machine-gun. Hall had faith in the weapon, and offered John a generous royalty contract for future sales, but John didn’t sign, and took the weapon back home to Ogden.</p>
+   <p>There he worked on the gun, as well as continuing to provide Winchester with a seemingly endless stream of new arms, and developed a production model of the machine-gun that was firing within a year, despite the additional problems caused by adopting the mechanism for smokeless powders. The weapon was tested — this time officially — by the US Navy in 1893, and was put into production by Colt two years later as the Colt Model 1895, chambered for either the .30/40 Krag or the 6 mm Lee rounds, these being the calibres used by, respectively, the US Army and US Navy.</p>
+   <p>Despite its official title, the gun acquired the nickname ‘The Peacemaker’ during the Spanish-American War, echoing that of the earlier Colt revolver, but was more popularly known elsewhere as the ‘Potato Digger’. The reason for this peculiar appellation becomes clear on firing the weapon: if the tripod is mounted too low or placed on soft earth, it will dig into the ground and cause the heavy under-barrel operating lever to churn up the surface, like a piece of agricultural machinery.</p>
+   <p>In 1895, two years after the first official trial, another one was held, with the Browning weapon competing against a 6 mm Gatling, the Accles Improved Gatling, the Maxim and a French-made machine-gun. The Browning machine-gun easily outclassed the other weapons and convincingly demonstrated its superiority. As a result, the US Navy ordered fifty units from Colt in 1896. These were used to devastating effect by the Marines in Peking during the Boxer rebellion, and a further 150 weapons were ordered in 1898. The US Army, for no readily apparent reason, elected to continue using the antiquated, slow, inaccurate and unreliable hand-cranked Gatling.</p>
+  </section>
+  <section>
+   <title>
+    <p>12. THE HEAVY MACHINE-GUN AND THE BAR</p>
+   </title>
+   <p>Despite the considerable success of the Model 95, Browning was already looking at the short-recoil operating mechanism for machine-guns, and in 1900 he filed a patent for a water-cooled weapon working on that principle. The US Government, predictably enough, showed no interest whatsoever in the gun, but Browning continued refining the design even after the patent had been granted, while still concentrating most of his attention on the design of small arms with considerable and increasing commercial success.</p>
+   <p>He also devoted some of his time to the development of another automatic weapon, but this time a lightweight machine-rifle intended for use by individual soldiers. This started life as the ‘Browning Machine Rifle’, but after numerous name changes it finished up as the ‘Browning Automatic Rifle’ or simply the ‘BAR’. Both the BAR and the water-cooled heavy machine-gun were designed to use the same cartridge — the standard Springfield .30/06 — to aid compatibility in the field, and both weapons were fully developed by 1917.</p>
+  </section>
+  <section>
+   <title>
+    <p>13. WORLD WAR ONE</p>
+   </title>
+   <p>Due in large part to the reactionary attitude of the American military community, when the United States entered the First World War its forces had access to just over eleven hundred automatic machine-guns, comprising 670 Benet-Mercies, 282 Maxims and 158 Model 95 Colts. These were just about enough to start a war, but hardly sufficient to finish one. The German forces, in contrast, had begun the hostilities with well over twelve thousand Maxims alone.</p>
+   <p>Somewhat ironically, the Lewis machine-gun, a good and reliable weapon, had been designed in America but chosen by the British for volume manufacture, forcing the American government to buy them from the United Kingdom to equip its forces. The only other machine-gun available at the time was a French-designed weapon called the Chauchat, which very quickly proved to be both wholly inadequate and extremely unreliable, the worst possible combination for any weapon designed to be used in a combat situation. Its maximum rate of fire was only 250 rounds a minute, less than half that of the Browning, and it also had to be fired in short bursts and quite often in semi-automatic mode to avoid it repeatedly jamming.</p>
+   <p>With the entry of America into the First World War in 1917, the US Government, working very much on the ‘stable door’ principle, invited Browning and a number of other firearm designers to produce suitable weapons with which to fight it. Browning’s response was to offer both the BAR and the water-cooled machine-gun he had perfected, and they first saw the public light of day in a weapon test at Congress Heights outside Washington on the 27 February 1917.</p>
+   <p>As with all previous official and unofficial showings of Browning weapons, the demonstration proved entirely successful. The BAR showed that it could fire an entire twenty-shot magazine in two and a half seconds — a rate of fire of four hundred and eighty rounds a minute — and the weapon’s simple construction permitted it to be disassembled and reassembled in under a minute.</p>
+   <p>The decision was made to immediately adopt both the BAR and the established Colt Model 95 for use by American forces. The problem then faced by the US Government was that of volume production of both weapons, and the solution was to buy the production rights from Colt and then farm out the required manufacturing. The indirect result of this was the return of John Moses Browning to Winchester, where the design of the BAR went through its final refining. By the end of the war, Winchester was producing these weapons at the very creditable rate of 300 a day. This rapid production of both Browning designs by the two major arms manufacturers redressed the balance, and by 1918 thousands of Model 95s had been made. For some time after the end of the First World War these weapons were the primary machine-guns on US aircraft.</p>
+   <p>The BAR adequately fulfilled the US Army’s need for a fully automatic weapon able to be carried and operated by one soldier, and the first BAR used in combat was carried in July 1918 by another Browning: John’s son First Lieutenant Val Browning of the 79<sup>th</sup> Division. Field reports passed up the chain of command made it clear that the weapon was a total success and, with only minor changes, it would be used again in both the Second World War and in Korea.</p>
+   <p>The Browning water-cooled machine-gun, despite its successful public showing, was not immediately adopted, and further tests were scheduled. In May 1917 at the Springfield Armory a total of 40,000 rounds were fired through one example at a rate of 600 per minute without malfunction, and Browning then produced a second weapon just to prove that the first successful test hadn’t been a fluke. This gun was fired continuously for over 48 minutes without stoppages, the sustained fire being made possible by joining ammunition belts together to provide the almost 30,000 cartridges required. As with the Colt 1911, this weapon achieved a perfect score in the test.</p>
+   <p>The rather tardy subsequent acceptance of the weapon by the US Government meant that this Browning saw very little service during the First World War, but since that conflict, and with only minor modifications, the gun has been used in virtually all theatres of war with conspicuous success — a tribute to the design genius of John Browning.</p>
+   <p>Once America had decided to go to war, arming its troops took the highest priority and substantial quantities of the BAR, Colt 1911 and the heavy machine-gun were ordered, which raised the issue of royalty payments to John Browning. At the end of 1917 an officer called to see him at the Colt factory to transmit the Government’s initial offer for the manufacturing rights for the duration of hostilities.</p>
+   <p>The officer emphasized that the offer was considerably less than Browning would receive if he accepted normal royalty payments for weapons already ordered, and that further negotiations were possible. Browning shook his head, and accepted immediately. Some years later it was revealed that John Browning had accepted a single payment of seven hundred and fifty thousand dollars, a typically niggardly government offer. If he had held out for the royalties he would have collected a little under thirteen million dollars, but John Browning had never been a greedy man, and was far more interested in ensuring that his fellow Americans involved in the hostilities were equipped with the best possible weapons to fight their battles.</p>
+   <p>His brother Matt argued with John over the low offer and hadn’t even haggled over the price, but John stopped the conversation immediately by reminding Matt that if they’d been a few years younger, they themselves would have been over in France standing in the mud of the trenches, dodging bullets, and this way they were doing their bit for the war effort. All the Browning brothers were too old to fight as soldiers, but John was determined they would do all they could to support their country and their countrymen, and the only way they could do that was as gunmakers. But he certainly wasn’t prepared to profiteer from the weapons he had designed.</p>
+   <p>A condition of the offer from the US Government was that John would supervise the manufacture of his weapons in all the factories which had been sub-contracted. This brought him into intimate contact with the red tape which surrounds all government operations, so one of the first tasks he set himself was to slice through it.</p>
+   <p>He finally rang the Chief of Ordnance directly to explain his difficulty. If he wanted to make a minor change to one of his guns, the Ordnance Department official on the spot would have a blueprint made of the proposed alteration and send it, with a covering letter, to Washington for approval. Two or three weeks later, the necessary permission would be granted.</p>
+   <p>As far as Browning was concerned, this was ludicrous. His parting shot to the Chief of Ordnance was to suggest that he should find the man in Washington who apparently understood the John Moses Browning designs better than John Moses Browning did, and then send him to Hartford, which would allow John to go home. He had no further problems with red tape.</p>
+   <p>A major problem faced by the allied forces in Europe was the armour plating on German vehicles, which the relatively small .30 calibre rounds fired by the Browning weapons would not penetrate. Browning was called in to assist after army engineers had tried, and failed, to modify his 1917 water-cooled machine-gun to take the French 11 mm round. Quite why he was not asked to assist from the start is not clear — presumably the American Army believed they could design weapons as well as fire them — but within a short time Browning had completed the modifications and was able to test-fire a .50 calibre weapon similar in basic design to his smaller gun.</p>
+   <p>This weapon was officially tested at the Aberdeen Proving Ground in Maryland on 15 November 1918, four days after the signing of the Armistice. The test was typically successful and, though too late to see service in the First World War, the gun was used to good effect in the Korean War and the Second World War. It was designated the M2, but became known almost immediately to most American soldiers as the ‘Ma Deuce’.</p>
+   <p>Both the .30 and .50 calibre weapons later spawned air-cooled variants intended for aircraft use, and both proved highly successful. The .50 aircraft gun was outstanding: firing an 800-grain bullet at 2700 feet per second, it could penetrate over an inch of armour plate at close range, and during the Tunisian campaign thirty five allied fighter aircraft armed with Brownings accounted for seventy two enemy aircraft for a total expenditure of under two hundred rounds per gun.</p>
+   <p>The Ma Deuce is being used in military operations around the world even today, and is still giving good service, despite being one of the oldest models of firearm in the American military arsenal. The evolution of tank armour meant that it soon lost its role as an anti-tank weapon, but became standard equipment on US military vehicles, ships, aircraft and for infantry formations. It’s still a very effective anti-aircraft, anti-vehicle and anti-personnel weapon. Reportedly, during the Second World War, Herman Göring stated that if the German Air Force had been equipped with the Browning .50-calibre machine-gun, the outcome of the Battle of Britain would have been very different. During the Korean War, quad-mounted M2s on half-track vehicles became life-savers for the heavily outnumbered American troops as they faced massive human wave attacks.</p>
+   <p>In one celebrated incident, at Holtzwihr in France in January 1945, Lieutenant Audie Murphy and his small force of troops were attacked by a superior infantry force and six German tanks. Murphy ordered his troops to withdraw while he tried to defend the position by calling in artillery strikes. As the enemy forces advanced towards him, he jumped onto a wrecked US tank destroyer vehicle and used the M2 mounted on it against the Germans. He killed scores of enemy soldiers, some within a few yards of his position, and eventually forced the German tanks to withdraw. Murphy was wounded, but survived the encounter, and was awarded the Medal of Honour for his bravery and courage.</p>
+   <p>The M2 has been both copied and imitated, but modern technology has yet to produce a convincing replacement weapon which is clearly capable of surpassing the total reliability and rugged performance of the Browning design, now well over a century old.</p>
+  </section>
+  <section>
+   <title>
+    <p>14. THE 37 MM CANNON</p>
+   </title>
+   <p>John Browning’s final military design was the 37 mm cannon, and was a development in which he was extremely reluctant to become involved. Ordnance engineers in America had commenced work on two weapons of this type before the end of the First World War, but neither was a resounding success. One failed to operate at all, while the other — the Baldwin cannon — was never able to fire in excess of eight rounds without malfunctioning.</p>
+   <p>When John Browning was asked to look at the cannon to attempt to rectify its defects, almost the first thing he asked was where the cheese should be put, for it resembled a large and poorly-designed mousetrap. It was obvious even then that a completely new concept was required, but John was still reluctant to undertake the work.</p>
+   <p>Ostensibly, his reason was that he was too busy with developing his various sporting arms, but the truth, as he explained in 1920 to the Chief of Ordnance, General C C Williams, was that he knew from past experience of government contracts that the design was only the beginning. As soon as the 37 mm cannon had been successfully fired, someone would want a higher velocity or a faster cyclic rate or a larger calibre weapon of the same type. And Browning could frankly have done without the aggravation; he was sixty-five years old and very tired, having worked virtually every single day of his life.</p>
+   <p>But he thought about the gun, even if had said he wasn’t going to, and in January 1921, probably against his own better judgement, he started work on it. Within three months it was finished, though the cartridges for it, ordered when he commenced work, had not yet arrived. Fortunately Browning managed to obtain a supply, albeit carrying TNT charges, from a government arsenal not far from Ogden.</p>
+   <p>The first test-firing outside Ogden was of a clip of five cartridges, which raced through the action in a little under two seconds, the TNT heads exploding against the mountain. With the action thus proved, the very basic mount was modified and John took the cannon to the Aberdeen Proving Ground for official demonstrations.</p>
+   <p>The contrast there between the unsuccessful, but beautifully made, Baldwin weapon and the battered Browning prototype was very marked. The former looked superb, with fine detailed workmanship, but broke every few rounds, while the Browning, with hammer and forging marks all over it, fired and kept on firing without a pause unless it was intentional.</p>
+   <p>As the echoes of the last shot died away, Browning’s prediction to the Chief of Ordnance was proved accurate. One of the first comments was an expression of regret that the velocity of the cartridge was only about 1400 feet per second, and could Mr Browning possibly adapt the weapon to a round with a muzzle velocity of about two thousand feet per second?</p>
+   <p>The answer was that he could and did, and then produced a third derivation which fired a round over a foot long with a velocity of over three thousand feet per second. But the war was long over by then and, though a few units were made in England in 1929, there seemed neither need nor inclination to produce such weapons, so the working models and the associated drawings were put into store. They were not to be seen again until 1935 when the expanding German nation again cast its shadow over Europe, and volume manufacture of the largest Browning-designed cannon commenced in earnest.</p>
+  </section>
+  <section>
+   <title>
+    <p>15. EPILOGUE</p>
+   </title>
+   <p>Browning’s work with Fabrique Nationale inevitably resulted in him creating a second home for himself and his family in Belgium, and on the streets of Liège he became a familiar and well-loved figure. Wearing his wide-brimmed hat and cape, his six-foot tall figure was quite unmistakable. So as not to have to rely on interpreters in his dealing with the craftsmen and workers at the FN factory, and to avoid any misunderstandings in translation, Browning taught himself French.</p>
+   <p>At the plant, he was nicknamed <emphasis>Le Maître</emphasis> or ‘The Master’, and in 1914, in recognition of his genius, and also because he had virtually single-handedly transformed Fabrique Nationale from a near-bankrupt bicycle factory to an enormously profitable world-class manufacturer of firearms, he was knighted on the orders of King Albert of Belgium, despite the fact that he was still an American citizen.</p>
+   <p>Browning, typically, was embarrassed by such awards and by the inevitable fame and attention they generated, and probably also because of the comments he attracted from his equally down-to-earth brothers, who found the ‘Sir’ in front of his name a source of great amusement.</p>
+   <p>Despite the enormous wealth he had accumulated during his lifetime, and the fame which was inseparable from this fortune, John Browning was one of those very rare individuals who simply never changed. He was a country boy from Utah by birth, and he remained essentially unchanged for the rest of his life. He was a simple man with a plain and simple outlook on life.</p>
+   <p>He was always happiest when he was in his workshop tackling a new problem or working on a new weapon. His dislike of the pomp and ceremony is clearly shown by the fact that, as his brothers often reported, whenever he returned from some meeting or event, he would frequently go immediately into the workshop in his dress clothes, not even bothering to change. And his mother Elisabeth perhaps said it best when she remarked, after describing her son’s younger days in the family workshop: ‘And there’s been grease on John’s face to this blessed day!’</p>
+   <p>John Moses Browning died on the 26 November 1926 in Liege at the age of 71. He was, naturally, still working, and died at his bench in his son Val’s design shop, of a heart attack. It was probably the way he would have wanted to go, doing the work he loved, if the choice had been offered to him.</p>
+   <p>The weapon he was perfecting was a self-loading pistol, a weapon that was finally released in 1935 as the FN GP35, but became much better known as the Browning Hi-Power, one of the most successful pistol designs of all time.</p>
+   <p>The last design Browning completed was the superposed shotgun, an over and under weapon that was arguably the most elegant design he ever made. It was first manufactured with twin triggers, but the design was later modified to incorporate only a single trigger by Val Browning. It was added to the FN catalogue in 1931 and, like so many of Browning’s designs, it continues to be produced nearly a century later.</p>
+   <p>Because of Browning’s enormous, and largely selfless, contribution to the arsenal of weapons used by the American military, his body was escorted back to the United States with a full military escort, and at his funeral the eulogy was read by the then Secretary of War, Dwight F Davis.</p>
+   <p>Browning himself was consistently modest about his abilities, and notably once remarked: ‘<emphasis>The time and place for a gun maker just got together on this corner. And I happened along.</emphasis>’ But there is absolutely no question of the importance of this inventive genius in the world of firearms.</p>
+   <p>The title of this work is <emphasis>The Man Who Made Guns</emphasis>, which is appropriate on two levels. First, John Moses Browning made guns — he was a manufacturer of firearms — but, second and more importantly, his designs quite literally made Winchester, Colt and FN, and contributed to the success of other manufacturers such as Ithaca and Remington. Very few major manufacturers of firearms anywhere in the world during the twentieth century managed to survive unless they purchased a licence to manufacture at least one of his designs.</p>
+   <p>Browning’s massive contributions to the advancement of firearms technology had a huge and lasting effect upon weapon design, and they continue to be of enormous importance even today. In the early days he was instrumental in the transition from black powder weapons to the age of modern smokeless powders with their vastly increased breech pressures. And it wasn’t just the weapons. Browning also developed a number of cartridges which are still listed among the most popular in the world, including the .45 ACP and the .50 BMG.</p>
+   <p>Perhaps the neatest summary of the enduring legacy of John Moses Browning comes from weapon historian Philip Sharpe, who said: ‘Browning developments all had one peculiar and very necessary feature. They worked, and kept on working. There are few modern guns today that have not been influenced one way or another by Browning’s hand.’</p>
+   <p>It is difficult, if not impossible, in a work of this length to convey more than the briefest of impressions of a man of Browning’s stature and genius. In a gunsmithing career spanning more than half a century, he designed and built 80 separate firearms, 44 of which were commercially manufactured by Winchester. And the range of weapons was simply astonishing; from the single-shot .22 rifle intended as a boy’s first gun up to 37 mm cannon designed for naval and artillery use. His designs covered almost every type of firearm, included singe-shot rifles, lever-action, pump-action, semi-automatic and fully-automatic weapons. Probably he will best be remembered for the design of the two most efficient and popular semi-automatic pistols of all time; the Browning Hi-Power and the Colt Model 1911, both still in production.</p>
+   <p>In his home town of Ogden, Utah, the John Moses Browning House stands at 505 27<sup>th</sup> Street as a monument to the man. The property was built between 1890 and 1900, and in 1973 it was listed on the National Register of Historic Places. In the same town is the John M Browning Firearms Museum but, despite the single name, four generations of Brownings are represented there, starting with Jonathan Browning, John’s father, as well as Val Browning, John’s son, responsible for much of the work on the superposed shotgun, and Bruce Browning, John’s grandson, who has been involved in the design of some of the more recent Browning firearms.</p>
+   <p>But the majority of the museum exhibits are an enduring testimony to the towering genius of John Moses Browning himself. They include examples of the pistols, rifles, shotguns, machine-guns and cannon he conceived, all of which advanced the trade of the gunsmith and the development of reliable firearms almost beyond recognition.</p>
+   <p>It is unfortunate that the primary purpose of a pistol is to kill people, whether in self-defence or for any other reason, and the name Browning will figure in military history books in this context as well, for when the Archduke Franz Ferdinand was shot and killed at Sarajevo in June 1914, the gun in the hands of a young Serbian student named Gavrilo Princip was a Browning/FN .32 calibre Model 1910 semi-automatic pistol.</p>
+   <p>And as the echoes of that shot died away, the train of events which culminated in the First World War was already under way.</p>
+  </section>
+  <section>
+   <title>
+    <p>Copyright</p>
+   </title>
+   <p>© James Barrington 2012</p>
+   <p>James Barrington has asserted his rights under the Copyright, Design and Patents Act, 1988, to be identified as the author of this work.</p>
+   <p>First published 2012 by Endeavour Press Ltd.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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
+AAAJAAAAAJBIJJIAAAAAAAAAAAAAABIAAAAAIIABIJAAAAAAAAAAAAAAJAAAABBBAAJIAABA
+AAAAAAAAAABIAAABABIABJABAIAAAAAAAAAAAJAAABBABIABBIBAABAAAAAAAAABIAIAAAAI
+AIAAIABJIJBAIIBAAIJABIAIBAJAIAJAABAAAAJAAAIBBIIJAJIIIIBABAAIAAAAIAAIIAIJ
+AIAAJBBJIAAIJAIAAABAAABIJBIBAIABJIIAABBAAABAAAAAIIAAJAIBIBAAJBIAIBAIAIBA
+IBIJABBIAAAAAAAAAAAAAAAAAAAAAAAAAJAAAGIf3cRwPpfYOqwRcZEo6AABIAABL7AuXaBU
+fbdMwKrOpUVwAAJAAAHTbTjlQLr3LXEFXp0wmgAABIAACvSqyfMBjoc6Iqg7uGn9wAAJAAAI
+SAvwrohouOUpyqJ+majQABIAAK0ByIcDRCv+i7Eqhw2IfsAAJAABM4qdJTKIm41OckmSitN4
+wABIAAND7SQT2cTZ2aS9YUiMX16AAJAAAAAAAAAAAABJIAAAAAAAAAABIAAAAAAAAAAABAJJ
+BIAAAAAAAAJAAAAAAAAAAJAJIJBABAAAAAAABIAAAAAAAAAIJJIBAIBAAAAAAAAJAAAAAAAA
+AIBBABBJIAIAAAAAABIAAAAAAAAIAIBAJAIBJAAAAAAAJAAAAAAAABJBJAAIIBIAAAAAAABI
+AAAAAAABBBJBIBIIJIAAAAAAAJAAAAAAABAIJIABAJBJJAAAAAABIAAAAAAAAABBAABJBABI
+AAAAAAJAAAAAAAIABBJAJAJJIIAAAAAABIAAAAAAABIBAIJIIBAAJAAAAAAJAAAAAABJBJIJ
+AAJAJIIAAAAAABIAAAAABIJIAAIAIAIBBAIAAAAAJAAAAAAJABJIIBJAIBBJAAAAAABIAAAA
+IBJABJJBABBABIABAAAAAJAAAAAIAAJIJJAAAIIIAIAAAAABIAAAABBJIJBBIABBAIJBBIAA
+AAJAAAAAAAABIBBAIIIAABABAAAABIAAAAAJBBJJIJABABAAAJAAAAAJAAAAAAAJIJIJIJAA
+AJBBJAAAABIAAAAAJIAJIBJJBIBIBAIIAAAAJAAAAAJIAIJABABAJJJAAIBAAABIAAAAAAAI
+IJBIBBIBAABBIIAAAJAAAAAJAAAIBJJJIJJJJIJAAAABIAAAABAJBJJIJJJJJBJJIBIAAAJA
+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
+FmXSY/b/AGWN+kYum6/dw+rl8AtWFu3Hyn0nQFzusHjao+vgfMMSfrD5B63D6nxei1/hZJ/L
+wjjQylimGLCnxeB/t0niZB0hTVwWAnS6/chFy+BlG3PH9v1+IZ3tEud1hun+R1fq5T1XITqc
+ll9rh9SPrt0Qevu/f8rrdlTrk6DeW/NlS7CPSbXZAN5MM3ZMCc9To7OQ3k/tzp97ITtr9t5E
+mmM+6reiMYxv4sAn9Uzw2dNglarLr3t6pM62TOPIZ6z7bGgM4O5DHdlz7CPeTWv/AKY3/8QA
+KhABAAIBAgQHAQEBAQEBAAAAAQARITFBUWFxoRAwgZGxwfDRIEDhUPH/2gAIAQEAAT8QcIKx
+yXc/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/
+J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/
+J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/s/J/sZIVXgqdr9
+v/qdw+Z2v2/+p3D5na/b/wCp3D5na/b/AOp3D5na/b/6ncPmdr9v/qdw+Z2v28jJo4l6hqeJ
+xGaBheFsAEESxN/HNAQOHWn/ABuDmF6VuYIBERyJCZesWpxyz8P9z8P9whoCInqeDUy1B7zH
+QDlSnoN/9PcPmdr9vI7V8+MaOEVkQedMR7wT+J7vBqR+FUe6Fnk3XJpmcilOq3XMfAedmvg5
+uhLXEZ8ia6Vl3V4T93ghkug1NWsPpP8A9B/J/wDoP5CHVQuZVc9WMPTk4BLiiUtinbTCWmVe
+UPEGSDNslHgjD1jQiN1o4wKZTj/0dw+Z2v28jtnz4STIO2AtYzu1ftgp6AfRm0m4S8gPRHg1
+OkIiU1gQRj1b+2f/AEN+JzIdeCgcJxvhPjzB6eeQ9WBLbrAKyfu8E7p8/wCGocXXBKgbHMVc
+BV6ZoR3uWJjP/T3D5na/byO2fPh9aFjc/bELOlquRZ9xZi1PrYsyhi7I5l4iRZ8zU6eEuxcW
+EzsDmRajJlu2oPJm9iyHELQ6X1X1y8CP7vBDFCxwhx7z9Z/J+s/kApMbalPrwuRDSvQvDk4m
+tjR15Av5HSNrKgn/ANBwf+juHzO1+3kds+fCUJxZeAonNWOTPxP1K4WjR4RDjUv+E64LP2I1
+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
+yf50nJ/nScn+dJyf50nJ/nScn+dIyYqrDc//2Q==</binary>
+</FictionBook>

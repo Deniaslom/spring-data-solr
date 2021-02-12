@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Fritz</first-name>
+    <middle-name>Reuter</middle-name>
+    <last-name>Leiber</last-name>
+   </author>
+   <book-title>The Number of the Beast</book-title>
+   <date></date>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>OOoFBTools-2.9 (ExportToFB21), FictionBook Editor Release 2.6.6</program-used>
+   <date value="2013-04-01">01.04.2013</date>
+   <id>OOoFBTools-2013-4-1-18-58-59-1445</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>THE NUMBER OF THE BEAST</p>
+   <p><strong>Fritz Leiber</strong></p>
+  </title>
+  <section>
+   <p>“I wish," said the Young Captain, police chief of High Chicago, the turbulent satellite that hangs over the meridian of the mid-western groundside city, "I wish that sometimes the telepathic races of the Galaxy weren't such consistent truth-tellers and silence-keepers."</p>
+   <p>"Your four suspects are all telepaths?" the- Old Lieutenant asked.</p>
+   <p>"Yes. I also wish I had more than half an how to decide which one to accuse; But Earth-side has muscled into the case and the pressure is on. If I can't reason it out, I must make a guess. A bare half-hour they give me."</p>
+   <p>"Then perhaps you shouldn't waste it with a pensionedoff old louey."</p>
+   <p>The Young Captain shook his head decisively. "No. You think. You have time to now."</p>
+   <p>The Old Lieutenant smiled. "Sometimes I wish I hadn't. And I doubt if I can give you any special angles on telepaths, Jim. It's true I've lately been whiling away the time on informal study of alien thought systems with Khla-Khla the Martian, but—"</p>
+   <p>"I didn't come to you looking for a specialist on telepathy," the Young Captain asserted sharply.</p>
+   <p>"Very well then, Jim. You know what you're doings Let's hear your case. And give me background. I don’t keep up with the news.'</p>
+   <p>The Young Captain looked skeptical. "Everyone in High Chicago has heard about the murder—not two furlongs from here—of the representative of the Arcturian peace party.'</p>
+   <p>"I haven't,” the Old Lieutenant said. "Who are the Arcturians? I tell you, for an oldster like me, the Now is just one more historical period. Better consult someone else, Jim."</p>
+   <p>"No. The Arcturians are the first non-related humanoid race to turn up in the Galaxy. Non-related to Earth humans, that is. True, they have three eyes, and six fingers on each hand, but they are hairless mammalian bipeds just the same. One of their females is the current burlesque sensation of the Star and Garter."</p>
+   <p>"The police found that a good spot to keep their eyes on in my day too," the Old Lieutenant recalled, nodding. "Are the Arcturians telepaths?"</p>
+   <p>"No. I'll come to the telepathy angle later. The Arcturians are split into two" parties: those who want to enter the Commerce Union and open their planets to alien starships, including Earth's—the peace party, in short—and those who favour a policy of strict non-intercourse which, as far as we know, always intimately leads to war. The war party is rather the stronger of the two. Any event may tip the balance."</p>
+   <p>"Such as a representative of the peace party coming quietly to Earth and getting himself bumped before he even gets down from High Chicago?" &lt;^</p>
+   <p>"Exactly. It looks bad, Scan. It looks as if we wanted war. The other member peoples of the Commerce Union are skeptical enough already about the ultimate peacefulness of Earth's intentions toward the whole Galaxy. r. They look on the Arcturian situation as a test. They say that we accepted the Polarians and Antareans and all the rest as equals simply because they are so different from us in form and culture—it's easy to admit theoretical equality with a bumblebee, say, and then perhaps do him dirt afterward.</p>
+   <p>"But, our galactic critics ask, will Earthmen be so ready or willing to admit equality with a humanoid race? It's sometimes harder, you know, to agree that your own brother is a human being than to grant the title to an anonymous peasant on the other side of the globe. They say—I continue to speak for our galactic critics—that Earthmen will openly work for peace with Arcturus while secretly sabotaging it."</p>
+   <p>"Including murder."</p>
+   <p>"Right, Sean. So unless we can pin this crime on aliens —best of all on extremists in the Arcturian war party (something I believe but can in no way prove)—the rumour will go through the Union that Earth wants war, while the Arcturian Earth-haters will have everything their own way."</p>
+   <p>"Leave off the background, Jim. How was the murder done?"</p>
+   <p>Permitting himself a bitter smile, the Young Captain said wistfully, "With the whole Galaxy for a poison cabinet and a weapon shop, with almost every means available of subtle disguise, of sudden approach and instantaneous getaway—everything but a time machine, and some crook will come along with that any day now—the murder had to be done with a blunt instrument and by one of four aliens domiciled in the same caravansary as the Arcturian peace-party man.</p>
+   <p>"There's something very ugly, don't you think, in the vision of a blackjack gripped by the tentacle of an octopoid or in the pincers of a black Martian? To be frank, Sean, I'd rather the killer had been fancier in his modus <emphasis>Operandi.</emphasis> It would have let me dump the heavy end of the case in the laps of the science boys."</p>
+   <p>"I was always grateful myself when I could invoke the physicists," the Old Lieutenant agreed, "It's marvellous what coloured lights and the crackle of Geiger counters do to take the pressure off a plain policeman. These four aliens you mention are the telepaths?"</p>
+   <p>"Right, Scan. Shady characters, too, all four of them, criminals for hire, which makes it harder. And each of them takes the typical telepath point of view—Almighty, how it exasperates me! That we ought to know which one of them is guilty without asking questions! They know well enough that Earthmen aren't telepathic, but still they hide behind the lofty pretence that every intelligent inhabitant of the Cosmos must be telepathic.</p>
+   <p>"If you come right out and tell them that your mind is absolutely deaf-dumb-and-blind to the thoughts of others, they act as if you'd made a dreadful social blunder and they cover up for you by pretending not to have heard you. Talk about patronizing—! Why, they're like a woman who is forever expecting you to know what it is she's angry about without ever giving you a hint what it is. They're like—"</p>
+   <p>"Now, now, I've dealt with a few telepaths in my time, Jim. I take it that the other prong of your dilemma is that if you officially accuse one of them, and you hit it rights than he will up and confess like a good little animal. using the ritual of speech to tell you who commissioned fee murder and all the rest of it, and everything win be rosy.</p>
+   <p>“<emphasis>But if you hit it wrong</emphasis>, it will be a mortal insult to his whole race—to all telepaths, for that matter—and there will be whole solar systems moving to resign from the Union and" all manner of other devils to pay. Because, continuing the telepath's fiction, that you are a telepath yourself, you must have known he was innocent and yet you accused him."</p>
+   <p>"Most right, Sean," the Young Captain admitted ruefully. 'As I said at the beginning, truth-tellers and silencekeepers—intellectual prigs, all of them! Refusing to betray each other's thoughts to a non-telepath, I can understand that—though just one telepathic stoolpigeon would make police work ten mountains easier. But all these other lofty idealistic fictions do get my goat! If I were running the Union—"</p>
+   <p>"Jim, your time is running short. I take it you want help in deciding which on&amp; to accuse. That is, if you do decide to chance it rather than shut your mouth, lose face and play for time."</p>
+   <p>"I've got to chance it, Sean Earth-side demands it. But As things stand, I'll be backing no better than a three-toone shot. For you see, Sean, every single suspect of the (our is just as suspect as the others. In, my book, they're four equally bad boys."</p>
+   <p>"Sketch me your suspects then, quickly." The Old lieutenant closed his eyes.</p>
+   <p>"There's Tlik-Tcha the Martian," the Young Captain began, ticking them off on his fingers. "A nasty black beetle, that one. Held his breath for twenty minutes and then belched it in my face. Kept printing 'No Comment' white-on-black on his chest to whatever I asked him. In Garamond type!"</p>
+   <p>"Cheer up, Jim. It might have been Rustic Capitals. Next."</p>
+   <p>"Hlilav the Antarean multibrach. Kept gently waving his tentacles all through the interrogation—I thought he was trying to hypnotize me! Then it occurred to me he might be talking in code, but the interpreter said no. At the end, h&amp; gives a long insulting whistle, like some shameless swish. Whistle didn't signify anything either, the interpreter said, beyond a polite wish for my serenity.</p>
+   <p>"Third customer was Fa the Rigelian composite. Took off a limb—real, of course, not artificial—and kept fiddling with it while I shot questions at him. I could hardly keep my mind on what I was saying—expected bun to take his head off next! He did that too, just as he started back to his cell."</p>
+   <p>"Telepaths can surely be exasperating," the Old Lieutenant agreed. "I always had great trouble in keeping in mind what a boring business a vocal interview must be to them—very much as if a man, quite capable of speech, should insist on using a pencil and paper to conduct a conversation with you, with perhaps the -further proviso ,that you print your remarks stylishly. Your fourth suspect, Jim?"</p>
+   <p>"Hrohrakak the Polarian centipedal. He reared up in a great question-mark bend when I addressed him—looked very much like a giant cobra covered with thick black fur. Kept chattering to himself too, very low—interpreter said he was saying over and over again, 'Oh, All-father, when will this burden be lifted from me?' Halfway through, he readies out a little black limb to Donovan to give him what looks like a pretty pink billiard ball." "Oh, naughty, naughty," the Old Leiutenant observed, shaking his head while he smiled. "So these are your four suspects, Jim? The four rather gaudy racehorses of whom you must back one?"</p>
+   <p>"They are. Each of them had opportunity. Each of them has a criminal reputation and might well have been hired to do the murder—either by extremists in the Arcturian war party or by some other alien organization hostile to Earth—such as the League of the Beasts with its pseudoreligious mumbo-jumbo."</p>
+   <p>"I don't agree with you about the League, but don't forget our own bloody-minded extremists," the Old Lieutenant reminded him. "There are devils among us too, Jim."</p>
+   <p>"True, Sean. But whoever paid for this crime, any one of the four might have been his agent. For to complete the problem and tie it up in a Gordian knot a yard thick, each one of my suspects has recently and untraceably received a large sum of money—enough so that, in each case, it might well have paid for murder."</p>
+   <p>Leaning forward the Old Lieutenant said, "So? Tell me about that, Jim."</p>
+   <p>"Well, you know the saying that the price of a being's fife anywhere in the Galaxy is one thousand of whatever happens to be the going unit of big money. And as you know, it's not too bad a rule of thumb. In this case, the unit is gold martians, which are neither gold nor backed by Mar's bitter little bureaucracy, but—"</p>
+   <p>"I know! You've only minutes left, Jim. What were fee exact amounts?" .</p>
+   <p>Hlilav the Antarean multibrach had received 1024 gold martians, Hrohrakak the Polarian centipedal 1000 gold martians, Fa the Rigelian composite 1728 gold martians. Tlik-'Aa the Martian coleopteroid 666 gold martians."</p>
+   <p>"Ah—" the Old Lieutenant said very soft. "The number Of the beast."</p>
+   <p>"Come again, Sean?"</p>
+   <p>" Here is wisdom,'" quoted the Old Lieutenant, still speaking very softly. "'Let him that hath understanding count the number of the beast: for it is the number of a man'; Revelation, Jim, the last book in the Bible."</p>
+   <p>"I know that," the Young Captain burst out excitedly. "I also know the next words, if only because they're a favourite with numerology crackpots—of whom I see quite a few at the station. The next words are: 'and his number is Six hundred threescore and six.' Almighty, that's TlikTcha's—that's the number of his gold martians! And we've always known that the League of Beasts got some of its mumbo-jumbo from Earth, so. why not from it’s Bible? Sean, you clever old devil, I'm going to play your hunch." The Young Captain sprang up. 'I’m going back to the station and have the four of them in and accuse Tlik-Tcha to his face."</p>
+   <p>The Old Lieutenant lifted a hand. "One moment, Jim," he said sharply. "You're to go back to the station, to be sure, and have the four of them in, yes—but you're to accuse Fa the Rigelian."</p>
+   <p>The Young Captain almost sat down again, involuntarily. "But that doesn't make sense, Sean," he protested. "Fa's number is 1728. That doesn't fit your clue. It's not the number of the beast."</p>
+   <p>"Beasts have all sorts of numbers, Jim," the Old Lieutenant said. "The one you want is 1728."</p>
+   <p>“But your reason, Sean? Give me your reason."</p>
+   <p>"No. There's no time and you mightn't believe' me if I did. You asked for my advice and I've given it to you. Accuse Fa the Rigelian."</p>
+   <p>"But—" that's all, Jim."</p>
+   <p>Minutes later, the Young Captain was still feeling the slow burn of his exasperation, though he was back at the station and the moment of decision weighed sickeningly upon him. What a foot he'd been, he told himself savagely, to waste his time on such an old dodderer! The serve of the man, giving out with advice—orders, practically!-—that he refused to justify, behaving with the whimsicality, the stubbornness—yes, the insolence!—that only the retired man can afford.</p>
+   <p>He scanned the four alien faces confronting him across the station desk—Tlik-Tcha’s like a section of ebon bowling ball down to the three deeply recessed perceptors, Hrohrakak's a large black-floor mop faintly quivering, Fa's pale and humanoid, but oversize, like an emperor's death mask, Hlilav's a cluster of serially blinking eyes and greenish jowls. He wished he could toss them all in a bag and reach in—wearing an armour-plated glove—and pick one.</p>
+   <p>The room stank of disinfectants and unwashed alienity —the familiar reek of the old-time police station greatly diversified. The Young Captain felt the sweat trickling down his flushed forehead. He opened wide the louver behind him and the hum of the satellite's central concourse poured in. It didn't help the atmosphere, but for a moment he felt less .constricted.</p>
+   <p>Then he scanned the four faces once more and the deadline desperation was back upon him. <emphasis>Pick a number</emphasis>, he thought, <emphasis>any number from one to two thousand. Grab a face. Trust to luck. Sean's a stubborn old fool, but the boys always said he had the damnedest luck</emphasis>. . .</p>
+   <p>His finger stabbed out. "In the nexus of these assembled minds," he said loudly, "I publish the truth I share with yours, Fa—"</p>
+   <p>, That was all he had time to get out. At his first movement, the Rigelian sprang up, whipped off his head and buried it straight toward the centre of the open louver.</p>
+   <p>But if the Young Captain had been unready for thought, he was more than keyed up for action. He snagged the head as it shot past, though he fell off his chair in doing it. The teeth snapped once, futilely. Then a tiny voice from the head spoke the words he'd been praying for;</p>
+   <p>"Let the truth that our minds share be published forth, But first, please, take me back to my breath source . . ."</p>
+   <p>Next day, the Old Lieutenant and the Young Captain talked it all over.</p>
+   <p>"So you didn't nab Fa's accomplices in the concourse?" the Old Lieutenant asked.</p>
+   <p>"No, Sean, they got clean away—as they very likely would have, with Fa's head, if they'd managed to lay their hands on it, Fa wouldn't rat on them."</p>
+   <p>"But otherwise our fancy-boy killer confessed in full? Told the whole story, named his employers, and provided the .necessary evidence to nail them and himself once and for all?"</p>
+   <p>"He did indeed. When one of those telepath characters does talk, it's a positive pleasure to hear him. He makes it artistic, like an oration from Shakespeare. But now, sir, I want to ask the question you said you didn't have time to answer yesterday—though 111 admit I'm asking it with a little different meaning than when I asked it first. You gave me a. big shock then and 111 admit that I'd Sever have gone along and followed your advice blind the way I did, except that I had nothing else to go on, and I was impressed with that Bible quotation you had so pat</p>
+   <p>—until you told me it didn't mean what it seemed to!</p>
+   <p>"But I did follow your advice, and it got me out of one' of the worst jams I've ever been in—with a pat on the back from Earth-side to boot! So now let me ask you, Sean, in the name of all that's holy, how did you know so surely which one of the four it was?"</p>
+   <p>"I didn't know, Jim. It's more accurate to say I guessed."</p>
+   <p>"You old four-flusher! Do you mean to say you just played a lucky hunch?"</p>
+   <p>"Not quite, Jim, It was a guess, all right, but an educated guess. It all lay in the numbers, of course, the numbers of gold martians, the numbers of our four beasts. Tlick-Tcha's 666 did strongly indicate that he was in the employ of the League of the Beasts, for I understand they are great ones on symbolic actions and like to ring in the number 666 whenever they can. But that gets us Just nowhere—the League, though highly critical of most Earthmen, has never shown itself desirous of fomenting interstellar war.</p>
+   <p>"Hrohrakak's 1000 would indicate that he was receiving money from some organization of Earthmen, or from some alien source that happens also to use the decimal system. Anyone operating around Sol would be apt to use the decimal system. Hrohrakak's 1000 points in no one direction.</p>
+   <p>"Now as to Hlilav's 1024—that number is the tenth power of two. As far as I know, no natural species of being uses the binary system. However, it is the rule with. robots. The indications are that Hlilav is working for the Interstellar Brotherhood of Free Business Machines or some like organization, and, as we both know, the robots are not ones to pound the war drums or touch off the war fuses, for they are always the chief sufferers.</p>
+   <p>"That leaves Fa's 1728. Jim, the first thing you told me about the Arcturians was that they were hexadactylic bipeds. Six fingers on one hand means 12 on two—and almost a mortal certainty that the beings so equipped by nature will be using the duodecimal system, in many ' ways the most convenient of all. In the duodecimal system, 'one thousand' is not 10 times 10 times 10, but 12 times 12 times 12—which comes out as 1728 exactly in our decimal system.</p>
+   <p>"As you said, 'one thousand' of the going unit is the price of a being's life. Someone paid 'one thousand' gold martians by an Arcturian would have 1728 in his pocket according to our count.</p>
+   <p>"The size of Pa's purse seemed to me an odds-on indication that he was in the pay of the Arcturians war party. Incidentally, he must have felt very smart getting that extra 728—a more principled beast-criminal would have scorned to profit from a mere difference in numerical systems."</p>
+   <p>The Young Captain took some time before he answered. He smiled incredulously more than once, and once he shook his head.</p>
+   <p>Finally he said, "And you asked me to go ahead, Scan, and make my accusation, with no more indication than that?"</p>
+   <p>"It worked for you, didn't it?" the Old Lieutenant; countered briskly. "And as soon as Fa started to confess, you must have known I was right beyond any possibility of doubt. Telepaths are always truth-tellers." The Young Captain shot him a very strange look. "It couldn't be, Sean—?" he said softly. "It couldn't be that you're a telepath yourself? That that's the alien thought system you've been studying with your Martian witch doctor?"</p>
+   <p>"If it were," the Old Lieutenant replied, "I'd tell—" He stopped. He twinkled. "Or would I?"</p>
+  </section>
+ </body>
+</FictionBook>

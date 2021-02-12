@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>thriller</genre>
+   <author>
+    <first-name>Douglas</first-name>
+    <last-name>Preston</last-name>
+   </author>
+   <author>
+    <first-name>Lincoln</first-name>
+    <last-name>Child</last-name>
+   </author>
+   <book-title>Extraction</book-title>
+   <annotation>
+    <p>From #1 <emphasis>New York Times</emphasis> bestselling authors Preston &amp; Child, an all-new short story featuring Agent Pendergast, available only as an ebook and audio download.</p>
+    <p>In New Orleans' French Quarter, the Tooth Fairy isn't a benevolent sprite who slips money under your pillow at night….he's a mysterious old recluse who must be appeased with teeth-lest he extract retribution. When young Diogenes Pendergast loses a tooth, however, his skeptical older brother Aloysius is determined to put the legend to the test…with dire consequences.</p>
+   </annotation>
+   <date></date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="Pendergast" number="0"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 0.9.27, FictionBook Editor Release 2.6</program-used>
+   <date value="2013-04-22">22.4.2013</date>
+   <id>427089c9-76ef-4460-aad4-5482bbf457e2</id>
+   <version>1.0</version>
+   <history>
+    <p>1.0 — создание документа fb2</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>Extraction</book-name>
+   <publisher>Hachette Book Group</publisher>
+   <city>New York</city>
+   <year>2012</year>
+   <isbn>978-1-4555-2808-0</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Douglas Preston, Lincoln Child</p>
+   <p>Extraction</p>
+  </title>
+  <section>
+   <p>Three people occupied the large, dimly lit library within the mansion that stood alone and aloof at 891 Riverside Drive, New York City. Two of them sat in armchairs before a crackling fire. One, Special Agent A. X. L. Pendergast, was paging listlessly through a catalog of Bordeaux wine futures. Across from him, his ward Constance was absorbed in a treatise titled <emphasis>Medieval Trephination: Tools and Techniques</emphasis>.</p>
+   <p>The third occupant of the room was not seated, but instead paced irritably up and down. He was a strange, comical figure: small of stature, dressed in a swallowtail coat, with all manner of odd charms and relics dangling from his neck on silver chains, which clanked and jingled with his movements. As he walked, he supported himself upon a cudgel-like cane whose handle was carved into the semblance of a grinning skull. Now and then his stomach could be heard to growl in empty complaint. This was Monsieur Bertin, Pendergast’s old childhood tutor in natural history, zoology, and more outré subjects. He was currently in New York City, visiting his old protégé.</p>
+   <p>“This is outrageous!” he called across the library. “<emphasis>Fou, très fou!</emphasis> Why, in New Orleans I would have finished dinner hours ago. Look — it’s practically midnight!”</p>
+   <p>“It’s not yet half past eight, <emphasis>maître</emphasis>,” Pendergast said with a faint smile.</p>
+   <p>A form appeared in the doorway of the library, and Pendergast glanced over. “Yes, Mrs. Trask?”</p>
+   <p>“It’s Cook,” the housekeeper replied. “She’s asked me to tell you that dinner will be half an hour late.”</p>
+   <p>Bertin gave an expostulation of disgust.</p>
+   <p>“I’m afraid she overboiled the pasta,” Mrs. Trask went on, “and will have to make another batch.”</p>
+   <p>“Tell her not to concern herself about it,” Pendergast replied. “We’re in no rush.”</p>
+   <p>Mrs. Trask nodded, turned, and vanished from sight.</p>
+   <p>“No rush!” Bertin said. “Speak for yourself. Here I am, a guest in your house — starved like a prisoner in the Bastille. After tonight, my digestion will never be the same.”</p>
+   <p>“Believe me, <emphasis>maître</emphasis>, it will be worth the wait. <emphasis>Tagliatelle al tartufo bianco</emphasis> is a very simple dish, and yet nevertheless of great refinement.” Pendergast paused, as if already tasting, in his mind, the meal to come. “It is made of the finest fresh white truffles, finely shaved; butter; and tagliatelle pasta. Cook is using truffles from Alba, of course, in the Piedmont. They are the finest in the world — by weight they cost almost as much as gold.”</p>
+   <p>“Gah!” Bertin said. “I will never understand this Yankee fascination for undercooked pasta.”</p>
+   <p>Now Constance spoke for the first time. “It’s no Yankee fascination. The Italians themselves prefer their pasta firm: al dente — to the tooth.”</p>
+   <p>This explanation seemed only to irritate Bertin. “Well, <emphasis>I</emphasis> like my spaghetti soft — just like my rice and my grits. So that makes me a philistine, <emphasis>oui</emphasis>? Al dente — bah!” He turned to Constance. “Ask your guardian about ‘<emphasis>dents</emphasis>.’ Now, there’s a story to pass the time while one is dying of hunger.”</p>
+   <p>He left in a huff, the sound of his cane gradually diminishing as it clacked across the floor of the reception room beyond.</p>
+   <p>For a moment the library went quiet. Constance glanced over at Pendergast. His eyes were lingering on the doorway through which Bertin had just exited. Then he turned to Constance. “Bertin is certainly an edacious fellow. Pay no attention. By the time we reach the main course, his good cheer will have returned, I assure you.”</p>
+   <p>“What did he mean by a story about ‘<emphasis>dents</emphasis>’?” Constance asked.</p>
+   <p>Pendergast hesitated. “You wouldn’t care to hear it. I’m sure. It isn’t pleasant. And… it involves my brother.”</p>
+   <p>A brief, unreadable look passed over Constance’s face. “That only whets my interest more.”</p>
+   <p>For a long time, Pendergast did not speak. His gaze went very far away. Constance said nothing, waiting patiently. Finally, with a deep breath, Pendergast began.</p>
+   <p>“You know the children’s fable of the tooth fairy?”</p>
+   <p>“Of course. When I was a child, my parents would slip a penny under my pillow in exchange for a tooth — when they had any money, that is.”</p>
+   <p>“Quite. In the French Quarter of New Orleans, where I spent much of my childhood, we had that same quaint legend. Except we also had an additional, or perhaps parallel, legend to go with it.”</p>
+   <p>“Parallel?”</p>
+   <p>“A few of the young children in our neighborhood believed the usual fantasy, as you’ve just described it. But the majority believed something quite different — that the tooth fairy wasn’t an ephemeral being who visited at night. No, the tooth fairy of the French Quarter lived nearby, just down the street from our house in fact, and he was none other than a person whom we all called Old Dufour.”</p>
+   <p>“Dufour… A French name, ‘of the oven.’ I believe that would be the equivalent of Baker in English.”</p>
+   <p>“His full name was Maurus Dufour, and he was a recluse of ancient and uncertain age who lived in a decaying mansion a few blocks away, on Montegut Street. He probably hadn’t been out of his house in fifty years. I have no idea how he managed to eat. As children, we sometimes saw his hunched shadow at night, moving against the dimly lit windows of his domicile. Naturally, the neighborhood children told all sorts of wild and frightening stories about him: that he was an ax murderer, that he ate human flesh, that he tortured small animals. Sometimes the older neighborhood delinquents would go there at night and throw a rock or two through his windows before running away — but that was the extent of even their bravery. Nobody would have ever summoned the courage to, say, ring the doorbell.” Pendergast paused. “It was one of those old mansions built in the Creole style, but with a mansard roof and oriel windows. It was a fright, with most of the windows broken, the roof slates loose, the porch about to fall off, and the front garden overgrown with dying palmettos.”</p>
+   <p>Constance leaned forward, a look of growing interest in her face.</p>
+   <p>“How this particular tooth fairy legend got its start, nobody knew. All I can tell you is that it had been in place as long as any of us children could remember. And since Dufour was a recluse, and an object of terror, nobody could ask him what <emphasis>he</emphasis> might know about its origins — or what he thought of such an absurd notion. You know how it is, Constance, that these legends can sometimes sprout up among children and take on a life of their own, passed down from one generation to the next. And this is especially true in a place like the French Quarter, which — despite being at the center of a large city — was still highly insular and provincial. French remained the language of the old families, and many people didn’t even consider themselves American. In many ways it was cut off from the outside world, where Creole superstitions and strange beliefs — many of them very old — were allowed to flourish and spread… and suppurate.” Pendergast gestured toward the library’s empty doorway. “Take our famished friend. He is a perfect product of that insularity. You see the odd things he wears around his neck? Those are not eccentric decorations; they are amulets, gris-gris and charms to ward off evil, attract money, and, above all, help him maintain sexual potency in his declining years.”</p>
+   <p>Constance made a slight face of disgust.</p>
+   <p>“He believes in, and practices, obeah, rootwork, and voodoo.”</p>
+   <p>“How peculiar.”</p>
+   <p>“Not for him, growing up in the environment he did. He was as respected as a medical doctor would be in any other community.”</p>
+   <p>“Go on with the story.”</p>
+   <p>“As I said, most of the young children believed that Old Dufour was the tooth fairy. Here is how it worked: when you lost a tooth, you had to wait for the next full moon. Then, just before bedtime, you would sneak over to the Dufour mansion and leave the tooth in a particular place on the front porch.”</p>
+   <p>“What kind of place?” Constance asked.</p>
+   <p>“It was a raised wooden box or a sort of pedestal, elaborately carved, with a hole in the top, inside of which had been affixed a small copper vessel. I would guess the original purpose had been as some sort of large ashtray or perhaps a small spittoon or cuspidor. It was set on the edge of the porch, right by the sagging front steps. You would have to sneak up to the porch without making a sound, drop the tooth in there, and then run for your life.”</p>
+   <p>“And the reward?” Constance asked. “What did you get in return?”</p>
+   <p>“Nothing. No reward.”</p>
+   <p>“Then why do it? Wouldn’t it be better to put it under your pillow and collect some money?”</p>
+   <p>“Oh, no. You see, you had to give it to Old Dufour. Because—” and here Pendergast lowered his voice a bit—“if you didn’t <emphasis>give</emphasis> the fairy your tooth, he would come to your house in the middle of the night, and… take it.”</p>
+   <p>“Take what?”</p>
+   <p>“His due.”</p>
+   <p>Constance gave a light laugh. “What a gruesome legend. I wonder if Monsieur Dufour was even aware this was going on.”</p>
+   <p>“He was <emphasis>well</emphasis> aware. As you shall hear.”</p>
+   <p>“So the children were, in essence, warding off the evil Dufour by leaving their teeth?”</p>
+   <p>“Precisely. The knowledge that the tooth fairy wouldn’t be paying you a dreadful visit in the middle of the night far surpassed the value of a dime, or quarter, or whatever you might receive if you’d placed that tooth under your pillow.” Pendergast paused again, recollecting. “At the time my story takes place, I had just turned nine. Naturally I thought the legend of the tooth fairy — Dufour or otherwise — to be pure rubbish. I looked on those who believed with disdain, even contempt. It was late August, the tail end of a long and hot summer. My mother was in the hospital, sick with malaria; my father was away in Charleston on business. A rather distant uncle of ours, a descendant of Erasmus Pendergast, had come to stay in our house on Dauphine Street, looking after us. His name was Everett Judgment Pendergast — Uncle Everett. He was a brandy-and-soda sort of fellow who kept to his books and pretty much left us to our own devices. As you might imagine, we liked that just fine.”</p>
+   <p>Pendergast shifted, threw one knee over the other. “My brother Diogenes had just turned six. This was before various, shall we say, <emphasis>aberrant</emphasis> interests had taken possession of him. He was still an impressionable child and, perhaps to his misfortune, highly precocious. He had somehow gotten into our great-grandfather’s locked library cabinet, and he’d been reading a lot of old books he shouldn’t have — tomes on demonology, witchcraft, the Inquisition, deviant practices of all imaginable sorts, alchemy — books that I believe had a deleterious effect on him in later life. He also had a habit of listening very quietly and carefully to the talk of the house servants. He was, even at six, a secretive, devious little boy.</p>
+   <p>“On the night in question — it was August twenty-fifth — I saw Diogenes hovering suspiciously around the back door, clutching something in one hand. I asked him what he was doing. He refused to say, so I seized his hand and tried to pry it open. We tussled. He was only six and lost the struggle. Inside the palm of his hand I found a grubby little baby tooth, with dried blood on it, obviously recently shed. I forced the story out of him. He had lost it two days before, and had been waiting for a full moon. That night, he was planning to sneak over to Montegut Street with his tooth, and place it in the copper pot on Old Dufour’s porch. He was terrified that if he didn’t, Dufour would come looking for him at night. Because Old Dufour had to have his due.”</p>
+   <p>Pendergast paused. A serious, even pained look had gathered on his pale face.</p>
+   <p>“I was a terrible older brother to Diogenes. I scoffed at his fear. I despised it. If one had to believe in a tooth fairy, I felt, one should at least believe in the traditional story, not some ridiculous tale whispered by house servants about a pathetic old man on the next block. It angered me that my own brother, a Pendergast, would fall victim to such a cretinous idea. I would not allow it.</p>
+   <p>“So I argued with him. I told him that he would not bring the tooth to Dufour’s place, but instead do what normal children his age did and leave it under his pillow, even if I had to force him to do so. I disparaged the legend, mocked it, and said no brother of mine should fall for such bunkum.</p>
+   <p>“But Diogenes was headstrong, and he snatched back the tooth while I was engaged in my heated argument. We wrestled for it again, but this time he broke away from me and ran out the back door… into the darkness of the night.</p>
+   <p>“I ran after him but could not find him — Diogenes was already remarkably adept at concealment. I roamed about the neighborhood, becoming angrier and angrier. Finally, since I couldn’t determine his whereabouts, I did the next best thing. I went down to Montegut Street, to the Dufour Mansion, and hid myself among the riot of half-dead palmetto trees that grew in the abandoned front garden before the porch, waiting for my brother to arrive.</p>
+   <p>“It was, I recall, an unsettled night. As I waited, the wind picked up, and I could hear faint rumbles of thunder from far away. There was a single dim light on in the house, high up in a broken oriel window, which cast no illumination. Several of the closest streetlamps were broken. The full moon was on the far side of the mansion, leaving the porch a pool of darkness. There was no chance of Diogenes detecting my presence. And so there I waited. The old Dufour place seemed to be waiting, too. Despite my scorn at my brother’s foolishness, as the minutes ticked by I nevertheless grew distinctly uneasy, hiding there in the shadow of that decaying pile. There was a feeling of something, some presence, that gathered about the mansion like a sickly miasma. On top of that, the heat and humidity in that forest of dying palmettos were unbearable, and a smell seemed to seep from the house: a foul odor that reminded me of the dead cat I had found in a dark corner of our garden a few months earlier.</p>
+   <p>“At half past ten Diogenes finally appeared. He crept silently from the shadows on the far side of the house, come to leave his tooth. He looked furtively in both directions. I could see his pale, frightened face in the darkness. Then he glanced directly at the stand of palmetto trees in which I’d hidden myself. For a second I feared that my presence had been betrayed. But no: Diogenes skulked up to the old mansion; looked around again; and with infinite caution crept up the steps and dropped the tooth into the old cuspidor at the top. I heard the faint rattle that it made as it rolled around the little copper bowl. Then he turned, slipped down the steps, and made his way along the street, his little footsteps just barely audible. Silence returned almost immediately. Looking back upon it today, I find myself amazed that one so young could move with such deliberate stealth. In later life he would improve on that talent immeasurably.</p>
+   <p>“I waited — ten minutes, then fifteen. To be honest, I was rather nervous about going up those steps. And I worried that Diogenes, who was a naturally suspicious creature, might have circled back and would be hiding nearby, watching to see if I was around. But all was silent as the grave, and eventually I screwed up my courage, rose from my hiding place, and crept through the palmettos toward the porch stairs. I well remember their dry rustle, and that smell of decay and rot, as I drew closer. I practically slithered up the steps. There was the wooden stand, once elaborately carved but now fearfully decayed, the paint mostly gone, the wood weathered and split. At the top was a dark, round hole, above which the lip of the copper vessel protruded. Holding my breath, I reached my hand down the throat of the pot and felt about the bottom, looking for the tooth, grasped it, and pulled it out. I was surprised to encounter no other teeth in the vessel but that one. As I stared at it in the dim light — one small central incisor, white, with a faint streak of crimson on the root, nestled in my palm — I could tell that it was indeed Diogenes’s. It gave me a start to think that Dufour might actually be aware of his ‘status’ and had been collecting the teeth deposited there on a regular basis. But then I dismissed that as fantasy. Clearly the maid or someone else in residence had recently cleaned the pot; that was the obvious explanation. For a moment I looked up at the old mansion. All was quiet, all was calm. There was no sign of life beyond the lambent glow in the upper window.</p>
+   <p>“I darted down the walk and into Montegut Street and paused at the corner of Burgundy, thinking.”</p>
+   <p>Pendergast hesitated, and a new expression — dismay? Self-reproach? — moved across his face.</p>
+   <p>“As I said, I intended to place the tooth under his pillow while he slept, then tell my uncle to replace it with a coin. But I was still angry at my brother. And I was afraid Diogenes would wake up when I slid the tooth under the pillow, or might otherwise learn of the deception. In that case he would probably take the tooth from under the pillow and bring it back to the old man’s porch, frustrating my plan to teach him a lesson. This brought on another surge of annoyance. How could my brother believe such drivel? And why was I wasting my time on it, spending hours crouched in the darkness? I’d show him how stupid he’d been. And so — in a childish fit of petulance — I flung the tooth down a storm drain at the corner of Montegut and Burgundy.</p>
+   <p>“As I did so, I caught, out of the corner of my eye, a flicker of light from the broken oriel window high up in the mansion, as if the broken glass had briefly refracted the light of a lantern. I also saw — or thought I saw — a movement there, a shadow suddenly in motion, flitting away. But as I stared harder, I could see nothing further; no shadow, no movement, just the same dull glow. It had been my fancy, nothing more. Nobody had seen me either take the tooth or throw it away. I was letting my imagination run wild.</p>
+   <p>“I went home as quickly as I could. When I got there, Diogenes was awake and waiting for me. He looked at me, his young face creased with wariness and distrust. In triumph, I told him what I’d done and why. I chastised him again for his ridiculous and childish superstitions. I told him I hoped this would be a lesson to him. I was quite awful, and I’m ashamed even today to think of how I behaved. The tragedy of how Diogenes turned out must partly be laid on my shoulders.”</p>
+   <p>Pendergast fell silent for a long moment, and then resumed. “He flew into a fit such as I’d never seen before. ‘Old Dufour’s going to come!’ he cried in terror, the tears springing to his eyes. ‘You stole his tooth, and now he’s going to come—<emphasis>for me</emphasis>!’</p>
+   <p>“I was taken aback but still maintained the superior, older-and-wiser-brother attitude. I said Dufour would certainly not come, that he had no idea he was considered the tooth fairy, and that he had seen neither Diogenes nor me and was unaware a tooth had even been left. But Diogenes didn’t believe a word of it; he insisted that Dufour’s entire existence was for teeth, that he waited for them every night, that he treasured them, and that he had surely seen everything both he and I had done that night.</p>
+   <p>“The very violence and rawness of emotion — unusual for him — shocked me. This was when I began to realize I had done something wrong — very wrong. I felt guilty and ashamed. I saw that my own behavior had been cruel. Diogenes alternated between juvenile paroxysms of rage and spells of crying — the only time that I can remember ever seeing him cry. And so I apologized. I tried to point out, in my youthful way, how unreasonable his fears were. I promised to protect him. Nothing helped. In the end, I grew frustrated myself with his hysterics and left for my own bedroom.</p>
+   <p>“Old Dufour didn’t come for him that night. In the morning, at the breakfast table, Diogenes was silent and morose. I pointed out to him again that his fears were totally unfounded. But even as I was explaining that, I felt uneasy recalling the emptiness of the cuspidor, the absence of other teeth. There were dozens, even hundreds of children in the French Quarter; surely the teeth would have piled up. So where were they? Why weren’t there at least a few others in the cuspidor? But I dismissed such thoughts as best I could.</p>
+   <p>“At lunch Diogenes remained the same — agitated, resentful, and upset. Sometime in the middle of the afternoon, he vanished. He frequently went away like that — without telling anyone where he was going or, upon returning, where he had been — so, even under the circumstances, I wasn’t particularly concerned. I figured he was off hiding in a closet with one of his forbidden books or indulging in some childish experiment in the vast basement of our home.</p>
+   <p>“He had not returned by dinner. Uncle Everett was concerned until I assured him that Diogenes often disappeared like this and that he should not worry. After dinner, over his brandy and cigar, Uncle Everett complained about ‘improper nocturnal perambulations for one so young,’ but I once again reassured him that Diogenes would soon reappear. Satisfied, my uncle went up to bed.</p>
+   <p>“Diogenes was still missing in the morning, and now the household grew alarmed. Uncle Everett gave me a serious dressing-down for leading him to think it hadn’t been a problem. I was in agony, wondering if I should tell him what had happened the day before. But I was still fairly sure Diogenes, angry at what I’d done, had gone off sulking and was safe and sound in some hiding place. After a thorough search of the house turned up nothing, Uncle called the police. All attempts at locating my brother proved fruitless. Various unsavory locales in the French Quarter were searched, as well as the tracks along the waterfront, the Canal Street piers, and Woldenberg Park. Finally, around four in the afternoon of August twenty-seventh, when my uncle was agitating to have the waterfront dragged, I broke down and told him what had transpired two days before. At this point I had begun to be afraid, and yet still not quite believing, that maybe Diogenes had been right… and Old Dufour had come for him.</p>
+   <p>“My uncle was highly skeptical — to say the least. He certainly could not take such a notion to the police, he said — it was too patently absurd. But he was worried sick and especially frightened of our father, who was an irascible and even violent man and who, on his return, would blame him for losing his son and might thrash him. In the end he sighed, wiped his face, and said, ‘I suppose one must try every avenue. I will go myself to see Monsieur Dufour.’</p>
+   <p>“He roused himself and I watched from the front parlor window as he walked down the lane, in the direction of Montegut Street. I expected him to return within the hour. Instead, he was gone almost four hours. But then at last — it was nearly midnight, and I was sitting on the main staircase, unable to sleep — I heard a key fumbling in the lock of the front door. There was my uncle Everett, with Diogenes at his side. My brother was ashen, stone-faced. He immediately and wordlessly went up to his room, closed and locked his door, and did not come out for several days.”</p>
+   <p>Pendergast paused. The Riverside Drive mansion had gone very silent. The fire had died down, and the coals were crackling very quietly on the grate. The windows were closed tight and covered with heavy drapes; no sound of the traffic outside filtered in to the hush of the library. After another moment, Pendergast continued.</p>
+   <p>“But my uncle looked terrible. Hideous in fact. He was strangely disheveled, very unlike him, and his eyes were deeply bloodshot. His face looked all wrong, somehow: his jaws sunken, his cheeks hollow, his lips trembling as if palsied, but the lower portion grossly swollen, as if he were carrying water in his mouth. And the color of his skin — it was crimson, almost purple, and there was a cut on his cheek. He stared at me with a dreadful expression — his mouth set, a hard glitter to his eyes — I had never seen in him before. I fancied I saw flecks of blood on his collar.</p>
+   <p>“He went into the back part of the house and called for the housekeeper. When I heard his voice, I was shocked. It was changed, different — slurred and thick, as if he were drunk. I could only vaguely make out the conversation, but it seemed my uncle was requesting confirmation that my father would be returning the following day. He would be going out again immediately, he continued, and was entrusting myself and Diogenes to her care.</p>
+   <p>“Having received the confirmation he desired, he next went into the study. I was still sitting on the staircase, terrified, listening to everything. I heard the scratching of a pen. And then Uncle Everett emerged again. Although it was a sultry night, he had put on a white linen jacket. One hand was sunk into a pocket of the jacket; I could see his white knuckles gripping the handle of a pistol. He didn’t appear to see me as he opened the front door and vanished into the darkness.</p>
+   <p>“I waited for him to return, but he did not. Diogenes remained behind his locked door, refusing to answer my knocks and entreaties. The night passed with no Uncle Everett. The next day came and still I waited. Morning gave way to noon, and then afternoon. And still, Diogenes remained holed up in his room; and still, Uncle Everett did not return. I was sick with feelings of dread.</p>
+   <p>“My father returned that evening, looking grim. From my room, I could hear murmured conversations from downstairs. Finally, around nine o’clock, my father summoned me to his study. Wordlessly, he handed me a scrawled note. I can still recall its contents, word for word.</p>
+   <cite>
+    <p>Dear Linnaeus,</p>
+    <p>I visited M. Dufour on Montegut Street this evening. I went in ignorance and foolishly without precaution. But I am not returning in the same fashion. I could take this to the police, but — for reasons that may or may not ever become clear — this is something I wish to attend to personally. If you had been <emphasis>inside</emphasis> that house, Linnaeus, you would understand. This abomination who calls himself Maurus Dufour can be suffered to exist no longer.</p>
+    <p>You see, Linnaeus, I had no choice. Dufour felt he had been robbed. And so I <emphasis>appeased</emphasis> him. Otherwise he would not have released the child. Terrible offices were performed. The mark of them will remain with me for the rest of my life.</p>
+    <p>Should I not return from my errand, young Diogenes and Aloysius can furnish you with all further particulars in this matter.</p>
+    <p>Good-bye, cousin. I remain,</p>
+    <p>Yours truly,</p>
+    <p>Everett</p>
+   </cite>
+   <p>“When I handed the letter back, my father looked at me intently. ‘Would you care to explain the meaning of this, Aloysius?’ His tone was mild and yet as coiled as a steel trap.</p>
+   <p>“Haltingly — with a mixture of embarrassment, shame, and fear — I told him all that had transpired. He listened intently, never asking a question or interrupting the flow of my narrative. When I was done, he sat back in his chair. He lit a cigarette and smoked it thoughtfully, still in silence; when it was a mere bit of ash between his fingertips, he dropped it into an ashtray, leaned forward, and read my uncle’s note again. Then he drew a deep breath, stood up, smoothed his shirtfront, opened a drawer, pulled out a revolver, checked to satisfy himself it was loaded, and snugged it into the rear of his waistband.</p>
+   <p>“ ‘What are you going to do, Father?’ I asked, though I could guess all too clearly.</p>
+   <p>“ ‘Going to see what has become of your uncle Everett,’ he replied. He strode out the study, toward the front door.</p>
+   <p>“ ‘Let me go,’ I blurted. He looked at me, his eyes narrowing slightly in surprise.</p>
+   <p>“ ‘I can’t do that, son,’ he replied.</p>
+   <p>“ ‘But it’s my fault. I <emphasis>have</emphasis> to go. Don’t you see?’ I seized his shirt cuff. I pleaded. I insisted. I begged.</p>
+   <p>“At last, he nodded slowly. ‘Very well. Perhaps it — whatever <emphasis>it</emphasis> is — will prove a lesson to you.’ Just before opening the door, he turned as if taken by a new thought, took up a kerosene lantern, and then we ventured out into the night.</p>
+   <p>“Only several evenings previous I had walked down Dauphine Street and turned onto Montegut, precisely as we were doing now. Back then I’d been thinking about what a fool my brother was, and feeling great irritation at having to be the one to set him straight. Now — as we approached the dark and silent Dufour place — I felt a great weight on my heart. It was a blustery night, far more unsettled than on my previous outing; the trees thrashing and moaning as the wind stirred their branches, the streetlights throwing gyrating shadows on the road. The houses we passed were dark, shuttered up tight against the fury of the coming storm. I looked up to see thin clouds, scudding across a bloated yellow moon. Despite the presence of my father at my side, I was gripped by an anxiety of the soul, mortal terror of a sort I’ve scarcely known before or since.”</p>
+   <p>Pendergast fell silent. After several moments, he stood up and paced about the library, in a fashion not unlike that of Monsieur Bertin, forty-five minutes before. He paused to jab a poker into the fire, causing a flare-up of the dying coals that cast a panoply of flickering light across the room. After some more pacing, he made his way to the sideboard and poured himself a large brandy. He gulped it down; refilled his glass; and returned to his chair. Constance waited for him to resume.</p>
+   <p>“The house was, as before, utterly dark and silent. I glanced up at the oriel window, but on this night it, too, was black. The wind had sucked a tattered lace curtain out through the broken window frame, and it fluttered above. It seemed to me like a trapped specter, gesticulating desperately for help.</p>
+   <p>“We mounted the porch steps, the boards groaning under our weight, and went to the door. I tried not to look, but couldn’t stop myself. The strange pillar or box with the copper vessel was still there, its mouth dark.</p>
+   <p>“The door had no bell, no knocker. Handing me the unlit lantern and pulling the revolver from his waistband, my father tried the door. It was unlocked and not even latched, and a small push sent it swinging back into yawning darkness. An odor seemed to roll out upon us from the dark: a clammy smell of dead animals, spoiled meat, rotten eggs.</p>
+   <p>“We took a step inside. The interior of the house was pitch black. As my father was feeling along the wall, unsuccessfully, to find the switch of an electric light, a gust of wind grabbed the front door and slammed it behind us. I jumped at the crash, and stood in the darkness, trembling, as the echoes came back at us from the deep interior spaces of the house.</p>
+   <p>“ ‘Aloysius,’ I heard my father say out of perfect darkness, ‘hand me up that lantern.’</p>
+   <p>“I marveled at the coolness, the levelness, of his tone. I raised the lamp up over my head. It was taken by an unseen hand. For a moment, there was silence. Then the <emphasis>scritch</emphasis> of a match, followed by a flicker of yellow from the lantern. There was a squeaking sound as my father adjusted the wick, and the light brightened until we could… we could see the room around us.”</p>
+   <p>Pendergast took a sip of brandy, and another, before placing the glass aside again. “We were standing in the formal entryway of the house. The lantern, though dim, furnished enough light for us to make out — just barely — the details around us. At first it didn’t look like anything much out of the ordinary, a typical antebellum mansion of the Delta style. To the left was an open set of double doors, leading into the main parlor; to the right, another set of open doors gave onto the dining room. Ahead, a large staircase swept up in a gracefully rising curve, and below it a hallway led back out of the range of our vision.”</p>
+   <p>Pendergast took a deep breath, let it out slowly.</p>
+   <p>“Gradually, the dimly lit room came into focus to my eyes and its shabbiness became more apparent. The floor was covered with a Persian rug, threadbare and chewed by mice. The pictures on the wall were so dark with age as to be indecipherable. A section of banister was gone on the stairway, and several desiccated plants stood in containers on either side of the staircase. But then I began to notice something else — something very odd. The surfaces of the room — the walls, the furniture — did not seem quite as regular and <emphasis>flat</emphasis> as they should. It was as if they had… density and texture. As my father proceeded cautiously into the center of the room, the lantern extended, I noted myriad tiny gleams and sparkles from the wallpaper and elsewhere, which formed elaborate patterns of curlicues and lines. I stared, unable to comprehend what was causing this strange effect.</p>
+   <p>“My father realized it before I did. I heard a choked gasp from him, and he stopped dead, extending the lantern toward one particularly complex pattern of wallpaper.</p>
+   <p>“That was when I realized the designs were not part of the wallpaper itself. They were from tiny, gleaming things affixed to the wall. As I stared, my father took a single step forward and I realized what these little gleaming things were.</p>
+   <p>“They were teeth. Tiny, white, polished teeth. I could not speak, and nor could my father. But with that realization came a second one — these curlicue patterns were everywhere. They ran along the molding, they coiled about the wainscoting, and they looped and spiraled about the door frames. They marched in lines up the banister; they decorated the gilt edges of the paintings hung on the walls. Teeth… everywhere I looked, little incisors and bicuspids looked back at me. Swirls of youthful molars followed the contours of the room in dotted lines, meticulously arranged, achingly regular. Sometimes their biting ends were affixed to the walls, curved roots sticking up in sickening curves; other times they were reversed, the rows of yellow and white bone lined up as if ready to nibble the air. There were whorls and spirals, like the cowrie-shell necklaces of the South Seas, and delicate sprays like bursting fireworks arrested in midair. There were other, denser designs, like leering faces with slit-like eyes and yawning mouths, which seemed to be screaming out at us from the walls.</p>
+   <p>“My father said nothing. I believe his silence was more unnerving to me than if he had cried out in disgust. He slowly walked up to the closest wall and held up the lantern, moving it back and forth. The moving light threw countless tiny, sharp shadows across the surfaces, like some nightmarish magic-lantern show. The… the precision, if you will, the fanatical <emphasis>craftsmanship</emphasis>, was diabolical.</p>
+   <p>“Despite my shock, and despite being almost dazed with fear, there was still a small part of my brain that — as I stared around, wide-eyed, in the glow of the lantern — could not help but wonder how long this had been going on; how many children over how many years had contributed their teeth to this dreadful work? Old Dufour must have been very, very old indeed to have accumulated so many teeth.</p>
+   <p>“My father, with excruciating slowness, walked the length of the four walls in that room, his lantern extended, peering at the tooth-work. Why he felt the need to see it all, to examine it, I do not know. It was all I could do not to shut my own eyes against the abominable sight.</p>
+   <p>“Without conscious thought, I was somehow walking backward in my horror, and I lost my footing; my hand went back instinctively to keep myself upright. It touched the wall… and I received a dreadful sensation of cold, hard <emphasis>unevenness</emphasis>. With a cry, I yanked my hand away from the sharp nubbins of teeth, almost as if I had burned it, and once again stumbled forward, gasping with fear.”</p>
+   <p>Pendergast stopped. His breathing, which had accelerated during this last recitation, eventually slowed again. In time, he continued.</p>
+   <p>“My father turned to me, and I saw a strange, hollow look in his face. ‘Go outside to the street,’ he said. ‘I must search for Everett.’</p>
+   <p>“But I didn’t obey. I was terrified to leave him. As he turned to pass through a doorway in the back of the room, I followed at a sudden run. He ignored me, continuing along a dark passageway, his revolver at the ready. We came to a kitchen, all tile and marble surfaces, but there was nothing here beyond rat droppings and mold. The shabby living room, the sofas and chairs burrowed into by rodents, likewise showed no sign of either my uncle or Maurus Dufour.</p>
+   <p>“But in the very back of the house, in a small room that opened to what once was a garden, we found… a workshop. There was a dentist’s chair there, an antique from the late nineteenth century, of darkened wood, cracked leather, and polished brass, the seat gnawed by rats, the stuffing protruding. On an old brass steel tray beside it, we found an array of rusty dental instruments with bone handles.</p>
+   <p>“And there, arrayed with military precision on the tray, we saw something else. Teeth. Thirty-two of them. But these were not baby teeth — oh, no. They were all adult. And they were damp, their roots bloody, some pulled out so violently that sections of the surrounding bone were still attached. They had all been freshly extracted.”</p>
+   <p>“Freshly extracted,” Constance repeated in a dull voice, and then quoted: “ ‘I <emphasis>appeased</emphasis> him.’ ”</p>
+   <p>“Everett was always so precise in his speech. Indeed he did <emphasis>appease</emphasis> Old Dufour. And what a ghastly exchange it must have been.”</p>
+   <p>“And what happened to him?”</p>
+   <p>“We never saw Uncle Everett again. The police searched the place, and searched again. Both Dufour and my uncle had disappeared, as if into thin air. There were those who spoke of hearing cries in the night; of seeing a dark figure lugging a trunk down by the abandoned Saint Peter Street Piers — but, of course, such stories remained rumors.”</p>
+   <p>“And the, ah, leaving of teeth at the Dufour house? Has the tooth fairy tradition continued?”</p>
+   <p>“You know how children are, my dear Constance. Childish rituals do not die; they are passed along more tenaciously than any adult tradition. The tradition continued even as the Dufour house fell further into rack and ruin. And then, one dark night, it burned down. That was about three years after the events I’ve described. No one was particularly surprised by it; abandoned houses did have a tendency to burn. But I, for one, long wondered if my brother Diogenes was somehow responsible. Later, it came to my attention that he enjoyed fires very much; the larger the better.”</p>
+   <p>The plump figure of Mrs. Trask appeared in the library doorway. Cook, she was pleased to announce, had prepared a new dish of tagliatelle pasta; dinner was ready; and the <emphasis>tartufo bianco</emphasis> was no less than heavenly. Indeed, the wonderful aroma of it had filled the kitchen and was now drifting into the library.</p>
+   <p>“And is the pasta al dente?” Constance asked.</p>
+   <p>“Perfectly so,” replied Mrs. Trask.</p>
+   <p>Bertin came up behind the housekeeper. As Pendergast had predicted, the old man’s mood was restored. “Marvelous, I simply cannot wait!” he said, rubbing his hands. “Have you ever scented such exquisite <emphasis>truffes</emphasis>? Please, let us go in without delay.”</p>
+   <p>Pendergast rose and glanced at Constance. “Shall we?”</p>
+   <p>“Al dente,” Constance repeated to herself. “Yes, one must eat one’s pasta al dente. Somehow, Aloysius, I find that your story has sharpened my appetite to a most excellent degree.”</p>
+   <p>And with that observation, the three went in to dinner.</p>
+  </section>
+  <section>
+   <title>
+    <p>About the Authors</p>
+   </title>
+   <p>The thrillers of Douglas Preston and Lincoln Child “stand head and shoulders above their rivals” (<emphasis>Publishers Weekly</emphasis>). Preston and Child’s <emphasis>Relic</emphasis> and <emphasis>The Cabinet of Curiosities</emphasis> were chosen by readers in a National Public Radio poll as being among the one hundred greatest thrillers ever written, and <emphasis>Relic</emphasis> was made into a number-one box office hit movie. Coauthors of the famed Pendergast series, Preston and Child are also the authors of <emphasis>Fever Dream, Cold Vengeance</emphasis>, and <emphasis>Gideon’s Sword</emphasis>. Preston’s acclaimed nonfiction book, <emphasis>The Monster of Florence</emphasis>, is being made into a movie starring George Clooney. His interests include horses, scuba diving, skiing, mountain climbing, and exploring the Maine coast in an old lobster boat. Lincoln Child is a former book editor who has published five novels of his own, including the huge bestseller <emphasis>Deep Storm</emphasis>. He is passionate about motorcycles, sports cars, exotic parrots, and nineteenth-century English literature.</p>
+   <p>Readers can sign up for <emphasis>The Pendergast File</emphasis>, a monthly “strangely entertaining note” from the authors, at their website, www.prestonchild.com. The authors welcome visitors to their alarmingly active Facebook page, where they post regularly.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEAhgCGAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRof
+Hh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwh
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAAR
+CAJYAZADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC7u2vz16U4HDgjuaiAbduPWlzkAitzmLik
+AD8amDHb9aqKfu+4NSq3yfQ0iiYN+dOdiV/Cq7MByO1OZ8rQBYJ2qoHTbQzZAIPIqJn+QEeg
+/nTQ4J9+lAFotj8aUEk49jUQOWAoR+9IZIpwuPwP51L5n3sg1XLYUn6U/f1FAEyOGmGPSgnp
+UIOJgR1xQJMqB0JNAFkn+HPelU4Wod/Ptnr+FORwV/OgZLnkUBvvUzIJFAbKn+dA7j24IxUg
+bmoC2TTlakFyZGzk0A8ColbrinE8AYoAlyN2aQkdM96YDhh9KQn19aAJAx3Z+lP3cf596g3c
+A1IGA/rQA9jg0xG+YZpGOGxTf+WgOfWgCVG5+opSRt69KjHA9cCkJ3KfrQBL1apU/wBbx0qA
+N83XIFPD/MffpQBYznio1OEBBpGbp9KaDwKAJIzjqetKzjcP1qNH5ximnmTFAEjHH6ijPK88
+hajZs470buUPXigBQctkflS87T9KhD8/LTgfkPPOMUATRHJz3xSqcBvY1GhwMe1IvCGgCQtw
+PpToyeM9SahZx8uewp8Z4A7UASt93jpTw35ioCcj3p+7k+tAyUH5TSk5AHTmog/yn0p2eF+t
+AEqng/5703OBn2pEYEN/nvTA3y80AcKrfOaUHkVGOp79aQHkfStDEtK2NoPoafuwvHrVdWHG
+fSnFsL7ZpDuTswJX1pZHwp9Kidv3g5prsecelAFnfkY9hSSNj5vfFQbiFH0H86VnDIc+2aLA
+XPM6GiNsqearI/GCenGacjkJ75pDuWGf5fqaduPr1FVi3y/jTmft2wKAJ9x84kHnFBc7V7HP
+FQhv3hPSgNkKfegCyWbYD0yacjcH8agDfuxn1/OhWGDzSGXC/wB2kDcHtxVctngfWhXyPfFA
+FkN83409TjPPeqpc7x9akDnBPvigCZGyDnFSBuapo3PX1qXzBu5oGWFPzEj0xSMeM+9RI/zf
+hTWkz+dAXJd3y9e9SFjxg96qs+cD8al38KCewpBclLEnP+etN3YPqaj38jByMUK+Txx1oC5M
+G6/rS5+Vu1Qbsq2O+KN/yk+tAXJwcuM+lSISfzqsrZx/OpQ/IJOfpQMm3cHPtijcQBULOMZF
+G7cvJoAmRuevOaYG/eVGGG6k3YbPcUBclLYwfahWwQOcYqIvge2KRWAYA88UAP4LHB5o3bQ3
+J5FMBG449KRidpwe3FAFhCf0oD/KTioEkwpHt1pVcbKAJmbIGfTmpEbkYqsHzjjt1qRW+7jt
+xQBMTge4zRv5PeoS+cg0obrkigCZnOPp3p27BH1qBnwBjkU7d8q/nQBZR8K30qMvx9aarDa3
++e9RhiV9KBnEBiM80ob5veocgg4pQw3CtbGBZB4zSlsY+tQ7v5U0vgD1BoGWnbLKaGbP5VCz
+5YHOfShmAX3xSAnZjgDtgUmeCCODioGYqBznpgU/dkNz2FAEqyYB+tSI/wAoHvVMnAqXd0I9
+aAuWJH+b8alUs7FEUsSOABmqZbPPeug8JKn9qS3DrMfJhZ18tc/wkc+/PFS9Fca1Zk5ZXG5W
+G4ZBIqRtyOEdShHUEYIra1iZdN1rTVthJ5kUEafvowRgjj8eT+NVPFb48T3gP94c/wDAVpJ3
+G1ZGflghcg+XnGccD8aeqyAspjbcoyRjkCt/Q7dLjw2PN/1Ed550x/2UTP8AgKveIWe0N/LG
+D9o1GSOGIdwiqu7H1JxS5tbDt1OVw2wOUbb03Y4/OkyyKpZSNw4JHXntXU61ttfDH2CIZ+zT
+JESP4n27m/U1m+J1I1Oz0yPk28KRAf7R6/zFF7jasZDF1wSGUHkZGMipELPhEBZyeAoyT0q/
+4rmUa19mjPyW0axD8Bn+tWfC7hxewRzCG+mjAt3Pr3A+vFNvS4ra2MpI5dzR+VJ5i53LtORT
+hHN5mDFJk9tp5rc0e+1C88Uxi6bypEQpPtGMqoJwfxxU2j3d7qs2p3omBkRPKti5ACliT1/A
+Ursdjm13rIEKMH6bSP6U945YwC8UigngspFdUri58S6dbzSrLLYws1zJ6tgd/Y4qgslzf+I7
+S1lvkuojL5oEbZVQMnH5D9aLhYxZI5k5MMg7ZKkU6VJo/meJwB3KkCr+vanei/2rqKTws+9E
+iYEJg8Z461Y8VahcpNHpzTsyrCnnD+83XJ/SgDDR3djhScDJwOnvT41lkVnSNmVerBeBV/SX
++zeH9WvD95gkCfj1/QiugtJXsNQtrJW2W9pZma4QdGYjvRcaVzkUL4YgHYOpxxTgkhAQRvvG
+eApzW1axCTR9MtiMG/ujIVH91f8AIrQiNzd3Ot3doyrOzrbwMzYxjg/40XCxyo3ghdrbvTHN
+SjcBnaflOCcdK6BZ4p/EsJdxJ9htyZ5R/Eyg5/U07WLVoU+yx/6y+vCyj1AH+JouFjnmDCPc
+VIU9CRwaRshRkFcjjI61v65sl060tLf7i3PkpjvgYP65rN8SThtYeJPuwKqL+A5/WhO4mrFK
+Pc7AIpY+ijNRoSx3AMQvUgVueFpBD9quyOhjjH/Amwf0q1o9vEsut2s3yxmRY/pksB/MUXsO
+xzo8xiFCMWIz05IppLR4DqVOOjDFdPDG8XijTInGGS0wR7hWrM1OeS68NWlzO5eYTum89cf5
+AoTCxkK/7wjFAcYYAcAVXV/nODQX+8c8dKZNyyGyT9OtOQ5GTVVW+Xr24qSNxtJPpxQBOX4G
+DUiNgKKpu+CvNTKxO0d8c0AShvU4pxbr061XDgck5Hanb85X8TQVcmEm9c+n604HGB+VQFwF
+x6UCXPY9aAuWVY7SAfSmbuKjD4Un6Uzf1znPvQFzit/BpysdwwM1AH60qvgjHrWpgWd/Wmu2
+CGFR7+PxpGYEYoGSbsMOeKkZ+B+FVmb5xz2pxk4xntQBYZt2KFfj+dOjsr2WOOWO2kaNw7Kw
+6EKPm/LNJHa3MtpNdpA5gjx5kgHC5OBz+IpaABOU/DH604ScgZ71XEnHoKuHTNQW5NubSbzg
+nm7NvOz+99KPUPQjL5/CtXSdXbTYr0I8qtNDsTYcYbPU/QZ/Oqdtomq3tslxbWE8sLZ2uq5B
+wcf0qJLC8Y2wFtKTc58n5f8AWY64pOz0HqaWr6v/AGjrjXYMhiDL5aueVAxx+lN1rUY9T1ue
+8iVljlYMA3UYUD+lZzWl0kLzmFxFHJ5bsRwG9PrSR29wbM3QicwBtnmY43dcZ9aLILtm3Hri
+weFpNLjVxJNNud+23jj9BWjc+KLW88Rw6hLDKba2T91EcZLY6nn1P6Vzg0nUGvBZraTG5xuM
+e35se/pR/ZuoJfCxNpL9rPIi2/MR1/kKmyHdnRP4qN7aWseo+ZLJHciZ2VFAKjsKS51nSJtc
+h1NYrst5wklD7SMAcAD64rnrrT76zkjjuraWF3+4HUjd9KG0+9i+0LJbSKbfHnbh/q88jPpm
+iyC7NTWr3Try5NxZrcCaR2aXzSMc9MYq1pup6TDZwi7tZftUE3mLJFgb+cgE/l+VYdpp97qO
+82ltLOUwG2LnGen8qfJpeoQyPHJaSh4l8x1K8qvqaLLYd3e5sWniBEu9TvZY2FxdRssezopP
++RTLTWYbTSEtER/NNys0jDoVXGAPyFYxtLqOzju3t3FvKcJIRwx56frUx0nUhdramzm89l3i
+PbyR60WQXZ0UGv6eurandSR3Aju0CJsxuUH73eodN1XStN1U3EMVz5PlFF3YLBj1P5Viy6bq
+FtPFBLaSpNKP3aFeW+gpl7ZXenOiXdu8DsNyhh1FFkF2X2uNLj1S3ltkuDbowaQSkbjg9sfS
+o9Y1AajqM12AcSPkBuoA4A/Sq8ulalbW7XM1lMkOM7yvGD3p0GkapeW6TW1jNLEw+V0XIPY0
+abiuzSuNYtFsLXT7KOQxpKJpWlwC7emPSr2o+I7KYXstpFOLm9RUkaQjEagYwPrXN2emahfb
+5La0mlROGZV6etSWukapeRLPb2U0kRyNyrwccUWQ02dHbeI7BIbKXyJjeWcJjjXI2cjGap22
+vRW+n2kO2QyR3X2idv73PAH4VkQaVqVw0hgs5n8klXwv3SOootdOv75He1tZZQjYbavQ+lLl
+Q+Zms2s2ynWJIo5N958sWf4QWy2a0n8SwyXcFwY5PMgtykQOP9YRgn6VyjWN2n2gvbSAW5Am
+4+5n19Kkiine2a5WJjChCs4HCk9KLIV2dIPEsc50177zJJLZ2eVlUDdn7uMfhWfqt1Y3Nx9o
+tBOHcs0hlI79MY/GstIpntZJ0iYwoVDSY4BPY1KLK981Ivs8m9o/MVdvJX1osh3New119O0o
+wWpZbh5d7PtBG3HTmp7rXbaVtUaFJUa78pkzj5WTqTzWFZ2N5exGW2tpJkT7xUcVV3EMw5Ht
+RZXC7sdWfEcD69b6k8UgWOHaygDOcHp+dZup6rayWFvYWMcqwxsXLSkbiT9KzZLW5S0S6MDi
+B/lWQjCk/wCc0g0+9eWNEtpTJInmIoHJX1HtQkkDbED8k8DmgyfeFT22kajc26zW9nNJE4yr
+qvBqH7DdlYyIJNsrmNDj7zA4IHvT0FZih8dakDgDj0pIdPvbi5kt4reR5k++gHI+tLHZXj3T
+WiW0jXCjLRhefyo0DUC4LA56U4SAFT7VHNa3NrMkM8DpI3RWUgn6VLc2N5ZKjXNvJEG+6zjr
+SGG8Bc5/CnKxI684qoH/AC9qcJOOmTjk0xXLDyYB6HBpVkwetVDJgEdeeKVHxyeKQ7lwSfKf
+XI5phfg4qDzMIfrUe/g/zoC5yobnHagOQ341Bv3NjNODAPn6VoQTB/lOPWmhySOfeo1bg+ua
+TeNw9KAJ3PINNZ+Pwpm/gVGx559KAPXLex+y+Hod+jXIMOnzEr5+CC7DcucdSBnPYevWuW0q
+7nl8Aa9C8rNDCYPKQ9EzJk4+tZdx4oMulzWS2u3zLWG2D+ZnaI23E4x/Fxx2xVSy1r7HoOp6
+b5O/7cYv3m/GzY2emOc1CiU2P0u3+3arZ2mM+bKqn6Z5/SvSvEc0Q0y/16Igb7Y2Seu7zSp/
+lXmmh6wmjapb6i1t55iDbU37eSCAc4PTNWR4pd/D9rpUsG9Ibr7RI3mf6wEk7cY46nn9KJJt
+3COisdL4oeHTdIsbKPV5Le8tLVQbONG+csRklhwO5rc0SKOG38PXko+7biCAHu8jcn8FB/Ou
+D8ReJ9N17zphonkX8pX/AEk3bPgDA+7gDoMVKnjKQTaIDa/utKH+r8z/AFjYxnOOP170uV2s
+O+ty54sm+wx2mjr99Ga5uPeRzkD8B/Or/hG5tY/C+py3yl4LOeO4C/3m5AH5gVxOpahJqOqT
+3s3353LkZ6eg/p+FXY9dEPhqfSFhx504lebf1A6LjHt61TXu2Enrc6e3urqXwxqF+XIvdVvE
+gVwcHHXA/lW8HVvF2pTmZY102yWESyHhWYdSfzrjNL8WW1jpFtZ3Oli5ktJWmgfzioDE5ywA
+561WfxJLJpmpWzxZuNQnWWSfdjgHOAMf1qWhqVjr3jzr2g+HJJXuJrJzNcTNnkkbwBntjj8q
+q+OrlY1to7SQNa3Ra4dx/wAtXzjJ9gAAKx38Yg6/c6utjtmltvJUeb91sY3Zxz9P1rNv9aF/
+pGmWXk7GslZPM3Z3hiD0xxjHvQo6oTejN7wZO9vcajeb2EVrbNIVDcFu2R+dFhcSxeDNXv5Z
+HkmunjtkZjk4zk8/Q1hWmtfYdE1LT0gy94U3Tb/uqpzjGO/PfvUi6+g0fTtONpmO2uDPId/+
+tOc46cccd6prW4k9LHoktqiaZaWzqDHpjxmRP7z7MgfizLUL3Eb69r97PdeRFaW6Wqz7SdjN
+1OByTn+dci3jKRrppHtt0b3gu3TzOuAAq5x2wOaLXxXaLZ3lrf6UbtLq4M7/AOkFOc5A4GeK
+jkZXMi3ouq2tl4lzc6hLcW5RoY7pwQVz/Fg8jn+dUfEK6jZXf9m31w0yWwJhY91bnPr6dfSk
+s9f0+3hvrWfR1lsrlw6xCcqY8dt3UjpWdq+rTaxfy3kwVCQFVF6IoGABVpe8TeyPSbpwr3Xk
+3RlujpYxYkEAjH3s9PwrDaSIeBtIkfVZLFx5xjVFY+cdx4JHT6n1rOuPGsRVpYdLWO+Nt9m+
+0NOWwuOy4AzVW28R6cNDsdN1DRftgti5R/tTR/eYk8Afh+FSk7FcyNXQL1r/AEqPS7W7Npqd
+vK01uSfllz1U+/WjQbu9Fn4iE8sqzR25Zl3Y2vk5IA4BznpWXpfia0sraKKfSlnNvM01s4lK
+lCT0PHzfjVa28RSQ/wBrNLCJJNRjKsQ20ISSc4xz1p2FfzN/Qr99S01NNt7xrXU4JmmgZjxM
+TyQffr1qzpLF/DOqm/v3sZPtg8yZULFW44wvqawNK8S29jZwQ3emrcvbSGW3kEhQqSe+ByM1
+JaeJ4FtL231DTheJd3HnuBMY8H04GaTT1BSWl2XtNk3eGfEp80y/6rDtnLDceeeaNOb/AIob
+VecH7RF/MVRsfEVjZjUYP7I8yzvSn7j7SRsC9t2MnJqWz8Rafb215aHR91ncyK4h+0sNm0Dv
+jJ5GadmwTRYsjnwPqpHXz4v5iuxSKO5NrKhxLaWWH91dOP1U1522uwjStQ0+Cz8qK5mWRf3p
+bywuOORk9KvReMXivxcLa5Q2YtWj8zqQPvZx+n60nFsakkbOmC7bw7ov2GWOOc3EjDzH2q+C
+Rg+vpXLak0iapdLOFEolbeE6ZzzirmmeJo7HT4baawW4a2kMtu5lKhWPqO9Zd5ei91Ke6KbR
+LIXKZ6ZOcZppO7E2rI7rU4Jf+ERls/LYC1t4JVO3gkk7ufpUtm3/ABP9I/7Bf9K5u48YTT3V
+4zwubW5h8pbfzflj4HI4/oOtOt/Fqw2cDNYBr6GAwR3HmnAX3XoTU2dirq5JodzOvhXXNszg
+xJFsw5+XLHOPStfS47efRdDe5u/JdbtmjBjLeY248ZHT6muOsdZ+x6VqNj5O/wC1hBv3Y2bS
+T0xz19qsweIfJs9Ntvs277FOZ92/G/JJxjHH603FslSR0M8rRWXiyRGKuJ4wGU4P3zWjGS3i
+5MvtJ03JY/TrXJw+JIluNT+02Xn2t++6SHzSpBByMMBTh4rYa1Lfm0G0wGBIhJjYuOOcc96V
+mO6NbVbz+yrfQkkm+2SQEzmXsyk8AE/54qHXnnls/tlpeNcaXcyFyjdY3/unPIrGXxA32XTI
+/IUzWDErIzZDqTnaRj29e1Tal4igvLCS0s7BbRJZfOmzIW3N7cDAoUWDaM/zPlOemOlKJeh6
+VUL5U/N0FG/jA9eauxBYZ+evOe1L5p3Gqu8levGaN528n9adguWzJ8uM/SovM4Pp1qLzB36U
+0vwcD0osBzatzUgb5iKroQCM04NyT3pgSFsqee9NLc57UzfwO9M39z3oAsFztAqNmyB64pjP
+wOaazd/SkBIXNKHwuO2ahZ8CkLYH40DsWt+AophY8moS2AoP50bvlOKAsS7iH9acGzk1X3fM
+eaergDrmgLFgvl196Xdwears3zDvRu4piLfmUFzgGq27mneZkrzQBPv7U8PnHNVNw3dOOlPV
+zwAaALBbrzR5mAB3quz9ee9HmfMB70AWw3X1o3gE4qDfzwe2aQvz70CsWi/A55oD5XHrVbzB
+tHPQUu4884phYsbuRTN/Q5NQmTp6U0uNi/570h2LPmdvbNBfI98VXZjg8+1KZMrxzxQFiyHz
+2NSbiT6Gqofg4PSnh/WmKxYEnBqRXHHNUi3HHapQ2SM0AWC5wfXNLv5HNVd3fPOaXzOcelAi
+1u680u/nrVbf/Ol3j8qALJbkUu75BVYvjPNL5nGOKQEpfA/Cl8wk9e1VncihH9T1GRTAs7/l
+PJz3oaTJxx7VX38dKTzMgd6ALSy9PpR5vPHGelVlfg9se9CvnvxjmkMtM+d2W708PgnkZ5/G
+qW/5Tk5OakMgwT1FMRNvxt/l+NKGy2MgH0qoJOmBinI4/CkBZ35b2prSE/TOKhMmXH6UxnwS
+OuP8aYzDRjjPNODfMRUKNx3FG47mJqS7Eu7K8Uhao92OKaW5FAWJWPI57Ux2HrzTS3ApjNz+
+NILEzP8ALTSxCj61GzZQfXikZ8Dr0NAyYucA9qQvwcdai3/L6cUgb5SfWgCUSc5zzmnh+o9q
+rFu2acH5I70BYsFiXwD260Bjk9s1Du+b6ClDck96BWLAbml3kjrVcPhif5U7f26ZphYlD5fj
+mpA/Q9c1VRun45xTy3GB+dArEzN1PvRu+YH3qDfn60pkxjsM0DsWdxx9aAxJ4PSoA/y5Pfij
+fgmgknLcAZ604Mdp57VXL/LkGnK+QOaAJHfjP+elNL5wAfWonYADnim7hxjjmgLFkv8AKRnP
+9KAwBx7VCzZwM9KFYDvmgLFpT8o+lP3/AD88DFV1b5Rz0pC3GfzpgWN4ySAMVIr89apq5JJq
+QPg+1AE+/p25oDksKg3dPc0quNw4oAs7sA49aXzAWx2PWq+/jPvRvG4e5NAFreS3XNIXG2oA
+/v1o35HH0oFYmeTAGTSK3JJPbvUDNnHIpwY7TnrQMk3+vQmjzBgY5B/WoHOfYZpGkzjBxQBZ
+D9vQ0CQ9cHpUG/A65pFfC9e2KALPmYPU9qdvI5HQ81VZ/bp1FG8Yx7UCsTrJjB/P8zTlfJUA
+j8Kph8gE9AO1SI/I9eOPWgLFh3x+Y/Cmh+WPpjFQGQYXJ7jpSGTDNkZ//XQFjLU8DFKT9761
+ECMDvQWHPPGak0JN2eaZu59RmmA/lTVbjHvQBKznGBzxTS3T60wt3/L3ppPzdePSkMkLHYDQ
+WJHWoiSVFIWB6dKB2JixCgGkZ+GxUTN0+lIDwB7UBYl3Zz7mjcRuNRbhik3Yxg5oCxaD84P4
+0I3HPPSoA/zHHWlRuaYmiwrc89aUvgZx0FQo3IxS7h5Z57UCHq/OOvFP3fLVdWHv0p6kZGDQ
+Mm34HHrSb8YzUJJC/jmjcN2fegRZ3fKB70bh0zUW4YU5xSAjPXjpQBPuGz+dO3Y5JqDIAGaU
+EZ69ulAD5GyR6Umc7eO5pjtwtNVhlT9aALBbkZpASMdM0wkE5zzTQ2GHrQBYSTj1NKWOMA4q
+BCBn3odzg+nSgLFhG/LFPZqqK3X+dSbs9f0oFYl3c04P05quX4GB0zShuRz2phYtb84575pN
+/Ax05qPcABSbh8v50CsWN5wPemiTAzUW75VGc0m4evNAWJy5HpTt+ehquWG3rilDY5OKAsPZ
+/u/WmbhlccZpkjDI9KZkHacfSgLFhm4/CjflAM1Cx5OelIGAxxkE8UBYnL/e5xxQZCCB7dag
+LE7/ANMUFgW6gYFAWJlcbRwDTkfpycY4qujABeeMf40qt8o5/wA8UBYm3Ekc98/rRuGWPbNR
+buV7HijdjOOlAWM/djv3pC3yt65qMN0oLDHPc1JoPDckUzJyOa0dI0a41hphBNbxeUASZpNu
+c56evStVfAOrSgmOeykwedsuf6VShKWyIlVhHRs5ndzSZJJ5rql+Hmsn/lpagf8AXQ/4U8fD
+jVi3zXNrj6t/hT9jU7E/WKX8xyG73pCx4/Hiuul+HGrqn7ue1c+m4j+lYWqeHdX0gF7uzZIx
+/wAtFIZfzHT8aTpyjuhxrU5aJlDdwPpimhuAQajLDAI6YoDDk+wqDUfu4x79aQntjFMDdKQs
+M5xQBOG+Y0ofnNQkjI60qtQBOjc/gKC3yn6VErfMKXd8ntjHWgB6v15xT92OmOmDVcHHHU1J
+uz2piJCxIAyKQMc8Ad+KYGG1T70m7r+PSgCyWzjJpFbOc9aiLdOo6UBvlI9KAJA+fr/+upMn
+9K1fC2gx+IZ7uF5mjaOLcjL/AHs4Gfanz+D9fgJH9nuy/wB6N1YH9c1XK7XM3UjzOLeqMV24
+HQjrSKRkDPrVybQtXjb59NuuD/zyNQHTr+PG6yuR1/5ZN6/SlZj5o9xM9eeaZk5X1qU2t0AQ
+bab/AL9n/CmNBcBgDBLkD+4aLDuu4qv976UMQYyCfSkS3nCt+4k9fuGla2utpxbTf9+zRYLo
+FYnPH1p4b+VIlleN0tLg/SM/4VYGlak5Oywujnr+5b/CizC67kG7AX2pUPIq6NA1l9u3Tbr/
+AL9kfzq2PCuowaTd6jer9kSBQVVxkuScY4PFNRZLqRXUy9x2jr15pu4bhzUe4kAe9NDYJ/Gk
+VYslhlMtj60A9h9KiLcjnFJvODQBKT8opwPXnPFVw+R1p+7GeKAJHYZGajDcqc54pHPIHWow
+eR06UATM3JPWk3n5efwqJmweaaGGFz+FAE5Y7W9zTS2M9On9ai38Ht9KUP36570DsSI/Qnin
+biF571VV+Rk8CpRJ+7H17mgCV2wynsKXfjJ9TUDPmRTn607eDx79aBFIHOP1ppJ2ZzTQx/HF
+NJ+XHvUlji3PqK7f4ZyldRv4xwGiU/kf/rmuE3V2fw0bOuXX/Xuf/QhWtD+IjDE/wpHR/ES9
+ntNItVgmeIyT4JRiCQAa86h17V4ZQE1K6Hr+9P8AjXdfE8/8Sqxx/wA9m/8AQa8y37pAe/cV
+WIb5yMJFOktO51mn/EHWrMj7Q6XcY6rIoDf99AfzzXomh+IbHxFas9vw6jEsDjlc/wAxXhhb
+PXvWr4e1Z9H123ulOEDBZRngoeD/AI/hRSryi7S1Qq+FhKN4qzOo8c+E4rCM6pp8eyAnE0S9
+EJIAI9ieK4YEckHPSve9RtUvtNuLR+VmjKfnXi2i6DNrS3HlXVpAYmUETybSc56flVV6Vpe6
+txYSveD5+hmBskDtRkcjJrq/+Fea2TlTaspHBEvX9Kb/AMK6131teP8Apr/9asvY1Oxv9Ypf
+zI5fdShuAe3aunk+HmvKMqluxx0WUf1xWJqGianpIH26zkhXOAxGV/McfrUunOO6KjVhLSMk
+VUc5B9qC3yfhUStgHHcVo6PpD6zLJFHdW8BjUNmd9oPsKlJvRFSairspbiTTg3p1xXSp4C1S
+UnyLqwlIHISbP9Kf/wAK713AH+jf9/f/AK1aexn2Mvb0v5kcwXOAMUinqSePSuqHw71zHL2o
+/wC2h/wpy/DnWcjM1oMf7Z/wp+xqdg+sUv5kcsW5I7UK3HHFdBrXg3UdG09r6eWB40ZQwRjn
+k4HUVzYb73OKiUXHRqxcZxmrxdztvAmqWWkwavd3kyrtWPamRub73AHftVy5+Js2T9m06NVz
+wZJCx/IAVxuk6Lf63cGGxi3YPzSMcKnuTXZQfDE+SDcaphyPuxw5A/Emtoe1cbQOarGipt1H
+dlV/iVqWeLS16/7X+NIPiXqoK5trXp6N/jUt18MrlcG21KKT2kjKfyJqnqnhWPQfCpmu9kmo
+PcKqOjHCryceh6HtTarK9xL6u2lFXv6ls/ErVQpP2e1/Jv8AGt/wj4tu9fv7i3uYok8uMOpj
+z647mvKCcLzXZfDV/wDif3IH/Puf/QhSp1JOaVyq1GCpuSR2/ivXZ9C0lLi3VGkeQIN+cAYJ
+/pXFN8R9ZK5EdqMn+4f8a2/iQ/8AxI7cZ48//wBlNeYM3GOadacozsmThqcJU7tHYj4ia0eA
+LYf8AP8AjSf8LC1w55t8j/pl/wDXrjwx5HarVhYXWpXIt7GB5pj2HYepPYVkqk27XN3RpJbH
+VJ8Q9aDoWFs69wY8Z/I1e8QeK7fWfCEapiO6llAlgDZKhec/TgU218ARQxrLrGpJCP8AnnGQ
+B/30f8KvxeFPCTAKt6Hf2uhmtYxqWs+pzuVBSTS28meeb/ue5pN/B7ZzXpU/w60uRAbe5uY+
+4OQ4/kK57Ufh/qdojPaSJeRjnao2Pj6Hr+dQ6U10No4im+pzDMeO1IH4IPb9KbKrxStHIrI6
+tgqwwRV7RNIm1qeSGG4gidVBxM23d7D1rKzbsjVtJXKJfPI65qUkgdfzrpv+Feax3ltOv98/
+4Vh6zo95od0Le8C5YBkZeVYd8VThJboiNWEnaLKTv8wHbPamh+nPOKY3OPrTQ3IBGOKk1sSu
+3J9fWmq2Nh755pjtycZrb0/wxc39jDdJf2Eav/yzkmwwwcc8e1OKb2JlKMdzG35+uaXf+X86
+6RPAWqzZaGeykUHnZNn+lNbwNqEbusl9p8bDsZ8EfpVKnPsT7an3ObU/KD6Yp4fKg8cYqxqu
+lvpE6QyXFvOWUNmB9wHsTVJWJwDUO60ZaalqiZzhuDmgkhcd8/4VDKwMi460/wAwkfjQOxSV
+jmkJ4/z60xWoJ4qRjiTXZfDQn+3bn/r3P/oQriicA/zrs/hoQdduu3+j/wDswrWh/ERhif4M
+v67G58Tv+QZY4/57t/6DXl6/fzXpfxQcDTbAeszf+g15iD84q8T/ABWicF/BXz/MUnH5UMT8
+3bimZOa2PDekvrWtxW4BMIbfM3ZVBz+vT8axSbdkdMmopyex7b5whsRLKcBItzE9sDJr5/Lb
+2JI6mvVfH2vJYaQ1hG/+lXS7cDqqZ5P49PxPpXkwzjB5NdGLmnJRXT9TiwEGouT6nt3g2Yze
+E9NYnpGV/JiB/KvN9f1/Vo/Ed8ItQuY0WdlVUkIAAOBx0r0HwKf+KPsfo/8A6MavKdfb/iot
+RHX/AEh/51deTVONv60Iw0U607r+rm7p3xB1qylAuHW9iH8MgAb/AL6A/nmvStL1Sy8Q6V9o
+hAkhkBWSNx0PdSK8HJ5Ndt8Mrx49YurTP7uaHeR23KeD+RNRQrS5uWWqZeLw0eRzirNFDxjo
+KaFrAEAItJ1LxA87fVfwP8654ng16J8UGX7LphyC++TH0wuf6V5uW4685rOvFRm0jfDTc6Sc
+tzrvh1Ls8UhB0eBx+gP9K634h31zZ6JB9nmeIyThSyNtJG0964zwAw/4TC2x/wA85P8A0Guo
++Jpxo1l/13/9lNbU3/s7OWqk8VH+u55//bGpAA/2hdDn/ns1WrXxRrdqwaPU7gdeHbePyOax
+sjApAw61y80lszvcItbI7i/8bf2v4Zu9O1CL/S22eXJGMK2GBOR26f8A6q5K3iknmSCJcvIy
+qo9yagYjJHNanhh0/wCEl04v937QvX60+ZzauQoRpxfKvP8A4Y67xLfyeE9OtND0pjEzJ5k8
+6j5mOccemSD+lcaNX1Jfn+33QbOQRM3+Nd38R9FmuoIdTt0LeQuyYDqFJ4b8DnP1rzXPGcYr
+WveM7dOhlheSdPm3fU63SvH2q2MyLdyfbbccFXwGH0b/ABzWx441i01Pw7p81pMHSWXdtzyu
+ARgjtzXnLNhwM4PFInr04qFWlyuL1LeHhzqa0aJy2RgH1rsPhsf+Khn/AOvY/wDoQriyeCOt
+dh8Nj/xUk2P+fZv/AEIUUf4iFiF+5kdD8S2P9iWo7G4/9lNeYkjGc16V8S2H9kWn/Xf/ANlN
+eYluOKvE/wAQjB/wl8zS0nTLjWdRjsbYDc5JJPRFHUmu413VLfwXYx6PoygXki7pZ2ALD3Pu
+fyAq38O9KW00ZtQdf3143BI+6gJA/Pn9K861u+bUtbvLtmz5krY/3RwP0Ap29lTT6sm/tqri
+9o/iyK4uZrqQy3EryyHqzkkmmBhjmoielKp6VzvU7ErGtp+s6hpbB7K6kix/CDlT9QeK9G8L
++NYtYkWzvFWC9x8pH3Zfp6H2ryfdwv1NCSMjKyttYHIYHkGtIVZRZjVoRqLzPZPFXhiDXLcz
+RKsd+gyj9N/+y3+PavIXV4ndHUq6nDAjBBHWvYfC2t/23o6SyH/SYj5c2PX1/Ef1riPiFpq2
+esx3ca4S7GW9N68H+a1tWgnHnic2GqSjN0pm54C8RXN95mmXTGUxJvilJ525AwfXtXS6/okG
+v6abaX5ZF+aKTH3G/wAPWvPPhu5/4SKUf9O7fzWuv0jxUlzrN3pF2ypPHO6wP0EgBOF+oH51
+dJpwtLqZ1oNVG4dNTy6/tZ9OvXtblCk0Zww/rVRSSR9K9g8WeGo9ftRJFhL2Ifu26Bx/dP8A
+j2rx5o5LeZopY2SRPlZW4KmuerTcHrsdlCsqsfMHY4ANMDZwOBz3pHbpim559zWRuehfDGbF
+5qMIPDRo35M3+NcZq0xl1i+kPJaZzn/gRrq/hkf+Jve8/wDLEf8AoQrjb051C7JOP3r/AMzW
+0n+6j8znpr99P5EaNgGnK+SBmoVPOcfhTkP7xRWB0EsjAuKXPfscVDKTuHoBTs/dz2NMCsrd
+PpmkJ4pBScmkMUkYxntXafDI7tbuj/07n/0IVxJOV9c12vwxONYu/wDr2/8AZhW1D+IjDFfw
+Zf12Or8a6PHrNjaxyahBZskhKGbGHOOnWuK/4V/qBOYr/T5R2Im/+tXQfFAf8Sqx9pz/AOg1
+5fwSMitcS4Ko01f5mGEjUdJOMrb9LnaReAltzv1TWrK2iHXY+5v1xWg/irRPDVi9l4ehNxKf
+vzuDtJ9STy30GBXna4ySO9GevesVW5fgVvM3lh3P+LK67bFq7vLi/u5Lm6laWaQ5Z2qEHj6U
+z0zRnANZPXVm9ktj2nwMT/wh9h9H/wDRjV5RrxJ8Ral73Mn/AKEa9V8D/wDIoaf64f8A9Dau
+M1jT/CT6vdtLrV1DO0rGRFgLBWzyM49a7q0b0onmYeajWndX/wCHONPc13Xw2sH+23epyfJB
+EhjDHgEnBPPsB+tO0Pwf4e1d5JLbVbi6jiIEkfl+WeenXnH0pnjuW/0tIdLtUW20dk/drF/G
+R1DHr1P41lCm6a9rLZdtTepWVV+xjo33Mrxjry65rZMDZtYF8uI/3vVvx/kK50/dPHemLjn6
+UE4FYSk5NyZ1QgoRUV0Or+H2T4wg46Ryf+g11HxNJOkWWB/y8df+AmuV+Hh/4q+HP/PJ/wD0
+GvQPF3iCfw/YQXFvFHK0kuw+ZnGMe1ddJJ0HfzPPrtrFRsr/ANM8bAY9FY8+lbHh3w7fazfw
+qtu62wcGWR1woUH171uD4n6j/wA+NqefVv8AGtHQ/iDfaprFrYyWUCrM4XcrHKj2rKEaTkve
+v8jedSvyO0bfM5TxdHBB4p1CK1iSGFGCqiDAGFGf1zWRFK0LrJEdrowZSPXqKu+IpTN4i1J8
+5zcPz+JrMB+UjpWM/idu7OiC9xX7I928P67Br+mpPHgSgBZo/wC43f8AA1yvinwH5ga+0ZNr
+/ee2HQ/7v+H5elcDpmq3ej3y3dlLsccEdVYehHcV6/4c8V2fiCDauIbxR88DHP4g9x/n3rsh
+OFZcs9zzqlKphp89Pb+tzxdgyyBXBVgcEEcimxtx/wABr2DxT4PttcQ3EG2DUABh8cSezf41
+5FPbTWdzJbXMZimj+V0PUGuerSdN+R20K8aq03Fz6V2Hw0f/AIqKYY627fzFcYO1dh8MwP8A
+hIpyev2Y/wDoS0qP8RBif4UvQ3fibxpFofW4/wDZa80JwAfrXpfxLP8AxKLP/r4/9lNeYsfl
+FXiv4j9DPBa0l8/zPfLaMWWhxRJwIrcAfgteDKeetfQAHn2W0dJI8ce4r5/wUbawwRwRWmLV
+rGOAd+b5DicdPShG6UwmlUjIrjPQJtwwKQNnkU0NxSL2+tAHc/Di9MWu3Fru+WeLOP8AaXkf
+oTW98SIRJ4fhmxkxTjn0BB/+tXGeB2K+MbLnqH/9Aau5+ITAeE5B3aZAK7KetBnn1VbFRfex
+yvw5OfEkgx/y7t/Naw9bkZfEF+ykhhcuQQeR83atr4cn/ippAP8An3b+a1z+tk/23f8Ar9of
+/wBCNZS/hL1OiP8AHl6I9K8H+Ll1hFsLxwt/GvBP/LUDv9R3H40zxl4UGrQtf2KAXyL8yD/l
+qB2+o7evT0ryqOaW3uI54XaORDuVlOCD2r17wh4qj1+08qYql9Eo8xOzj+8P6jtW1Ooqi5J7
+nNWpSoyVWnseQNkNgjkcYxTAfmA+nFel+OPCX2gPq2mx5mAzPEv8Y/vD39fWvMgQcfWuapTc
+HZnbRqxqx5l/wx33wwbOqX3HWEf+hVxV2f8ATLg9Myt/M12fwwz/AGnfH/piBx/vVxFy3+kT
+8/8ALRs/nVS/hR+ZnD+NP5DAx7U8cv1qLd19Kcv3wR1rE6B8mQeacTxzjNRSZJ65pcgqKAIR
+7GkPFJSHn3oGKT8vTFdr8Mf+Qxen0gH/AKFXEH7ua7j4Yr/xM9Q9oV/nW2H/AIqOfF6UJf11
+Rq/E7nSLI/8ATx/7Ka8vzyK9R+Jozo1qfS4/9lNeWj1qsV/FZGB/gr5i5P60Z4NJnrSdq57n
+YOzyKUHikHX8qP4RzSA9p8EjHhHT/dXOP+BtXlPiHjxJqX/Xw/48mvV/BY2+EtMB/wCebH82
+avKPEvHiXUh/08P/ADrtxP8ACj/XQ8zCfx5/11H+Hdak0HVortcmM/LKg/iQ9f8AGvX9U060
+8SaGYdwaOVRJFKB909QwrwnoPwr0P4c+ItrHRbl/lOWtie3Ulf6j8anC1Ff2ctmaY2k7e1hu
+jhru0n0+9ls7ldk0R2sP61ASMV6p468Of2lZ/wBpWyZu7dfnUDmRP8R1+n4V5T2/rWVWm6cr
+M6cPWVaHMdZ8PP8AkbYj/wBMpP5V1HxLwNAteeftA/H5TXMfDkZ8V59IHP8AKuo+JY/4p+2/
+6+B/6C1b0/8AdpfP9Djrf75H5fqeWHGD2q3pmoTaXqMN9CFMsLblDjIPGP61TxS7vlPArjTa
+dz0mk1Zk087XFzLNJjc7F2wO5OaYCArdxTD97tTkR3V2VGYLy2BnA96L66i2QH7w57VLFPJB
+Ks0LmORDlWQ4INRfxc8+9GeDxR6A13PWvCPjNdYKWN+VS+A+VhwJcZ/I+3es34kaTH5Fvq0a
+gOCIZiP4h/Cfw5H415zFM8E6TROVkQhkYdQa9U8Y3iz+A1nkwHuPJYD3JB/lmuyFT2lGSl0P
+OnS9jXhKGzZ5ZnBGO1dn8MufEFx6fZj/AOhCuKB+YenFdr8MR/xO7s46W/b/AHhWFDWojqxP
+8GRt/Esf8SW0PP8Ax8Y/8dNeYE8CvT/iTg6Ha/8AXx/7Ka8vJz0q8Uv3r+Rngf4K9T3bw3eC
+98O2FwD1iCsfccH9Qa8n8W6c2meJruIAiORvNjPqrc/zyPwrp/htra+XPo8zfNkywD14+Yf1
+/Ot7xj4b/t3T1ktwPt1vkx/7Y7r+nFbzXtaKa3Rywl9XxDjLZ/8ADnkGfalGeKSRHjdkdSrq
+cMpGCDQp6c964D1RxNAJHoOf60meM96XPv0NAjqfAMZl8XQP2jjkYn/gJH9a6L4m3wj0+zsg
+RvkkaVvoBgfq36VX+HNgLe3vdZuMRxbfLR24G0csf0H61yXiTWjretT3Yz5X3IlPZB0/Pk/j
+XVfkoW6s42nPE8y2j+epufDfnxJKcf8ALs381rA14413UMf8/EmP++jXQfDYZ8Q3JzwLY/8A
+oQrn/EH/ACH9RB4P2iT/ANCNRL+EvV/kaR/3iXojNPUfzqWzup7C6S6tZDFNGQyuO1QtwcGk
+Xvn2rE6NOp7X4Z8SweIbIMMR3ceBNDnp7j1B/SuQ8b+EfIL6rp0f7k/NcRL/AAn+8Pb1Hbr6
+1xdhqVzpN/HeWsmyVPxBHcEelez6Drtr4h08Tw4WQfLNEedh9PcGu2Eo148ktzzakJYaftKf
+w/1/SOL+GH/IS1A5xiFf/Qq4i7z9quQeP3jZ/M17Lo/hqHRtYvbu1wtvcqoEX9xgSTj25/Cv
+Gb3/AI/bnJ6St/M1lVg4U4p+Zvh6iqVZSj5ESnPX8qcufMBqJTjvT1PzDnPFcx2CsQT0xxTs
+jA4zzTDgtg+lO5wBQBB0FAPy0cYFN4xQMeEaVgkal2PZRk16F8M7G4hk1G4mheNGCIpdSMnJ
+J6/h+dcFZ31xp90lzaTNDOgO116jIwf0JrSPjLxCWJOqzEn/AGV/wrWlOEJczOfEU51IuEba
+ne/Ei2muNBgMELyeXcAsEXJAIIrzFNL1B8hbG5PHaJv8K0v+Ey8QgcarN/3yv+FNHjLxESf+
+JrN09F/wqqs6dSXNr+BFClVow5Fb8f8AIw+hozxSlstknk0hPWuc6w9KmjgnmGYoZJB0JVSa
+gHatOw1/VdKhaGwvZII2bcVUA5PryKatf3iZc1vdPYvDVtLZ+H7C3lUrIkI3KeoJ5/rXlPiX
+Tr0+JtR2Wk7Bpiw2xkgg80weMfEO4/8AE1m/75X/AApR4y8Qgf8AIUm+m1f8K6qlanUio66e
+hxUcPVpTc9NfUyLi3ntjsnhkicjOHUqcevNNhlkgmSaJykiHcrDsR3qfUNTvNUmWW+uGmkVd
+oZscD04qr71yu19DuV2vePcfDGux69o8dzkCdflmQfwt/georg/GHg+4sr17zTrZ5bKU7isY
+yYj3GOuO/tXK6fqt9pcrS2N1JA7DDFD1HuO9aH/CY+ISB/xNJs/Rf8K6pYiFSCU07nDHC1KV
+RzptW7f12Oi+HWmXaarPeyQSRxJCUDOpGWJHTPsK6rxpo93rWiRwWKq8ySh9pYLkcg8n615m
+fF/iE5/4ms+fw/woHi/xADn+1Z8/h/hTjXpxp+zaf4BUw1aVX2qauvUuDwD4jLf8ecY+s6f4
+1bh+HGtuf3ptohnnMm7+QNZJ8YeIf+gpOfb5f8KX/hMfEOP+QpN/3yv+FZp0L7P8DVrEvqvx
+Oi1DwLZaJoF3fXt5JNMiDYIxsUMTgdck8mk+GMYkvNSVgGQwqrAjIOSeP51Q1rX5r7wZYQXF
+6Lm7lnZ5hkbkVSdoIH1zV3wner4e8I6jrDoGeaVYoUPG4rn9Mk/lWkXBVU46JK5jNVHRkpO8
+m7L7zR1r4bxzSNPpM4iJ5+zy5K/g3X88/WuRuvCWvWbESabKQOjRYcH8q0Y/iNrqS7pDbSrn
+O0xY/kavH4n3/lkDT7ffjrvbH5US+ry11Q4rFQ0dmY+meDNY1C4QT2z2luD880o27R3wDyas
++M/EFvqM8Gm2DA2NmNoYHh26cewAx+dZ2seLdX1hPKuJxHAesUQ2qfr3P4msRTWMpxUeWH4n
+RCnOUlOpbTZL/gk8VtPN80UMrrnqikjNd98NLC5hu7+5mgkjTy1RS6lcknPGfpXGWPiDVtMg
+8iyvpYIi24qmME469KsDxbr7Zzqtxn6j/CinKEJKTuTWhUqRcFY9C+IdncXXh+NoI3k8uYMw
+UZIBBGcV5iNMvyN32G4wBknym/wq6vizXx01W4z9R/hSnxd4gZNrarOQRg9OnT0qqtSnUlza
+/gTRpVaMOVWf3mVBPLbTLNC7JLG25WU4IIr1nw143s9VjS2vmS2vuBycJJ7g9vp+VeQt93gD
+0pRgmopVpU3oa1qEaqtLc9r1/wAI6dr2ZX/cXWOJ4x16feHf9DXC3nw71u3P+jCG6TsUcKfy
+b/GsOw8SaxpihbTUJlQdEYhl/I5rbh+I2uxgB/ssp9Wix/Iit5VKFTWSszljRxFLSLTRRHgv
+xESVGmSfUun+Na9l4Dkt4zd6/dRWVqhG5VcFj7ZHA/Wqs/xG12VdsbW8R9Viyf1Jrnr7U73U
+pfNvrmWZ88Fj0+g6D8KyborVK5sliJaNpem50PiXxUl/Amk6VEYNLiwABwZAOmR2Ht3rmYYJ
+pwfKhkkx1CqT/Ko+/erun6zqOkpILC8kg8zG/Zj5sZx/M1DlzSvM1jDkjaCO1+G+nXcOoXlz
+Pbyxx+UEBdSNxJzxn2Fc94j0m/XxFf4s7h1adnVkjJBBOQQR9arHxb4gLc6rcdfUf4U5fF2v
+hTjVbgfUj/CtHODgo66ehiqdRVHU019TLuLWe1lCXMMkTEZAkUqSPxqEcNVvUdUvdVmSW9uG
+ndRtVm7Cqgx1J5rF2vodEb213Gsfm9qu6PrF3omox3lq+COGQ/ddfQ1Rb7w9KaDzntQm07ob
+ipKzPetF1u113Thc2rd8PGesbeh/zzXnfjDwZPYSTalYBpbR2LyJ1aP/ABH8q5zRdZu9Dvxd
+2jd8SRn7rj0NexaJr1lr1mJrWT5x/rIWPzJ7H/Gu6Eo4iPLLc8ucJ4WfPDWJ4WpPNOHDDtxX
+qmueAtOvme6tZhYSnk8ZjY/Tt+Fec6xpZ0q+Ft9pguTt3b4H3Aex9DXLUozp77HdRxEKq93c
+onPHPFP5Cg5qJiBTyen4VkbkPYUhyADRnpxQTwaBgf6Uw9/rTzSKjSSqiKWZjhQBkk0gE7Ui
+9zXdab8OZ5bdZ9Uu1tAf+WSgFh9STgfrWovw20qaMmG/uScdQVYfyreOFqSV7HLLGUovVnmO
+KT1xXf3HwwuF5tNSjkGeksZXH5E5rlPEGlQ6Lq72EVwZzGil2K4wxGSB+dROjOCvJGlOvTqO
+0HdmX2FL/FTV/lVzTXsotSgfUI3ktEOXSPq3oPzxULexq9jQ03wjrWqWou7W0BhbJVnkVd30
+zWdqGm3ml3Bgvrd4JMZw3Q/Q9D+Fd5B8TrdHCtpLxxDgbJgSB9MAVf8AF09jrfgd9SgYOEKv
+ExGCp3BWHt1P5V1expyg3CV2jiWIrxmvaQsmeVE55oHT8KTgigHrXIdw4cCuq0PwNd6lALu+
+kFjZ43bnHzMPXHYe5/WtPwl4btrPT28Q60AIkXzIo2GQB/eI757Cud8Q+JrzX7kmRjHaKf3c
+APAHqfU/5FbqEYR5qnXoczqTqScKWlt3/l5nXQnwFouVMkd1MvVirTHP5baur4t8HcJ5SKAO
+9n/9avKAeKU59apYlr4YpEvBxlrKTfzPX4rzwZqnyIdOZiejxCM/qBT7vwH4fu0zHbNAzdHh
+kOPyJI/SvHeua1dJ8Ranojr9juWEfeJvmQ/gen4VaxMJaTijOWDnHWnNnWXvwxnVw1hfo6k/
+dmTaR+Izn9Ko+Nlj0qw0nQYH3JbxtLIQPvMSefz3H8a7nwx4ng8Q2rnZ5N1FjzYs5HsQfSvO
+tbvbC88bXkmpee1krGLEJG4bRgYz7jNVVjSULw+1+RnQnWlUtU+zqc16ZoPQ/Su50fQvCuv3
+MlvZTaikiJvIkKgY6eh9au6t4M8O6HYm7vLi+Me4KAhUkk/h9aw+rza5lax1PFQUuVp39Dzk
+nmkXGeea19ZOgmOIaOLwSbj5hnxjHbGKyVGT/WsmrO1zeMuZXtYXPSlWprM2ovoTeeYbYMPM
+8r72PauqsrTwdqV5FaRPqcckzBFLbcZP51UYc3UmdRQ3TONBODjtTga9Om+Hei2ltLcTXV4I
+olLsdy8Ac+lcjfHwr9hlFiNRN1t/dGUrtB98fjVzoyh8TRnTxMKnwps5/krmnKCGrV0dtB8i
+Uaut4Zd3yG3xjHvmur0Xwt4a8QRzSWNxfqIWCuJCoIz07fX8qUKbn8LRVSuqd+ZM8++nSnqc
+MP0rv9Y8JeGtAtI7i+nvyrvsVUKkk/lXJ6u2jZgGjLdgAN5v2gjnpjGPxoqUnT+JhTrqr8Kd
+jLOOtOrobU+ETZwi6GprcbR5hTbtz3x7V1Gn+A9C1XT4L22ub3yZhuXcVz1wc8eoNONGU/ha
+ZE8TGnrJNfI83yaTqAO2a7XVdK8JaLqD2dzLqTzIAW8vaQMgH0HY1jao3hk6eRpi3/2rI2mY
+rtxnnOPaplT5d2i41ea1ou3oYn8eTSk8U3uM1b002Ivo/wC0hM1rg7xDjd04x+OKhamrdkVS
+fmHrQK7CxsPB+qahDZ276nHLM21d5XGeuM81vy/D3Q7SCW4uLu7EUalnJZeAOvato0JSV1ax
+zzxUIO0k0zy1uoNJx2BrtfI8AAjdeXrY9Uf/AOJqzDZ/DyfhbqVT/wBNGkX9SMUvYt9V94PE
+Ja8r+44PPX9aWOWSF/MjdkYdCpIP5ivTT4A0C/h82wvZtp6OkgkUfp/Wuf1T4danZRtJZSLe
+oOdoG1/yPB/OnLD1Iq6VxRxdGT5W7epyLTSzEmaV5Dx99iabnkdsCgo0TOrqysvBVhgg0HuP
+asPU6bAc5wadngU3gZpwxtHFAyIcCgYxzSjp9TSEcCgAxk4rs/h3p0cl7eanMuVs1GzPPzEH
+J/IfrXGZya9C+GU8TRalZPjcxV8HuuCD/T862w6Tqq5zYttUXY4jVNVutXvHuruUuzElVzwg
+7ADtxiqkMslu2+CR4mH8SMVP6VteI/DN5oN0+Y2ezJ/dTAcY9D6H61hIC44BJxnAFZTUlJ82
+5tT5HBcmx23hbx1c292tvrFyZLQg4mdSWQ446DJz05rkL+8e/wBRuLx/vTSFz7ZNVx0xigDk
+mnKrKUVF9CYUYQk5RVriDH507uKsWOm3upSeXZ2ss7eiKTj6ntXVad8ONUuMNfTRWadSPvt+
+QOP1ojSnPZDnWp0/iZxnsBzXZalFNovw9t9PudyXF7cGUxnqqjB5/wDHfzrrtO8K6H4bjN9L
+87xDcbic/d+g6D8s15z4n1xtf1h7lQRbxjZCrdlHc+561vKn7GD5nq9Pl3OaNVV5rlXurW/n
+2MUdPatvwpow1vXYoJFzBGDJN/ujt+JxWJ/D616b8M7JY9Mu7wgbppAgPoFH9Sf0rPDw56iT
+NsTU9nSchnxK1FobG00yI480+ZIB/dXG0fn/ACrzXsO9dX8QpzJ4peMHiGJFA+o3f1rlccUY
+mXNVYsJHlox89QHBIo7ijHP40vfrWJ0CDvSnFJ0HWnY5oA2fDGtpoGri8kiaWMoyMiHBOax5
+pWmmeVz80jFm+pOaT+HBFJ2FPmfLy9CeRczl1Z13w5cjxUF/vQP+mD/Sum+JbEaBbL6zj+Rr
+lvh3/wAjbGfSF/5V03xNJ/sWzB7z/wDsprtp/wC7SPPq/wC+R+X6nlzDmhcZGaU5zQvUVwo9
+IUn17Ve0Rtmt2LA/8vEf/oQqgRyfwq5pP/IWs8f894//AEIVUfiRMvhZ7P4mbb4Y1Ij/AJ92
+H6V4Z+Ne4+Kjt8K6jjH+obNeHjnFdeN+Nen6nBl3wS9f0FFeifC5/wB9qqe0R/Vq87B4IzXo
+Pwt4utUP+xH/ADascPpUX9dDoxn8GXy/MtfFA/6Dpi9jJIfyC/415v3Nej/FA/6Npf8Avy/y
+WvOf4qeJ/isnBr9yvmN9e1eyeAX3eELQZ+60gH/fZrxzsa9h+H4/4pG3/wCukn/oVXhPj+RG
+P/h/NHn3jIlvF2pE/wDPRQPwQCsAYx1rc8Wtu8Wan2Hnf0FYfTGe9YVPjfqzppJezj6ID1HN
+L0zR1NL2xUGho+Hm8vxLprelyn8xXrXi1iPCWpkHB8nH5kCvItCz/wAJHpw/6eU/9CFes+MS
+B4O1EnoUUY/4GK7cP/Cn/XQ87F/xof11PFH5NJkYpX96Qjg964bHpFqy1C702cXFlcPBJnqh
+6/Ud/wAa9R8KeMo9bAs7xViv8cY6S+uPQ+1eSkelOikkhlWSJ2SRCGVlPII6GtqVaVN6bGFf
+Dxqqz3PW/F3hWPWrOS6tkC6jGuVI/wCWg/un39DXkbAq+COnr1r2/wAMawuuaHDeHAmPySqO
+zA8/n1/GvNPHemrp/ieUooEdwomUe5+9+oP51viYJpVInLgqkoydGfQ5k9/pTyOOvSm8DOem
+Kd7g/h7VxnoEfb8aTHy0vak9KBh1OPatrwrb6xJrEc2jx7pIz87NwgU9Qx9D+dV9D0eTXNWh
+som27uZHx91R1Nd14wvI/C+h22kaUPIM+7LKfmCjGTn1JPX61tTp6Oo3ZL+tDmr1dVSSu332
++Z0M/ifRrWU2t3qFuk4GJEXLAH0zjH51z/iPxBo+n6XI2kG0e+uVMavAq5QdycflXmLc/SiN
+GkcRoMs5AUe5rSWLlLSyMoYGnB8135mv4e8NXfiG4KQERwRn95MwyF9gO59q9BtfCPhrRSj3
+hjlk7PdSAD8F4H86xtd1d/COmWugaWQlwI988+MkE9cZ7k557DGK4GWWS4maWaRpJGPzMxJJ
+/GlzU6OjV31Bxq17vm5Y9O57/beQYFNt5Zh6IYsbfwxXK+NPEWq6CYRaQQiGYECdhuIb0x0/
+ya4Lwvr82harFIJD9ldgs8fYr6/Udfwr1XxTpyal4dvYSMsEMiH0ZeR/LH411Kr7am+XRo45
+UfYVlz6pnjmo6zqOqsDfXckwByFJwoPsBxVLgBqOTjNKR6cmvLbctWeykkrJCH7oPvXsXgJA
+ng60OOWMjH/vsj+lePckV7D4Bbf4PtR/caRT/wB9k/1rrwX8RnFmD/dL1PP/AByM+ML7/tnj
+/vha53A4rqviFAYvFUsmOJokYH6DB/lXLkZIrCr/ABGdGH/hR9EJ1496U8jpSjHf8qTHWszY
+Q9T/ACoPWl9eeaMHNAB2FJ1A+tOI9aT9eaYHV/Dtc+LF/wCuL/yFdv4z0G81/T7eGyMe+OUu
+29scYxXFfDvjxUPXyHx+ldJ8Sp5rfS7LyZHQmY5KMRn5a7qVlh3c8yvd4uPLv/w5zjfDjXfM
+5Ntn/rof8KB8ONdz1tf+/h/wrmTfXm7/AI+7jHH/AC1b/Ghb68OP9MuP+/jf41zXpfyv7/8A
+gHZy1/5l93/BOoPw413d1tf+/h/wqxp/w91q3v7eeQ23lpKjsRIScA/SuQF/eZ/4+58/9dT/
+AI1d0e9u31ezU3U5zcRjBkP976006V1ZP7/+ATKNezvJfd/wT1jxaSPCep9/3RA/MV4kOMCv
+bvF3/Ip6l0/1X9RXiWOeta4z416fqYZd/Dfr+gDPHGK9D+FuPP1U/wCzF/Nq8+HIA716H8Lc
+mfVD/sxfzas8N/FXz/I3xn8GXy/Mf8Uf9VpI9TLx/wB8V52QMmvQ/ihnZpXHeX/2SvPCMmjE
+/wAV/L8hYP8AgR+f5h29q9i8ADPhG27/ADyf+hmvHMYPfrXsfgEH/hD7X/fkx/32avCfxPkZ
+4/8Ahr1/zPN/Ff8AyNOpD/pse/sKxj0XIrZ8V/8AI1aj/wBdj/IVjDn1zWE/ifq/zOql8EfR
+fkgB+bjpQOc/SjbhvSjGV/CoLNDQTnxHp+e9wn869X8an/ij9Q/3U/8AQ1ryjQf+Rl07jn7T
+Hj8xXq3jXJ8Hah/up/6GtdmH/hT/AK6HnYv+ND+up4u45poACn9ae/B7Ug5U8Vxo9ITHHPSj
+kflxSk8c+tNUdD+VAjv/AIX3ZW41CyJ+VlSVRnoQcH+Y/KpfinCPM0yYDkiRDn/gJH9azPhp
+n/hIpQO9uf8A0IVr/FORfI0qPjJaRvwwtdid8Nr/AFqefJWxvr/kebnGTin9vqKQ9x3NOxwO
+O3auM9AjA460gFOA6UdO9Azv/hfApl1K5I+ZRGin0B3E/wAhVL4l7jrtoOcfZxj/AL6Oas/D
+G7WPUL60Y/NNGroP93Of/Qv0rV+IujSXumQ6hApZ7TIkAHJRsfyP8zXalzYXQ8xy5cZeXX9U
+eWcdKuaLJFDrVlLOQI0mRnJ7DcKpnJpFxjr2riWjTPSaurHr/iTwbbeIZ0uhctbzhdpYLvDD
+txkV594n0Oy0C4gtbe9e5utpM4KgBQcbfpnniq1n4k1mwthBbalPHEOFXIIA9sg4rNkkknme
+WV2eRzlmY5LE10ValOeqjZs5aFGrTdpSvFdCIDg8cV73Zt5miW7yfxWylifdef514TbwPcXE
+cMSlpJGCqPUmvZPFF+mh+FpUVgJDGLeIZ6kjGfyBNXhHyqTexjj1zOEVvc8XHUYpT098UAZY
+ccYp2OD8p+tch6OwwkkV6j8MroSaRd2pPMMobHsw/wDsTXmGMc9a6bwPqo0vxBGsrbYLkeU5
+9D2P5/zrbDyUKiZzYum50mludD8T9PLRWOoIvCZhk+h5H/s3515ucZ9K9+1bTYdW0uewmGFl
+XAOPunOQfwOK8Lv7G402+ktLpNk0TYYfyI9q0xdNxlzdzHAVVKHJ1X9fgVgCFPPfrQMY4pxz
+sx2zQByOw9+1cp3jD1NKRzmlxyeM0EdQD6YoAb2FOx0pccjHStDV9FutEnigu9gkeMSAI2cZ
+7H3p2dribSaRt/DgE+KCcf8ALu/9K6P4mjOj2R/6eD/I1g/DZM+JJWxnFs38xXQfE0f8SWzP
+pcf0NdkP92Z51T/fI/10Z5aeG5NA+8D7UrDaQMUKMmuI9IMYIPtV/Qwf7csBn/l5j/8AQqot
+jIrS8PDd4isB63Mf/oQpx+JfL80TP4X6P8met+LM/wDCLakP+mJ/nXiQ+91r27xRhvDOpenk
+tXiIwSB7V14z416fqcGXfBL1/QcMbea9D+Fi/NqhIx/qu/8AvV57jEYz0r0b4WL+61Nh03RD
+/wBCrLDfxV8/yN8Z/Bfy/MT4njEOl8/xS/8AstedY5Nej/FAf6PpZ775f5LXnOOfXNGJ/iv5
+fkGD/gr5/mKRgH1r2LwGpHg+z/35P/QzXjp6EmvZvA6Y8IWGe+8/+PtWmE+N+hlj/wCGvU8z
+8XADxZqQPH74/wAhWKB0rc8YDPi3Uh/01H/oIrGx0rnn8T9X+Z1Uvgj6L8kMPf1pBxgU7GR0
+7UAdPf8AxqDQ0fDwz4n00f8ATwnP416t4058H6l/uKf/AB9a8t8MLnxXpo/6bqa9V8YLnwlq
+R/6ZA/8Ajwrtw/8ACl/XQ83Fv9/D+up4kRSJxnjmnstIo69xXEj0hM8803HIOKkAySffg0qx
+tLMscaF3Y7VVRnJNAHc/DC2Lahf3WPkSNU/EnP8A7LVH4j34u/EKWynK2sYQ/wC83J/pXT2b
+ReA/CQM+1r+Y7vKB+857fQDGT9a8vuZpbmZp5WLyOSzsepJOc11VXyUlT69Tior2laVbpsvy
+IiOCPypwXGPYUh6mnBTyPauU7SNRnFJ2p49qTHzCgCxp99Ppl/DfW7YlhbI9D6g+xFe06Hrd
+lr9l51uw3AYlhblozjofUe/evDz6A96ktbu5sbhbi2meKZejocEVvRrOm/I5sThlWV1o0d/4
+j+HfmSvdaMUQnJNs5wM/7J7fQ1wN7pN/pzbLy0mhOOrpx+fQ119j8SdTtlVb23huwP4gfLb9
+Bj9K1ofibpzLiXT7lOOgIYf0q5RoT1TszKEsTT0ceZHl2cjjBqa3tbi8n8u2gkmc/wAMalj+
+leiTePtCbLJozSPngsiD9az7z4j3rAxadYwWanuTvI/QD+dZ+zpr7f3G3ta0tqdvVk/h7w9B
+4aQa54hkSBo/9TBncwb1IHU+g7VzPiXxBP4h1LznBjgjysMWc7R3z6k96zry/vNSuPPvLiSe
+U92PT2HpUJHzdR9KU6nu8kNEVCk+bnnrL8F6DcYOTTgOc96QDjmpAAV57VkbEZGBgmlPpSgA
+knOKXHDcd6BnqfgvxbHqcCaffSBb6MYRm/5bAf1x+daXibwra+IrdW3CG8QYjmx+jeorxpQV
+AYHBHII612Oj/EHULDbDex/bYRgbi22QD69/xrsp4iLjyVDzquEnGftKGnkc5q+hX+iT+Ve2
+7ICflcco30IqgqkMAMc9BXr9v448O6hD5dzMYg3BjuIyQfyyKgl0fwPqLGQSWiMe8Vxs/TOP
+0qXh4vWEkXHFyjpUi7nk2OAetBHAI5r0mXwl4OjBLartGOn2pP8ACqz3ngjQjvtLZ9RuExjc
+WYZ+rcfkDWboNfE0vxNVilL4Ytv7ir4J8Jy3l5Fqd7GUtIzuiVxzKR/QfrWVqgk8U+LLx4Z4
+YwSdjTSbF2rgDmunh8WXd34f1rU7iRIsKtva26EfKW4J9Seevsa85PXg8Cqm4xioxJpKpKcp
+y0ey/M9F8GaTDoN5Pc32qafueMRoqXAPU5JP5CtPxdHZa/pKW9tqlis8codd8wAPUEfrXk4x
+gcUnPHrQq6UOS2nqKWFbqe05tfRGtq3h6TSrVJ5L2yn3OE2QS7mHHXp04rHAIIp7fdzjjPSh
+ASR2FYOzeisdUbpe87jenXgAV2mg+GTZ61a3d3qenJBE4kIW4UsSOQMfWuOZcO2DxQAefX2p
+wai7tXJqRclZO3yPatTvdM1HTbqy/tO0Rpo2QMZV4JHHevM5/Cc1vaS3LanpriNSxWO4yxwO
+3HWsDBwc8YFO25Yc81rUrKp8UfxMKOHdFWjL8C7p2my6pP5Ec0EZVS26eQIMfU/WvSPBdrZ+
+HbC4W71OxM07hiEnBCgDA5/E15Ww5xz1705FIz06VNOooO9tTStSdVcrenoepeMbS08RWVst
+pqlgJYZCQHnABBxn+VcDq2gvo8cLveWc/mkgCCTcRjHWsvHGadtOfXNFSopu7WvqKlSlSSip
+aLyNXTvDk+p2QuY7uxiUkjbNOFbj2r1PQ5dP0rRbSwfUrRnhTDETLgkkk4/E14oPU9PSnFTx
+3FVTqqnstSa1B1dJS09D0nWPCuj6xq8+oDX4YTNgsg2sAQMddw9KqjwFowA/4qOM/TYP/Zq4
+EcHBpWGB1odWDd3H8wVGaVlP8Eej2/gjwxG2ZtU84Y6eeij9OareOLbS9H0O0stPtYENxJvD
+r8zFV77jk9x3rgFHQHp3rV8QavHq17C1vC0NpBEsMMTHJUAf45purHkdopEqhNTTcm0bnh/w
+0dO1y1vrzUtPWKH5yFuAWJKnA/OvQpLrSr+3ltpbq1lilQq6+cOQfxrwll3HB/zxQFI704V1
+BWSFUwrqS5pS1Xkj0W8+G9pMS+naqFXskih/1B/pVFfhjqfOLy1xnr83+FcURjnA4/OlRpBk
+BmAzzg1DnTf2fxLVOqtOf8Edq3w+htAX1HXbaBMjIC8/mSP5UJrPhnwsSdHgbUL8LgXMudq/
+j/h+dcSV4ORk8ZOabs5HAxil7RL4Y2/EfsXL+JJv8EW9S1S71a9N1eTGSUgewUegHaqjLnv1
+FOA57dKGGVJz7Cs229WbpJKyGnvnOKUfdH0pdpyOOfpS7cAelICNRkjHUUAYJ5zinKODjkYp
+QDnj04oGR9T75pMYHPenkcikYAfSgBhwTj3pqjOPapMYIxz1pFH8jQAwnuBjnOKUD5x6UpXH
+QD0pVGZOODQAxTjp1zSng+ppyqQoI70hXkY5NACYIxjrnpUmODjr60hTGBT2GMD06+1AEaDh
+j2/+vQw44PXmpABgkDrQy/Mc9sUANC8Lnjikxknv71IF9ecA00JhQOvPWgBpU7SSfQUDIOeM
+VIQdtJtwTigLkapk8cUrDIB6f/rqUAjPHPUU0jjGfSgLiFcAAjqKQjLcevSpDkdBx/Km4+Y4
+9aYhinOAOppDxtwSeKeoAxxmgjlevT0pDEccdu1LGuG56Z5p7DLcdPpSxryT7etADCuG59aY
+F+bpU2z5sZ701Vz75/SgBmPlH8qcBl+gA55oA+Y89KcBnB9zg0AIF6etKoAQn8KkC4Awckmk
+5GemOaBDMClxz/KlC9e2Kdj5uRxQBDswDTyuB7CnKh4P86GXIHPpQA04B5605j2H0pxXAwR1
+6U3qxHagBoA49cUgH3c81IPQDOaQDaRz1FAEb9vTOR+VORct7CnuvPTrSxqc5PrQAx16jPAN
+Ii/K3uc/SpXGFweppI1ODxyDigCPvnuMUgXkHHPWptuOcelIRnt2oAYVOAR1xzSkEg4Ax/8A
+Xp+w7QcY4pzAbRkc5xQBDg5AzwPWnlcqCM81JtDFV468fjQR8gwPrTC5XVcA/hxSLncfSpAT
+tPcGhF6/jSAjIPFIwITGCTmpNvzg5JGaV0+TPvxx1oAhbhRgc5pFXGc96kI5H19KNuO3rQBG
+V5x9OtIoHmDOR1qXAwAOTnofwoVcyYPTnNAEagletOZcsM47+1SIvy4496VkO4E/p+FAETL8
+wHanYGT3pcYdakCdSw70AQ7fkJoweWA71IRiPIGAe9GDtGe9MAAO1zjjHP51GBlR39qnAwhz
+xk+vXmowOThaAAruGPWjGWxj05qRkxgGnEEuF75xQBBtyOOM5pCNy81PjtnBzzSDPlg457fn
+QBGw4IBwPf6Um3v2zmpnUBRnuT/KmlcnPYnoKAIwMFSM8CkZfmA9PWp9uFB6ggcUhTcRnrQA
+x1G8jGDmiNRlgSBj3qRoztY9BkU6MDac8cnHHtQBExy/r3pI1GffGRU2wkr6noTQqjeCBn/9
+VAFbZ8rZHbGacExtz2zg1KEIjY4yCRj8qAPu47UACDGOeKQr1xnr0qTacduOc0bST04oAjAO
+1uxFJjnjp6VIFyvTHGf1pQCWAoARRjPqB3FNZcjHY4qbbuXjjIPU01l3cdDkUCGNgMQBn0zU
+SrhjjjGanYHGAePc00ID2GOelAxgAGPegAblA9BmpsfMMdqNvzjHbrQAx1y3GPWnRxk7j7et
+TqmWIA5ycikReuePqfTFMTuQFQD9T601E4bqPSrLDLjnjNMiT5iT6joKARGykgA9eO/1pwQn
+IwafsbLYz/k1IyfvCo96AuVypIBIwCvBB60MuODnPGD2qyIzsC/7PJHWhl5U47UBcgCAbc8n
+6fWnunyY9TgU8RjCnP8A9anlUEZ7k4xQBQweAeaAAVOe47U4DDZ/ClUY4AGccmkMjK4kGR36
+/hSsuE9Ru4HtTguJOM59KlUfKFYdW/pQBXxyvr1pBgEgqMf/AFql245Pp+dLsIYgYAz0oAhZ
+cbc5z/8AqoVGMmBjmp2BMqjqelOiXc53Z6Ht3oC5AB8wI5/rTmjIIJ5Pfn3FP2nHI5PHpT9m
+3aC2Bk/0oArlMMvPX/61SGM5PGDnoPpUsEBnuoIgATI4T8yBXefE3wjYeF72yOmRSLb3KMSG
+cthlPPJ56EUdRHnrKDAcY6n8eabsxGvc1ZaP90TjPB5NNVC21Cep7/jQFxhQAEDk5pir824d
+yMe9WNnyntzke3SmoMKpwc5FAyPbk/LyT1pzLucgjjjn1qZE3ZB5OTRgNIQRmmIh24GC3AyR
++VIU+RQTyf8AP9KnMZ3EDHenMuQp6Dae3vQBXKFvl2+vB/GjbtAI55PNTOvzDdjjr78GnGMh
+F4x8x6UAyErlVOB9aaUO7oBn1qxIuIlzx3pAmH/nzQCIgu6MnkDeMYNAQDOBk4/pU4GAOSRk
+EgUpTD4zxxQIhZMPgAdOPahY+pA4Ubjn/P0qZ1+cnoT3pQuRIQD0HegLlZk2xjPfkimKhbgD
+nOKtshKDgcDPFRrH8ykDk5PSgLjCgLcAn0o5eTng89akCcrjpxmk27j8wx1oGRYyAOehpygk
+rxzxTyvBGSTjGfxp+0MwA9qAI+wGfXPtTf8Almpxz24qfbhMk9AcEUNH+7UZwSM9KBXIZEBA
+zxnNM2Hg9jmrDJvIG09/w603ZsOexzyBQFxm3AU464OBRsLsDnnHNTspO04Pbn8KTZ8wIXmg
+LgqdTgAbgM+lAUFCTgck5x7CpV/1a5JAL9aFQbeMnPT9KBXISmSMjmlSMMcd896smP58YPGO
+/TinImAOOd2D+VMdyoE44ABB+vrTkiZmJ4PQ+9T+WOQT3wP8/jT448HcVPXAFArlcoSOODgc
+DjFL5ZbbyBgDNWtuF2qeAvSmCPdtzkDANAXIghyhxjilaMeXtwMdODVhk+bkZIHegp+6PsQf
+0osK5jFMy7SM+tOUZPyjPGPpT9u2Ynqc0kaqHU47Ui7iKmHJI/8Arcf/AF6N20A5GMnrT14D
+5yCB1H0r6t0+3hOm2uYkP7pf4R6ClKVgSufJ2FA7A9x1zSDGcA5OePyr67+zw/8APKP/AL5F
+J9mgznyk/wC+RU8/kPlPnf4f+E7HxXrM8N9O8aQQiQRpw0mTjOe2DjtWLrnh+58O67caddjJ
+jGUk6CRD0I/z611/hu+Gm/GCbd8sc9zNA3/Aidv/AI8FrtvixpdrceGV1F4s3NtIqo44O1mA
+IPt0p31DoeDGL58A8lv6UpXcPm7nvVh4yDkN0bkgexpFVy2OduQKsm47R3gt9a0+a5bbbx3C
+O7EdFDDJ4617R8YrEXXhe1vVGfs9xyfRWGP5ha8REbuAqKXZvuqOpNfRPiTS2n+GdzZOuZI7
+JTgjncgB/pUS0aKWzPnp491vkAHBbkfgKjVDmMgnO49O9XQA8JwM4fp65qMR/vkx83zH6cVd
+iEyts+UnnA9ulMUFs4A7Yx9KtFRuf3bNfTeg28P/AAj2m5iT/j1j/hH90VMnYaVz5gRcHd0U
+5H0oUDcMc/j3r6w+zw/88k/75FH2eEf8sk/75FRzlch8nBcLknkH/ClKAIueMDHPevq/yIe0
+aD/gIrxGNFPxoVQo2f2gwI/A1SlcXLY88cAyHOMZx19jShRsGWGMk9c19YfZYP8AnjH/AN8i
+kNnayIVe3iZT1BQEGlzj5D5RkU+UOnK56cUbf3jLxn296908Y/Dmw1WwluNLt0tr6MFlWPhJ
+fYjoD714k8WyUhvTnPUVSdyWrbjAm6MA9eMfpQUBcAEdRz+FWVgaVkiUZLkKo9zgfzr6hitY
+I4kQRJhQAPlHaiUrAlc+VGTL5wGIHJz14oK4D4OVAHIHSvZPi/ZIdM0y5RVBS4ZMgdmXP/st
+eSBSYXYZzgfjTi7oT00IHQGHgksKdb2k1xKqW8Ekjc8RqWIH0FdD4W8Ot4l1uOyJKQLl5nHU
+J7e5yB+Ne/afptjpFktvZwR28CDoox+JPf6mlJ2HFXPmGewu7RALm1mgPrJGV/nUC4d8kZGe
+PavqlvseoWzJ+5uYH4YDDqf6V4p8RvB0Xh68ivdPj22NzkbASfKfHQex5I9MGkpXdhtWR5+F
+wevb/GpMAyDPtx+VeyfByJG0K/DopIuB1Gf4a9JEEP8AzyT/AL5FDlZ2sCjc+U/L7cen8qHA
+O1lwBtz+dfVn2eH/AJ5J/wB8ij7PCf8Almn/AHyKXOPkPlF1+bPpnNLsB2jgAE/nXq/xmjRT
+ohVAAfPzgf7leh+HreFvDmmlokJNtHklRz8oqubS4uXofM8i4RCOO9AXDgc9810njxAvjLVF
+XAAm9OnArpfhv4Jg1RX1fU4RJbI5WCI9HI6k+oB7etNvS5KWtjz2DTr67jBtrWedA3JiiLAc
+D0oe2lt5jDNG0brjKupB6V9QPJa2caK7xQxj5VDEKPoKralpGna3aGG+t0njI+UnqPcHtU8/
+kVyHzSU3MSO56/hUiqFUDb1etrxLoEuga1LZPl0HzRyHjepxj8uld38JoI2i1UvGh+aPnGf7
+1W3ZXISu7Hk5RSxyeMk8fSpo4iCp25yRivUfizpqfZdNvo0VQjvE5C9cjI/9BP51xfhtFfxF
+p3GR9pQEf8CoTurias7GF5YPVskjkD6U0p8/Tquf0r37xvBEPBupERoD5Y52j+8K8KZdzZUc
+7TkH6URldBJWIjHtZgNuQvPpihoyqt8uPQn15qx5eRjHYDj6USKTGQ2eTkkn61QjnkX95wO4
+IzQiYI69OuKeQd33vz45oiU7u/3RjNQWIsX+sB6Dsa+rNPP/ABLbX/rkn8hXyyQd0vTliOOf
+SvqbT/8AkG2v/XJf5ComXE+c/FU9yPFeqKtxOFFzJ0c/3jWS15cqTi5n6jjzG/xrV8Wbh4s1
+Qg8/aJMcf7VZJQMzYA6Dn6Va2Ib1File01G3ulYmaKRZB3JIOa+lr6ztvEvh2S3Y5t72EEHP
+TOCD/KvmqZdskfJ3YH8q98+G+oi+8FWSk5e3zC34H5f/AB0ipmupUWeNeJvDN74b1Aw3iFon
+f91Mv3ZBjn+fSsfZtGc5I5P1xX0f4p8O2/iTRJbKXAk+/DIf4HHQ/wBPxr58u7SbT7ya1uUZ
+Jo2COjeuDTjK4pKxqeANKi1PxrYQXCiSFFaZlxwdoyM+2cV9DSQrPA8Ui5R1KsPUGvGPhFbe
+Z4pnm4Kw2hH0yw/wr22onuXHY+X7qza2uJrclg8UroST1INVY4wWjG45yc11njWCO28W6lFE
+SVNwHwPVgCR+ZrmQv+rkUY3M4OD7D+hrVaoxe5XkAAfvycUJ5oPDNnI79ODVgr8zcD/OR/Sk
+SLAOTyMYH50WC56D8HWZte1Is7EeRxls/wAQrq/iqSPCS4Yj/SU6H2Ncv8IFK67qP/XAf+hV
+0/xWIHhIE9PtCdPoazfxGi+E8SZ5PKJ3tjPTcfatvwUC3jjR2PX7QefXg1kgE278YBI4+tbf
+gtQPG2j9sTklfTIrR7ELc9118svh7UCpIYW8hBHX7pr58sdc1XTrqO4t7+4Dq2fmkLA8ngg8
+EV9Ca/x4e1H/AK9pP/QTXzdjEe7r1IJHvUU1uVPRn0zaXAurOG5UYWWNXA+ozXz540sVsfGW
+qwxgBfNDgem4Bv617r4aO7wxph/6do//AEEV4x8RVH/CfaieCSI8e37tf8aUN2OWyM3w5a/a
+vE2lw44a4jGPoQf6V75rV99gtIHzjzLqGP8ANxn9K8f+Htv5/jGwJUhYg8mPT5T/AFIrv/iN
+dm10vTiD/wAv0bH/AIDk057pBF+62O+J1qZ/Bk0igboJo35/3tv/ALNXh6IViI9VH86+h/F0
+AuvCWpxFc5gLAe45H8q8DVTjjBAHf606eqJqaM9J+D9riHVLpx8+9IgfYZJ/mPyq58WdQlg0
+eyso3KrdSkuB/Eqjp+ZH5UfCZSukahxgG5yP++RVP4vAk6NjsZj+iVO8yvsHP/CjUJrfxN9i
+DERXMLZTsWXkH+f516D8SLRbrwNfkj5odkin0wwz+hNeb/DNdvjOy9Sko/8AHDXqnjf/AJEv
+VcDP7n+ool8SCPws+e4g6rF8xUMx6H3NX9DeRtdsMOxBuI+Nx45GaplMIhOcc/h1q7oi51yw
+J/57xk/99CtLGdz6TflD9K+YJJJPM4dyORwfrX0+/CN9K+X9uXUjOcEn8qin1NJ9BgJkkBbL
+AEnBJPavpPw9j/hHdNH/AE7R/wDoIr5xVT5wfHTjjsea+j9BGNA07/r2j/8AQRTqbCp7nhfj
+na3jPVFJwRP09eBXt/hazWw8L6bbqAAtupOPUjJP5k14n44B/wCEw1Mjvcf0Fe7aR/yBrL/r
+hH/6CKmeyHDdnifxAvZb3xdeLKcxW7CKNT0UADP5nNdv8Kr+W50W7tZXLLaygRg/wqy5x+ef
+zrz7xbz4w1P0+0tj25ruPhKFEWrYzndED/3y1VJe6TH4g+KtoC2l3IUb/wB5GT7cEf1/OnfC
+kYTVs9d0fT/gVWfigpaz0wYz++bP/fNRfC7OzVMjAzF2/wB6l9gf2zofHdgdQ8IXqKuXjAlX
+22kE/pmvJ/DSgeIdO3HP+kJ+e6vd54lnt3icZR1Kkex4rxTRbZrfxNaRSDDxXaowHqGxRB6N
+BNapnp/jf/kTNS/65jp/vCvD3CtLg5+YZ578V7h43/5EzU+cfux/6EK8VZNsqcA9Afyp09hV
+NxixgfKPvcdTStESGwQoO3n05qcKDxjngYH1prREAKFHDAGtTM5Ikl8bQMnqPpSwnLBRz0x+
+VIT+8QBMNuGfyqS3I2jPoB+OKg0ZJ5ZJbnBLfl0r6k0//kG2v/XJP5Cvl0ZMjkE8Ec19Q6f/
+AMg21/65L/IVEyoHzv4qx/wlep/Px58n/oVZbgecVIwQBkV9Gz+E9AuZ3nn0q1klcks7ICST
+WN4n8L6HbeG9SuINLtkmS3ZldUwQcdQaFPoJwPDJgplXnOPX6V6F8KNZSzvJ9LmYBLkK8ZJ4
+3gcj8Rj8q8/nH7wYULgAjFTWLbDujYpIu0qw/hPBz+lW1dWITsfTZ54FZFx4X0e71c6ncWEU
+t2VVS7jI46HHTPv7CqnhDxIniCwcOQLy3IWZfr0b8f55rpKx1RvoyGG3htxiGGOMeiKBU1FF
+IZ88eIZ/tniXVJSMk3fX2BOPwxWOqfdBGfmbP6V6fqXw4lufEcpt5fKsJcSeYfmZWycrjPPb
+8PpzxGpaDeadrkmlNEZZtx8sIpPmAjIKj/OOa3jJNGDTuY6KPNdAvfA96ZGA20NyBz9etdpN
+8OdZg02a/kEStGu/yN+XIHXkcZx/KuMiVjgMCuep/OmmnsJpo9E+EYI1rUCe8A/9CrpPiqce
+ElOM4uE/ka534TnOuXpBGGtQePXfXRfFY48JKf8Ap5T+RrN/GaL4Dxgt+4kKqOq9T7Vv+Edp
+8caUMjPn+nXisFgRA+euQQDzxXQ+Fsjx1pO8Yfzs9c846flVvZma3PbPEH/Iu6j/ANe0n/oJ
+r5yKnywMnGTz+Jr6YvbZLyymtpCQkqFGK9QCMVy2n/DnQbGeOYpNcNGdyiV8jOc5wMZrOMlE
+1lFs3tDgNroNhAwIaO3RSD2OBXinxBKyeONRYfNgoPyRQa9r1jVrXRdNlvLpwqIOF7ufQe9f
+PWoXsuo6pLeyr+8nZpG+ppwWtyamyR3Xwsg3a5cS8Yjtz29SP8K0fi3N+40u3B+80rkfQL/j
+TvhLb/6PqVwf4jGgP0DE/wAxWf8AFaXfrVlCCMpbk/Qlv/rU/th9g9IiC6loKZwRc2wBz/tL
+/wDXrwBMpHsZQNp5Poele7eFZPN8KaW+c/6Og/IY/pXiuqw/ZNUvYcAhLqQAe28UU92gnsme
+ifCgt/ZWoh+ouQP/AB0VT+La7v7IwQD++x7fcq78K8/2VqBJzm4z+G0VU+LI+bSD3HnY+vyU
+l8YP4DiPCuqJoOrRak8TzJEHGxCATlSO/wBa6jX/AIlWmr6Hd6fHp06STptDM4wDmuE+5Aef
+l7+xqAsQqfKMEfhVuKepClbQeUPlLxn5uAas6MFXW9P5wRMgx6fMKiGcRjAUGQ9vpVnSSP7b
+sBjkTx9uvzCqEfRD/cP0r5kxhlx6Nx3HFfTchwjfSvmmTaJyBjIyD784rKnszSpuRRj/AEjc
+Bgdefxr6O0H/AJF7T+c/6PH/AOgivnaIqHLFhwxBH519E6D/AMi/p4zn/R4//QRRU2CnueJ+
+OFU+LNSzxiY/+givcNJ40ayH/TCP/wBBFeJ+NmA8UamDz++yCex4r2zSf+QNZf8AXCP/ANBF
+E9kEN2eGeLyB4r1EHobhscV2vwlYNDqxzn5oh+jVxHjRiPFeoL3Nwx464rtfhGu2DV+MfPF/
+JqqXwij8RofEwf6LpnGR5zd/9mo/hjzDqP8AvR/To1TfEr/jz08+krf+g1F8M8BNSXGMGLn8
+DU/YH9s7kTobhoQfnCh/wJI/pXm2qWYtfiLCMYSW4jmX8ef55rq728+zeOdOhJ+W5tZE/EHd
+/SqniezH/CRaHegdZhG2B78fzP5VMSpamj42APg7UQe8Y/8AQhXjQC+YQrZKjjj2r2Xxnk+E
+NRAGfkHH/AhXjcePNCcKuAcke1XT2IqbkoiHzY+YgA9Peq0iFguCQpI6/jV8gfPx82MBuncf
+41UZVZ1Xjblcn+daEHGsQxXcD1Hf2p1uAxHGOAeP901X+ZWxz94cEU+0YhVYZBwP61JZdPyv
+IykKvy++OK+otP5062P/AEyX+Qr5ZLfK5wDjH48V9Taf/wAg62/65L/IVEyoHhfiPxPrtt4n
+1CGHVbqOKOZ1WNZCABk4rNk8S61ctJBc6ndSQMArxtISCpFReLML4v1PLAE3DD3+81ZzD/S0
+Q/L0ycfrVpKxDbuLOcSnfknjk9xU9vu24CjgA4x2x/gKdb6bqGrXZWxsprkqBuWJc7eO5rrP
+C3g/WI/EmnPfaXLFbo4Z2ccDCsfXucfnQ3YLXOh+FSA6jrMmMHEQ49w3+FenZpiqqngY+lEk
+ixozscKoJJ9hWMnd3NoqysLvFQ299bXYc206ShGKMUbOCO1fOF54g1W/kkaXULoxTMx8vzW2
+jnpj0rd8F+Kf+Eb1PMpP2Gdtsy+nH3x9P5ZquTS5PPrY96qFraI3AuPKTzguwSY+YD0zTopU
+mjWSNg6OMqw6EVJUFjJFDoVYAgjBB7183Xdq1jqd1aNgGCZ0574JFfSZ6V4j8RtMNj4te4Vf
+3d4nmL6E4w38s/jV03rYzqLS5ofCJs63egjkWo/9DrpfixgeEMnI/wBIT+RrmPhC2/Xb7JyV
+tsdf9vP9a6b4tEDwdkn/AJeE/k1D+Ia+E8ZfaYCdx+906d66Twv/AMj5pOON0vOef4c1zIkU
+WrDtuGMfXmui8KSq/j7SOf4+uevy1rLYyW57rqty9npN3cxgF4YmdQ3TIGa5bwN4ruvEn2xL
+1Ykmh2sojBGQcg/yH510PiM48N6kf+naT/0E15F8N78WniuFH4FyrRHJ79R/IVildM1k7NHV
+fFSxd7OwvU/5Zs8Tc8YYZH8j+deTF/njyxHBwPwr3/xtYi98I36AEsieavsVOf5Zr5853RNg
+Y2/0xWlN6ETWtz234Z24h8MvMM/vZmPPsAP6VxnxJulk8V3KFsCGGND+OD/WvRPAkJg8F6ap
++8yNIT67mJ/kRW4/2Us3meSW77sVnzWk2Xy3ikc98PJxP4KsMHJTeh/Bj/jXnXjW0MHi6/Aw
+Azh1PoSqMT+pr2qLyiMRFCv+yRXk3xPTyfEsLgYD24Yn1IOP6CnB3kKa906D4VjGk3/zbv8A
+SOPptFU/iyQP7JLHAAmP/oFW/hU4fStQIGD9pwf++RVX4tHEemfNjiYY9fuU18YvsHBaVpcm
+tapHYRSrG07AK7AkKduen4V02o/DS807S5buTUoHW3jZ2URkZA7CsjwK4PjHTwUG4uASf+uZ
+r2DxQceF9TP/AE7v/KnKTTQoxTTPAwpXyccsH6fU+tW9MP8AxO7Fcc/aE/8AQhVFCoMDDJyQ
+QDxV6wOPEFkOcfaEx/33VvYhbn0LJxGx9q+a7hD9tZSu18twf/rV9Ky/6pvpXzXeNs1BiD1L
+c9+T/hWcOprPdDFVlmf5hneQOOOpr6J0Hnw/p/8A17p/6CK+dSfmZiCR5h4/+vX0VoP/ACL+
+n9f+PdOv+6KdTZCp7s8Y8ZpnxVqh5/1hP8q9s0n/AJA9l/1wT/0EV4t4uVj4r1YKM/vOmOnA
+r2jSf+QPZf8AXBP/AEEVM9kEN2eF+Msjxffsy5X7Sw9+ldv8JVxa6m2QcvH0HpurjPFibvGN
++vUG5Ykdq7T4Tn/R9UXuGjz+TVcvhJj8Rd+Jf/Hlp2enmt/6DUfwyA8nUO5/d8468NT/AIms
+VstOHrI//oNQfC4/utSG7ODHx7fNU/YL+2N8fX/9m+JtFvO0XzH6bxn9K7HV7U3VvbOgy0Nz
+FIuPTcAf0Jrgvic23WNOJ+6ISf8Ax4V3vhy8GoeHrK5zktEAT7jg/wAqT+FMa3aKvjQf8Uhq
+P/XMf+hCvG43JkO7JIQEtj2r2bxlj/hEdRz/AM8x1/3hXifRivX5ORVU9iKm5pFjtkBGM8nP
+1zVGU5IyGHI7/Wre9i0rlhjcRyPcf0xVWQrvTJ7rkjnvVkHDq45zzhhnNLCcYxnA4yahVhvd
+hn73X6VIpAUkdu/6VJqyw7AiQDOMDA9eK+rNPOdNtT/0yT+Qr5PkwDwxwQOMexr6u03/AJBd
+p/1xT/0EVExxR85+MCV8W6nhcH7Q3/oTc1lvIVu0yOgHXt2r1vV/hPLqur3d6NaWMTuXCG2z
+tyScZ3c9apSfBeV3V/7eXI6f6If/AIuqUkLlZe+D14r2+q2bYEqSJJ/vKRj/ANl/WvT68Q0P
+d4K+KkWlvc+dHIBBI+zbneqspxz/ABFRXtw6VEtyo7WFrB8Y6gum+FNRuCcHySi+5b5R/Ot0
+9K8m+LWvq81rocbdP38+PX+EfzP5UkrscnoeWBv3i5PqeT3qadwUZs5bJPoKo+ZkqCv3Sx6/
+WrEko+ysCMN1H05rcxO/8JeOZ/D6i2vVaawGDheseT1H6cV7LZ3tte2qXFtMssL8q6nINfMB
+b9xKMgnaDzz3rb0DxfqHhjU5XtTvtnfMls7fK3+B9x+tRKN9S4ytoz6MNYviXw7B4i0xraTC
+yrloZe6NjH5HvTvD3iOy8SWC3dlJxgb4m+/GT2I/rWzWV7F7nknwtsLjS/Fuq2N3E0VxBAFZ
+T6bhgg9wa3fi5x4OXr/x8p/Jq7YWNsL/AO3CMC5MflFx1K5zg+vNcN8YQD4MTJx/pSfyaqvd
+itZHiyOpt2GOT05+tdF4SyfH+iNtxmQA+3yf/rrlEb90p44br6V03gpy/j7Q+Tjf6dPkNaPY
+zW57z4k/5FnU/wDr1k/9BNfO+n3b2V7a3iuS0Eofjj7vNfQ/iXP/AAjGqf8AXrJ/6Ca+aVl3
+RsBxtPH+fzqafVFT7n1ITFeWfZ4Zk/NSK+ZtQt30/VJ7Jhh4ZHjye5HGcV7x4B1H+0/BWnTF
+svGhhf2KEr/ID868w+IGk+V8R0RRhb9o2UfXap/VT+dKDs7Dkrq57Lodv9k0DT7fvHboD9do
+zXz3rtytxqOpz5z5k78n/fBr6OupVs7GabosUbN+AGa+W5Zd8Ersxyx5PocinDqKfQ9a+D0+
+V1WA9f3bjj/eB/pT/i1EEm0u54GVljJI4/hI/rWH8H7srr00BcnzLZuO3DCus+LMJbw3bzj/
+AJZ3AyfqDRe0wt7hF8JZvO0rU+RkXQGAMY+QVX+Lm4RaWQPlHnZ/8crH+FGsQ2mtXmmu+0Xi
+q8ee7qOR+IP6V6L4q8OReJtKNo8vlSqd0UmM7T7juKT0ldgtY2PIfADB/Gmn8ZcvyfYRtXsf
+ikj/AIRXVM9Psz/yrm/Bnw+bw7qTahd3aTzBSsaxqQFzxnJ9uKl+KGsx6b4WezDDz70iNR32
+ggsf5D8aG7yQ0rJnjvmjyofQHIx9Kt2EgbxDZ54P2hO/+3WYHBgRVxu//V/9erlgc+JbA+ty
+mf8AvutXsZLc+lJf9U30r5ouJd+oOQc8HPvzX0tL/qmHsa+X7gZv1YLwR07dqzgaTJmkCxSY
+AILcj06V9G6Cd3h/Tyept0/9BFfNRIMLgg5JznNfSmgknw/p2ev2aP8A9BFFTYKfU8Z8Xt/x
+Vur5YD96R9DtGK9p0RxJodg69Dbxn/x0V4f4vyPG+rjJXMucn/cFeo/D7WY9T8LW8SnE1oPJ
+kX6fdP5Y/WifwoUPiZ5h4wjceLtSz0+0E/mB/wDWrs/hIG+xamzd3jHT2P8AjV/xT4DbWtU/
+tC1uY4pJMeaki8EgYBBHfGPyre8LeHU8OaR9kEnmys5eRwMAn2HoBiiUlyhGL5jmvii4W10x
+cnJkkOB3+WovhYVK6oFIODH0/wCBVj/ErV0udfgs43DLZowbB6Owyf0ArS+Er7/7XOOf3Wcf
+8DotaAXvMrfFUqNU08MM5gYH2G6t34Z3vn6JcWpI/wBHmyAOwYZ/nmue+LLqmradnr5DY9/m
+pnwzv/J1xrXzMpcQnA9SoBH6bqdrwC9pne+NmK+DtRI/55j/ANCFeJLJ/pAIB/1ZP6V7V47O
+3wTqh9Ix/wChCvDVf9+ACfukcfSinsKpuabSp+92sTGRkccD/OKreYpUPjGMcChpy8chXqcd
+/XtVUygq2QCCQBjvWhBxoJYsASMds/XNTiTjAHXk57Gqm8bn546mpSTtDK2c4/HpWZsTvuZc
+HoMD2r2O1+MsENpBD/YsrbEVS32gdgO22vF2bIDcnv8AWpUO5oyWIyo5/Khq4r2PZv8Ahd9q
+Dg6JKM4x/pA/+JoPxutw2P7Cl6Z5uR/8TXi7f6xduckfnzSyttbJJIA/wpcqHdnbz6r/AMJN
+8SbHUIIGhNzdQ4jLbiu0KvXj+7X0QOlfPvwo086j45juWUMlnG0xOOhI2r/6F+lfQQqZDiV7
+26hsbKa7uH2wwoXdvQAZNfMOpapNrGuXepTH95NKXwecAjgfgAB+Fev/ABg1w2HhhdNjk2zX
+rfNjr5akE/rgV4bDIoumzgruHNVBaXJkIWXcAWGctViRv3B5xxyMcVnFv3o9cnH6VPJI3lBW
+B9Dk9aoVti+kwPmjBB8vjjvUEkh+1MqkckGmqwkZ8OQfL5468VA0gecAYIwDjNDYrG5omvXu
+hakl5Yy7JkUAqfuuvdWHf/OK+gvCniqy8U6SLu2+SZeJoCctE3p7jg4NfMccnzEY5Cj61o+H
+PEN74c1VNQsn+ZBh0b7si5OQf88GpkroqLsz6rrhPizY3l94LkFpD5vkyrNIAeQgByQO/Wuk
+8O+IbLxNpMWoWL5RxhkP3o27qfetVlVsgjIPFZp2NGfJEZxbqM/eJx6k5rV0DVhpGv6ZqbxP
+KIW3+Xnbu4I644roPiX4N/4RvUBe2KbdNunO1R0ic9V+h6j8u1cI023ySFyBnIz+da3uZWaP
+W9R+MMOpaVd2i6JInnwvHvNwDtyMdNvNeWh8q4z2qoJMqwJ5yefzpwfcpX8entQlYHdnoXgr
+4g/8IpYT2cli10ks3mIVl27TjnsfQUzxL4+tdd8QaNqR0t4W09y0iecD5g3KQM445Hv1rgYn
+Im2HJywxnikmf5wxBzt/qKLId3seu6r8XodR0i7sxpMkLTxPHvM4O3IPbbXlssx8phnqxI/T
+/CoQ5IGcZwe+OxqOZsxyKPU8A8UJW2E7s6Hwj4lXwxqttqXkNcIFdWiDbc5Hrj6V1nif4mW/
+iTQp9MOkvA7lHVzOGC4IPTaPcfjXmHmkwRg5ypzj/PtUsTo7fKpwRwCfrRa7HqieK9kjnlnj
+kaOSNso4ONpAHNepaF8X5YbVYdXsTM6jmeAgFvqp4z9D+FeR5VvMC9T1HrxU8cgxuBwwGfxp
+tXDbY9kv/jNYx2rvZaZO8oHHnOFX07ZNeY67rd7r+oi9v5Q8pXACjCoB0A9qxEbCHHAPUnv1
+ppdiiknIIGeKSSQO7NFZP3MZ7YqzFdfZdVtrplZ/KlEhGcZwc4/Ss0P+4jA5+XK4omkJYHoS
+Cck1RNtT19vjPC0QP9hyYPH/AB8jj/x2vLZJN92PmwNg6fhVQMfsqqTweQT3p/mbpY2YnJXO
+MYpJWBu5MrfI+OePpzgV6npvxWhstMgtv7IkcwRrFnzwM4GM/dryVHPltgDI7jtwKnST5ZBk
+UNJ7he2xtavqy63r1zfiHylncv5ZbO3gd/wpNE1690DUo7uycKWUh42+649DWPGds3pkkc9+
+KY0hMseW6DP609LWJ6ntFl8VrKWL/StNnjcdRG4cfmcVla98VpJbKRdItjbu2B58zAlfoo4z
+9a82ScBeW4757/561FPODAw4ySTxS5Ylc0iw9y8iJJJKWdt24nk5PU10vgzxinhVr3fYvcm5
+CHAk27du72PXdXGNMq20eDngmnJIcFMkfL0FN2YtVqdX4z8Up4nu7adLY2/lRlCDJuyc59BV
+PQtVbR9Utr9AX8ltxjzjI4yM/Q1gTSI3XGQOuanEv7o/xE8BienSmkthO+56R4h+JEOsaFd6
+eumvGZ1Ch/OB7g9Mc9MV59HIDKNwIyOT+HaoZZyy7sglTx78Hr+dRJJ8wbkjH1xSSS2Btvc0
+lcmCY42nCkYP61XM/DD7q4Ax+VRCXELbgSMA+w5qEOMOwHI+9+lO4WOX6Oytj/CpMjy1G/gj
+oeKr7gHIz2608NmMAniszYt5zG3zdB0z7inhv3qAkDt+HFVNwKAg9B/hT1cCRTjA/nTESuw3
+pj5SMgnNJIw8z1OelQM+GGW4pGbOT9KAse//AAS03ydBvdTZfmupRGp/2UH+JP5V6lXNeAbD
++zvA2j25GG+zh2+rfMf51tanfJpmmXV7J9y3iaQ/gM1k9WWfPPxO1ptW8b30Svm3tQtun1Xl
+v/HifyrjEZo7kFQAwZT0qGW5ee9mmlYtJLud2J6k5JP50hkBnZjgfMOOoxWvSxA7d+9BHY8c
+fSpmkzET9MZqoWAmAzkZyeKk3MV+9jvQFizA7NIyq/O3sPaoGc+YAp6CmwuA5IzkoT+lM8zd
+KrHbjgUBYtBiGbIGCuRx70xHIZwCMjOfzNRsQJSuRyDznpzUaviQ8cY4GaAsdb4G8YXHhLW/
+Oy0lhMcXUI7joGHuM/0r6atLiG6tIri3kEsMqh0dejA8g18cCTDN2GO9ez/BjxfuDeGbuTld
+0lmT36l0/DqPxqZLqNM9W13R7XX9GudMvV3QTrg46qeoI9wcGvlrW9KutC1aXTLzia3cqSB9
+4YyCPYg5/GvrXrXjfxx0ICKw16FOUb7POfUH7p/mPxFKL1sNo8eeQ7z/AHeaZvO5iOx9faoy
+/wC83A4HOKRGG4nGT2z9KoksI537ic7WH40krEy4HIPTJqEP3HHIOKSST5xj+dMC5HMA244x
+tP1HFMZjtfnoTio0bJBx2OaaTgHjOTxzQFiSNsqvOMnkfgakQjKHPy9OvbmqaPwBwDkVPHjf
+GM4xnOPT/P8AOgCSN+JADnv1welPjfCsfp78YqrESC4JHUc06CQ7SFOOm6gViwsnB7nAqMHM
+Y56Dpj3qMEhSR6Dj86a0g2gZ6DGBQOxdV8xJyAcAYPT1okkJwFxgCq7PmJCcYxinSPgDJxgc
+0XFYsLIxgQKDkZAHfNPaba8WAdoBHXnHpVHzMwAdAv8AjU+7/VngdulO4rEof92Rn5ueRx6U
+plyuAeOT/KoN/wA5H8ODyKaCcswJ78/gKAsXYZiJNoOcM2O3amzPiXOT0Hb3qFZSZdxPIbn3
+4pssjecQMnnIwfegLal5ZT3HPXj15qOaQmKQc8HoOe9U3m5JHdeCfpQshMROe9FwsW2lzbx8
+kFc8U+OUF8g8bSB+VU1f5Uyeuadu3DIHPbigLE8kn+z16U8NlQNwxyP8/lVSVzsGM7Rz9KVW
+3IACCQOp/nQFi84zC3b5gMfhTEkbzMngNwTVZZhjnrkGlWYqqdBhqdxWLSOWiYnvjkd+aZvz
+uIAweKhjlbawxxgDr70xWCrnJ+6e1K4Iwmb5jxgdakQkqv5Z9qhLZZvftTs5Ud+Kk1Jckr6C
+nbgAuTz9OlRZ+QDsOlJu4XIyaBErtkgbht5/Hmn28DXd7Dbx5JldYwB6k4quT2HrW94Ltxd+
+O9EtyM7ruP8AQ5/pQwPreCFYIY4kGEjUKo9AK5D4q3v2H4c6q4bDSqkI/wCBOAf0Jrs68x+O
+dwYvAscQ/wCW12g/IMf6Vmtyj55LHzGwf4Tj8ac5LM2SABggVEpHnkc4Pv1pjHdnnjA6VoSW
+HcicDsODinbmIwDiq7HdIOc8YqTO0cAY9/egBY5AD0ycY5+lNDDeDnApiPhuOcrTVYB+lAFk
+y5kB28kfnTc5JHfGRUYk+cDr2FNJw5B9KAJi3J/z2qxYahcaXqFrqFrJsuLdxIjAdCKqMw9e
+R/gKbkYAB5xznuc0MD7B8N65b+JNBs9WtSNk6ZK5ztYcMv4EEfhUfivRhr/hrUNMIBM8RCZ7
+OOVP5gV478D/ABV9j1Gbw9cP+7u8yW2f4ZAPmH4jn/gPvXvY5GTWdij4vclZfLIIKkgg9c80
+it82STmuo+JekjRvH+pwIu2GVxcR+mHGT+pI/CuRJyRnrWiJJd3LD6UM3zqd351GGzG3165o
+Zvu564oAsxsDIp5/nTd+QCeMnkUxCCUPPQ01mwc560AOycDnr7U/c2M4wRzkVAD8h6elSK2f
+pQA5GzLIDyMjn1p6SYyCM8DjNRBhvIVewzQhBVhj8fXmgCZWPzAce2KRmUKeijAx3qMtgHp/
+k0O2cknPAoETE5jU8YxTmI2jjqD1qEtmEdRx1pT0XOOhNADlyUHXBP8AjUyvhY2Jzgnvz0qA
+sPJUDrQpwi569qYEwf8AeHHTBpVcKWJ5Jz/+uoWb58DpyBQG+bdnqeaALAkA6HuCRTZXPmcf
+r25qIMMnIxg01z+8XJ6jpQBNw2CB/Cfw4p4O0EAHknHNRxlTICTuGP6UjSbuegJJxQA8ONo7
+U/cRjBx2/wA/lVbJwOn1p+cOMmgCeVyQOe3T60iviIDJBHc8e9QluQQOhFJ5r8YzggjNAWLO
+7I64Jxj8qRJFCg9Bj9agVjtA7n34oBBx360BYnSYAcD2605SX+YkDFV4mYAcnb3FOLkBT0Jz
+QBkZyaepwnA5P6VFnDCgHAz3NSWTbic8dqbzgd6TfwKaD8tAh7N05zXYfCyPzvidoYPaSRvy
+jY1xhPA9ea7L4VzLD8T9EZiADJIn4mJwKQz6uryL4/SY8N6XHn712Tj1wh/xr12vG/2gz/xJ
+tFHrcSf+gikgPBhy4xxQxIJpg+9Sv055qhDgcPnoRUm/OADkHioCQCetSHtg+2fxoAVTiQcZ
+AB4/Cmg/MT0/WmA/MMfqKM8ZBoAk3YYGjI3njtjrTC2f8aUH99mgB+7nn0pA/THbik3c8dvT
+6U0HBH0/KgC3ZXs+n3kF5auUuIHEiMOxByK+u/C/iC28S+HLTVbb7syZZAc7HHDL+BFfHXbi
+ug8N+N9f8KJKuk3vlxzcvG6B1z0zg9D9KTVxndfHpYR4n0yVGHmvakOPQBjj+Z/KvJiTuq1q
+mq32s6lLf6jcvcXUpG+R/wCWOgHtVPPzCgQ9D174o3EYpq/WkY5OBTAlQ/MMnHFGTgexpqn1
+5AoLcADHWncAz06jipAwDHHTpzUPBwQBTwTk49cUASBgDgDrQCA7Dnr/AFqMNzjHFCty2OM0
+CJiykHBwe/50hIJIUEcdPwqInrnpQHz+WKAJs/IPm7UbumD2zTM/LxycUgbkfSgLEobMa/Ng
+/wD16XcdijNQqRj1OOn40vVRQFiXILZx1zxRuGR6/wD1qizk4Hr0pASHz096AJt2Yycc5656
+8UOw3DPBxUa9Dnt6UhJ4B60AWVfG1sn7p6Uzce5GT/hUan5uWxx/Slz07c0AOB4FPDc+2aiB
+wQAcUBgDwcdaAJnbABwfu+tMXJVcdOn0pu4YwcdB0pgOD2/GgCbdg8YJFLuIU9PrUY6cNwQa
+QnGBnI7UATxv0H160jOR8w6dPpUSlvXvTvvcHPvmgDP3YajINN7g0dutSUPDcY9KQ88e5pM4
+BHegkY60AKxOOtbHhO/GneMdIvXOFiuoyx9Bnn9KxT93PejkNkHnrmgD7jzXjn7Qin+wtHfn
+AuXH/jtemeFtXj17wzpupxtkXECsfZhww/PNed/tAQ7/AAlp8uPuXgGfqjUkB89AgPkUE0zO
+cYpSePw4pgLn5qUn1P0phOCKcM4zmgAPB5FA/p3pGxn+dIDzmgB+SoGD+VGSGUmmg/y6UZO4
+YoAcD1PGaTPTnFGevTPamimBIvTr+VGcr0+lMB9KUHgYPNACjjPegk7hgGkyMGkJy1ADwTmk
+Jyw+tJn5jzxSZ4A7d6AJF568elLzjpzTAeOtG4knmgBc8Cng5bmoh2HenA4bNADgfmzSqcM1
+Rs2Bj2o3fP15oAeTkHmlHU+lMzx70A896AJP4eKPT+dIDxz29KTP4UXEPHAOKUE7RTQeBzik
+yMUXAcD8wAo3fNxzTQfxoJy4H40XAkUnAwaa3J4pAf8A9VGctTAkAz6cChmPAwMUwHjjjilJ
+74570AO/iGOlCng4JBphPI9KM5UjHfmgB/Ufh3pMjd7U0MOBnjFITke2aAJgSByMcdqD09Kj
+VuMdRnmnMSe/J/SgQKeD65p6tkDLY96iHB/HpSr1H5CgZTzjjtQehNNY8ml68VIxc4HvRnjn
+8KSjtQAvak5xwaTsc+lA5BB9qAPXfhR8UbDwvp02ja40qWYcyW8yIX2E/eUgc4zz+dQ/Fr4k
+6d4ttbXS9GEj2sUnmyTyKV3HBAAB57mvKT19qKAFzxzSjp1pueBS56UABpwPHUY9qjP5U7kd
+fzoAUnmkzz0pD1oBFADlJyOaOh7U0cMMUvpigBfypBkHijjikzxQA7JAPrQDgYpM88frRnig
+BfWjvSE9cUZ+YcUALn2pO1GcZFB/lQA4HI5/KlzwcZpmePelJ4x0oAVcYzjpSjqe1JkgAZ/C
+gEjnpQArH8qXim0ZI4ouA4YxSE8ZoBHfNITwKYD8nBpc8imjpwfwoGeoHNIB/Yc4puT1pcna
+O9N6UAOGAKN2TTc8GgdSaLiHg9aAenNNU8/XvSj86LgOU8gUpbk803+lAODimAA9Kdu49KYO
+ooP3TQA4elJu+akB2j6imj8BQBMpz1x6Uc8ZFNXpjpzTiO4600AgbgGlHOOOKZ25PNL160gK
+h5NKKTtR1570hi5oPak7UdqAD/Cl6iko7UAL9e9PjjaaVIkGXdgq/Umo/Strwja/bfFmmwY4
+84OfooLf0pxXNJImcuWLfYd4h8K3/htbdr1oWWcsqmJicEY65HvTIPDd9ceHJtcj8traFtrr
+k7+oBOMe4712vjWf+2PClzc5ybHUni+i52j+Yq34Da3bwR9nux+6url4D/wIYH+FdXsYOpyr
+a39ficX1maoqbWt7f18jzq+0K6sNIsdTlaIwXmfLCk7hj14rNz1rvPGlnLp/gzw/ZzA+ZDJI
+je+K4L+IfWsKsOWVjpoT54c3m/zOttPh1rV3ZR3Ba3hMi7kilchiPy4rDtNEvLrX10YqsV40
+jRkSHAUgEnJ59K9E8TMR8SPDwBIwq49ssc1nN/yWof8AXUf+ia3nRinZd7fh+BzQxE2m31Tf
+9dzIvfh3rlnbSTr9nnEYLMkUnzAD2IGax9C0C78RXr21m0SyIhc+YSBjOPT3r0+w0q40PxPr
+ev38scOnyqWHzZLcjqPw/WuW+F5DeJLsgYBt2IHp8wpujFTjHvcI4ifs5SveyX49PkcnpWk3
+es6itjZRh5myeTgADqSfStTXPBWp6DZ/bJWhntwQrvC+dhJxzn3rZ+GB/wCKmvOn+ob/ANDF
+UYP+Eis/CF/B/Zm/TLrMzTuRlRxyOfYdqzjCPJd36msqs/a8qaSVt+t9zH0vQLzVtOv72B4h
+HZLukDnBIIJ449jTtI8OX2uWd7c2ZjK2gBdWOGOQTxxz0NdH4I/5FLxQf+mI/wDQHq78MrmK
+y03WrmY4ijaIsfQfNThSi3G/VP8AUmpXmlNro1b8Dil0K6bw62uBo/syy+UVz82fpjpz61a8
+PeFb/wASLO1m0KiAqrGViMk56YB9K6/xJpf9j+BNTswuIxqIeP8A3WII/wAPwpfBVx/ZHhO2
+uScG/wBSWLPqucH+RpqjFTSltbX77CeJk6blHe+npp/wTz61sJ7vVI9OXas7y+V8xwA2cU7W
+NMn0bVZrC5ZDNFjcUORyoI/nXRy2v2P4qrDjA+3K4+jYb+tU/H//ACO2of8AbP8A9FrWbppQ
+be6djWNVynFdGr/kc4CO9dRpXgLV9WsI71DbwxyjMSyvgv8AgBxXK9D14r0uKM+LPDGmvpVy
+IdX0hRiEkDJ4GRn12gg/UGijBSbv93cMROUEraa79tDi7XQL+518aIVSK93MpWQ8AgFuoz2F
+WbDwpf6hq17psLwCe0yZCzEA4OOOK0PCNze3fxGtJdQd3u8yLIZBhsiNhg/TGK7nRdCNh4m1
+jUDe28ouVb91G2XTJzzWlKjGevS/4GNbESp3TfRfffU8q0XQ77X702tjGGYDczMcKo9Sa0Nb
+8HaloVoLuZoJrYnaZIWztJ6ZrZ+HBxa+IGHDC1XBHbh6NMYn4R6sOwnGB6fNHShSi4a76/gV
+OtONR22TS+8yNF8Gahrmmm+t5rZIg5T965ByPw96p6z4c1HQ7uG3vURfOP7qRWyrev8AMda6
+/QNMutZ+GF1Y2iq08lzlQzYHDKTz+FVvHJWw8O6Lo80yy30C7pApztGMfrn9KcqUVT5vL+kK
+Nebq8l+rVuy7lb/hWetYx59lj18w/wCFcne20ljfT2spUyQuUbbyCRXZafn/AIVDqf8A18j/
+ANDSuF+tZ1VFKPKt1c1oSnJy5nezt/wTd0LwxqHiFZHtvLSCM4eWVtqg9cClv/Cmo6drNtpt
+x5Qe6YCKQN8jc469eK3PB9xZ6poF/wCGLmf7PNctvhc/xHjj81HHfNc/4iGtW1zHpuryO/2V
+cQg427T0Knv0H5U3CCpqW/8AWwlObquN7W6eXf7zb/4VnrXXz7Lk8HzT/hWFovh2/wBevJYL
+JUCxf6yR2wq/5wa6LUv+SSaSf+m5/wDQnpfCJK+BvEpHB2dR/uGr9nBzSS6X/C9jL2tRU5Sb
+62287XMLXPCuoaBHHLcmKS3kOFlhbIz6GrumeBtT1TS7e/gmtVinBKh3IPBI9PatCdifg7a5
+5xdED2/eNWkuh3mvfDXR7azCGRXLku2ABucZ/WmqUXLRdE7BKvNRSbtq1c4m88P3+m6vFpt4
+qQzSsArlsoQTgHIqy3hPUk8RpoZEX2l13hgTs27c5zj2x061s/Em6iN9p1ksokuLSArMwPQn
+GPx4z+NdVBqVtJ4fj8XPj7XFZNCfd9wH/oQ/I0KjBzce39MUsRUVOM7b/n0PJ722axvprR3R
+3hcozIcjI64qHPWkd2dy7NlmJJJ7mm5Hf865dOh3IeD+lNJ4z70Ck4wM0DJE549aefX36VED
+19c81J1poQhPzelICSf60hxnpzSZ5pAVjRmg0GkMPWignPSigAoo7UncfSgA7V2nwzhT/hIp
+buRlVbe3Zsk9CeP5ZrjKTiqpy5ZKXYzqQ54OPc9Rttdg8VeEvEFutjb2bRxiULG3+sPLZ6Dn
+KfrWRa3LW3wqMkUgWaPUFdOeQQwINcNig9zitHXb1e9mjJYZLRPS6f8AwD0j4j6jFqfh3RLu
+EgiZmfAOcZUcfh0/CvOM4OcU3FKelRUqOpLmZpRpKlHkR7Jd6cviDXtG8RWd5bmxtkDSFmwR
+g5x+fHPTFcvbX9vf/GBLu3kDW7TEK/Y4iK5/MVwZ6Udc1rKvdp263MYYXlTTl0svJHqthPHq
+PiDxZoM8y+XdEtEWbhSBg4/8d/Ksb4Y/uPEd4sxCMtuVOT33DiuD60HB7Uvbe9F22uN4b3ZR
+vvb8Fa/4HafDm/t7LxTKtxIsfnxMiFjgFsg4z+Bron06fQvBOtadf6hHNO0bPFGJCSsYwBgH
+oK8pzk0UoVuWPLbv+I6mG5p81+34Hd+CWVfCXigMygmEYBPX5HqLwmyjwV4pBYAtEmAT14au
+JpaFWtbTa/43KdC99d2n91v8j03XdWXV/hTDO0gMwaOOQZ53K2M/jjP40651yDwr4S8P27WF
+vetIhkKyN/qzw2Rwecv+leX5GaXpVfWJXv1skR9Uja19LtnpXiOOIfErRrtHUpceU2QfQ4/l
+io/GXhC8vtW1DWYru08jYH2GQ7vlQAjp14rzkAZNJxxwKTrKSaa3d/wHHDyi4uMtlbbpe/cd
+/nNek6L4Ztpf7I1rw/frF5fN6JZMkdMjHbowx34rzYUg/pUU5qL1V/zNKtNzVk7Ho8F7ZXfx
+ijntHRoTlWkU/KzCIgn8+M98Vb8Lui+PPEjF1AIfnIwfmry3HFLxjoK0jXs7263+8ylhU1a/
+RL7nc7f4c3dutzqljNMkUt7AEiLnAJG7I/8AHqv6hZDwt8ObvSr65he8upg0aRtnI3L/AEX9
+a856igdfepjW5Y2trr+JUsPzT5r6O116He2c3lfCO82SbJBdAjDc/fSm+O/L1XStH1+MqWmi
+8uYA8g9R+u6uEP8AWjHFDq3jy20t/TBULT50+rf39PwO8sHUfCTUkLAMbgcZ5++lcKO/NN70
+ufyNROfMl5aGkIcjl5u/5HX+HfDun+INCuUt7jytbicFA8mFK56gfmM81d+IVxH9i0ixmuI7
+jUrdD9odDnHC9fqRXCDjmk6f41ftVycqWv8AT+8j2LdTnb0X66b9vI7vU2X/AIVLpKbhnzzk
+Z5+89L4FeG80XWtGM8cV1doPK3nhvlIP5cfnXBjv+lKR+tHtveUrbafhYTw94ON93f8AG56D
+4ihTQPh/aaFc3ET3xnLlI2zgbic/qBTrm+ex+HOgXMLjzYbnftB64Zzg152OT7048fXvT9tv
+ZdLfcJYfRXfW78+6O0+I1tD/AGtbapAVaK+hDZBz8ygdfwxU0DqPhFcruXd9qHy55/1i1wg6
+0v1pOr7zlbcaoe5GN9mKevuKP8KQc+tA96xOgUE5zRkikBpO1ADs+tShxjJNRZ9qU85yaAHM
+wLcc8Ug7imjH4YoHTr2oAhNIetGeaKQAaO1HeigAoFHSgZoASlycCkpe1ABR2NJ/KloAKXNJ
+R2oAWgdaQ0CgBc0UnQUZoAUHmg9KQdaKADvS9qT3xR1FAC0UUUAFLnFJ3oPSmAtGcGkHSg4o
+AUUCk7UtABmlHWkozQAUueOtJmjtQAueKM560UUAHWijBx0ooAXrSZ4o9aKAF74pc+tJnJo6
+0AL60Z/Gkzz1o6HFAC9OaM0h5FKMigAzjODRnik7c0UAOz6Upz603tRnAzQAo69O1BIIpO/4
+UoOMcUAQ55oziig9KQB3oB4pOvWjtQAvekoOaKACgUDHPrSDoKAHUUmaOlACg0HNJSmgBPSl
+pDS0AJ2pTRRQAtJSUH0oAPxpc4oo4oAP4qKD1o7UAGaUUlB4oAXnNITxRnNLjNAB1opBS0AF
+B7Ue9HWmAUtJRmgBc4opO9FADs0Gm9qWgBaSgHgijtgUAKe1GcUd6KAFBpKO9FABS5xTT/Oj
+0oAUH8qDQetJQA4fXil7fSm9TRnjigBfSlJwabnkcUHmgCM0etFFIAooooADR6UUUAJRRRQA
+tHY0UUAHPrRjjNFFAB2ooooAMUdhRRQAYpfwoooACeaSiigANLnNFFAADzR60UUAH4UfxZoo
+oAAcUd80UUAFHpRRQAdqWiigA7UHpRRTAOooPaiigBR3pBRRQAtGcUUUAAooooAWgGiigBM8
+0E8UUUAL3pKKKAFzRRRQB//Z</binary>
+</FictionBook>

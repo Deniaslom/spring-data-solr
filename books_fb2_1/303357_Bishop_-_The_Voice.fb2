@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf_fantasy</genre>
+   <author>
+    <first-name>Anne</first-name>
+    <last-name>Bishop</last-name>
+   </author>
+   <book-title>The Voice</book-title>
+   <annotation>
+    <p>An original novella from the <emphasis>New York Times</emphasis> bestselling author of <emphasis>Bridge of Dreams</emphasis>...</p>
+    <p>In a small village outside the city of Vision, the people know no sorrow or grief. But this seemingly idyllic community is hiding a terrible secret. As a young child, Nalah did not know why she was told to bring a cake to the mute girl known as the Voice whenever she was upset, only that doing so made her feel better. Now grown, Nalah understands the dark truth, and yearns to escape from the oppressive village that has been her life-long home. But it is only after visiting the city of Vision and discovering the Temple of Sorrow that Nalah understands what she must do to be free... </p>
+   </annotation>
+   <date></date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="Ephemera"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Bakoro</nickname>
+   </author>
+   <program-used>calibre 0.9.25, FictionBook Editor Release 2.6</program-used>
+   <date value="2013-05-18">18.5.2013</date>
+   <id>abec2703-2786-40b4-8a35-3b54a3c74a27</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <publisher>NEW AMERICAN LIBRARY</publisher>
+   <year>2012</year>
+   <isbn>978-1-101-56771-5</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>The Voice</p>
+   <p>(A book in the Ephemera series)</p>
+   <p>A Novella by Anne Bishop</p>
+  </title>
+  <section>
+   <p>Dear Readers,</p>
+   <p>Some stories haunt you until you write them. That’s what happened to me a few years ago when the first sentence of this story wouldn’t let me go until I wrote the rest of it. “The Voice” was my introduction to the city of Vision, one of the landscapes of Ephemera. I’m pleased to be able to share it with you now.</p>
+   <p>Travel lightly,</p>
+   <p>Anne Bishop</p>
+  </section>
+  <section>
+   <title>
+    <p>1.</p>
+   </title>
+   <p>They called her The Voice because she had none. Fat, mute, and dimwitted, she was an orphan the village supported, providing her with a house and caretakers. And she was always included in village life. Oh, she wasn’t invited into people’s homes—everyone went to The Voice’s house when a visit was required—but every time someone had a “moody day,” as my mother had called them, every time something happened that was less than pleasant, a special little cake was made. The “moody” person took the treat to The Voice’s house, waited until she took her special seat in the visitors’ room, then handed her the food.</p>
+   <p>She never refused a moody cake. Never. She would smile at the children when they handed her the treats, and sometimes she smiled at the adults. She never smiled at the village Elders, but she also never refused their offerings when they came to visit. You always knew that she didn’t refuse because that was part of the ritual—you stayed and watched her eat what you had brought, and when you left, you felt better. The moody day was gone and you went back to your ordinary life.</p>
+   <p>I never considered the oddity of an orphan having a visitors’ room that bore a resemblance to the audience chamber in the Elders’ Hall. I never wondered why having a moody day required making a treat that was given away. And I never wondered why an adult provided escort and oversaw the visit until a child was considered trustworthy enough to take the treat to The Voice and not eat it herself. I never felt anything but a smug pity for the girl—and being just ten years older than me, she was barely more than a girl at the time—who always wore these strange hoods that covered her head and neck and was provided with simple smocks and trousers as covering for her body because, despite being young, there was no need for her to dress in pretty clothes that would attract a male eye, as the other girls were doing.</p>
+   <p>So I lived quite happily—and innocently—in the village that supported The Voice until the summer I turned ten years old. That was when I had my first glimpse of the truth.</p>
+   <empty-line/>
+   <p>It had been a hot summer, and there had been little rain. Men were wearing their summer garb—sleeveless tunics and lightweight pants that were hemmed above the knee. Some of the younger men—the bachelors in the village who were looking for a wife—were even bold enough to cut off their trousers to midthigh length, which delighted the older women; mortified the older, knobby-kneed men; and scandalized the village Elders. It wasn’t until women began fainting on a daily basis while doing housework in the heat that the Elders were forced to revise their strict dress code for our female population and permit short sleeves on the tunics and trousers that were hemmed just below the knee. The Elders reasoned that it was simply too hot for strenuous activity, so the sight of female limbs would not excite male flesh.</p>
+   <p>The number of women who became pregnant during that summer—and the number of bachelors who were required to make a hasty contract of marriage—showed everyone how embarrassingly incorrect the Elders’ reasoning had been. And, according to the whispers of a few sharp tongues, it also proved how old the Elders really were.</p>
+   <p>But those were insignificant things to a ten-year-old girl who was relishing the feel of air on her arms and legs when she was outside playing with friends.</p>
+   <p>That’s where we were when I had the first glimpse of the truth—outside in the shade of a big tree, lazily tossing a ball between the three of us: Kobbi (who was Named Kobrah), Tahnee, and me, Nalah. Then The Voice plodded by, her tunic sleeves and trousers full length, of course, since the sight of her fat limbs would offend the eye. And then the boys came, with a glint in their eyes that made the three of us huddle together like sheep scenting a pack of wild dogs and instinctively knowing that separation from the flock meant death.</p>
+   <p>The boys weren’t interested in teasing us that day, not when The Voice, looking back and recognizing danger, began lumbering toward the nearest house, no doubt hoping to be rescued.</p>
+   <p>They moved too fast, surrounded her too quickly.</p>
+   <p>“Aren’t you hot?” they taunted The Voice. “Aren’t you hot, hot, hot? We’ll help you cool off.”</p>
+   <p>They grabbed at her, pushed at her, and she kept turning, kept trying to move, no different from some poor, dumb beast. Until one of them grabbed her hood and pulled it off, exposing her neck for the first time in our young memories.</p>
+   <p>The boys scrambled away from her, silent and staring. Then she turned and looked at us girls. Looked into my eyes.</p>
+   <p>I didn’t see a poor, dumb beast. There was intelligence in those eyes, as maimed as her body. And there was anger in those eyes, now unsheathed for everyone to see.</p>
+   <p>Some adults finally noticed us and realized something was wrong. The murmur of concerned voices changed into a hornets’ buzz of anger when the adults realized what we had seen—and why. The Voice was solicitously returned to her house, the boys were marched to the Elders’ Hall to have their punishment decided, and we three girls were escorted to our homes, where our escorts held whispered conversations with our mothers.</p>
+   <p>I spent the rest of that afternoon in solitude, keeping my mind carefully blank while I watched the play of light and shadow on my bedroom wall. But my mind would not remain blank. Thoughts seeped up and got tangled in the shifting patterns of leaves on the white plaster wall.</p>
+   <p>The Voice had not been born mute. Had the injuries that had healed into those horrific scars happened at the same time she lost her parents? Was there a time when she had been called by another name? Even if her voice had been damaged and could not be repaired, the healers could sew better than the best seamstress and took pride in the health of the whole village. Why had they patched her up so badly?</p>
+   <p>The pattern on the wall changed, and another thought drifted through my mind as the words spoken by the teachers each school day seemed to swell until I could think of nothing else—until I could hear the threat under the words that were intended as thanksgiving: <emphasis>Honor your parents. Give thanks for them every day. Without them you are orphaned, and an orphan’s life is one of sorrow.</emphasis></p>
+   <p>The Voice was cared for by the whole village. She had a house.</p>
+   <p><emphasis>But it’s one of the oldest houses in the village. Is she the first who lived there? If you ask your mother or grandmother, will they admit that another mute orphan had lived there before?</emphasis></p>
+   <p>Everyone brought her food and treats; even little children, helped by parents, presented her with treats.</p>
+   <p><emphasis>Did she ever truly want them?</emphasis></p>
+   <p><emphasis>Why does she have those scars?</emphasis></p>
+   <p>I didn’t have an answer. Didn’t want an answer. I hurt for myself, and I hurt for The Voice.</p>
+   <p>An hour before dinner, I emerged from my room. My mother studied my face carefully, then said, “I’ll make you a moody cake. You take it to The Voice. You’ll feel better.”</p>
+   <p>“No,” I said, my voice rough, as if something were eating away at my throat. “I’ll make it.”</p>
+   <p>Mother studied me a little longer, then nodded. “Very well. You’re old enough.”</p>
+   <p>So I made the little moody cake while Mother went into the garden and made no comment about her dinner preparations being delayed (it was considered bad luck to prepare other food while a moody cake was being made). And if a few tears fell into the mixture, I didn’t think it would spoil the taste.</p>
+   <p>As soon as it was cool enough to be placed on the little plate that was always—and only—used for food presented to The Voice, I left the house. The fact that neither of my parents commented or demanded that I wait until after our evening meal told me how concerned they were for me.</p>
+   <p>She was already in the visitors’ room, sitting in the oddly proportioned chair that looked as if it had been specially made for a much fatter person. Since she was there, I was not her first visitor. Probably Kobbi and Tahnee had already been there with their mothers. She was alone, which wasn’t unusual. There was always a caretaker in the house, but visitors usually meant the caretaker had a little time for herself.</p>
+   <p>I approached the chair until I was standing at the correct, polite distance. But I didn’t extend the plate. Even though she had been bathed and carefully dressed and a new hood covered her head and neck, I looked into her eyes and remembered those horrific scars.</p>
+   <p>Tears filled my eyes as I touched my own neck and whispered, “I’m sorry.”</p>
+   <p>To my amazement, since she never showed emotion beyond a simple smile, her eyes filled with tears too. Then she smiled—a true, warm, compassionate, loving smile—and reached out, took my little moody cake, and ate it.</p>
+   <p>Feeling so much better, I wiped the tears from my face and smiled in return. “I have to go now.”</p>
+   <p>She didn’t respond in any way when I turned to leave. She never did.</p>
+   <p>Before I reached the door, ready to skip home to my family and dinner, the boys who had taunted The Voice entered the room, followed by stern-looking fathers and nervous mothers. I jumped out of the way and pressed myself against the wall to avoid notice, but no one was going to notice me at that point.</p>
+   <p>And considering what happened, no one even remembered I had been there.</p>
+   <p>The first boy stepped up to the chair and extended the plate with its little offering.</p>
+   <p>The Voice picked up the offering and threw it on the floor.</p>
+   <p>There were shocked gasps from all the adults in the room, and the boy’s father hurried to the doorway that led to the rest of the house, calling for the caretaker.</p>
+   <p>The second boy made his offering. She mashed it in her fist, then smeared it on her clothes. But the third boy, the one who had pulled off her hood, revealing a secret, exposing her pain . . . She moved so fast, no one could stop her. One moment she was sitting, just staring at the boy; the next she lunged at him, grabbing the cake in one hand and his head in the other. As he started to yell, she shoved the cake into his mouth, forcing him to swallow or choke. So he swallowed—and the look in her eyes haunted my thoughts for years afterward.</p>
+   <p>Shortly after that, the boy contracted Black Pustules. These were painful boils that developed deep beneath the skin. Sometimes it took weeks before they reached the point where they could be lanced. And a single lancing never cleaned out a pustule, no matter what the healers tried. The pain of healing was endured over and over while new eruptions developed and needed to be lanced. It took several sessions before the hard nugget that was the core of the pustule could be extracted and the body finally healed.</p>
+   <p>But no matter how carefully the healers dealt with their patients, the final extraction left scars.</p>
+   <p>It always left scars.</p>
+   <p>In the weeks that followed, I didn’t see The Voice walking around the village, but I’d heard my parents whispering to friends that The Voice had been refusing all offerings, and the Elders and healers had accepted the necessity of taking measures—for the health of the village.</p>
+   <p>My curiosity got the better of me and, pretending to have a moody day, I prepared a little cake and took it to The Voice.</p>
+   <p>No child should know so cruel a truth as what I saw that day.</p>
+   <p>She was no longer left unattended, and one of her caretakers was a burly young man. She was dressed in a robe with a matching hood. The design of the robe’s sleeves was clever but didn’t quite disguise that her arms were bound to the chair. The fact that she no longer had even the illusion of freedom was bad enough, but . . . They had done something to her so that the caretaker, applying pressure on a dowel of wood attached to something inside her mouth, could force her mouth open enough for the offering to be pushed inside. Then her mouth was forcibly closed so she couldn’t spit out the treat.</p>
+   <p>They had taken away all her choices. She would consume what the villagers wanted her to consume.</p>
+   <p>She looked at me, and I felt as if I had betrayed her by coming here and forcing her to take something she didn’t want. But I couldn’t tell her it wasn’t a real moody cake, not with the caretaker standing right there, listening. And I couldn’t say I had changed my mind and The Voice didn’t need to accept my offering. That wasn’t done, ever. So in the end, I watched the male caretaker force her mouth open, shove in my little cake, and seal her mouth shut again.</p>
+   <p>I didn’t cry until I was safely home. Then I hid in a sheltered spot in my mother’s garden and cried until I made myself sick.</p>
+   <p>I avoided The Voice’s house as much as I could. Oh, I still made the moody cakes when some telltale sign warned my mother that I was not in harmony with the world. I was still trusted to go by myself, so my parents didn’t know that once I was safely out of sight, I found a hiding place . . . and ate the moody cake.</p>
+   <p>There was nothing in the making of it, nothing in the ingredients that could explain the sour, gelatinous, grape-sized lump that I discovered was in the center of every moody cake. Break it open and you’d find nothing, but put it in your mouth and you could feel that lump growing in the center of the cake. And yet you couldn’t spit it out. You could spit out the cake, but then the lump remained with nothing to sweeten it.</p>
+   <p>The first time I ate the moody cake, I was sick for a day, but my mother concluded that I had eaten something that didn’t agree with me and, fortunately, didn’t press me to find out what it was.</p>
+   <p>The second time I ate a moody cake, a Black Pustule developed on my belly. It was painful and frightening, but I was more afraid to tell my parents and admit I hadn’t been taking my moody cakes to The Voice, so I dealt with it in silence, learning that a warm, wet cloth brought the pustule to a head quicker and a sewing needle was a sufficient lance. Extracting the core is something I do not care to describe, but the substance was a harder, thicker version of the gelatinous lump in the moody cake.</p>
+   <p>Perhaps if I had been older, I would have understood. As it was, seven more years passed before I reached that moment of understanding.</p>
+  </section>
+  <section>
+   <title>
+    <p>2.</p>
+   </title>
+   <p>“You really did it?”</p>
+   <p>It was the disbelief and admiration in my older brother Dariden’s voice that had me creeping a little closer to his open window. I was seventeen; I knew better than to eavesdrop on my brother’s conversations with friends. I found out too many things about him that diminished my feelings for him and gave me no liking for his friends. Especially Chayne, who had recently married Kobbi and was now one of The Voice’s caretakers—or guards, as I thought of the people who controlled her.</p>
+   <p>“Wasn’t easy, since Vision is such an unnatural city, but I managed to slip away from my father for an evening and find a particular shop.”</p>
+   <p>“And the stuff works?” Dariden asked.</p>
+   <p>Chayne laughed softly. “She’s pretty to look at, but when you spread Kobrah’s legs, she’s a cold piece. So I put three drops of this drug in her wine, and she falls into a sensual haze. I can do almost anything to her. She’s passive on the drug, but her body is so hot and willing it doesn’t matter that her brain isn’t in the bed.”</p>
+   <p>“A wife needs only enough brains to know when to spread ’em,” Dariden said with a smirk in his voice.</p>
+   <p>I didn’t dare move. Hardly dared to breathe. If Dariden found out I had overheard this, he would make my life a misery. Or more of a misery than it was.</p>
+   <p>“Will she do . . . <emphasis>that</emphasis> . . . when you give her the drug?” Dariden asked.</p>
+   <p>“No,” Chayne replied, sounding disgusted. “Even with an extra drop of it—which is all I dare give her, because I was warned that too much will make a woman’s brains go funny permanently—I can’t make her do <emphasis>that.</emphasis> But it doesn’t matter, because . . .”</p>
+   <p>Chayne lowered his voice, so I leaned a little closer to the window, still not daring to move my feet.</p>
+   <p>“. . . I put three drops on <emphasis>her</emphasis> tongue, give her a glob of that mixture we feed her when we aren’t stuffing her with the offerings, then close her up and wait a bit. Once the drug is working, I can spend hours in her mouth, with her tongue lapping and licking. And I know just how far to open the lever for the right tightness.”</p>
+   <p>“And then she does <emphasis>that</emphasis>?” Dariden asked, sounding breathless.</p>
+   <p>Chayne laughed softly. It was such a cruel sound. “Well, swallowing is what she does, isn’t it?”</p>
+   <p>They left Dariden’s room, and I said a hasty prayer to every goddess and god I could think of that they wouldn’t come around to the back of the house and realize I had heard them. My prayer must have been answered, because they left the house through the front door, and I was able to slip in through the kitchen door and reach my room undetected.</p>
+   <p>My father was a good man. I was sure of it. How could he have raised a son who would think such horrible things were exciting?</p>
+   <p><emphasis>Is your father truly a good man?</emphasis> some part of me asked. <emphasis>He goes to The Voice’s house with moody cakes when he’s unhappy about something. Does he really not know what he’s forcing her to eat?</emphasis></p>
+   <p>He couldn’t know. Couldn’t. But if he did know, that might explain the worry I had seen in his eyes over the past year.</p>
+   <p>I had kept my secret for five years, dutifully making the moody cakes when my mother felt I needed to visit The Voice, and just as rebelliously eating the cakes myself. During those years I learned that eating pieces of regular cakes and breads that we made at home and gobbling the pastries I bought at the bakery with my spending money absorbed the worst of the effects of the Black Pustules. I still got them whenever I ate a moody cake, but they weren’t as big or as painful. On the other hand, I had plumped to what my father had initially, and teasingly, called a wifely figure—meaning my fat-softened body was not the sleek shape a man looked for in a bride but accepted in a wife after the babies started arriving. After all, a man had to make some sacrifices in order to have children.</p>
+   <p>Then Tahnee blundered one evening when she told my mother she hadn’t seen me at The Voice’s house at a time when I should have been there. Realizing her error and believing that I must have been sneaking out to meet a boy and had used The Voice as an excuse, Tahnee did her best to deny her own words, but her suddenly vague memory about where she had been on a particular evening didn’t fool my mother, who then saw my days of being slightly ill in a totally different way.</p>
+   <p>After that, I had an escort for each visit to The Voice’s house, and when I watched the caretaker feed her the moody cake, I felt sick inside—because I felt better. But until I made the trip to Vision, I still didn’t know why.</p>
+  </section>
+  <section>
+   <title>
+    <p>3.</p>
+   </title>
+   <p>Dariden was wild to go to that place that was considered an unnatural city and something even more, even stranger. In the end, I was the one who went to Vision with Tahnee and her parents.</p>
+   <p>Despite my mother’s efforts to control what I could eat when I was in the house, and despite the bakery, in an effort to help me regain my maidenly figure, agreeing not to sell me anything unless I had a note from one of my parents (which I never was given), my body remained stubbornly plump. My father, in an effort to be helpful, had taken to whispering to me whenever he escorted me to visit The Voice, “If you don’t stop your foolish eating, you’ll end up looking like that.”</p>
+   <p>She was huge. When her mouth was forced open to receive an offering, her eyes disappeared within the folds of fat. It hurt me to see her and know I was adding to her pain. It hurt me to hear my father say something so cruel to the daughter he professed to love.</p>
+   <p>But on the particular day that led to my going to Vision, Chayne was the caretaker on duty when my father whispered his encouragement—and I had what the healers described as a mild emotional breakdown.</p>
+   <p>I screamed. I wailed. I wept. I sat on the floor and howled with a pain that filled the visitors’ room and frightened all the grumpy-faced children who wanted to feed a moody cake to The Voice so they could leave and be happy, happy, happy while she . . . while she . . . In the end, I went with Tahnee and her parents because they had already planned a week’s stay in Vision and I could share a room with Tahnee—and also because when my brother offered to escort me, I started screaming that he fornicated with barnyard animals and molested small children, and every time my father got near me I began making guttural noises that, my mother told me when I was calmer, sounded like they were coming from a savage animal.</p>
+   <p>My mother was correct about that. Something was building inside me, and I didn’t know why. All I truly knew was that I hated the village I lived in and hated participating in something that not only violated another person, but violated something in myself as well.</p>
+   <p>I needed to escape, but I didn’t know how.</p>
+   <p>Sometimes all it takes is a change of vision.</p>
+  </section>
+  <section>
+   <title>
+    <p>4.</p>
+   </title>
+   <p>The journey to Vision took two days of steady travel, the only breaks being those required to rest the team of horses. At times, the hills were so steep, we had to get out and walk, because it was all the horses could do to pull the weight of the coach and our luggage up the incline. But when we reached the crest of the last, gentler hill, we looked down on the strange glory that was Vision.</p>
+   <p>It was a patchwork city that spread out across a vast plain, backed by old, rounded mountains cloaked in the restful green of living things. Some parts of the city dazzled the eye, while others seemed lost in shadow—and still other places must have been farmland and pastures. Not one city, but many. And so much more than I could have imagined the first time I saw it.</p>
+   <p>So we descended the hill, passing the last crossroad that would lead to other places. After that, there was no destination but the city, which was reached by a bridge that had a peculiar but carefully made sign posted a coach’s length before the bridge itself: ASK YOUR HEART ITS DESTINATION.</p>
+   <p>Upon seeing the sign, Tahnee’s father muttered about the need to avoid the “peculiar” folks that inhabited the city. Then, in a heartier voice, he reassured his three ladies that we would not be visiting any of the peculiar places.</p>
+   <p>But I looked at the sign and, even though I thought it was foolish, shaped my answer as the horses stepped onto the bridge: <emphasis>Escape. Freedom. Answers.</emphasis> If my heart had a destination, it was shaped by those three words.</p>
+   <p>At the other end of the bridge was another peculiar sign: WELCOME TO VISION. YOU CAN FIND ONLY WHAT YOU CAN SEE.</p>
+   <p>As I read the sign, the sun went behind a bank of clouds and everything turned dark and chilling. Then the sun returned and the world looked fresh and dazzling—and not quite the same.</p>
+   <p>Since I was on this journey because of my lack of mental health, I didn’t ask if any of my companions had witnessed those same moments of dark and light. I just watched the city as we journeyed for another day to reach its center, barely listening to the comments of the other people in the coach. And while we journeyed, I considered the significance of the words if that sign meant exactly what it said.</p>
+   <empty-line/>
+   <p>The first two days, I found nothing of interest and tried not to resent the hearty comments that came too often about how a change of scenery could do a person good. I <emphasis>wanted</emphasis> a change of scenery. I had been searching for that change for two days.</p>
+   <p>And I almost missed it when it finally appeared on the third afternoon of our visit.</p>
+   <p>The bazaar in the center of the city took up entire blocks, almost ending on the doorstep of the rooming house where we were staying. Having tramped through it with us the first two days, Tahnee’s parents left us on our own that third afternoon, convinced that two girls from a small village would come to no harm despite the cacophony of sights and sounds. And no harm <emphasis>would</emphasis> come to us, because the white-robed Shamans walked the crowded streets. Their pace steady, their faces serene, they walked among the buyers and sellers, sometimes stopping to accept a slice of fruit or a cup of cool water. They seldom spoke to the people around them, but when they smiled and said “Travel lightly,” it always sounded like a blessing.</p>
+   <p>So on the afternoon that changed so many things, Tahnee was cheerfully haggling with the son of a merchant, more to have a reason to remain close to the handsome boy than because she was seriously interested in whatever she had found to haggle over that day. I wandered down the row of booths just for something to do while I waited. Then I saw a flash of white disappearing between two booths. No, more than that. In a place that was crowded and where every merchant jealously guarded his allotted space down to the last finger length, there shouldn’t have been a space that would have easily fit four booths.</p>
+   <p>That was the moment I realized I had passed that gap in the booths more than once each day without really seeing it—or wondering about it.</p>
+   <p>I stepped into that gap and saw something else that had eluded my eye during those first two days.</p>
+   <p>The bazaar backed up against a white wall. The gap in the booths matched the width of the archway leading into . . . The streets, gardens, courtyards, and buildings might have been another world. For all I know, they were. The place was white and clean, and with every breath I breathed in peace. And with every step I took, a pain grew inside me, as if a Black Pustule had formed deep within my body and was festering.</p>
+   <p>Still within sight of the archway, I stopped moving. Then I looked up and something shivered through me, as if I were a bell that had been struck and somehow retuned to match the resonance of the building in front of me.</p>
+   <p>THE TEMPLE OF SORROW.</p>
+   <p>I walked up the steps and pulled the rope beside the door. Heard the bell calling, calling.</p>
+   <p>A Shaman opened the door. His hair was grizzled, his face unlined. I have never seen anything before or since that matched the beauty of his eyes.</p>
+   <p>He smiled and stood aside to let me enter.</p>
+   <p>“Is this your first visit?” he asked.</p>
+   <p>I just nodded, struck dumb by the odd sensation of feeling too gaudy and too plain at the same time. It was my first experience with having a crush on a man, and I didn’t know what to do or say.</p>
+   <p>Then I remembered I was wifely plump rather than maidenly sleek, and there was something festering inside me.</p>
+   <p>“I see,” he said softly, and I was terrified that, somehow, he had. Then he said, “This way,” and led me to a pair of doors on the left side of the building.</p>
+   <p>He opened the doors and the sound . . . “No,” I gasped. “No. I can’t. That is—” <emphasis>Obscene. A violation.</emphasis></p>
+   <p>Something that sang in my limbs.</p>
+   <p>He closed the doors. “That is sorrow.” His voice was quiet, gentle. “That is why this temple is here. To give it voice. To set it free. Sorrow should not be swallowed. It will linger in the body, cleave to the flesh, long after the mind and heart have forgotten the cause.”</p>
+   <p>Each word was a delicate blow, a butterfly tap that reverberated through my heart.</p>
+   <p>“What do I do?” I asked.</p>
+   <p>He opened the doors again and we stepped into the room.</p>
+   <p>It sounded like the entire city was in that room, but in truth, there was no more than a double handful of people, and the room could have held twice that many. Some were wearing a hooded robe that had a veil over the face, which allowed them to see and breathe but obscured their identity. Others sat with their faces exposed to the world.</p>
+   <p>The sound in the room rose and fell, sometimes barely a hum and other times crescendoing to be the voice of sky and earth and all living things.</p>
+   <p>In one of the quieter moments, the Shaman whispered, “The gongs provide a tone. If the first one you try does not fit the voice you need today, try another.”</p>
+   <p>“Then what do I do?”</p>
+   <p>His hand rested on my shoulder for a moment, the warmth of it a staggering comfort. He smiled and said, “Then you release sorrow.”</p>
+   <p>Too self-conscious to really try the available gongs to test their sound, I chose one based on the pleasing simplicity of the frame that held it. It did not produce a sound quite as deep as what I wanted, but having timidly struck it once, I wasn’t about to get up and move to another place in the room.</p>
+   <p>I kept my eyes fixed on the floor just in front of my cushions, sure that it would be terribly rude to look at the other people in the room. I hummed, fearful of being heard, while something inside me swelled and swelled until it was ready to burst.</p>
+   <p>The voices around me rose and fell. Sometimes a gong would sound and one voice would be raised in a wordless cry. Other times each gong was rung and the accompanying voices filled the room. Over and over until, at last, there was only one voice still keening, only one heart not yet purged of sorrow.</p>
+   <p>Mine.</p>
+   <p>But I, too, fell silent, too exhausted and hollowed out to go on. I had lanced my well of sorrow, but I had not extracted the core.</p>
+   <p>One by one, the other people stood up and left. I was the last person in the room, and by the time I reached the door, the Shaman stood there, a question in his beautiful eyes.</p>
+   <p>“If you need us, we are always here,” he said. Then he escorted me to the outer door and added, “Travel lightly.”</p>
+   <p>“Oh, my friends and I are staying in the city for a few more days,” I said, wondering if that was considered flirting or too bold—and wondering if Shamans even had such interests in the flesh.</p>
+   <p>His eyes smiled, though his expression remained serious. “Some journeys can be made without setting a foot outside your own room.” He paused. “If you need us, we are here. Remember that.”</p>
+   <p>It wasn’t until I returned to the friendly cacophony of the bazaar that I noticed the sign above the archway. It said THE TEMPLES, as if nothing more was required in identifying that island of peace.</p>
+   <p>“Nalah!” Tahnee rushed up to me. “Where have you been? I almost went back to the rooming house without you, but . . .”</p>
+   <p>The day before I might have stammered something or become defensive because I was unwilling to tell anyone where I had been. But that day, I saw something in Tahnee’s face, in her eyes.</p>
+   <p>“We’ve spent the afternoon wandering around the bazaar, looking at so many things.”</p>
+   <p>“Yes,” Tahnee said, wary but willing to hear me out. “We have. But . . . you haven’t bought anything.”</p>
+   <p>“I don’t have as much spending money as you, so—”</p>
+   <p>“Oh, I can give you some if—”</p>
+   <p>“I’m looking very carefully before deciding what gifts to purchase for my parents and brother as a way of thanking them for allowing me to see Vision.”</p>
+   <p>“Oh.” Tahnee nibbled her lower lip. “It would be better if we both came to the bazaar, don’t you think? Safer that way. Ah . . . how much longer will you need to decide on your purchases?”</p>
+   <p>“There is still so much to see, I think it will take at least another day or two,” I said, linking arms with Tahnee as we headed in the direction of the rooming house.</p>
+   <p>She gave me a sidelong look. “You are all right, though, aren’t you?”</p>
+   <p>“Yes,” I replied honestly. “I feel better than I’ve felt in a very long time. Perhaps the best ever.”</p>
+   <p>“I feel the same.”</p>
+   <p>I didn’t think we had the same reason for the feeling, but I was glad to hear her say it. And for me, it was true. I felt better. Much better.</p>
+   <p>I felt the same way I used to feel after making a moody cake and bringing it to The Voice. But that was something I didn’t want to think about. Not yet. So Tahnee and I returned to the rooming house and endured a mild scold from her mother about almost being late for the evening meal. But her father looked at us and said with a wink, “Had a little adventure, did you? Nothing wrong with a little adventure—as long as it doesn’t go too far.”</p>
+   <p><emphasis>Too far?</emphasis> I thought about what the Shaman had said about making a journey without leaving your room and realized I already had gone too far—because now there was no going back.</p>
+   <empty-line/>
+   <p>The next two days were deceptions tacitly permitted by Tahnee’s father, since he knew we were up to something but figured that being together, neither of us would go too far in our little adventures. And there was a tacit agreement between me and Tahnee that neither of us <emphasis>would </emphasis>go too far and put the other’s “little adventure” at risk.</p>
+   <p>I don’t know where she went, but I guessed that a handsome young man had been given some time off from work in his father’s booth. I went to the Temple of Sorrow.</p>
+   <p>The gongs reverberated in the air. Voices rose and fell. And the sounds and the tears lanced a pain deep inside me that had been growing and festering since the first time I had eaten a moody cake and had gained an inkling of what it meant to be The Voice.</p>
+   <p>I lanced the pain, knowing there would be scars. But I wasn’t able to extract the core of that pain until later that evening when Tahnee and I were in our room, not saying much as each of us contemplated how to spend our last day in the city.</p>
+   <p>“The boys at home,” Tahnee said, curling up on the bed and fixing her gaze on the wall rather than look at me. “I mean no criticism of your brother. He seems nice enough, although it will be years yet before he is considered of marrying age. The ones who <emphasis>are </emphasis>of marrying age . . . They’re all like Chayne, and I don’t want to live with a man like Chayne. Kobbi . . .” Tahnee licked her lips, a nervous gesture. “Kobbi thinks Chayne is doing something to her when he wants to do the marriage thing. You know. In bed.”</p>
+   <p>Since she seemed to expect it, I nodded to indicate I understood.</p>
+   <p>“She’s not sure, and it isn’t every time they . . . do things. But sometimes she doesn’t feel right in the head the next day. Chayne was real worried the day she had a bad spell after one of those nights, and that’s when she began thinking that maybe he was doing something. Before she could get up the nerve to tell her father, Chayne began making cutting little remarks, especially around her father, saying that a good wife would not begrudge giving her husband little pleasures when he had to work hard to provide her with a home and clothes and food. So when Kobbi finally got scared enough to tell her father . . .”</p>
+   <p>“What did he say?” I whispered, feeling as if the world itself held its breath while waiting for the answer.</p>
+   <p>“He hit her.” Tahnee’s face had a bewildered expression, as if everything she had known and trusted had changed suddenly and betrayed her. “He said she shamed him by being a poor wife and he would denounce her as his daughter if Chayne continued to have cause to complain.”</p>
+   <p>In the silence, I heard the patter of rain. I looked out the window and watched the sky weep. Lulled by the sound, Tahnee fell asleep. I stayed awake much longer, letting thoughts drift and form patterns.</p>
+   <p><emphasis>Honor your parents. Give thanks for them every day. Because an orphan’s life is one of sorrow.</emphasis></p>
+   <p>There was no ingredient used in the moody cakes that wasn’t used in other foods. So what made the cakes a vessel for feelings we didn’t want? And who had decided that one person would be sacrificed for the health of the village? Who had decided that the people in my village would not have to carry the weight of their own sorrows?</p>
+   <p>Maybe there was no one left to blame. Maybe no one truly knew anymore.</p>
+   <p><emphasis>But the Elders continue it,</emphasis> my heart whispered. <emphasis>They see her; others care for her. Are there Black Pustules festering all over her body, always hidden because she had been trained to keep her body covered? Someone stripped a child of the ability to speak and scarred her so she would be ashamed to reveal the reason for her silence. The people who did this still live in the village.</emphasis></p>
+   <p>We all did this. Day after day, year after year, we handed someone a plate of sorrow disguised as a treat and expected her to swallow it so that we could feel better instead of carrying the weight—and the scars—ourselves.</p>
+   <p>Welcome to Vision. You can find only what you can see.</p>
+   <p>As something inside me continued shifting and forming new patterns, I wondered if I had changed enough to see what I needed to find.</p>
+   <empty-line/>
+   <p>The following afternoon, I turned a corner. It was that easy.</p>
+   <p>The Apothecary was on a street that is one of Vision’s shadow places—neither Dark nor Light, since it is a street that can be reached by hearts that resonate with either.</p>
+   <p>On another day, the looks of the man standing behind the counter at the back of the shop would have scared me enough to abandon my plan. That day, I studied him in what light came in through his grimy windows and decided if looks were a measure of a man, this one could do what I needed.</p>
+   <p>So I told him what I wanted, and I paid him what he asked, relieved I had enough coins for the purchase and a little left over so that Tahnee would not end up paying for my family gifts completely out of her own pocket.</p>
+   <p>“Enough for three people, you said?” he asked when he returned from the curtained back room and handed me a small bottle.</p>
+   <p>“Yes, three.” I was almost sure that there was only one caretaker in the later hours, but I had to be certain I could deal with whomever was there. Because there would be only one chance.</p>
+   <p>“I am curious,” he said as I turned to leave. “Do you seek revenge?”</p>
+   <p>I slipped the bottle in my pocket and carefully buttoned the pocket flap. Then I looked at him. “I seek another’s freedom.”</p>
+   <p>He studied me a moment longer, then raised his hand and scribed a sign in the air. I didn’t know if it was a blessing or black magic—and I didn’t care.</p>
+   <p>The next day, we began the journey back to our village. Tahnee and I gave each other sly looks and pokes in the ribs that were followed by giggles, which confirmed to her parents that we had gotten up to some mischief. It also made them relax, confident that nothing much had happened during our visit.</p>
+   <p>My parents, too, were relieved by the sly looks and the giggling. I was once again the daughter they knew.</p>
+   <p>Only my brother noticed something different. Or maybe it was just envy trying to bare its fangs.</p>
+   <p>“You look good, Nalah,” he said. “Rested. Almost like a different person.”</p>
+   <p>I just smiled. I didn’t tell him he was right. I <emphasis>was</emphasis> a different person.</p>
+   <p>Now I was dangerous.</p>
+  </section>
+  <section>
+   <title>
+    <p>5.</p>
+   </title>
+   <p>I could no longer live in this village and participate in the cruelty of destroying someone else in order to keep myself clean of all but the “good” feelings, and I was afraid of what might happen to me if the Elders decided I was no longer in harmony with the rest of our community. There must have been others before me who had seen and understood what we had done by not having to live with the weight of our own sorrows. What had happened to those others? Had they tried to change the heart of a village, or had they slipped away one day to escape what they could not change and could not endure?</p>
+   <p>Or did they lie beneath the blank markers that festered in the thorny, weed-choked part of our burial ground that was set aside for the Un-Named—the ones who had done something so offensive their names were “forgotten” in the village records and family trees.</p>
+   <p>Alone, I could escape, could vanish into the vastness of the world—or, at least, vanish into the streets of Vision. I was certain of that. But if I tried to help The Voice and was caught . . . I would suffer a tragic—and fatal—accident and be buried under one of those blank markers, just one more of the Un-Named. I was certain of that too.</p>
+   <p>So knowing what was at stake, I spent a week watching, looking, seeing. And the more I focused on the need to leave this village, the more things subtly changed.</p>
+   <p>An Elder, claiming his cart horse had turned vicious and had deliberately knocked him down into a pile of manure, had taken to leaving the poor animal tied up to the hitching rail behind the Elders’ Hall, still harnessed to the cart without a handful of grain or a sip of water. Anyone who looked could see the horse was mistreated, but everyone averted their eyes and didn’t disagree with the Elder’s right to discipline his own animal, even though I’d heard my father mutter that, most likely, the poor beast had been doing nothing more than trying to get to its feed bucket when it had knocked the Elder down.</p>
+   <p>The men muttered, the women made moody cakes, and everyone pretended they couldn’t see the horse and, therefore, couldn’t see its misery.</p>
+   <p>I saw the misery. I also saw a horse and cart that would be easy to steal.</p>
+   <p>Then there was the blank marker stone that suddenly appeared behind The Voice’s house, far enough from the kitchen door not to be a nuisance and close enough that it could be used as a step up into the cart.</p>
+   <p>Every day I watched the village and the people. Every day I tucked a few more things into the traveling bag that looked like a small trunk made of cloth stretched over a wooden frame. I had bought it at the bazaar, using my purchases as the excuse to acquire it. Dariden laughed at me when he saw it, saying the cloth could be torn so easily, I might as well not use anything at all. True, the cloth wasn’t as sturdy as a wooden trunk, but it had one important advantage: I could carry it by myself.</p>
+   <p>By the time everything was ready, my biggest worry was Tahnee. She tried to act as if nothing had changed, but I could tell by the leashed desperation in her eyes that <emphasis>everything</emphasis> had changed—and I realized that she, too, had been waiting for something to happen and had been growing more and more anxious with each passing day.</p>
+   <p>I could not wish her scheme to fail because, like me, she was no longer in harmony with the village and staying would only do her harm. But I did wish with all my heart that her scheme was delayed just a few days longer, even though I knew my own disappearance would make her escape all but impossible.</p>
+   <p>Which is when things began going wrong. Just little things. Just enough things for me to realize how easy it had been for me to move forward with this plan.</p>
+   <p>“Nalah, what are you doing with that skirt?” Mother asked, catching me as I tried to sneak out of the storage cupboard that held our out-of-season clothes.</p>
+   <p>“I—” My father’s mother had made it for me two years ago, before she got funny in the head and died in her sleep one night. The dark green material was of good quality, which Mother had declared a waste, since it couldn’t be worn in decent company, and the needlework was exquisite. My grandmother had kept all the beads, spangles, and tiny mirrors that had decorated her own wedding dress and had gifted them to me on a skirt.</p>
+   <p>When Mother protested, my father’s only comment was that it was more practical to have the beads on the front of the skirt than on the part I sat on. Which proved that the male part of my father’s brain had been asleep when he looked at the skirt, because the beaded vines and mirrored flowers were intended to draw the eye to the untouched flower between my thighs. It was a skirt a girl wore when she was ready to attract a husband.</p>
+   <p>I had been too young to wear it when my grandmother had made it for me, and there was no one in this village whose attention I wanted to attract. But I wanted to take the skirt with me. I wanted the hope that I would wear it someday.</p>
+   <p>“I was going to take it over to Tahnee’s tonight, along with a few other things,” I said, suddenly inspired. “We’re going to try on clothes, see what we still like. Maybe trade.” I said this last bit in a low mumble, which made Mother sigh but also made her shoulders relax.</p>
+   <p>“The three of you used to trade so often, half the time I wasn’t sure if I was washing your clothes or theirs,” she said.</p>
+   <p>I nodded, then looked around to be sure I wouldn’t be overheard, even though I knew Mother and I were alone in the house. “Tahnee’s a little unhappy about the way Kobbi has been acting lately. I guess married life changes a girl?”</p>
+   <p>Mother’s face softened with understanding as she put an arm around my shoulders. “It can be a difficult adjustment for some girls.” She hesitated, then added, “Maybe you should make a moody cake.”</p>
+   <p>I shivered and knew she felt that shiver, but I wrinkled my nose and said, “I’d rather try on clothes.”</p>
+   <p>“You’re my daughter, Nalah, and I do care about you. You know that?”</p>
+   <p>I looked into her eyes and felt the pain of love. She did care. And that was why she couldn’t afford to see. And why I would stop looking if I stayed. If I held a little daughter in my arms, would I let her flesh carry the weight of sorrow? Would I let the Black Pustules form and listen to her scream in pain when they were lanced—and see the scars that would mark her when the hard cores were extracted? Or would I make a moody cake and teach that little girl the proper way to present it to the person whose sole purpose in our village was to swallow such offerings?</p>
+   <p>I kissed her cheek. “I don’t need a moody cake.”</p>
+   <p>I hurried to my room to pack the skirt, then hurried out to find Tahnee and let her know my mother thought I would be at her house tonight. But when I found her sitting under the big tree where she, Kobbi, and I used to play on hot summer days, everything changed again.</p>
+   <p>“Kobbi’s father denounced her,” Tahnee said in a hushed, tearful voice. “She tried to tell her mother that Chayne was doing something bad to her, something that made her head feel funny. Her father overheard her and dragged her to the Elders’ Hall. He denounced her and demanded that her name be struck from the family record.”</p>
+   <p>My chest felt so tight, I could hardly breathe. “She’s an orphan?”</p>
+   <p>Tahnee nodded. “And I heard that Chayne is so shamed because she’s an orphan by unnatural means that <emphasis>he</emphasis> may denounce her as his wife, since he’ll no longer receive the other two parts of the dowry.”</p>
+   <p>“She can’t inherit because she no longer exists in the eyes of her family.” And I could see Kobbi’s fate if I went ahead with my plan—because an orphan’s life is one of sorrow.</p>
+   <p>“Listen,” I said, grabbing hold of Tahnee’s arm. “I’m coming over to your house with a bag of clothes. That’s what I told my mother.”</p>
+   <p>“Oh, I don’t—”</p>
+   <p>“You’re going to pack a bag of clothes—basics and the things too dear to leave behind. But don’t pack a bag that’s so heavy you can’t carry it. You’re going to tell your mother that you and I are going over to Kobbi’s house. We’re going to try on clothes like we used to do when we were girls, and we’re going to make moody cakes to help Kobbi feel better because she’s our friend. After a denouncement, a man has three days to change his mind if he spoke in haste or out of anger, so if Kobbi comes to her senses, her father might restore her to the family. That’s what you’re going to tell your mother.”</p>
+   <p>Tahnee wiped the tears off her face and gave me a long look. “What are we really going to be doing?”</p>
+   <p>“Escaping. We’re going back to Vision.”</p>
+   <p>Her breath caught, and for a moment I wondered if I had been wrong to tell her. Then the fire of hope filled her eyes.</p>
+   <p>“The three of us?” she asked.</p>
+   <p>I hesitated, and felt as if the world itself waited for my answer. “Four of us.”</p>
+   <empty-line/>
+   <p>At dinner that night, even Dariden was subdued, although he rallied once when he heard I was going over to Kobbi’s house with Tahnee.</p>
+   <p>“You shouldn’t be friends with the likes of her,” he told me, glancing at our father for approval of such a manly opinion.</p>
+   <p>“What happened to Kobbi could happen to anyone,” I said, helping myself to another spoonful of rice. Then I looked my brother in the eyes. “If I had ended up married to someone like Chayne, it could have happened to me.”</p>
+   <p>My father made a tongue-cluck sound of disapproval for my criticism of Chayne, but Dariden paled as he realized I knew what Chayne had been doing to Kobbi. And as he stared into my eyes, he understood that, with the least provocation, Tahnee and I would spread that information to every female in the village, and any standing Chayne had in our community would be crushed under the rumors that he drugged his young wife in order to do unnatural things in the marriage bed.</p>
+   <p>“You’re looking pale, Dariden,” I said, putting enough concern in my voice to draw Mother’s attention. “Perhaps you should stay in tonight.”</p>
+   <p>“You’re not feeling well?” Mother asked him.</p>
+   <p>Cornered, Dariden just stared at his plate. “Been working hard,” he mumbled. “Guess I should turn in early tonight.”</p>
+   <p>So I was free to leave the house, secure in the knowledge that Dariden and I wouldn’t cross paths tonight. Even if he retreated to his room, he wouldn’t be able to sneak out the window, because Mother always checked on us at regular intervals when we weren’t feeling well. Dariden had learned this the hard way as a boy when he had lied to Mother about not feeling well in order to sneak out with his friends, and had found our father waiting for him when he snuck back in.</p>
+   <p>I left the house with my travel bag and stopped just long enough to slip into our little barn and take a small bag of feed and an old round pan that could hold water. I didn’t have a water skin, and that was a worry. It turned out to be a foolish worry, because Tahnee had bought a water skin at the bazaar and hidden it under her other purchases.</p>
+   <p>We didn’t see many people on the way to Kobbi’s house, and those who saw us looked away when they noticed the bags of clothes and realized where we were going.</p>
+   <p>The woman who opened the door . . . Tahnee and I stood there, too numbed to speak. Our friend Kobbi was gone, and in that moment when my eyes met the crazed wildness in Kobrah’s, I knew that even if we got her away from Chayne and the village, we had lost her forever. But we would still try to save her.</p>
+   <p>“I was going to burn down the house,” Kobrah said, as if that were the most ordinary thing to say. “But it can wait until later. Maybe I should wait until Chayne is home and sound asleep. Yes. That would be better.”</p>
+   <p>She stepped aside to let us in. We slipped into the house and closed the door before daring to say anything.</p>
+   <p>“We’re leaving,” I said hurriedly. “We’re running away to Vision. You can come with us.”</p>
+   <p><emphasis>She’ll destroy us,</emphasis> I thought as I waited for her answer. <emphasis>Chayne has burned out the goodness in her, and if she comes with us, she’ll destroy us.</emphasis></p>
+   <p>But I didn’t take back the offer. I just waited for her answer.</p>
+   <p>“Yes,” she finally said, softly. “Yes.” She turned and went into the kitchen.</p>
+   <p>Leaving our bags by the door, we hurried after her. “We didn’t dare take any food from home . . .” I began.</p>
+   <p>“I have food,” Kobrah replied. She pulled out her market basket. “I boiled eggs this afternoon, after I got back from the Elders’ Hall. Chayne doesn’t like hard-boiled eggs. Maybe that’s why I made them.”</p>
+   <p>Her voice sounded dreamy—and insane. But she moved swiftly, storing the eggs, wrapping up the cheeses, taking all the fresh fruit.</p>
+   <p>Then Tahnee, in an effort to help, reached for a loaf of bread still cooling on the counter.</p>
+   <p>“No!” Kobrah snarled. “<emphasis>That</emphasis> is for Chayne.”</p>
+   <p>Tahnee stepped away from the counter, white with fear. She looked at me, her thoughts clear on her face: <emphasis>Do we dare eat anything that comes from this house?</emphasis></p>
+   <p>Kobrah smiled bitterly. “The rest of the food is safe.” She went into the bedroom, and we listened to her opening drawers and slamming them shut, followed by a cry of triumph and the rattle of coins in a tin box.</p>
+   <p>Kobrah was packed in no time, and even after we told her about having a cart, she refused to add anything to the small travel pack she used to carry when we spent the night at each other’s houses. After the second time we urged her to bring more clothes or at least a few sentimental trinkets, she said, “I want no reminders of this place.”</p>
+   <p>The hours crawled by until, finally, we had reached that in-between hour when all the family men were dutifully tucked in with their wives and children and the younger men were still at the drinking parlor or carousing elsewhere with friends.</p>
+   <p>We crept out of Kobrah’s house, lugging our traveling bags and other supplies, always watchful, always fearful of discovery. But something watched over us that night, because whenever we passed a house with a dog, the wind shifted to favor us and the dog, never catching our scent, remained quiet.</p>
+   <p>So we made it to the tree where we used to play and where, in many ways, this journey had begun seven years before on the day we had seen The Voice’s scars. Kobrah and Tahnee remained there with the bags while I went on to the Elders’ Hall, now carrying nothing more than the old pan, a water skin, and the small bag of feed. If caught, I could truthfully say I had felt sorry for the horse and had snuck out to give it some food and water.</p>
+   <p>But there were no lights shining in the hall except for a lamp in the caretaker’s room, and that provided me with just enough light to make my way to where the horse watched me.</p>
+   <p>“Easy, boy,” I whispered when he began making noises. He was hungry and thirsty, and I was holding what he wanted. He would be making a lot of noise soon if he didn’t get some.</p>
+   <p>Staying just out of reach and keeping one eye on the lighted window, just in case the caretaker looked out to see why the horse was fussing, I poured water into the pan, then held it out for the horse. He drank it down and looked for more, but I scooped out a double handful of feed and gave that to him next. Another pan of water and another handful of feed. Not much for a big horse, but all I could do for now. I put the water skin and bag of feed in the back of the cart, but I held on to the pan, afraid it would rattle and draw attention.</p>
+   <p>“Come on, boy,” I whispered as I untied the horse from the hitching rail. “Come on. You’re going to help all of us get to freedom.”</p>
+   <p>He came with me without noise or fuss, and when we were far enough away from the hall that the <emphasis>clip-clop</emphasis> of hooves and rattle of the cart wheels wouldn’t draw anyone’s attention, I began taking full breaths again.</p>
+   <p>We paused at the tree just long enough to haul the traveling bags and supplies into the cart and have Kobrah and Tahnee hide in the back. One person leading a horse and cart might go unremarked. All three of us out at this time of night with this particular horse and cart . . . Our luck held. We got to the back of The Voice’s house and got the cart positioned so the blank stone marker could be used as a step. Now the rest of the plan was up to me, and if I failed one of us, I failed all of us.</p>
+   <p>It didn’t occur to me until much later that Kobrah and Tahnee never once suggested abandoning this part of the plan. I suppose that, more than anything, proved none of us belonged in the village where we had been born.</p>
+   <p>The plan was simple. I would go in on the pretense of consoling Chayne on the loss of the dowry and the embarrassment of Kobrah’s behavior. I would slip a third of the drug I had bought into a drink, avoid any amorous advances Chayne might think to make before he drank down the drug, and then get The Voice out of the house and into the cart so we could be far down the road before anyone realized we were gone.</p>
+   <p>I just didn’t know how to do any of that. So I prayed hard and with all my heart, because five lives were at stake now. The horse had become a conspirator with us, and even though he was a poor, dumb beast, I was sure the Elder would blame him for following the girl who had offered him food.</p>
+   <p>Tahnee held the horse, petting him to keep him quiet. Kobrah remained in the cart. I went around to the front and rang the visitors’ bell, still wondering what to say to get myself inside at this hour.</p>
+   <p>That wasn’t a worry. Chayne answered the door looking sleepy, rumpled, and surly, and I suspected he had been drinking, even though he wasn’t supposed to when he was on duty. Then another expression slithered into his eyes as he looked at me, and I felt a thread of pure fear roll down my spine when I realized I wasn’t the only one who had a drug that had been purchased in some shadow place. Chayne had <emphasis>his</emphasis> bottle with him, because he used it on The Voice as well as on Kobrah.</p>
+   <p>And he intended to use it on me. I looked into his eyes and knew it.</p>
+   <p>“I heard what happened this afternoon,” I said, sounding a little breathless. “I thought . . . maybe . . . you would want to talk to someone.”</p>
+   <p>“Talk?” he laughed softly, and I heard the sound of a heart turning evil. He stepped aside to let me enter. “Sure, we can talk. Come back to the kitchen. I was having a bite to eat.”</p>
+   <p>There was bread and cheese on the table, as well as half a bottle of wine. Looking at Chayne’s flushed face, I had a feeling that wasn’t the first bottle he’d opened tonight. Which explained why he hadn’t paid attention to the sound of a horse and cart.</p>
+   <p>“Let me get you some wine,” he said, picking up the bottle and taking it with him to the cupboard that held the glasses.</p>
+   <p>Watching him to make sure he wasn’t paying close attention to me, I slipped a hand in my skirt pocket and took out the vial of potion. I worked the cork with my thumb, loosening it while I glanced at Chayne’s glass of wine and then back at him. He would see me if I reached across the table, and if he saw my hand over his glass . . . Then he turned toward the kitchen window, and I thought my heart would stop. Had he heard a noise? I was almost certain he wouldn’t see the horse and cart unless he went right up to the window and looked out, but I couldn’t take that chance. And I couldn’t waste the opportunity he provided by turning his back on me. So I pulled the cork off the vial and dumped some of the drug into Chayne’s glass, heedless of how much I was using.</p>
+   <p>“Is there anyone else here tonight?” I asked, tucking my shaking hands in my lap while I worked the cork back into the top of the vial.</p>
+   <p>He stopped moving toward the window, but he still kept his back to me.</p>
+   <p>He hadn’t heard a noise. He wasn’t interested in looking out the window. That was just the excuse he had used for turning away from me while he slipped his drug into my glass of wine.</p>
+   <p>He came back to the table, set the wineglass in front of me, and smiled the kind of smile women instinctively fear. “No, there’s no one else here tonight. Except The Voice. She’s the perfect chaperone.”</p>
+   <p>I would have been a fool to come here alone. I hadn’t been a friend to Kobrah when I had kept silent after overhearing Chayne tell Dariden about the drug. Now all our fates came down to whether I could avoid drinking from my glass without arousing Chayne’s suspicion.</p>
+   <p>“Drink up,” Chayne said, raising his glass in a salute as he watched me.</p>
+   <p>He knew I knew about the drug—and he didn’t care. He was between me and the door. We were alone. He wasn’t so drunk that I could get away from him.</p>
+   <p>Then a door slammed, making us both jump. A moment later, Kobrah stood in the kitchen doorway, breathing like a bellows, looking as if she’d run here all the way from her house.</p>
+   <p>“Are you going to poison Nalah too?” Kobrah asked. “Isn’t it enough that you ruined me?”</p>
+   <p>“Go home,” Chayne said coldly, turning his back on her to look straight at me. “Go back home while you still have one. And if you say anything else that causes trouble, I’ll be looking for a new wife, and you’ll be grateful for any place that will take you in. You know what they say about an orphan’s life.”</p>
+   <p>He didn’t see the rage on her face, but he smirked when I, trembling, whispered, “An orphan’s life is one of sorrow.”</p>
+   <p>Looking pleased, Chayne said, “That’s right,” and drank all the wine in his glass.</p>
+   <p>The Apothecary assured me the drug would work fast. Even so, agonizing hours filled the space between each heartbeat before Chayne staggered, grabbed at the table to keep his balance, then collapsed on the floor.</p>
+   <p>I caught Chayne’s wineglass before it rolled off the table, righted the bottle before the rest of the wine spilled out, then got around the table in time to stand between Chayne and Kobrah.</p>
+   <p>“I was going to kick his face until it was all smashed and broken,” Kobrah said in that dreamy, insane voice. “He deserves to have his face smashed. You don’t know all the things he’s done.”</p>
+   <p>I held up a hand to stop her, then crouched beside Chayne. His eyes were open, but his mind was swimming in some dream world and his limbs wouldn’t work for a few hours.</p>
+   <p>“You,” he said, drawing out the word.</p>
+   <p>Inspired, I stared at him. “Us,” I said, raising a hand to draw his attention to Kobrah, who was standing behind me. “We are the goddesses of justice and vengeance. Tonight we wore the faces of women you know in order to test you, human. And you failed.”</p>
+   <p>Kobrah laughed, a chilling sound.</p>
+   <p>“When the sun rises tomorrow, you will stand in front of the Elders’ Hall and tell everyone about the drug you gave your wife. You will confess every harm you have ever done to any living thing. If you do not, we will come back every night for the rest of your life. We will come back in a dream, night after night, and peel the skin off your face so that everyone will see who you really are.”</p>
+   <p>I stood up and walked out of the kitchen. Kobrah followed me.</p>
+   <p>“If he doesn’t confess all the things he’s done, will he really have that dream?” she asked.</p>
+   <p>“Yes.” When I bought the drug, I had emphasized the need to hide the memory of my presence and had been assured that, in the first minute or two after the drug was taken, the person would believe anything he was told.</p>
+   <p>Kobrah smiled. “That’s better than kicking him in the face, because he’ll never tell the Elders <emphasis>everything</emphasis> he’s done. He would end up among the Un-Named.”</p>
+   <p>We opened doors, searched rooms. Most people never went beyond the visitors’ room, never saw this part of the house. Judging by what could be seen by moonlight, the rooms set aside for the caretakers were better furnished and had more luxuries than any of them knew in their own homes. But there were two rooms that had the basic furniture of bed, chair, and dresser. No rug on the floor. No sketches on the walls. Not one pretty bauble to delight the heart.</p>
+   <p>There was no need for such things when a person had been silenced and could not voice her pain, when she had been kept uneducated so she could not give shape to her thoughts. When she was caged within her own flesh so that she couldn’t escape other kinds of cages.</p>
+   <p>The first of those sparse rooms was empty, and Kobrah stared at it for a long time, shuddering, as we both realized that room had been readied for a new occupant.</p>
+   <p>In the second sparsely furnished room, we found The Voice.</p>
+   <p>“It’s me,” I said, hurrying to the side of the bed. “It’s Nalah.”</p>
+   <p>The wheezing, labored breathing eased a little, and the reason squeezed my heart until it hurt.</p>
+   <p>Hearing someone at the door, she had expected Chayne to come in and do things to her after he’d given her the drug.</p>
+   <p>But seeing her in the bed, I realized how big she was—and I also realized the flaw in my plan.</p>
+   <p>I didn’t know if she was capable of walking far enough to reach the cart. And if she wasn’t able to climb in by herself, even the three of us weren’t strong enough to lift her.</p>
+   <p>“We’re running away,” I said. “You can come with us. I know a place that can help you. You’ll be safe there.” I swallowed hard to say what had to be said. “We have a cart behind the house. You can ride in the back of it. But if you want to get away from here, you have to walk to the cart, you have to climb in the back. If you can’t do that . . .”</p>
+   <p>She struggled, flailed. I grabbed a wrist and pulled to help her sit up. When that wasn’t quite enough, Kobrah wrapped her arms around my waist and leaned back, adding her strength to the effort.</p>
+   <p>We got The Voice on her feet. Got her walking. By the time we left the bedroom, she was wheezing. By the time we got to the back door, her lungs sounded like damaged bellows, and I wondered if she would collapse before she reached the cart. She couldn’t open her mouth, so she sucked in air through her teeth.</p>
+   <p>How much time had passed? How much did we have left before someone noticed the horse was gone? Since we hadn’t come home by now, and knowing Chayne would be working tonight, Tahnee’s mother and mine would assume we had stayed with Kobrah and wouldn’t be expecting to see us until after breakfast. The second stage of the potion I bought was supposed to produce lethargy, so hopefully Chayne would fall asleep and not wake up until the daytime caretakers arrived.</p>
+   <p>Desperate, determined, The Voice took one step after another. I stayed beside her, having no idea what I would do if she fell, while Tahnee held the horse and Kobrah ran back into the house. She returned with a bundle, which she tossed into the back of the cart.</p>
+   <p>“Clothes,” she said.</p>
+   <p>Up to the blank marker stone that provided The Voice with the step needed to get into the cart. She grasped the sides of the cart and pulled. Kobrah and I pushed. Tahnee held the horse steady.</p>
+   <p>Then The Voice was in the cart, on hands and knees, panting from the effort.</p>
+   <p>“Lie down,” I told her, while Kobrah ran back into the house a last time to fetch a blanket to cover The Voice until we were out of the village.</p>
+   <p>I took my place at the horse’s head and sent up one more prayer to whoever would listen to me. <emphasis>Please, let the cart be strong enough to hold her. Let the horse be strong enough to pull the load. Please.</emphasis></p>
+   <p>The horse leaned into the harness, straining to take that first step. But he did take that first step. And the next one. The cart moved. The axles didn’t break.</p>
+   <p>“Good boy,” I whispered. “You’re a brave, strong boy. Step along. That’s it. Good boy.”</p>
+   <p><emphasis>Clip-clop. Clip-clop.</emphasis> That was the only sound besides the rattle of the cart’s wheels. No other sounds disturbed our village’s silence.</p>
+   <p>Two days’ journey to Vision in a coach with a team of horses that could maintain a trot for miles at a time. How many days with a half-starved horse who could do no better than a steady walk?</p>
+   <p>We had gotten out of the village, had left the last house behind us, and I was just starting to breathe easy when we heard <emphasis>clip-clop, clip-clop, clip-clop</emphasis> coming toward us.</p>
+   <p>I kept walking, kept up my whispered encouragement to the horse. Kobrah darted to the far side of the cart and hunched over to avoid being seen, while Tahnee remained near the back of the cart.</p>
+   <p>The man rode toward us, leading another horse. He seemed vaguely familiar, but it wasn’t until Tahnee let out a stifled cry of joy that I recognized him as the young man at the bazaar whom Tahnee had haggled with and flirted with.</p>
+   <p>And fallen in love with?</p>
+   <p>I doubt he knew who I was—or cared. He dismounted, shoved reins into my open hand, and leaped at Tahnee, snatching her off her feet as he held her tight.</p>
+   <p>“I’m sorry,” he said. “I’m sorry. You must have thought I failed you, that I wasn’t coming. The world . . . There were delays. I . . .”</p>
+   <p>Kobrah came around the side of the cart, her eyes on the horses.</p>
+   <p>“Do you need both horses?” she asked, and there was something in her voice, something in the way she moved that made us all tense.</p>
+   <p>“I . . .” He looked back at his horses, then looked at Kobrah—and then tried to shift Tahnee behind him without being too obvious about what he was doing . . . or why.</p>
+   <p><emphasis>We’ve lost her,</emphasis> I thought. <emphasis>If we don’t let her go, she’ll destroy us.</emphasis></p>
+   <p>I think Tahnee realized that too, because she looked at her lover and asked, “Could we ride double?”</p>
+   <p>We didn’t know what we were asking of him, didn’t know what the loss of a horse would mean to him or his family. But he knew, and he still went back to his horses, untied the second one, and walked it over to where Kobrah waited. Handing her the reins, he said, “Take the horse.”</p>
+   <p>After she mounted, she looked down at him and said, “May the gods and goddesses of fate and fortune shower your life with golden days.”</p>
+   <p>Then she rode back to the village. I didn’t know what she intended to do, but I knew the rest of us needed to get as far away as we could.</p>
+   <p>“You two go on ahead,” I said. “Tahnee’s travel bag is too big to carry on horseback. If I bring it to your family’s booth at the bazaar, will it get to her?”</p>
+   <p>“It will.” He looked in the direction of the village. “But that will leave you—”</p>
+   <p>“We got this far by working together,” I said, cutting him off. “Now we have to separate.” Thinking about the sign before the bridge leading to Vision, I looked at Tahnee. “Now we have to let our hearts choose our destination.”</p>
+   <p>Tahnee hugged me. Her lover studied my face, as if memorizing it, then said, “Travel lightly.”</p>
+   <p>He mounted his horse and pulled Tahnee up behind him, and the two of them cantered down the road, heading for Vision . . . and freedom.</p>
+   <p>I stood there, feeling so alone. More so because I wasn’t alone. But I couldn’t look at her just then, couldn’t offer any promises or comfort. I would save us—or I would fail.</p>
+   <p>“Come on, boy,” I said softly. “Come on. We’ve got a ways to go.”</p>
+   <p>The horse leaned into the harness, straining to take that first step.</p>
+   <p>One step. Another. And step by plodding step, we got a little closer to a dream.</p>
+  </section>
+  <section>
+   <title>
+    <p>6.</p>
+   </title>
+   <p>I have since heard that Ephemera takes the measure of a human heart and helps or hinders what that heart desires. I don’t know if that is true or not. I do know the horse shouldn’t have made it up the hills I remembered as being so steep. But he did make it. Sometimes I thought he’d break under the strain if he had to take another step up an incline, but somehow the hill always leveled out before that last step, and the descents were gentler than I recalled. I’m sure someone would tell me my mind had exaggerated some things on that first journey in order to make it a grander adventure.</p>
+   <p>I don’t think I exaggerated anything. The world changed itself just enough to give us a chance. Just as I believe the world changed itself that first afternoon when I spotted riders in the distance and knew they were men from the village, looking for us. We kept walking, and my prayer became a chant: <emphasis>Please don’t let them find us.</emphasis></p>
+   <p>They should have found us, should have caught us. They never did.</p>
+   <p>Several days after leaving the village, in the hushed hour before the real dawn, I stopped the exhausted horse in front of the Temple of Sorrow. Standing on tiptoes, I peeked over the side of the cart, not wanting to stand at the back. The Voice looked at me, a question in her eyes.</p>
+   <p>“We made it,” I said. “I’ll get help.”</p>
+   <p>She couldn’t get out of the cart. For anything. I realized we had a problem the first time I smelled excrement. But when I went around to the back of the cart, dithering about what to do, the plea in her eyes was more eloquent than words. Every minute I spent caring for her was the minute that might make the difference between getting to Vision or getting caught. So I made my heart as hard and cold as I could make it, and I kept us moving until I saw the bridge and felt numbed by the knowledge that we had reached the city.</p>
+   <p>I hurried up the broad steps of the temple and rang the bell. Rang and rang and rang.</p>
+   <p>“There is someone on duty,” a voice grumbled as the door opened. “You don’t have to wake up the whole tem—”</p>
+   <p>The moment he saw me, the Shaman stopped his complaint.</p>
+   <p>“Please,” I said, feeling the tears well up now that I didn’t have to be hard and cold. “Please help us. She’s in the cart. She can’t . . . I can’t . . . Please.”</p>
+   <p>He touched my arm, giving the warmth of comfort. Then he went down the stairs. The sky had lightened enough that I could see his face go blank with shock when he looked inside the cart.</p>
+   <p>He ran back up the stairs and disappeared inside the temple, leaving me standing there while something savage raked its claws inside me until I thought I would bleed to death without anyone seeing a drop spilled.</p>
+   <p>Now that I wasn’t hard and cold, I couldn’t think, couldn’t move, didn’t know what to do.</p>
+   <p>The Shaman returned, rushing past me with six others in his wake, two of them women. One woman, the last out the door, stopped and touched my face gently.</p>
+   <p>“Do you know where to go?” she asked. “Which door leads to the room for sorrow?”</p>
+   <p>I nodded.</p>
+   <p>“Then go in. Find your place.”</p>
+   <p>I felt sluggish, dull. I looked toward the cart. “Horse.”</p>
+   <p>“We’ll take care of him. Go in now.”</p>
+   <p>Even at that early hour, there were five other people in the room. I chose a place that spared me from sitting next to anyone else. I smelled of horse and sweat and exhaustion. The cushions were soft, and the minute I sat down, my legs and feet began to throb. The last time I had rested had been unintentional. I had leaned against the horse, too tired to stand on my own, and woke up sometime later to discover that the horse, too, had fallen asleep, his head resting on my shoulder.</p>
+   <p>Voices rose and fell. Gongs sounded and faded. I drifted.</p>
+   <p>Then the doors opened and the Shamans walked in leading The Voice. I thought they would take her to a room where she could be cleaned or at least change her out of the filth-encrusted clothes. They had done none of those things, just led her to a spot and helped her lower herself to the mound of cushions.</p>
+   <p>The voices of the other people in the room sputtered into shocked silence. All through the journey, I had seen without seeing. The Voice wasn’t wearing her hood. The scars on her neck were clearly visible.</p>
+   <p>The Shaman picked up the mallet, struck the gong in front of The Voice, then slipped the mallet into her hand. The gong’s deep sound filled the room. The Voice rocked back and forth, clearly in pain.</p>
+   <p>Then another gong sounded, and a male voice, low but clear, sounded a note. Another gong and another voice rose to fill the room. Another. Another. Another.</p>
+   <p>A sixth gong and a sixth voice, raw and keening.</p>
+   <p>Mine.</p>
+   <p>She had no voice, so we gave her ours, singing the sorrows until finally, in one of those moments when the sound was hushed and spent, the Shaman said, “That is enough for now.”</p>
+   <p>Those five people stood up, looked at The Voice . . . and bowed. Then they left the room, and the Shamans came forward to help her stand.</p>
+   <p>After they led her away, one Shaman remained.</p>
+   <p>“You must be tired and hungry. If you want, I will show you to one of our guest rooms right now. But if you can wait a little while longer, I would like you to come with me.”</p>
+   <p>I followed him to a room that, at first glance, contained little more than a small table and two chairs and yet felt so restful to heart and mind, there was no need for anything else.</p>
+   <p>On the table was a pot and two cups. We sat, and the Shaman poured the tea. I stared out the window, watching bright-colored birds flit around a tiny courtyard where miniature trees were growing in stone pots.</p>
+   <p>“Now,” the Shaman said after a silence during which we had done nothing but watch the birds and drink tea. “Can you tell me how this happened?”</p>
+   <p>I told him about our village. I told him about the saying we learned in school. I told him about that awful day when I was ten and first began to understand the truth about The Voice. I told him everything, even the things I had done that shamed me. All through the telling, he kept his hands loosely wrapped around the teacup and his eyes on his hands.</p>
+   <p>I finished my story at the moment when I rang the bell that morning, looking for help.</p>
+   <p>Those beautiful eyes remained lowered for a moment longer. Then he looked at me.</p>
+   <p>He wasn’t human. Not like me. He was the fury of storms and the laughter of a cool stream on a hot summer’s day. He was flood and drought and slow, soft rains that woke up the crops and gave us an abundant harvest.</p>
+   <p>He was the voice of the world—and the world would do his bidding.</p>
+   <p>In that moment, I understood why the Shamans walked the streets of the city and why they were respected—and, sometimes, feared. In that moment, I feared for the people in the village I had left behind, especially my family.</p>
+   <p>“A strong will and loving heart,” he said quietly. He pushed back his chair and stood. “Come. It is time for you to rest.”</p>
+   <p>The luxury of a tub full of hot, scented water, where I soaked and washed until I felt clean. The pleasure of a clean bed in a simply furnished room that made no demands on body or heart or mind. And if, in the moments before sleep, I found myself yearning for someone who wasn’t quite a Shaman, there was no harm in that.</p>
+   <p>For the rest of that day, I floated among gentle dreams.</p>
+   <empty-line/>
+   <p>For two more days, I remained in the Temple of Sorrow. Sometimes I sat in the sorrows room to purge myself. Other times I, and the others who happened to be in the room, would raise our voices on behalf of The Voice. Her pain was huge, and because I felt some responsibility for causing it, her pain was killing me.</p>
+   <p>I suppose that was why the Shaman was waiting for me when I came out of the sorrows room that last evening.</p>
+   <p>“You did a good thing bringing her here,” he said. “Now you must take the next step in the journey.”</p>
+   <p>“I don’t understand.”</p>
+   <p>“She needs to stay. You need to go. Tomorrow.”</p>
+   <p>I hadn’t thought beyond reaching here, hadn’t considered what it would mean if I couldn’t stay at the temple.</p>
+   <p>The Shaman smiled. “There is a community in the northern part of the city. It is a full day’s journey from here, nestled in the foothills. Beautiful land. Good people. Artistic in many different ways. I have family up there. You will be welcomed.”</p>
+   <p>“I could find work there?”</p>
+   <p>“I think that someone with your heart could find a great many things.”</p>
+   <p>For a moment, I thought a blush stained his cheeks, but the sun was setting, so it must have been a trick of the light.</p>
+   <p>Which is how I ended up driving the cart, which had been scrubbed and freshly painted, to the northern part of Vision and the community of people who were not Shamans but understood more about the world than I had ever imagined.</p>
+  </section>
+  <section>
+   <title>
+    <p>7.</p>
+   </title>
+   <p>For the first six months, news about the village trickled in to me. After that, I never heard about the village or its people again.</p>
+   <p>The night we ran away, the Elders’ Hall was set on fire, and while the caretaker managed to get out unharmed, the building itself burned to the ground. The other building that burned that night was Chayne’s house.</p>
+   <p>As for Chayne, he screamed himself awake for a week. Then he stood in front of the ruins of the Elders’ Hall and confessed his offenses against all living things. He disappeared shortly after that, but Dariden claimed to have seen him behind the orphan’s house, looking bloated and hobbling around as if crippled while the caretakers watched him. Dariden also claimed Chayne must have been in a horrific accident that no one wanted to talk about, because in that moment before the caretakers noticed him and hurried to block his view, Dariden saw terrible scars on Chayne’s neck.</p>
+   <p>Tahnee and her lover reached Vision. While his parents were not pleased to have a son make a hasty marriage to a girl who feared being found by her own family, they stood witness at the marriage and helped the young couple set up housekeeping.</p>
+   <p>I haven’t seen Tahnee since the night we ran away. Despite having mutual friends, our paths never cross. Maybe we aren’t meant to meet. At least, not yet.</p>
+   <p>I don’t know what became of Kobrah. I don’t know if she reached Vision or even tried. The horse, however, was returned to the merchant’s booth in the bazaar by a grateful young man who had needed a ride in order to reach the city. By all accounts, the horse had been handed over to several riders during those months, each person needing a mount for a little while—and each one promising to assist in getting the horse back to its owner in Vision.</p>
+   <p>I sent one letter to my parents, assuring them that I was safe and well but not telling them enough that they would be able to find me. I cannot change the customs of our village because our village does not want to change. Until the magic dies that allows one person to become the well of sorrow for so many, the village will look away while the Elders maim someone in order to make that person’s flesh a vessel.</p>
+   <p>I cannot change the village. But I saved the people I could.</p>
+  </section>
+  <section>
+   <title>
+    <p>8.</p>
+   </title>
+   <p>Two years to the day, I stood on the bottom step of the Temple of Sorrow. I had a letter to deliver—and a teasing scold to deliver as well, if I had the courage. I now knew why the Shaman had blushed the day he told me about the community in the north. My lover’s eyes are not quite as beautiful as his uncle’s, and while he has a fine sense of the world, Kanzi is not a Shaman. Despite those “flaws,” he is a talented artist and a good man.</p>
+   <p>Our marriage was arranged to take place at the end of harvest, and the letter I was delivering was a nephew’s enthusiastic invitation and plea for his uncle to attend the wedding and stand as a witness.</p>
+   <p>So I stood on the steps, wondering if it was a Shaman or an uncle who had been playing matchmaker the day he sent me north, when the sound of finger cymbals caught my attention and I wandered over to a temple that was a little farther down the street.</p>
+   <p>A woman, dressed in the wheat-colored robes of a Shaman’s apprentice, was playing the finger cymbals in a happy little rhythm while a dozen children stood on the steps below, swaying to the rhythm and then freezing when the cymbals stopped.</p>
+   <p><emphasis>A game,</emphasis> I decided, smiling as I moved closer, because there was something about the woman . . . She turned and looked at me. I didn’t recognize her face, but I knew her eyes. She wore a hood that covered the hideous scars on her neck, but the robes covered a slimmer body that no longer carried sorrow.</p>
+   <p>She looked at me and smiled. And in her eyes I saw warmth, compassion, gratitude. Love.</p>
+   <p>Raising my hand in a small salute, I walked back to the Temple of Sorrow. A moment later, the finger cymbals picked up their rhythm.</p>
+   <p>I rang the bell, and he answered. His look of delight faded when he saw my face.</p>
+   <p>“What’s wrong?” he asked, stepping back to let me enter. “What’s happened?”</p>
+   <p>“I need . . .” What did I need? I hurt so much, but I didn’t know why. “She’s . . .”</p>
+   <p>Understanding. “She’s not here anymore,” he said gently.</p>
+   <p>“I know. I s-saw . . .”</p>
+   <p>“I see.” His warm hand cupped my elbow as he led me toward the sorrows room.</p>
+   <p>“No,” I said, pulling back. “Wrong . . . sound.” I knew that much.</p>
+   <p>He closed his eyes for a moment. When he opened them, they were shiny from tears. “Of course. I understand now.”</p>
+   <p>He led me to a room on the other side of the building. It was set up the same way as the room of sorrows, but instead of gongs set before each placement of cushions, there was a wind chime hanging from a stand.</p>
+   <p>The Shaman stepped out of the room and closed the door.</p>
+   <p>I stepped over to the nearest wind chime and jostled it. Bright notes filled the room. Bright notes . . . like the radiant face that had been hidden for so many years.</p>
+   <p>Stepping into the center of the room, I brushed a finger against each wind chime, moving from place to place, faster and faster, until the room was awash in sparkling sound that squeezed my heart until the tears flowed, faster and faster. Until I collapsed on the floor in the center of that room and shed tears that were a bright, sharp, cleansing pain.</p>
+   <p>They were the last tears I ever shed for The Voice, and they were not tears of sorrow. They were tears of joy.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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
+rNZrNMk//9k=</binary>
+</FictionBook>

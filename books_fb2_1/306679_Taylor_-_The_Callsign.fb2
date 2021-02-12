@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>thriller</genre>
+   <author>
+    <first-name>Brad</first-name>
+    <last-name>Taylor</last-name>
+   </author>
+   <book-title>The Callsign</book-title>
+   <annotation>
+    <p><strong>In the first ever short story by Retired Delta Force officer Brad Taylor, the stakes couldn't be higher as operator Pike Logan goes after the first Taskforce target leading a team he can't fully trust.</strong></p>
+    <p>Commissioned at the highest level of the U.S. government, and designed to operate outside the bounds of U.S. law, a new counter-terrorist unit known as the Taskforce has just been formed, but not fully tested. Until now. Pike Logan has been given a team of operators drawn from the CIA's National Clandestine Service and the military's Special Operations Forces without any say in selecting the men on which he must depend. While executing a full mission profile exercise on U.S. soil, a target of opportunity appears before the Taskforce is deemed mission capable. Forced to execute, Pike and his team are sent to Yemen to track their first real target. The future of the Taskforce depends on their success, but when Pike is challenged by one of his own, their clear-cut mission teeters on the brink of disaster. The price of failure will reverberate much deeper than the loss of the target — straight into the presidency itself.</p>
+    <p>Propulsive, compelling, and told with unparalleled realism, *The Callsign* brings readers new insight into the origins of the Taskforce as they execute the first Omega operation in a relentless and action-packed short story.</p>
+   </annotation>
+   <keywords>thriller</keywords>
+   <date></date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="Pike Logan" number="0"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 0.9.36, FictionBook Editor Release 2.6</program-used>
+   <date value="2013-06-24">24.6.2013</date>
+   <id>631f4231-7a99-4f07-859c-6f4319253d7c</id>
+   <version>1.0</version>
+   <history>
+    <p>1.0 — создание файла fb2</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>The Callsign</book-name>
+   <publisher>Dutton</publisher>
+   <city>New York</city>
+   <year>2012</year>
+   <isbn>9781101605639</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Brad Taylor</p>
+   <p>The Callsign</p>
+  </title>
+  <section>
+   <p>Dear Reader,</p>
+   <p>Thanks so much for purchasing The Callsign, my first ebook short story. Every Special Operations unit has a history that's unique, along with an evolution that's not necessarily all honey and rainbows. I thought it would be fun to delve into the Taskforce at its creation and get a brief glimpse of its early players and their first mission. As an added bonus, you'll find an exclusive preview of my next book, Enemy of Mine, included at the end. This extended preview is only available to readers of The Callsign. I hope you enjoy them both!</p>
+   <p>Best regards,</p>
+   <p><emphasis>Brad Taylor</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Chapter 1</p>
+   </title>
+   <subtitle>2008</subtitle>
+   <subtitle>Charleston, South Carolina</subtitle>
+   <p>"Lima Echo just turned around. I say again, Lima Echo headed back toward target."</p>
+   <p>It was the absolute worst call I could have received, because it meant the cop law enforcement, or Lima Echo had seen something he didn't like. Which was probably related to our be.ing in the process of breaking into a building on Broad Street.</p>
+   <p>Retro was in a vehicle providing outer security, precisely be.cause he blended in to the current environment. Actually, he blended in to just about any environment. He was a plain-look.ing guy, not too tall, not too short. A gray man that you tended to forget as soon as he'd passed you. The only thing that stood out was his clothing. He'd quit buying civilian duds the minute he entered the Army, and everything he wore looked like he was going to a flashback costume party. Hence his callsign.</p>
+   <p>"Retro, this is Pike. Was it a hard turn, or is he just doing a routine patrol? Did we spike?"</p>
+   <p>The dumbest thing we could do was panic simply because a random patrol car had decided to turn around. Something I wanted to convey over the radio to the man doing the B&amp;E to keep him from executing an action that would elevate the situation unnecessarily. Which was a trait I was beginning to worry about in my second-in-command.</p>
+   <p>"Pike, Retro. I can't tell. He definitely picked an odd road to do the U-turn on, but it is four blocks away. Nothing on the radio, so he didn't think enough about it to call it in. All I can say is, he's headed back."</p>
+   <p><emphasis>Cop's coming, and a timeline I can't meet. This is bullshit.</emphasis></p>
+   <p>I had no idea if the policeman was real or if he was roleplaying. I'd never conducted a live exercise in an actual, real-world city, and the distinction had the potential to be catastrophic. If this guy was paid by the City of Charleston, and not read on to the exercise, I could possibly make the news in a big way as a member of a new counterterrorist unit that operated outside the bounds of any legal chain of command, answering only to the national command authority.</p>
+   <p>The B&amp;E was just an exercise, but its outcome held much, much more risk than any other I had ever participated in. Certainly more than any exercise I had been in charge of. Back then I'd always had the big Army to fall back on, so I felt distinctly out of my element here. I couldn't shoot my way out. Shit, I couldn't even threaten violence. I was supposed to be in and out without anyone knowing, a mission that wasn't playing to my strength of breaking things.</p>
+   <p>"Kranz, Reaper, this is Pike. Break contact. Get out." "Screw that. We don't have the time. Don't get your panties in a wad. I've been here before. Nothing to worry about."</p>
+   <p>I recognized Kranz's voice. My know-it-all second-in-command. A guy from the CIA's National Clandestine Service that had apparently seen more Jason Bourne-type action than Matt Damon himself something he loved to share at every opportunity. I had my doubts, since he had a little bit of a gut and smoked cigarettes like a chimney. I couldn't see him running more than a block before putting his hands on his knees, no matter what skills he professed to have.</p>
+   <p>"Jesse, give me a status."</p>
+   <p>"Car's still creeping, but no flashing lights or anything."</p>
+   <p>Jesse had also come over from the NCS, but unlike Kranz he showed some serious talent. He was the youngest on the team and looked like a college student, but he was a smart problem solver who was ice under pressure. I was pretty sure Kranz embarrassed him.</p>
+   <p>The rest of the team was pure commando. Retro and Bull were Special Forces, and both had worked with me in my last unit. We'd all been recruited together as a package. Reaper was a SEAL, and appeared to be okay.</p>
+   <p>Kranz was the issue. He seemed to have little-dick syndrome, and he was always trying to prove he was as big of a badass as the military guys.</p>
+   <p>"Kranz, get your ass out of the building. You still have time."</p>
+   <p>I heard nothing for a moment, and then Reaper came on. His voice sounded clinical, but I could read the underlying anger.</p>
+   <p>"Pike, we've penetrated the office, but we left evidence."</p>
+   <p><emphasis>That jackass broke a door or a window.</emphasis></p>
+   <p>Then the situation got worse.</p>
+   <p>"Pike, Pike, lights are on. Lima Echo is coming hard."</p>
+   <p>I started moving immediately, trying to get a read on the approaching vehicle. "Reaper, Kranz, you hit an alarm. Get out. Get out." Kranz said, "Five seconds. Might as well get what we came for."</p>
+   <p>The police car swung into an empty parking space right out front, hitting the building with its spotlight and causing patrons from the local bars to become a gaggle of onlookers. I saw the officer in the driver's seat shouting into a radio, scared.</p>
+   <p><emphasis>Not a roleplayer. We're in deep shit.</emphasis></p>
+   <p>The mission just went from exercise to real world because there was no way I could allow the police to compromise our fledgling little unit. After 9/11 my boss, Kurt Hale, had realized the limitations inherent in our own government's fight against radical Islam and set out hell-bent on making drastic changes. With the new administration he'd finally succeeded. We'd only been up and running for four months, and it was looking like we were going to end up on CNN as a bunch of clowns. Which would more than likely cause the resignation of the president of the United States.</p>
+   <p>I slipped into the shadows, heading away from the target building. "Retro, what do you have on the scanner?" "He's talking. Calling in backup. He's been told to hold fast until it arrives."</p>
+   <p>So I had maybe a minute to solve the problem.</p>
+   <p>"Kranz, Reaper, status?"</p>
+   <p>Reaper came back, running somewhere and panting, "Got the target package. Headed to the roof. We'll escape through the cemetery on the north side. Pickup on Church Street."</p>
+   <p>"Roger that. You got about a minute to hit the ground before they lock this place down. Jesse, you got exfil. Retro, what do you have?"</p>
+   <p>Before he even answered, I heard the sirens then heard more bad news.</p>
+   <p>"Pike, on the roof and there's no fire escape. We can't get down."</p>
+   <p><emphasis>What the hell?</emphasis></p>
+   <p>"Reaper, climb the damn building. It's granite stone with ledges at each floor. Nothing to it." "Uhh… Roger. I can do it, but Kranz can't."</p>
+   <p><emphasis>That damn liar.</emphasis></p>
+   <p>Kranz had been placed as my second-in-command by Kurt, a little bit of forced love between the military guys and the CIA. I understood the reasoning; the Taskforce was supposed to be a blending of elements that was legally stove-piped by United States code. But somebody should have done some fact checking before Kranz was allowed to go operational. I had no idea how the CIA had picked the men to participate. Clearly Kurt trusted them to use some selection process, but he had been relying on his own experiences. Each of the military members had been handpicked from special mission units in the Department of Defense. In effect, we were already the cream of the crop. Though it was looking like that wasn't the case on the CIA side.</p>
+   <p>Two patrol cars, sirens blaring and lights flashing passed me in my little hide site on Meeting Street and kept going.</p>
+   <p>My mind switched into high gear, leaving the quandary of the exercise behind, moving seamlessly into combat mode. Some.thing I knew a little about. Something that was distinctly in my element.</p>
+   <p><emphasis>Solve the problem.</emphasis></p>
+   <p>"Reaper, find an anchor point for a rope. Jesse, meet me at the north cemetery gate on Meeting and Broad. Bring the exfil vehicle with the kit. Retro, you there?"</p>
+   <p>"Roger."</p>
+   <p>"Hey, bud, hate to do this to you, but we've got two ways to go here. Either we get Reaper and Kranz out quickly, or we slow down the response. And getting them out quick doesn't look like an option."</p>
+   <p>I heard nothing for a second, then, "Uhh… yeah. I don't like the sound of that. How am I going to slow down the response?" I poked a feeble beam from a penlight at the map affixed to my forearm and said, "See the art gallery two buildings over</p>
+   <p>from the target?"</p>
+   <p>"Yeah."</p>
+   <p>"I need you to make them think they're at the wrong target. Make them think we're after the art and used the real-estate</p>
+   <p>building to penetrate."</p>
+   <p>"Roger…. How?"</p>
+   <p>"I need you to do a B&amp;E. Right now."</p>
+  </section>
+  <section>
+   <title>
+    <p>Chapter 2</p>
+   </title>
+   <p>"Pike, I've got a view of the street," Retro said. "There are people all over, staring at the show. I can't pick a lock on the front door in full view of everyone."</p>
+   <p>I saw Jesse with the exfil van round the corner and shot my penlight at his windshield to get his attention. "Get to the back. There's an alley between the buildings. All I need you to do is trip an alarm."</p>
+   <p>I heard the skid of the police vehicles from a hundred meters away and knew I had about a minute before they coordinated and began a search.</p>
+   <p>"Retro, we're out of time. I need that alarm right now."</p>
+   <p>I heard "already moving" and ran to Jesse and the van, rip.ping into a duffel bag in the back and pulling out a Kernmantle climbing rope.</p>
+   <p>"Jesse, stage on Church Street with the engine running. We'll be coming out hot as hell," I told him.</p>
+   <p>I had shouldered the rope and turned to go to the building when he said, "We need to talk about this when we're done."</p>
+   <p>I was surprised, since he was basically saying he'd had enough of the CIA bullshit. I said, "We will. Trust me, we're go.ing to hot wash this entire thing. Now get out of here. Keep the radio on. We get busted, and you'll know it. If that happens get Kurt on the horn and get him ready for the fallout."</p>
+   <p>I jogged through the shadows of the cemetery until I reached the wall adjacent to the target. I was about to put myself in jeopardy, because I needed to start climbing before Retro accomplished his mission. He didn't, and we were all going to jail together.</p>
+   <p>"Reaper, I'm coming up. You got an anchor?" "Yeah. Inside the third floor window. It's open now. You see it?"</p>
+   <p>I flipped over the wall and landed softly on my feet in the alley. I could see the old window cracked a smidgen, a small pen.light flashing.</p>
+   <p>"I got it. Retro, what's your status?"</p>
+   <p>"Working it now. They just confirmed entry with headquarters on the scanner. From the radio calls, they're searching the first floor slow and methodical."</p>
+   <p>I went to the corner and started to climb, using the rough-hewn granite blocks as hand-and footholds. I'd reached the second floor when Retro called again.</p>
+   <p>"They've found the busted door. They're now focused on it and the stairwell leading up." "Jesus Christ! What the hell are you doing? Trip the damn alarm."</p>
+   <p>"I'm working it. The door has four different locks and is steel plate. You want me to go out front and chuck a rock through the window?"</p>
+   <p>"Get it done. Now." I kept climbing. I began wondering whether we should try subduing the cops in order to escape, knowing I was pushing a seriously bad idea.</p>
+   <p>I reached the third floor and was pulled in by Reaper. Kranz said, "Got the intel."</p>
+   <p>Like that would make up for the disaster we were in. The guy didn't even realize the stakes he had created, as if the cops them.selves were part of the exercise.</p>
+   <p>I said nothing to him, simply whispering to Reaper, "Where's the anchor? I need to put in a full loop so we can retrieve the rope once we're on the ground."</p>
+   <p>He showed me an old cast-iron radiator, long dead but still in.stalled, and I looped the rope through it, feeding it out the win.dow until both halves of the line draped down the sixty feet to the ground, no knots involved. I was turning to get Kranz out first when I saw a light flash from the stairwell.</p>
+   <p><emphasis>Shit. They're coming up.</emphasis></p>
+   <p>I hissed, "Get your ass out of here. Slide down the rope."</p>
+   <p>Kranz said, "I don't have any gloves."</p>
+   <p><emphasis>Jesus. That means there are fingerprints all over the place.</emphasis></p>
+   <p>I grabbed his collar, jerked him to my face and said in a low whisper, "Get your ass out of here. I don't give a shit if you leave your palms on the rope. Get out, or I'm going to fucking throw you out."</p>
+   <p>His eyes wide, he nodded and climbed through the window.</p>
+   <p>"Reaper," I whispered, "you think you can disarm that cop without injuring him?" He glanced at the light and said, "Pike, I don't know. I go for it and miss, I'll have to hurt him to keep him from shooting me." He watched the beam, now bobbing brighter, and said, "Shit. I don't know."</p>
+   <p>I slowly nodded, understanding that the decision was mine. I leaned out the window and saw Kranz was close enough to let go and jump.</p>
+   <p>"Get out the window. Get away. Jesse is stationed for pickup. If I'm not out, get Kurt on the line. Let him know I've been arrested."</p>
+   <p>Reaper looked at the window, then at me and said, "I'll do it. I can take him down.'' I smiled, taking a liking to my only squid. "Yeah, I'm sure you could. With the help of some Army guys. Get out."</p>
+   <p>He started to say something else, and the light flashed into the room for the first time, a small glimmer that meant the guy was now on our floor. I pointed to the window and moved to the blind side of the door.</p>
+   <p>Reaper disappeared from view, and I remembered the rope. If I were caught now, they'd know I wasn't alone. But I would need it for a hasty exit. Once I disabled this guy if I disabled this guy I couldn't afford a slow building climb. I would need speed above all else.</p>
+   <p><emphasis>Man, this exercise is really sucking.</emphasis></p>
+   <p>From the hallway, the reflection of the flashlight bounced through the room again, this time much brighter, and I pressed myself against the wall. I saw it splash into the room proper and felt my pulse race, the adrenaline flowing through me.</p>
+   <p>I moved into a fighting crouch, waiting for him to breach the door, when the alarm from the gallery pierced the night. The flashlight paused, the police officer's radio exploding in a cacophony of voices.</p>
+   <p>And then it disappeared back down the stairwell.</p>
+  </section>
+  <section>
+   <title>
+    <p>Chapter 3</p>
+   </title>
+   <p>Colonel Kurt Hale turned from the computer screen and shouted behind him, "Mike, for the love of God, tell those guys to quit hammering!"</p>
+   <p>"Sir, if you want the renovations done quickly, I can't keep shutting them down every time you need to talk on the phone."</p>
+   <p>Kurt squeezed his eyes shut and rubbed his temples. When he opened them again, Mike saw the danger lurking behind his scowl and scurried out of the office, yelling at the construction crew. When it was quiet again, Kurt said, "Okay, Pike, continue."</p>
+   <p>"We got the beddown location from the real-estate office and placed a beacon on his car last night, but I'm not sure we can execute a hit in one cycle of darkness."</p>
+   <p>"Didn't you get the intel dump from the targeting cell? Didn't they neck down his probable activities?" Kurt saw Pike scowl over the VPN, then heard, "Can I speak freely here, sir?"</p>
+   <p>"By all means."</p>
+   <p>Pike turned to look behind him, ensuring he was alone, then said, "This whole exercise is a cluster-fuck."</p>
+   <p>Kurt felt like he'd been slapped.</p>
+   <p>Pike continued. "I know you set it up, putting in the roleplayers and inventing the scenario, but there's too many fake things, which are leading to false confidence. I mean, we go through our entire mission profile to figure out where the target lives so we can develop a pattern of life, then intel hands us his future location on a silver platter, making that whole mission worthless. It should take us weeks or months to figure out his pattern of life, and we get it handed to us. It isn't realistic."</p>
+   <p>Kurt said, "Come on, Pike, I can't run an exercise for two months."</p>
+   <p>"I know, I know, but there's got to be a happy medium. I mean, the exfil plan is dictating my operation. I'm told a boat exfil for the target at oh-two-hundred tomorrow, but I don't even know if I'll have the target. It's canned. Way too canned. I need to make my men think. To solve problems. Not sit back and wait on headquarters to feed us the answer."</p>
+   <p>"Whoa. Hold on," Kurt said. "Have you ever been on an exercise that duplicated combat? Ever? I can't invent the variables that will happen in combat and still maintain control over the exercise. You know that. Especially with this unit. Compromise on an exercise is the same as compromise for real. We have nothing to fall back on."</p>
+   <p>"That's not what I meant. This one actually did duplicate com.bat exactly for the reasons you just stated. The stakes became very, very high. It's just that you never used to hand us answers. Back in the unit you trusted us to solve the problem, and enjoyed making the problem hard. It's like you threw these teams together and don't trust them."</p>
+   <p>Kurt was considering what to say when Pike's next words gave him pause. "And I'm with you. I'm not sure I trust the team you gave me either."</p>
+   <p>"What do you mean?"</p>
+   <p>Pike relayed last night's activities, ending with, "You forced me to take this double-oh superspy as a two IC, and he's show.ing his ass."</p>
+   <p>"Pike, we're not in the unit anymore," Kurt countered. "We have a much, much harder mission and we're going to need to leverage the expertise. It's not all door-kicking, and the CIA guys know that arena better than us."</p>
+   <p>"Bullshit! He might know the tactics, but his judgment is shit. Send me, Retro, and Bull to the damn training courses. This isn't rocket science."</p>
+   <p>"I don't have time to do that. I'm under some pressure to get operational. Bottom line: I expect you to lead. Get him to do what you want. It's no different than the leadership challenges you had in the Ranger regiment."</p>
+   <p>"Jesus, sir! That was a long time ago with way less sensitive missions than what you're asking me to do now."</p>
+   <p>Kurt bristled at the exchange, letting a little of the pressure he was experiencing seep out. "End of discussion, damn it. I've got a target and I'm briefing the Oversight Council in an hour. I'm trying to get Alpha authority to send you overseas. You want me to pick the other team?"</p>
+   <p>The Taskforce called each phase of the operation a different letter of the Greek alphabet, with alpha being the initial introduction of forces. Which, to this point, had never happened. The pixilation of the screen did nothing to hide Pike's surprise.</p>
+   <p>"A live target? No exercise?"</p>
+   <p>"Yes. In Yemen. An easy one. A confidence target. No kill/capture on the terrorist."</p>
+   <p>"What's his status?"</p>
+   <p>"He's a passport guy. Someone that knows the identities for</p>
+   <p>operational terrorists. We don't want to take him out and spike that he's blown. We just want his computer." "And you think we're ready to do that? Operational cover's ready?"</p>
+   <p>"You tell me."</p>
+   <p>Pike paused, and Kurt could see he was torn. Soldiers like him were few and far between. Ones that would always run to the sound of the guns, always want to be on the X in the middle of the mission. But one who also had the intellect and judgment to back off when necessary, to assess and explore both friendly and enemy weaknesses which is why he had been recruited in the first place. Kurt knew Pike would make a call he believed in, just as he had with the exercise.</p>
+   <p>"Sir, you remember when you had us all read about the formation of the OSS? Saying there were parallels with today's fight? Well, there are. The OSS grew too fast and tried to do too much initially. They made a lot of mistakes, but nobody was looking because it was World War Two. We don't have that luxury."</p>
+   <p>"So you're saying let this guy go?"</p>
+   <p>"No. I'm saying we need to learn from OSS's mistakes. From our mistakes. The success or failure of this organization won't be with the widgets or the cover. It will be with the men. Sooner or later we're going to be called upon to snatch a guy in a sovereign country without a trace, and we can't do that with teams made up of someone else's idea of what right looks like."</p>
+   <p>"Meaning?"</p>
+   <p>"I'll go get this guy's computer. I'm pretty sure we can do that. But when this is done, we need to establish some assessment and selection criteria. Something created by us for us."</p>
+   <p>Inwardly, Kurt breathed a sigh of relief and realized he had been trying to do too much on his own. He hadn't trusted his men, precisely because of the reasons Pike had stated. Outside of the ones he had personally recruited, like Pike, he had no idea of their capabilities.</p>
+   <p>But he did know the capabilities of some. And it was time to leverage that.</p>
+  </section>
+  <section>
+   <title>
+    <p>Chapter 4</p>
+   </title>
+   <p>Inside the parking garage under his office, Kurt waited in his car on his deputy commander, absently watching some workers cementing a brass placard next to a door.</p>
+   <p><emphasis>Blaisdell Consulting.</emphasis> A simple bit of camouflage that hid what really went on upstairs. Just like the Office of Strategic Services's building on E. Street in World War II.</p>
+   <p>Pike had been right about the OSS. While they eventually had become very effective, initially they made a tremendous amount of mistakes, most centered on bad ideas propagated by people who didn't have the skills for the arena they were entering. People who had been selected solely because of friendships or prior working relationships. The one area that had proven successful was Operation Jedburgh, in which Special Forces had parachuted behind enemy lines into France, Belgium, and Holland. Those teams had gone through a rigorous selection process prior to becoming operational, a fact that hammered home what Pike had said.</p>
+   <p>He saw George W olffe through the glass of the door and pulled the car around. Soon they were crossing the Roosevelt Bridge, leaving Clarendon behind and entering Washington, D.C., with George engaging in small talk.</p>
+   <p>Getting bogged down in traffic, Kurt stopped the chitchat with a pointed question. "How were the CIA guys picked for Project Prometheus? Who made those decisions?"</p>
+   <p>Although he had come over from the CIA's National Clandestine Service, George Wolffe had been handpicked by Kurt and was a close friend as well as second-in-command of the entire project. The question caught him off guard.</p>
+   <p>"Why? Is there a manning issue?"</p>
+   <p>"I don't know. Might be. Could also just be a little bit of wolfpack infighting for alpha male."</p>
+   <p>"Well, unlike you, I didn't get to handpick from the NCS. I nominated and then was told who was coming over. I could have vetoed, but that would have just left an open spot. The power brokers who are read on to this project aren't exactly one hundred percent supportive. They think we're stomping on their turf."</p>
+   <p>"So how do you know if the guy's worth a shit? What's the cut line? No offense, but my guys have all been through multiple assessment and selection courses to get to where they were before I asked them to join. How does the CIA do that? Is it just the course at the Farm?"</p>
+   <p>"No. It's more of a performance check after that. Seeing how they act under pressure in situations that I felt we would encounter. There aren't any tea-and-crumpet guys on the list. All were picked from hardship tours. Who's this about?"</p>
+   <p>"Kranz. Pike thinks he has some judgment issues. What do you think?"</p>
+   <p>George said nothing for a moment, choosing his words. "He's one of the guys that was forced on me as a replacement for my choice, who was 'unavailable.' He's done some seriously dangerous work in his career, but I don't really know him. After checking, the word I got back was that he was a little bit of a blowhard, but competent."</p>
+   <p>Kurt pulled up to the West Wing security gate of the White House and said, "Competent may not be enough for what we're asking him to do."</p>
+   <subtitle>* * *</subtitle>
+   <p>Kurt fidgeted at the head of the table, waiting on President Payton Warren before starting his briefing. He went over in his mind what he was going to say at this meeting, the first Oversight Council conference where he would ask permission to launch a team.</p>
+   <p>Already seated when he arrived, the secretary of defense and the secretary of state had tried to get an inside look, but Kurt had begged off. The director of central intelligence had simply said hello to George, then remained silent.</p>
+   <p>Five minutes past the appointed time, President Warren entered the White House situation room, followed by his national security advisor, Alexander Palmer.</p>
+   <p>The president nodded at Kurt, then sat at the head of the large conference table. "Looks like we've got everyone here. Let's go. I'm on a bit of a timeline."</p>
+   <p>Kurt started with a status review, delineating progress on the various cover businesses being established for operations, the construction timeline for the Blaisdell front office in Clarendon, and an update on the two concurrent exercises being conducted, one in Charleston, South Carolina, and one in Kansas City, Missouri. He left out any mention of Pike's close call with the police, simply stating that the exercise was progressing.</p>
+   <p>Alexander Palmer asked, "So we're on track to go operational in two months?"</p>
+   <p>"Yesterday I would have said yes, but something came up this morning. I think we can go operational right now."</p>
+   <p>Before anyone could ask a question, he flipped to the next slide, showing an acerbic Arab male; he was young, perhaps twenty-five or twenty-eight, with a full mustache.</p>
+   <p>"This is Muhammad bin Qasim, otherwise known as Abu Khalid. He's a digital graphics designer and uses those skills as a passport forger for al-Qaeda. He's currently located in Aden, Yemen, and I think we should go after him."</p>
+   <p>"Okay, how does that change anything on our side?" the DCI asked. "We've got a ton of names on the list. None of them makes us prematurely operational."</p>
+   <p>"A couple of things," Kurt said. "One, we don't want to take him out. Just get the data off his computer. Thus, we don't need to worry about the whole exfiltration problem of leaving a sovereign country with a terrorist in tow, which we currently don't have the capability to do.</p>
+   <p>"Two, he works for a water desalinization plant. This plant has just asked for bids on surveillance system upgrades due to the unrest over there. The closest business cover we have to completion is Advanced Surveillance Solutions. We can use that to bid and win the contract. We can get over there and flesh out future operational actions with little risk."</p>
+   <p>President Warren said, "So you're asking for our first Alpha? Are you sure we're ready? We blow this, and we blow more than just the mission."</p>
+   <p>Kurt knew what he was really saying. If the mission was compromised, ripping the lid off an intelligence operation that existed off the books and outside the legal scrutiny of congress the president's brand-new administration would be destroyed, with the men in this room more than likely going to jail. But he also knew that the president had understood those risks when agreeing to Project Prometheus in the first place.</p>
+   <p>"Sir, that's exactly what I'm asking. Everyone here saw the Surefoot series of capability demonstrations. They've got the skills to do it, and it's a simple Alpha introduction of forces. No Omega operational authority. Let's get a team in the game. All they'll be doing is building a pattern of life on Khalid. If it looks like we can access his database, we'll come back for Omega."</p>
+   <p>The secretary of defense asked, "Which team do you want to send?"</p>
+   <p>"Pike's team. He's got a solid mixture of guys who can walk and talk the surveillance business, from infrared cameras to digital recording. One guy, Retro, is a little bit of a computer geek. He keeps up on all that stuff on his own. And Pike's also got Jesse, a trained Arabic linguist."</p>
+   <p>Palmer said, "So you have the infrastructure and requisite cover skills. Are you sure they're ready for this mission? Can they execute?"</p>
+   <p>"They're proving that right now in Charleston."</p>
+   <p>"They haven't proven anything yet. Let's see what happens in the next twenty-four hours before I give you my vote."</p>
+  </section>
+  <section>
+   <title>
+    <p>Chapter 5</p>
+   </title>
+   <p>I'd been sitting in my vehicle for about three hours, starting to get a little antsy because of the location, when I finally got the call from Retro that the beacon was on the move.</p>
+   <p>The real estate office had provided a link to the target's beddown site, which happened to be in North Charleston in an area that was most decidedly not the nice part of town. While I was sure that I wouldn't blow the target by my location, I wasn't so sure that the neighbors around here wouldn't do it for me. No doubt they thought I was a cop and had been spreading the word around about my presence.</p>
+   <p><emphasis>Something to remember. The threat isn't only the target.</emphasis></p>
+   <p>At least this part of the exercise was proving beneficial. Trying to penetrate this area was like trying to penetrate Fallujah. Getting the beacon on the target's vehicle had been fairly challenging, given that we didn't blend in at all and the vehicle itself had been located on the street in front of a dilapidated town house.</p>
+   <p>I'd sidelined Kranz because of his shenanigans the night before, ignoring his pleas that the beacon was CIA kit and therefore somehow his mission. I'd sent in Retro and my squid insteadRetro because he was a little bit of a techno-geek, and Reaper because I was feeling him out. Testing his left and right limits.</p>
+   <p>So far Reaper had proven pretty damn solid. But we still had the night to get through yet.</p>
+   <p>I looked at my watch, seeing it was close to midnight. With an exfil boat at two in the morning, we were pushing things. We had the intel indicator saying he was "potentially meeting with an unknown" and a location, but we didn't have a time.</p>
+   <p>Retro finished his initial report, telling me that the beacon appeared to be heading toward Interstate 26, to downtown.</p>
+   <p>I kicked over the engine, wondering how many people flipped open their cell phones at the same time, and headed in the direction of the beacon track.</p>
+   <p>I had three vehicles operating as singletons, which made mounted surveillance pretty tough, but I wanted the spread in case we lost the beacon, so I only had one vehicle with two men.</p>
+   <p>I'd given the job of surveillance chief to Kranz one, because I wanted to give him a chance to prove himself, and two, because he had a hell of a lot more experience at this than I did. I was just another pair of eyes on this mission.</p>
+   <p>I entered the freeway headed south, trying to catch up to the target, currently being tracked by Retro and Bull from the two-up vehicle.</p>
+   <p>I had little idea where the other vehicles were located, but that knowledge was unnecessary. If they were in the hunt, they knew what to do-which was to stay the hell out of the way until Retro called for a change-out of the eye. That wasn't going to happen anytime soon, because he was hanging back, using our technology to keep tabs.</p>
+   <p>At least that's what I thought until his next call.</p>
+   <p>"Kranz, lost the eye. Beacon track is wigging out."</p>
+   <p>Kranz said, "Last location still I-26?"</p>
+   <p>"Yeah. But we're passing exits left and right."</p>
+   <p>I should have kept my mouth shut, let Kranz run the surveillance, but I couldn't help myself. "Retro, this is Pike. What's up with the beacon?"</p>
+   <p>"Pike, that thing is a piece of shit. I swear, for being so top secret, it amazes me how old-school our capabilities are. FedEx has better tracking on a day-to-day basis. The beacon we're using has some sort of proprietary software package that only gives a trace and a grid. It doesn't even place it on a map."</p>
+   <p>"I didn't ask for a review. I asked what was wrong."</p>
+   <p>"I'm telling you what's wrong. It's something developed by the intelligence community for the intelligence community. Its technology is four years old, which means it's prehistoric. We need to start leveraging commercial infrastructure instead of this stand-alone, make-a-fortune-with-a-contract bullshit. Bottom line is the beacon works on satellite feeds, and the target broke the view of the sky."</p>
+   <p>I thought about what I knew of Charleston, and it clicked.</p>
+   <p>"He's already off the freeway. Into the spaghetti section where I-26 goes into downtown. He's underneath a bridge somewhere.</p>
+   <p>Check the map. Where would that be?"</p>
+   <p>Bull came on. "Meeting Street. He got off at that exit. Everything else is up high. Meeting goes underneath."</p>
+   <p>"Retro, how long does that thing take to lock back on?" I asked.</p>
+   <p>"About five minutes. Once signal is broken, it goes through a ridiculous self-test. He's in the open now, but we won't get signal."</p>
+   <p>Kranz replied, "Understood, but let's not assume the beacon failed because of a sky-view. Reaper, keep going straight into the crosstown. Bull and Pike, get off at Meeting Street. Bull, go south on Meeting; Pike cut left to East Bay and troll south, paralleling Meeting. Jesse, take King Street to the west and go south as well. I'll back up Reaper on the crosstown."</p>
+   <p>I was surprised by the call. Actually impressed. <emphasis>Maybe he does have some skills on this shit.</emphasis></p>
+   <p>I said, "Roger," and exited the freeway.</p>
+   <p>Heading toward downtown, I began to review the hit we'd planned. The meeting itself was supposed to occur at the old city jail, a historical landmark that was now home to some sort of architecture school. We'd conducted a reconnaissance earlier and figured we could get out clean because the area was smack-dab in the middle of a government welfare housing area, with little to no foot traffic. There were no other commercial establishments in the area, and the building was just as advertised: a jail from the eighteenth century, deserted and dilapidated, with parking and easy access. No cameras or other surveillance systems, which worked both for the target and for us.</p>
+   <p>I continued down East Bay and found myself reflecting on how cool the city was. I'd never been to Charleston before, but it had grown on me in the week I'd been there. I was at that stage in my military career when you start thinking about where you want to end up, and this place looked pretty good. Heather, my wife, wanted to stay in North Carolina, but I was having none of that.</p>
+   <p><emphasis>Need to get her down here for a weekend. See what she thinks.</emphasis></p>
+   <p>My thoughts were broken by Retro.</p>
+   <p>"East Bay it is. Got the beacon stopped close to Market Street. Corner of East Bay and Pinckney. Looks like a parking lot near the carriage barns."</p>
+   <p>I immediately slowed and began scanning, wanting to get eyes on the target. Kranz began calling in the box.</p>
+   <p>"Pike and Reaper, get ready for an intrusion. See what's around there, where he could have gone. Bull, set up on Pinckney. Jesse, set up northbound on East Bay. I'll set up southbound."</p>
+   <p>I trolled south down East Bay and saw the vehicle inside some pay parking lot adjacent to a doctor's office. Next door was a dive bar called Big John's. Nothing else around.</p>
+  </section>
+  <section>
+   <title>
+    <p>Chapter 6</p>
+   </title>
+   <p>I called it in and parked, waiting on Reaper. It was clearly a local's-only place and not a tourist trap. I knew anyone breaking the plane of that door would get a stare, and I'd look strange as a singleton. Better to go in together.</p>
+   <p>Reaper pulled around and parked, and I asked his opinion.</p>
+   <p>"Well, he didn't go to the doctor. He either walked toward Market Street or he went in. My bet is in. There's nothing else around here."</p>
+   <p>We moseyed up to the front door, past a couple who were smoking cigarettes and going through the dating dance. The interior was dim, with a bar on one side and a row of booths on the other. The ceiling was adorned with women's bras and other bric-a-brac. My kind of place.</p>
+   <p>It was crowded but not unduly so. After the people at the bar turned away from us, I took a seat. Reaper asked the bartender for the bathroom and used that excuse to do a cursory search. When he returned, he said the target was in another room in the rear, sitting by himself.</p>
+   <p>"Can we get back there?"</p>
+   <p>"Yeah. There are a couple of pool tables. One's open." I ordered two beers and got some quarters while Reaper up.dated the team.</p>
+   <p>We were on our second rack, playing against a couple of college kids, when an unknown sat down with the target. Which caused us no small amount of concern. The intelligence indicated that he would meet someone at the old prison. The unknown meant either he was conducting two meetings or our ambush lo.cation was no good.</p>
+   <p>Nothing we could do about it. Reaper went to the bathroom again for some privacy to relay the information, letting Kranz sort out the implications. By the time he came back, the meeting was over and the target was leaving the bar, while the unknown stayed in place.</p>
+   <p>I alerted Kranz, triggering the box, then kept playing. We'd stay there until the game was done so as not to spook the unknown. I was no longer concentrating, instead listening to the calls on my little Bluetooth earpiece as the surveillance picked up the follow. Five shots later, the college boys sank the eight ball.</p>
+   <p>Reaper told them good game, and we racked our cues.</p>
+   <p>One college kid said, "That's twenty bucks each."</p>
+   <p>I said, "What are you talking about? We didn't bet."</p>
+   <p>"This is the betting table. You play here, you bet."</p>
+   <p>For the first time, I sized them up. The one talking was fairly big, with a shit-eating grin and a ball cap. The other was a little smaller but didn't look soft. He had a buzz cut that looked military.</p>
+   <p>"I didn't know that before we shot. Sorry. I'll buy you a beer."</p>
+   <p>Ball Cap said, "Fuck that. Pay up."</p>
+   <p>Reaper came over, put his back to them, and said, "We should just pay. Don't give the unknown any reason to remember us.</p>
+   <p>And we need to get back into the hunt."</p>
+   <p>I thought about it, then said, "Just so you know, if this was real, I'd do it. But it's an exercise that's going to be over in about two hours, so I could give a shit what that unknown thinks. I'm not paying them a dime."</p>
+   <p>I knew I was forcing a bad position, what with the exercise going on, but this sort of thing just set me off. Pushed my buttons in the worst way. Which was a fault of mine that I needed to work on. Tomorrow.</p>
+   <p>Truthfully, outside of the chance to bully the bully, I also wanted to see how Reaper would react. Would he fight, or would he do the smart thing?</p>
+   <p>I could tell they'd sized us up and didn't think we'd be much trouble. Reaper stood about five-ten, with longish black hair that made him look a little bit like a sissy that was just my opinion.</p>
+   <p>Well, mine and apparently these guys'. He didn't appear to have a lot of muscle, but I knew that was a ruse after the combatives training I'd done with him. The only thing remotely threatening was the size of his hands, which weren't abnormally large, but were bigger than they should have been.</p>
+   <p>Reaper grinned and said, "Remember, this was your call." He turned to Buzz Cut and said, "Sorry. I've conferred with my friend, and we've decided that you're full of shit."</p>
+   <p>Then he began walking to the front room, toward the exit.</p>
+   <p>I smiled at Ball Cap and followed. I heard them say something, then felt them right behind me.</p>
+   <p>We made it halfway down the length of the bar before Ball Cap shouted, "Hey, stop! You fucks owe us money."</p>
+   <p>I pulled abreast of Reaper to allow him to get into the fight and kept walking. Ball Cap said, "You hearing me?" and then made the mistake of lunging forward and grabbing Reaper's shoulder.</p>
+   <p>I'm sure they both expected a little more shouting, then maybe some chest bumping, before it elevated into anything physical. What Ball Cap got instead was a dose of controlled violence that he would never forget.</p>
+   <p>Reaper clamped his hands over Ball Cap's and whirled around, locking up the kid's elbow. He levered Ball Cap to his knees, holding his hand inverted, palm facing the ceiling and wrist folded as far back as it would go without breaking, then lashed out with his boot, catching him on the chin. The hat flew off, and the man sagged to the floor.</p>
+   <p>Buzz Cut jumped into the fray, knocking Reaper onto his stomach. He circled his arm around Reaper's neck and began punching the back of his head. I stood by and did nothing, simply watching my squid's technique.</p>
+   <p>Reaper writhed like a snake, and in less than a second, he was behind the man. He put Buzz Cut in a headlock and hammered his face into the nearest booth, full of college girls who were screaming and trying to climb the wall to get away.</p>
+   <p><emphasis>Not bad. Not bad at all. He'll do in a gunfight.</emphasis></p>
+   <p>Reaper let the guy fall and turned to me with an incredulous look on his face.</p>
+   <p>"What the hell are you doing?"</p>
+   <p>I gave an expression of innocence and said, "I'm not going to jail for assault."</p>
+   <p>He stood up muttering, then shoved me out of the way and stomped to the door.</p>
+   <p>The bartender was dialing a phone, probably calling the police.</p>
+   <p>I said, "Sorry. Here's some cash for your trouble."</p>
+   <p>I threw forty dollars on the bar, figuring the bartender deserved it more than the two punks on the floor. He hung up the phone without saying a word.</p>
+   <p>I turned to leave and found myself facing one of the college girls. A brunette showing more cleavage than was necessary. She said, "Hey. I know those guys, and they deserved it. I'm Skeeter."</p>
+   <p><emphasis>You've got to be kidding me. Heather will never believe this.</emphasis></p>
+   <p>I said, "Nice to meet you. I'm gone."</p>
+   <p>Then I practically sprinted out of the bar.</p>
+   <p>I reached the car, mentally preparing myself for some verbal abuse from Reaper. Instead he was all business, the bar fight completely forgotten.</p>
+   <p>"Target just entered the old prison. We're late for the dance."</p>
+  </section>
+  <section>
+   <title>
+    <p>Chapter 7</p>
+   </title>
+   <p>I got the positions of the vehicles while en route and, now that we were at an endgame, took over control of the team from Kranz, coordinating for the assault.</p>
+   <p>The plan was pretty simple: Kranz, Jesse, and Reaper would provide early warning down Magazine, Franklin, and Wilson Streets while Bull, Retro, and I would collapse into the courtyard of the jail for the capture. Once complete, Jesse would bring the van he was driving into the courtyard for a transfer; then we'd move to the marina in convoy, with Kranz leading the way and providing blocking for any trouble en route.</p>
+   <p>The assault team composition wasn't random. I had worked with Bull and Retro for years; we'd been under fire in Iraq, Afghanistan, and other places. I knew their capabilities. Reaper was turning out fine, but there was no way I was going to take a couple of CIA guys on an assault without more training and rehearsals. They might be perfect on surveillance and with other spy stuff, but when it came to breaking heads, I'd stick with what I knew to work.</p>
+   <p>The jail itself was a three-story stone structure in the shape of a castle on the corner of Magazine and Franklin streets, the road actually curving around it. Outside of a forbidding tower, it held a small courtyard surrounded by large brick walls. To the east was a parking area. Intel stated the target would park there before entering the gloom of the courtyard to accomplish whatever this meeting was about.</p>
+   <p>The only variable was the unknown coming to the meeting. We didn't want to take down two people and would prefer to hit the target while he was waiting alone. Unfortunately, it wasn't our call. The decision was in the hands of the target and whatever plan he had created.</p>
+   <p>Waiting to hit him after the meeting was a no-go, because we didn't know who would exit first or how long either of them would stay, which left us with no choice but to take them both down during the meeting itself. That was okay, though. We were prepared for that contingency.</p>
+   <p>I slid into my slot behind Bull' s vehicle, killing the lights. "Status?"</p>
+   <p>Bull came through the earpiece: "Kranz and Jesse are set. Nothing spiking at this time. Target is sitting in his vehicle. Hasn't exited yet."</p>
+   <p>"Reaper," I said, "you set?"</p>
+   <p>"Yeah. On Wilson. Nothing moving. You're clear."</p>
+   <p>I pulled out my night-vision goggles and strained to see the target vehicle. There were three in the small parking area.</p>
+   <p>"Bull, which car?"</p>
+   <p>"Farthest south. The one that's a little crooked."</p>
+   <p>I focused on the vehicle he'd described and saw a dim shape inside. "Got it."</p>
+   <p>My watch read twelve thirty a.m. If he waited too much longer, we were going to miss exfil. I toyed with the idea of taking him now, but I didn't like that his car could be seen from multiple angles. We were in a poor area, with government housing all around, and I needed the cover of the compound walls to mask our actions.</p>
+   <p>At 12:55 the target exited the vehicle and moved into the courtyard.</p>
+   <p>"All elements," I said, "target is hot. Give me a status."</p>
+   <p>I saw Bull and Retro working kit in the car in front of me and heard, "Franklin clear," then "Wilson clear."</p>
+   <p>Jesse came on and said, "Magazine not clear. I say again, Magazine not clear. There's a minibus coming. Give it fifteen seconds."</p>
+   <p>The bus passed my location and stopped in the parking area. Upward of twenty people exited and gathered around a single person standing on a small stone parapet, his back to the jail.</p>
+   <p><emphasis>What the hell?</emphasis></p>
+   <p>"Retro, you got your game ear with you?"</p>
+   <p>"Yeah. Standby."</p>
+   <p>The game ear was nothing more than an off-the-shelf directional microphone that could pick up noise from a distance. I waited about a minute and was about to call him back when he reported.</p>
+   <p>"You're not going to believe this. It's a ghost tour."</p>
+   <p>"A what?"</p>
+   <p>"A ghost tour. There's a guide describing all the evil shit that went on in the jail. They're here to tour the prison."</p>
+   <p>"At one in the morning?"</p>
+   <p>"Yep. Apparently that's when the ghosts come out. What do you want to do?"</p>
+   <p>The group moved to the front of the jail and disappeared, most likely going inside. I was now leaning toward taking the target down in the parking area when he returned, which had become the more viable option since I had a group of people possibly viewing the courtyard for poltergeists. The parking area was outside the wall and thus outside their view. I was considering the pros and cons when Reaper called.</p>
+   <p>"Got a walker coming down Franklin. Moving with purpose."</p>
+   <p><emphasis>The damn unknown.</emphasis></p>
+   <p>"Alright, here's the plan "</p>
+   <p>Kranz cut in. "I'm on the walker. Reaper, close from behind. We'll take him, leaving the target free. Moving now."</p>
+   <p><emphasis>What the hell?</emphasis></p>
+   <p>"Negative, I say again, negative. Keep the outer cordon. Do not assault the walker. Let him go. We'll handle it. All elements acknowledge."</p>
+   <p>Bull and Retro said, "Roger."</p>
+   <p>Reaper said, "Kranz is on the street, moving to the walker."</p>
+   <p>"Kranz, Kranz, acknowledge."</p>
+   <p>He said nothing. Reaper came on. "He's closing on the walker."</p>
+   <p><emphasis>That son of a bitch.</emphasis></p>
+   <p>"Get out and help him. Keep him from getting his ass kicked. Bull, get in the courtyard. Spook the target. Act like a cop or whatever you want, but get him back to his vehicle. Retro, you and me on the car."</p>
+   <p>Ordinarily the only time a target would see any of us was when we were behind the barrel of a gun, but this had turned out to be anything but ordinary. I figured Bull running him out was better than taking him down in front of a bunch of ghost hunters.</p>
+   <p>Bull exited, and I met Retro. He immediately began bitching.</p>
+   <p>"What the hell is going on? Whose team is this, anyway? He pulls this shit overseas, and we're all going to jail."</p>
+   <p>I silenced him with a glare and said, "You take front bumper. Let him get to the door. I'll stand up then you hit him with the taser. Any questions?"</p>
+   <p>Retro could smell my rage and simply nodded.</p>
+   <p>We waited on Bull to enter the courtyard, then melted into the shadows, me in the rear and Retro in the front. I keyed my Bluetooth, saying, "Reaper, we're set. Status?"</p>
+   <p>"Kranz is talking to the guy. No idea about what. I'm not sure it's the unknown. I'm still clean. What do you want me to do?"</p>
+   <p>"Read it. Make a decision. If he makes a move on Kranz, take him down. If not, you need to judge. If he's the unknown, we need to take him now that Kranz has engaged. We're compromised. But if he's not, then he's a civilian and taking him down will compromise us for real."</p>
+   <p>I heard nothing for a moment, then, "Roger."</p>
+   <p>Bull keyed his mike, and I heard a bunch of BS about not being here after dark, and then I heard a different voice. A female voice.</p>
+   <p>"What are you two doing? This is my area. My tour. You can't be here. I have permission from the owners."</p>
+   <p><emphasis>You have got to be kidding me. What else can go wrong?</emphasis></p>
+   <p>Bull transitioned seamlessly, saying, "Yes, ma'am. I'm with the park service. I was just asking this guy what he was doing here."</p>
+   <p>I heard the target say, "Nothing. Nothing at all. I'm leaving." Then the woman asked, "Park service? This isn't a park. It's a privately owned building. Let me see some I.D."</p>
+   <p>The microphone went mute, and I staged for assault. I caught a shadow exit the courtyard, then saw the target fumbling for his keys. I called Jesse as I rose. "Exfil, I say again, exfil. Get the van here now."</p>
+   <p>The target looked at me in fear, giving Retro his full back to fire upon. The taser required both leads to connect, and it wasn't that accurate, which is why I'd wanted the target focused on me. If one contact missed, we'd be in a fighting, screaming mess with Miss High-and-Mighty about fifty meters away.</p>
+   <p>I heard the dull whine, and the target whipsawed onto the ground, massive voltage going through him. I saw headlights splash behind me, then go dark. Jesse pulled the van in, and we threw the man into the back. Retro went in after, flex-tying and gagging the target.</p>
+   <p>I said, "Head to the Marina. Don't wait on Kranz or anyone else. Bull will be right behind you. Any trouble, leave it to him."</p>
+   <p>He nodded and began backing up while I jogged to my car. "Bull, provide coverage for the van to the marina. Retro' s staying with the target. Kranz, Reaper, what's your status?"</p>
+   <p>I got a "Roger" from Bull, but nothing from Reaper or Kranz. I rounded the corner onto Franklin and saw them talking to the unknown.</p>
+   <p><emphasis>Enough of this bullshit.</emphasis></p>
+   <p>The only proof we would get that the unknown was a roleplayer in the exercise was if he actually met our target at 0100 in the back of a deserted prison. Stopping this guy outside left a glaring hole. If he was just a bad-luck walker and they took him down, we would be in deep trouble. That type of thing would be impossible to explain or cover up.</p>
+   <p>I slammed on the brakes, threw the car into PARK, and strode over to them, mentally throwing the entire exercise out the window to protect the Taskforce.</p>
+   <p>Kranz saw me stalking toward him, and his mouth opened in surprise. He said, "Hey, we're just checking this guy out. Why he's walking so late. You know."</p>
+   <p>I said, "Shut the fuck up." I turned to the walker, a young black man with an attitude, and said, "Beat it. Now." He said, "Hey, bro, I got a right to be here. I was just telling them that. I done nothing wrong. Show me your badge."</p>
+   <p><emphasis>He's not a roleplayer-he thinks we're cops. About to go Rodney King on us.</emphasis></p>
+   <p>I leaned into his personal space and whispered, "You get moving right now, or I'm going to send you to the fucking morgue. Bro."</p>
+   <p>His eyes widened, and he nodded, then backpedaled before turning and jogging in the direction from which he'd come.</p>
+   <p>Kranz said, "What the hell are you doing? We might have gotten information out of him. He- "</p>
+   <p>I grabbed Kranz's shirt, lifted him off his feet and slammed him into the ground, knocking the wind out of him. He lay gasping like a fish, and I leaned in until our faces were inches apart. "You will get your ass to the marina. You will not do anything but drive. You will park, and then you will sit until you are told to get on the boat. You disobey anything I've just said, and I'm going to break two bones of my choice. Understood?"</p>
+   <p>He managed to nod. I let go and stood up, breathing heavily, still feeling the rage.</p>
+   <p>Looking down at our team's twitching second-in-command without any trace of irony, Reaper said, "This is the strangest exercise I have ever been on."</p>
+  </section>
+  <section>
+   <title>
+    <p>Chapter 8</p>
+   </title>
+   <p>"I want him gone. Period."</p>
+   <p>Kurt said, "Pike, it's not that simple. There are equities here that aren't solved by firing someone. People who want to see this fail will assume we don't know what we're doing."</p>
+   <p>"Don't know what we're doing? Jesus, keeping that guy will prove the point. He's a walking menace."</p>
+   <p>"He came highly recommended from the CIA. We can't simply spit him back out. They'll turn off the pipe of people they respect because they'll think we don't know how to utilize them."</p>
+   <p>"Sir, we need an overarching assessment and selection process. Something we all agree on and nobody will argue is unfair. We don't get that, and we can throw all this away." I said it while sweeping my hand around the room, then said, "Well, I can't wait to throw this away, but you know what I mean."</p>
+   <p>We were inside a rented warehouse near Falls Church, our makeshift team room while the construction went on at the permanent Clarendon facility. The warehouse was set back in the woods, with a gated entrance, and it was swept daily for listening devices or other electronic monitoring. Other than the elaborate security and surveillance systems in place, it didn't have a whole lot of amenities. A concrete floor, some metal wall lockers, and a one-hole toilet. But it would do.</p>
+   <p>"So you're saying he's a total shit-bag? Does nothing right?</p>
+   <p>Didn't he do well on the surveillance aspects?" I grudgingly said, "Yeah. He's pretty switched on with all the spy stuff." Kurt smiled. "And that's our biggest weakness."</p>
+   <p>"But he always tries to go commando when it isn't necessary. It's like he wants the spy stuff to go wrong so he can start doing something stupid. You'd think he would be the last person to do that, but he's always the first. The worst part is, he won't listen to me. I can't trust him."</p>
+   <p>"You couldn't trust him <emphasis>before</emphasis>. I think you got your point across in Charleston. And you're going to need his skills."</p>
+   <p>He paused, looked me in the eye, and said, "Because that's the entire mission profile for Yemen."</p>
+   <p>It took a second to sink in. "The mission is a go? Oversight Council gave approval for Omega on the computer?"</p>
+   <p>He held up his hands. "No, no. Just Alpha. Introduction of forces and preparation of the battle space. Get an assessment of whether we can gain access to his data; then we'll go back for Omega authority. So you don't have to worry about Kranz going commando. It'll just be the spy stuff."</p>
+   <p>I tried one last time. "Let me leave him here. I've got Jesse and he's switched on. He knows tradecraft skills inside and out, and he's cool under pressure."</p>
+   <p>"No. Just keep Kranz under control and leverage his skills. It's more important than you think, beyond just the mission. We get this done and we'll earn some credibility. Afterward, if you still want to ditch him, I can thank him for a job well done and send him off as a hero."</p>
+   <p>I knew it was a no-win situation. I'd either say we weren't ready or take him along, and there was no way I was going to say we weren't ready and let the other team take the first mission we'd ever done. Even so, I decided to leverage my capitulation.</p>
+   <p>"Okay, on one condition: You give me an OPFUND and let me buy some gear."</p>
+   <p>Kurt said, "Gear's no issue. I can get you anything you want."</p>
+   <p>"No. I want to buy my own. The CIA is giving us old-school crap. They aren't opening up the double-oh-seven vault, because they don't want to compromise what they've got. The directorate of science and technology is giving us equipment that looks like it came from an Austin Powers movie set. Retro thinks he can do better by shopping on the Internet. Shit, we were using his personal kit in Charleston. And off-the-shelf stuff won't spike customs, since we'll be flying in commercial."</p>
+   <p>"I can get George Wolffe on it. He can break through the red tape at Langley."</p>
+   <p>"That might work but not for this mission. We don't have the time. What we really need to invest in is our own DS&amp;T. Our own shop that does research and development instead of relying on the support of others."</p>
+   <p>"How much do you want?"</p>
+   <p>"Twenty thousand should do it."</p>
+   <p>"Twenty-thousand? What the hell are you going to buy?"</p>
+   <p>"Come on, sir. You spent more than that on the infrastructure in your office. If I don't need all of it, I won't use it."</p>
+   <p>He considered, then said, "I'll give you a line of credit of ten thousand, but you itemize what you want and run it by the logistics section first. If you need more, you'll get more, but no buying a bunch of gee-whiz gear just because you have the money. Only get what you think you need."</p>
+   <p>I agreed, knowing that what I thought I would need was a pretty big door to walk through. I could buy just about anything with that guidance.</p>
+   <subtitle>* * *</subtitle>
+   <p>Five days later we were ready to go. We'd been through the pre-deployment package of intelligence and cover development, and I was confident in the team. Even Kranz, who had seemed to take my Charleston threat seriously.</p>
+   <p>The intel itself seemed pretty solid, but I wanted a second opinion from someone I trusted. I'd seen plenty of "solid" intelligence turn out to be nothing but a string of coincidences. After the clinical slide show, I'd flagged Ethan Merriweather for some inside skinny. Ethan was an intel weenie like the rest of that department, but only because he'd broken his back on a parachute operation, which forced him out of the infantry and into military intelligence. He was someone who had hunted terrorists with a gun before being relegated to briefing others to do the same. Someone who thought like me.</p>
+   <p>"Ethan, what's the story on this guy? How good is the intelligence?"</p>
+   <p>"You saw the brief. That's the best we've got. He's bad, no doubt."</p>
+   <p>"No doubt?"</p>
+   <p>He paused for a moment, considering his words. "Look, in my opinion, he isn't a global jihadist. He's just making some money on the side, but he's doing it for global jihadists, and he knows that. He's no innocent dupe. He'll give us some serious leads."</p>
+   <p>That had been good enough for me and was the final confirmation I needed to feel comfortable about the mission. The team was clicking, and, thanks to Retro, we were now equipped with the latest technology that he could find.</p>
+   <p>He'd managed to run up a twelve-thousand-dollar bill on various widgets we "might" need. We'd packed everything into innocuous boxes that would support our cover of salesmen from Advanced Surveillance Solutions. The hardest part had been the guns, but we'd had the CIA's concealment shop build us some inert cameras, which were now stuffed with six Glock 30 .45 caliber pistols. We'd done a test run through an X-ray machine, and short of someone opening the box and physically pulling the cameras apart, we were good to go.</p>
+   <p>We were due to deploy the following morning, and I was running the operation through my mind while I packed, thinking of the myriad things that could go wrong and feeling the added pressure of being the vanguard for our fledgling little unit.</p>
+   <p>Whatever I did would set the tone for everything to follow. I had the chance to establish standard operating procedures for the following ten years, as well as the opportunity to ensure we'd only exist for the next ten days.</p>
+   <p>I took one last look at the pictures of my wife and daughter, wondering what they were doing right this moment, and a little tinge of melancholy hit me the usual feeling I had before deployment.</p>
+   <p>My being gone was nothing new for my family. I had married Heather after I was accepted into the special mission unit, so she was used to constant deployments. But it still tore at me right before I left each time.</p>
+   <p>These feelings had become old hat after close to a decade in combat. I didn't want to leave, but once I was gone, I quit thinking about my family, instead focusing on the mission until I was allowed to make a phone call. Then I wanted to get the hell out of whatever shithole I was in and go home. With this new Taskforce, there would be no phone call. No contact whatsoever.</p>
+   <p>I remember seeing <emphasis>Apocalypse Now</emphasis> as a teenager. There's one scene where Martin Sheen is talking to himself about the war and his life in America. He says, "When I was there I wanted to be here. When I was here I wanted to be there." I had no idea what he was talking about then, but I now understood completely.</p>
+   <p>Reaper startled me out of my thoughts, plopping down in front of his wall locker next to me. I hastily shoved the pictures into a shoebox, hoping he wouldn't notice.</p>
+   <p>He did.</p>
+   <p>"Your wife?"</p>
+   <p>"Yeah." I went on the offensive before he could start in on my family. "You married?"</p>
+   <p>He started pulling out kit and said, "Nope. Was once, but it didn't last, which is too bad. She was an absolute hammer. Huge rack, tight ass, everything a man could want, but she was a career woman. Her job took precedence over the marriage."</p>
+   <p>A little bit taken aback at how he'd described his ex-wife, I said, "Yeah, I know how that goes. Heather was a financial analyst and doing really well, but she had to give that up because of my deployments. What did your wife do?"</p>
+   <p>"She was into the performing arts."</p>
+   <p>I had a hard time seeing him with some artsy-fartsy woman, but you just never knew. He did have the sissy haircut.</p>
+   <p>"Wow," I said, "that's worse than a financial analyst. Not too much call for that career path in the shithole towns surrounding military bases."</p>
+   <p>He shoved some boots into a bag and said, ''That wasn't it. She could have found a job at any of the posts I was stationed at. I just didn't want her to keep working."</p>
+   <p>"Why not? I mean, if it made her happy?" "Well, I was nineteen, fresh out of BUD/S and full of piss and vinegar. The marriage lasted about four months." "Huh," I said, at a momentary loss for words. "Would you change that now? After serving as long as you have?"</p>
+   <p>He zipped up his bag and stood, giving it thought. "No, I don't think so. I didn't mind the dancing so much, but her not wearing clothes while she did it really ate at me. I don't think that would change no matter how long I served."</p>
+   <p>He walked away, leaving me with my jaw hanging open.</p>
+  </section>
+  <section>
+   <title>
+    <p>Chapter 9</p>
+   </title>
+   <p>I kept an eye on the front door of the office while Retro used one of his widgets to crack the password that was denying him access to the computer hard drive. If the passport data was on it, this would be the easiest mission I had ever done. But I didn't think it would be, since we were inside Khalid' s office at the water desalinization plant. The chances of him putting terrorist in.formation on his work computer were about nil.</p>
+   <p>We'd been in Aden for a little over five days, and the mission itself had gone swimmingly. As fate would have it, our point of contact with the plant was none other than one Muhammad bin Qasim, aka Khalid, aka our target. While he worked in engineer.ing as a CAD/CAM designer, he had a solid grasp of English and was given to us as a sort of guide-slash-interpreter.</p>
+   <p>Khalid himself looked to be about twenty-eight and was an affable man, friendly and engaging. He asked a ton of questions about the United States, as if he were genuinely interested, and showed no sign of disliking our nationality. In fact, he'd invited us to his house for dinner after we were done tonight, which would make our development of his pattern of life incredibly easy.</p>
+   <p>He didn't appear to be some mastermind terrorist, but looks could be deceiving. I had noticed that he'd closely followed our plans to upgrade the surveillance systems. He probably thought it was perfect justice to be our POC, since he would have inside knowledge of how the desalinization plant was protected should he or his comrades be inclined to do anything to it. I'm sure he went home each night smugly laughing at how he had tricked the Americans into revealing protected secrets, not realizing that the joke was on him.</p>
+   <p>When we'd first arrived at the plant I figured it would be about a week just to track down Khalid' s location inside the task organization. My eyes almost popped out of my head when he was introduced, thinking we'd just burned the entire team. Luckily I'd left Kranz, Reaper, and Bull out of the first meeting, so he knew only Retro, Jesse, and myself.</p>
+   <p>While we were most definitely out of the mix for any follow.on surveillance, the partnership had proved more of a plus than a minus, as it allowed us access to his office and, after tonight's work, access to his house for dinner.</p>
+   <p>"How much longer?" I asked. "You promised a five-minute deal."</p>
+   <p>Retro said, "Yeah, well, I forgot that the password would be in Arabic. This thing is designed to go through statistical results based on the English alphabet. None of those are matching up. But no matter what language is used, it's all ones and zeroes in the end. It'll crack. It'll just take a little longer."</p>
+   <p>We'd convinced Khalid and the head of security that we need.ed to see the structure at night to determine ambient lighting for the emplacement of the cameras, as well as gaps that were currently not covered due to darkness obscuring the video feed. Jesse was currently out with Khalid and security, taking pictures of the potential camera locations, leaving Khalid' s computer open for us to data mine.</p>
+   <p>In truth, getting in there had been easier than getting approval for the operational act from the Oversight Council. Those hand.wringers seemed to think I was asking to assassinate the president of Yemen. Eventually, they'd relented.</p>
+   <p>I saw Jesse and Khalid on one of our temporary "test" cam.eras, which were actually security for tonight's operation. They were entering a stairwell on the first floor, which meant that they were headed back.</p>
+   <p>"You got about five minutes."</p>
+   <p>Retro said nothing, simply watched the screen. I turned back to the camera, seeing the group disappear from view. I heard "Yes!" and turned around.</p>
+   <p>Retro was stroking the keyboard. "I got it. But everything's in Arabic. I was hoping for at least the file names to be English." He disengaged his little brute-force cracking device and plugged in a cloning gadget to the USB port.</p>
+   <p>"What's that mean for time?" I asked</p>
+   <p>"Well, I can't do the entire hard drive. I'm scanning for encrypted files. It should also clone the system bios, capturing any passwords that have been saved."</p>
+   <p>He kept stroking the keyboard, grunting every once in a while. He said, "I got about forty encrypted files. Transferring now."</p>
+   <p>I heard distant footsteps in the hallway and looked at a mirror I had positioned in the crook of the door. I saw Jesse, which meant Khalid was on the way.</p>
+   <p>"Shut it down. Khalid' s thirty seconds out. We'll have to take what we have."</p>
+   <p>"Almost done."</p>
+   <p>The footsteps grew louder.</p>
+   <p>"Shut it down. They're outside the door."</p>
+   <p>"Hang on."</p>
+   <p>"Damn it, Retro."</p>
+   <p>I saw a shadow and blocked the doorway, smiling.</p>
+   <p>"We're almost done with the network assessment," I told them. "How did the stroll go?" Jesse picked up on the tension and said, "Fine. You want to come see the biggest problem area?"</p>
+   <p>"Yeah. As long as we're here."</p>
+   <p>Khalid said, "No, no. My wife has prepared dinner. Another time." He pushed past me into his office.</p>
+  </section>
+  <section>
+   <title>
+    <p>Chapter 10</p>
+   </title>
+   <p>I felt the adrenaline spike, flooding through my veins, and wait.ed to hear Khalid ask what the hell Retro was doing. I glanced at Jesse and said, "Block the door."</p>
+   <p>I entered the office to find Retro packing his bags and Khalid shutting down his computer. Nothing amiss at all. Retro glanced at me with a grin and said, "We going to follow you, Muhammad? I'm looking forward to some home cooking."</p>
+   <subtitle>* * *</subtitle>
+   <p>An hour and a half later, we were all stuffed and going into food comas. Khalid's wife had been the epitome of hospitality, and, truthfully, Khalid himself was growing on me. It probably wasn't the correct thing to think given my line of work, but I was glad this mission profile explicitly prevented us from harming him, as we didn't want to spike al-Qaeda about their compromise.</p>
+   <p>His wife brought out tea, and I felt my phone vibrate. I risked a surreptitious glance and saw a text that the GPS tracker was in place.</p>
+   <p>Retro had purchased international smart phones for all of us and had embedded an application that tracked each one. I'd given instructions to Kranz, Reaper, and Bull to wait until we were stationary, then to drive to our location and emplace a civilian tracker on Khalid's vehicle. It wouldn't transmit, but it would record every bit of movement that Khalid made for three weeks, including changes in elevation and temperature, and it was seamlessly integrated with Google Earth. The only bad thing was we would need to recover it to get the data, but when we did, we'd know everywhere he had gone. And would have our pat.tern of life with little work.</p>
+   <p>It was another Retro purchase, and it made me wonder what the hell the CIA was keeping hidden from us. If this could be bought open source, they had to have something that would do exponentially more.</p>
+   <p>I relaxed after reading the text, feeling the anxiety that had been a slow burn for the last two hours disappear. I saw Khalid answer his phone and turned my attention to his wife, taking a small cup of tea from her.</p>
+   <p>Khalid left the room, then returned in a few minutes with a sense of urgency and his laptop. "Mr. Logan, I'm sorry, but something has come up at the plant. I have to return to meet my boss."</p>
+   <p>"Something with security? Should I go?" I asked.</p>
+   <p>"No, no, it's just a mechanical error. I hope you enjoyed tonight." He motioned us toward the door. "I'm sorry to hear that, but I definitely enjoyed the meal. Thank you." We headed to the driveway and I smelled something rotten.</p>
+   <p><emphasis>What does a CAD/CAM designer have to do with any mechanical issues?</emphasis></p>
+   <p>The city of Aden was on a spit of land that jutted out of the coast of Yemen like the head of a golf club. The city was on the shaft of the club, which is where the desalinization plant was located, just southwest of the airport. Khalid lived on the top edge of the face of the club and should have followed us up the coast road before turning off to the plant.</p>
+   <p>Instead he turned south, heading into the heart of the peninsula, through a desolate area of desert. The only thing at the south end of the peninsula was an industrial zone and a bunch of shantytowns.</p>
+   <p>In the car with Retro and Jesse, I called the other part of the team. "Kranz, you got eyes on? You see that? We'll get the golden egg off tonight's data. He's going to meet someone."</p>
+   <p>"Yeah, I'm on it. Right behind him."</p>
+   <p>What?</p>
+   <p>"What do you mean you're behind him? Let him go. I say again, let him go. We'll get the data and analyze it later." "He's got a laptop with him, and he's on a road in the middle of nowhere. This is our chance." I couldn't believe what I was hearing. I said to Retro, "Turn this thing around. Catch up to them." I keyed my radio again. "Kranz, back off."</p>
+   <p>He didn't reply. I looked at the map and saw he was right: the road Khalid was on was a deserted strip through the desert, not that it mattered one iota. Maybe later, if we got Omega for a takedown, but not now.</p>
+   <p>"Reaper, Reaper, what's your status?" "Was headed back, but I'm on him now. I can see taillights about two miles up." "Kranz, you'd better answer me or I'm going to fucking crush you." He came back on. "Pike, he's running. He knows I'm on him."</p>
+   <p><emphasis>Jesus Christ.</emphasis></p>
+   <p>"Back off, damn it. Let him go."</p>
+   <p>"That's not how it works. We're compromised, and he's got the data with him. I'm going to get it before he burns the information."</p>
+   <p>I started pounding the dash, infuriated that I'd let Kurt talk me into taking this walking disaster.</p>
+   <p>We were now on the desolate road, and I could see the lights in the distance, off through the desert. Two up tight and one farther back.</p>
+   <p>"Kranz, you're right on his ass. He probably thinks you're some sort of militia. He has no idea who you are. Back off!"</p>
+   <p>Instead I saw his headlights close onto Khalid's bumper then I saw the headlights of Khalid' s vehicle spin off the road.</p>
+   <p>I pulled out my NODs and fumbled for my Glock underneath the seat, saying, "Gas it. Get there now!"</p>
+   <p>We closed within a hundred meters, moving over eighty miles an hour, and I saw Reaper's vehicle slide to a stop, broadside in the road.</p>
+   <p>Retro hit the brakes and I bailed out the passenger door, Jesse right behind me. I saw Kranz running to the vehicle, then heard the <emphasis>pop-pop-pop</emphasis> of rounds. In stark relief, illuminated in the eerie green of my night vision, I saw Khalid desperately shooting to.ward the sound of Kranz.</p>
+   <p>He dropped to the ground and rolled away. I heard another crack and saw Khalid snap sideways, then crumple back into the car. Reaper closed the distance with his Glock at the ready.</p>
+   <p>On the run, I shouted, "Kranz, you okay?"</p>
+   <p>He rose and moved unsteadily to the car. He reached in back and pulled out the laptop. I ignored him and went to Reaper, now attempting to staunch the life flowing out of Khalid through the wound Kranz had created. But it was worthless. Khalid's head was split at the top, with about a golf-ball-sized chunk missing, brain tissue oozing onto the front seat of the car. I thought about his wife whom I'd just left.</p>
+   <p>Kranz said, "Got the laptop. We need to get the hell out of here."</p>
+   <p>I felt a rage unlike anything I had ever experienced. I slowly turned toward him, trying to regain control. Trying to maintain the mantle of leadership entrusted to me.</p>
+   <p>Reaper said, "You stupid bastard. You just destroyed whatever is on that laptop."</p>
+   <p>Kranz said, "Bullshit. It'll be a month before this makes it through the AQ system. You military guys never want to think outside the box. We had a perfect opportunity, and I took it. Besides, I'm not the one that killed him."</p>
+   <p>Reaper swung a hard right cross with his entire body behind it, his oversized fist connecting right above Kranz's left eye. The impact sounded like a baseball bat hitting a rack of ribs. Kranz's head popped back, and he dropped to the ground like a puppet with the strings cut.</p>
+   <p>Nobody moved for a moment; then Jesse knelt next to Kranz, putting a white light on him. He said, "Jesus, you hit him so hard I can see your knuckles on his skull."</p>
+   <p>I said, "Is he dead?"</p>
+   <p>"No. He's breathing. But I guarantee he's got a concussion."</p>
+   <p>I looked at Reaper, who was now staring at the ground, know.ing he'd be court-martialed for attacking his second-in-command. The rest of the team was a little shell-shocked at the whole event. I felt a crushing disappointment, because I was the team leader and this was about as worse a mission as I could devise. Our first operation.</p>
+   <p>"Bull, Retro, clean up the mess. Drive the vehicle as deep as you can get it into the desert. Jesse, load up Kranz in your car. We show up to work tomorrow like nothing happened. Let them sort it out. We get this hard drive to the Taskforce and stay and finish the contract."</p>
+   <p>I waited until they were in motion, then looked at Reaper, patiently ready to hear the worst. I said, "What the hell am I going to do with you?"</p>
+   <p>He said, "Sorry. I… just lost it. I didn't mean to hit Kranz so hard."</p>
+   <p>I kicked the dirt, considering my options, which I knew should be charging him with assaulting a superior officer. But I really didn't want to do that, since Kranz deserved everything he got.</p>
+   <p>Reaper said, "Look, I'll make this easy. I shouldn't have exploded like that, and I know that's not what this unit is about. I understand the risks of my behavior. I'll fly home tomorrow and turn in my kit. The plant doesn't know I'm on the contract, and there's no way both of us can remain on this team."</p>
+   <p>The statement made my decision harder, not easier. He was proving to be everything we needed. Then his last sentence hit home.</p>
+   <p><emphasis>He's right. No way can both of them stay after this. Perfect.</emphasis></p>
+   <p>I said, "You still want a job?" His eyes held hope. "Yeah, of course. The mission is why I joined. I'll do whatever shit job you want to give me." "You're the new two IC. Kranz is fired. He'll be lucky if I even get him evac'd." He looked at me in surprise, then stuttered something, unable to stitch together a coherent sentence. I smiled. "There still has to be some punishment, though. Forget about Reaper. Your callsign is now Knuckles."</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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</binary>
+</FictionBook>

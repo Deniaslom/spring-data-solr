@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>prose_classic</genre>
+   <author>
+    <first-name>Richard</first-name>
+    <middle-name>Harding</middle-name>
+    <last-name>Davis</last-name>
+   </author>
+   <book-title>The Bar Sinister (1903)</book-title>
+   <annotation>
+    <p>In his preface, Davis sheds light on the origins of The Bar Sinister. "In the dog world, the original of the bull-terrier in the story is known as Edgewood Cold Steel and to his intimates as 'Kid'. His father was Lord Minto, a thoroughbred bull-terrier, well known in Canada, but the story of Kid's life is that his mother was a black-and-tan named Vic. She was a lady of doubtful pedigree. Among her offspring by Lord Minto, so I have been often informed by many Canadian dog-fanciers, breeders, and exhibitors, was the only white puppy, Kid, in a litter of black-and-tans." </p>
+   </annotation>
+   <date></date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>OOoFBTools-2.9 (ExportToFB21), FictionBook Editor Release 2.6.6</program-used>
+   <date value="2013-04-15">15.04.2013</date>
+   <src-url>http://gutenberg.net.au/ebooks03/0300061.txt</src-url>
+   <id>OOoFBTools-2013-4-15-16-18-20-1174</id>
+   <version>1.0</version>
+   <history>
+    <p>v. 1.0 - fb2 by Mel_C</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>The Bar Sinister by Richard Harding Davis</book-name>
+   <isbn>1131077989 (1)</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>THE BAR SINISTER</p>
+   <p>By Richard Harding Davis</p>
+  </title>
+  <section>
+   <subtitle><strong>PREFACE</strong></subtitle>
+   <cite>
+    <subtitle>WHEN this story first appeared, the writer received letters of two kinds, one asking a question and the other making a statement. The question was, whether there was any foundation of truth in the story; the statement challenged him to say that there was. The letters seemed to show that a large proportion of readers prefer their dose of fiction with a sweetening of fact. This is written to furnish that condiment, and to answer the question and the statement. In the dog world, the original of the bull-terrier in the story is known as Edgewood Cold Steel and to his intimates as "Kid." His father was Lord Minto, a thoroughbred bullterrier, well known in Canada, but the story of Kid's life is that his mother was a black-and-tan named Vic. She was a lady of doubtful pedigree. Among her off spring by Lord Minto, so I have been often informed by many Canadian dog-fanciers, breeders, and exhibitors, Kid was the only white puppy in a litter of black-and-tans. He made his first appearance in the show world in 1900 in Toronto, where, under the judging of Mr. Charles H. Mason, he was easily first. During that year, when he came to our kennels, and in the two years following, he carried off many blue ribbons and cups at nearly every first-class show in the country. The other dog, "Jimmy Jocks," who in the book was his friend and mentor, was in. real life his friend and companion, Woodcote Jumbo, or "Jaggers," an aristocratic son of a long line of English champions. He has gone to that place where some day all good dogs must go. In this autobiography I have tried to describe Kid as he really is, and this year, when he again strives for blue ribbons, I trust, should the gentle reader see him at any of the bench-shows, he will give him a friendly pat and make his acquaintance. He will find his advances met with a polite and gentle courtesy.</subtitle>
+    <text-author>THE AUTHOR</text-author>
+   </cite>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p><strong>Part I</strong></p>
+   </title>
+   <p>The Master was walking most unsteady, his legs tripping each other. After the fifth or sixth round, my legs often go the same way. </p>
+   <p>But even when the Master's legs bend and twist a bit, you mustn't think he can't reach you. Indeed, that is the time he kicks most frequent. So I kept behind him in the shadow, or ran in the middle of the street. He stopped at many public-houses with swinging doors, those doors that are cut so high from the sidewalk that you can look in under them, and see if the Master is inside. At night when I peep beneath them the man at the counter will see me first and say, "Here's the Kid, Jerry, come to take you home. Get a move on you," and the Master will stumble out and follow me. It's lucky for us I'm so white, for no matter how dark the night, he can always see me ahead, just out of reach of his boot. At night the Master certainly does see most amazing. Sometimes he sees two or four of me, and walks in a circle, so that I have to take him by the leg of his trousers and lead him into the right road. One night, when he was very nasty-tempered and I was coaxing him along, two men passed us and one of them says, "Look at that brute!" and the other asks "Which?" and they both laugh. The Master, he cursed them good and proper. </p>
+   <p>This night, whenever we stopped at a public-house, the Master's pals left it and went on with us to the next. They spoke quite civil to me, and when the Master tried a flying kick, they gives him a shove. "Do you want we should lose our money?" says the pals. </p>
+   <p>I had had nothing to eat for a day and a night, and just before we set out the Master gives me a wash under the hydrant. Whenever I am locked up until all the slop-pans in our alley are empty, and made to take a bath, and the Master's pals speak civil, and feel my ribs, I know something is going to happen. And that night, when every time they see a policeman under a lamp-post, they dodged across the street, and when at the last one of them picked me up and hid me under his jacket, I began to tremble; for I knew what it meant. It meant that I was to fight again for the Master. </p>
+   <p>I don't fight because I like it. I fight because if I didn't the other dog would find my throat, and the Master would lose his stakes, and I would be very sorry for him and ashamed. Dogs can pass me and I can pass dogs, and I'd never pick a fight with none of them. When I see two dogs standing on their hind-legs in the streets, clawing each other's ears, and snapping for each other's windpipes, or howling and swearing and rolling in the mud, I feel sorry they should act so, and pretend not to notice. If he'd let me, I'd like to pass the time of day with every dog I meet. But there's something about me that no nice dog can abide. When I trot up to nice dogs, nodding and grinning, to make friends, they always tell me to be off. "Go to the devil!" they bark at me; "Get out!" and when I walk away they shout "mongrel," and "gutter-dog," and sometimes, after my back is turned, they rush me. I could kill most of them with three shakes, breaking the back-bone of the little ones, and squeezing the throat of the big ones. But what's the good? They are nice dogs; that's why I try to make up to them, and though it's not for them to say it, I am a street-dog, and if I try to push into the company of my betters, I suppose it's their right to teach me my place. </p>
+   <p>Of course, they don't know I'm the best fighting bull-terrier of my weight in Montreal. That's why it wouldn't be right for me to take no notice of what they shout. They don't know that if I once locked my jaws on them I'd carry away whatever I touched. The night I fought Kelley's White Rat, I wouldn't loosen up until the Master made a noose in my leash and strangled me, and if the handlers hadn't thrown red pepper down my nose, I never would have let go of that Ottawa dog. I don't think the handlers treated me quite right that time, but maybe they didn't know the Ottawa dog was dead. I did. </p>
+   <p>I learned my fighting from my mother when I was very young. We slept in a lumber-yard on the river-front, and by day hunted for food along the wharves. When we got it, the other tramp-dogs would try to take it off us, and then it was wonderful to see mother fly at them, and drive them away. All I know of fighting I learned from mother, watching her picking the ash-heaps for me when I was too little to fight for myself. No one ever was so good to me as mother. When it snowed and the ice was in the St. Lawrence she used to hunt alone, and bring me back new bones, and she'd sit and laugh to see me trying to swallow 'em whole. I was just a puppy then, my teeth was falling out. When I was able to fight we kept the whole river-range to ourselves, I had the genuine long, "punishing" jaw, so mother said, and there wasn't a man or a dog that dared worry us. Those were happy days, those were; and we lived well, share and share alike, and when we wanted a bit of fun, we chased the fat old wharf-rats. My! how they would squeal! </p>
+   <p>Then the trouble came. It was no trouble to me. I was too young to care then. But mother took it so to heart that she grew ailing, and wouldn't go abroad with me by day. It was the same old scandal that they're always bringing up against me. I was so young then that I didn't know. I couldn't see any difference between mother—and other mothers. </p>
+   <p>But one day a pack of curs we drove off snarled back some new names at her, and mother dropped her head and ran, just as though they had whipped us. After that she wouldn't go out with me except in the dark, and one day she went away and never came back, and though I hunted for her in every court and alley and back street of Montreal, I never found her. </p>
+   <p>One night, a month after mother ran away, I asked Guardian, the old blind mastiff, whose Master is the night-watchman on our slip, what it all meant. And he told me. </p>
+   <p>"Every dog in Montreal knows," he says, "except you, and every Master knows. So I think it's time you knew." </p>
+   <p>Then he tells me that my father, who had treated mother so bad, was a great and noble gentleman from London. "Your father had twenty-two registered ancestors, had your father," old Guardian says, "and in him was the best bull-terrier blood of England, the most ancientest, the most royal; the winning 'blue-ribbon' blood, that breeds champions. He had sleepy pink eyes, and thin pink lips, and he was as white all over as his own white teeth, and under his white skin you could see his muscles, hard and smooth, like the links of a steel chain. When your father stood still, and tipped his nose in the air, it was just as though he was saying, 'Oh, yes, you common dogs and men, you may well stare. It must be a rare treat for you Colonials to see a real English royalty.' He certainly was pleased with hisself, was your father. He looked just as proud and haughty as one of them stone dogs in Victoria Park—them as is cut out of white marble. And you're like him," says the old mastiff—"by that, of course, meaning you're white, same as him. That's the only likeness. But, you see, the trouble is, Kid—well, you see, Kid, the trouble is—your mother—" </p>
+   <p>"That will do," I said, for I understood then without his telling me, and I got up and walked away, holding my head and tail high in the air. </p>
+   <p>But I was, oh, so miserable, and I wanted to see mother that very minute, and tell her that I didn't care. </p>
+   <p>Mother is what I am, a street-dog; there's no royal blood in mother's veins, nor is she like that father of mine, nor—and that's the worst—she's not even like me. For while I, when I'm washed for a fight, am as white as clean snow, she—and this is our trouble, she—my mother, is a black-and-tan. </p>
+   <p>When mother hid herself from me, I was twelve months old and able to take care of myself, and, as after mother left me, the wharves were never the same, I moved uptown and met the Master. Before he came, lots of other men-folks had tried to make up to me, and to whistle me home. But they either tried patting me or coaxing me with a piece of meat; so I didn't take to 'em. But one day the Master pulled me out of a street-fight by the hind-legs, and kicked me good. </p>
+   <p>"You want to fight, do you?" says he. "I'll give you all the FIGHTING you want!" he says, and he kicks me again. So I knew he was my Master, and I followed him home. Since that day I've pulled off many fights for him, and they've brought dogs from all over the province to have a go at me, but up to that night none, under thirty pounds, had ever downed me. </p>
+   <p>But that night, so soon as they carried me into the ring, I saw the dog was over-weight, and that I was no match for him. It was asking too much of a puppy. The Master should have known I couldn't do it. Not that I mean to blame the Master, for when sober, which he sometimes was, though not, as you might say, his habit, he was most kind to me, and let me out to find food, if I could get it, and only kicked me when I didn't pick him up at night and lead him home. </p>
+   <p>But kicks will stiffen the muscles, and starving a dog so as to get him ugly-tempered for a fight may make him nasty, but it's weakening to his insides, and it causes the legs to wabble. </p>
+   <p>The ring was in a hall, back of a public-house. There was a red-hot whitewashed stove in one corner, and the ring in the other. I lay in the Master's lap, wrapped in my blanket, and, spite of the stove, shivering awful; but I always shiver before a fight; I can't help gettin' excited. While the men-folks were a-flashing their money and taking their last drink at the bar, a little Irish groom in gaiters came up to me and give me the back of his hand to smell, and scratched me behind the ears. </p>
+   <p>"You poor little pup," says he. "You haven't no show," he says. "That brute in the tap-room, he'll eat your heart out." </p>
+   <p>"That's what you think," says the Master, snarling. "I'll lay you a quid the Kid chews him up." </p>
+   <p>The groom, he shook his head, but kept looking at me so sorry-like, that I begun to get a bit sad myself. He seemed like he couldn't bear to leave off a-patting of me, and he says, speaking low just like he would to a man-folk, "Well, good-luck to you, little pup," which I thought so civil of him, that I reached up and licked his hand. I don't do that to many men. And the Master, he knew I didn't, and took on dreadful. </p>
+   <p>"What 'ave you got on the back of your hand?" says he, jumping up. </p>
+   <p>"Soap!" says the groom, quick as a rat. "That's more than you've got on yours. Do you want to smell of it?" and he sticks his fist under the Master's nose. But the pals pushed in between 'em. </p>
+   <p>"He tried to poison the Kid!" shouts the Master. </p>
+   <p>"Oh, one fight at a time," says the referee. "Get into the ring, Jerry. We're waiting." So we went into the ring. </p>
+   <p>I never could just remember what did happen in that ring. He give me no time to spring. He fell on me like a horse. I couldn't keep my feet against him, and though, as I saw, he could get his hold when he liked, he wanted to chew me over a bit first. I was wondering if they'd be able to pry him off me, when, in the third round, he took his hold; and I began to drown, just as I did when I fell into the river off the Red C slip. He closed deeper and deeper, on my throat, and everything went black and red and bursting; and then, when I were sure I were dead, the handlers pulled him off, and the Master give me a kick that brought me to. But I couldn't move none, or even wink, both eyes being shut with lumps. </p>
+   <p>"He's a cur!" yells the Master, "a sneaking, cowardly cur. He lost the fight for me," says he, "because he's a————-cowardly cur." And he kicks me again in the lower ribs, so that I go sliding across the sawdust. "There's gratitude fer yer," yells the Master. "I've fed that dog, and nussed that dog, and housed him like a prince; and now he puts his tail between his legs, and sells me out, he does. He's a coward; I've done with him, I am. I'd sell him for a pipeful of tobacco." He picked me up by the tail, and swung me for the men-folks to see. "Does any gentleman here want to buy a dog," he says, "to make into sausage-meat?" he says. "That's all he's good for." </p>
+   <p>Then I heard the little Irish groom say, "I'll give you ten bob for the dog." </p>
+   <p>And another voice says, "Ah, don't you do it; the dog's same as dead—mebby he is dead." </p>
+   <p>"Ten shillings!" says the Master, and his voice sobers a bit; "make it two pounds, and he's yours." </p>
+   <p>But the pals rushed in again. </p>
+   <p>"Don't you be a fool, Jerry," they say. "You'll be sorry for this when you're sober. The Kid's worth a fiver." </p>
+   <p>One of my eyes was not so swelled up as the other, and as I hung by my tail, I opened it, and saw one of the pals take the groom by the shoulder. </p>
+   <p>"You ought to give 'im five pounds for that dog, mate," he says; "that's no ordinary dog. That dog's got good blood in him, that dog has. Why, his father—that very dog's father—" </p>
+   <p>I thought he never would go on. He waited like he wanted to be sure the groom was listening. </p>
+   <p>"That very dog's father," says the pal, "is Regent Royal, son of Champion Regent Monarch, champion bull-terrier of England for four years." </p>
+   <p>I was sore, and torn, and chewed most awful, but what the pal said sounded so fine that I wanted to wag my tail, only couldn't, owing to my hanging from it. </p>
+   <p>But the Master calls out, "Yes, his father was Regent Royal; who's saying he wasn't? but the pup's a cowardly cur, that's what his pup is, and why—I'll tell you why—because his mother was a black-and-tan street-dog, that's why!" </p>
+   <p>I don't see how I get the strength, but some way I threw myself out of the Master's grip and fell at his feet, and turned over and fastened all my teeth in his ankle, just across the bone. </p>
+   <p>When I woke, after the pals had kicked me off him, I was in the smoking-car of a railroad-train, lying in the lap of the little groom, and he was rubbing my open wounds with a greasy, yellow stuff, exquisite to the smell, and most agreeable to lick off. </p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p><strong>Part II</strong></p>
+   </title>
+   <p>"Well—what's your name—Nolan? Well, Nolan, these references are satisfactory," said the young gentleman. My new Master called "Mr. Wyndham, sir." </p>
+   <p>"I'll take you on as second man. You can begin to-day." </p>
+   <p>My new Master shuffled his feet, and put his finger to his forehead. "Thank you, sir," says he. Then he choked like he had swallowed a fish-bone. "I have a little dawg, sir," says he. </p>
+   <p>"You can't keep him," says "Mr. Wyndham, sir," very short. </p>
+   <p>"'Es only a puppy, sir," says my new Master; "'e wouldn't go outside the stables, sir." </p>
+   <p>"It's not that," says "Mr. Wyndham, sir;" "I have a large kennel of very fine dogs; they're the best of their breed in America. I don't allow strange dogs on the premises." </p>
+   <p>The Master shakes his head, and motions me with his cap, and I crept out from behind the door. "I'm sorry, sir," says the Master. "Then I can't take the place. I can't get along without the dog, sir." </p>
+   <p>"Mr. Wyndham, sir," looked at me that fierce that I guessed he was going to whip me, so I turned over on my back and begged with my legs and tail. </p>
+   <p>"Why, you beat him!" says "Mr. Wyndham, sir," very stern. </p>
+   <p>"No fear!" the Master says, getting very red. "The party I bought him off taught him that. He never learnt that from me!" He picked me up in his arms, and to show "Mr. Wyndham, sir," how well I loved the Master, I bit his chin and hands. </p>
+   <p>"Mr. Wyndham, sir," turned over the letters the Master had given him. "Well, these references certainly are very strong," he says. "I guess I'll let the dog stay this time. Only see you keep him away from the kennels—or you'll both go." </p>
+   <p>"Thank you, sir," says the Master, grinning like a cat when she's safe behind the area-railing. </p>
+   <p>"He's not a bad bull-terrier," says "Mr. Wyndham, sir," feeling my head. "Not that I know much about the smooth-coated breeds. My dogs are St. Bernards." He stopped patting me and held up my nose. "What's the matter with his ears?" he says. "They're chewed to pieces. Is this a fighting dog?" he asks, quick and rough-like. </p>
+   <p>I could have laughed. If he hadn't been holding my nose, I certainly would have had a good grin at him. Me, the best under thirty pounds in the Province of Quebec, and him asking if I was a fighting dog! I ran to the Master and hung down my head modest-like, waiting for him to tell my list of battles, but the Master he coughs in his cap most painful. "Fightin' dog, sir," he cries. "Lor' bless you, sir, the Kid don't know the word. 'Es just a puppy, sir, same as you see; a pet dog, so to speak. 'Es a regular old lady's lap-dog, the Kid is." </p>
+   <p>"Well, you keep him away from my St. Bernards," says "Mr. Wyndham, sir," "or they might make a mouthful of him." </p>
+   <p>"Yes, sir, that they might," says the Master. But when we gets outside he slaps his knee and laughs inside hisself, and winks at me most sociable. </p>
+   <p>The Master's new home was in the country, in a province they called Long Island. There was a high stone wall about his home with big iron gates to it, same as Godfrey's brewery; and there was a house with five red roofs, and the stables, where I lived, was cleaner than the aerated bakery-shop, and then there was the kennels, but they was like nothing else in this world that ever I see. For the first days I couldn't sleep of nights for fear someone would catch me lying in such a cleaned-up place, and would chase me out of it, and when I did fall to sleep I'd dream I was back in the old Master's attic, shivering under the rusty stove, which never had no coals in it, with the Master flat on his back on the cold floor with his clothes on. And I'd wake up, scared and whimpering, and find myself on the new Master's cot with his hand on the quilt beside me; and I'd see the glow of the big stove, and hear the high-quality horses below-stairs stamping in their straw-lined boxes, and I'd snoop the sweet smell of hay and harness-soap, and go to sleep again. </p>
+   <p>The stables was my jail, so the Master said, but I don't ask no better home than that jail. </p>
+   <p>"Now, Kid," says he, sitting on the top of a bucket upside down, "you've got to understand this. When I whistle it means you're not to go out of this 'ere yard. These stables is your jail. And if you leave 'em I'll have to leave 'em, too, and over the seas, in the County Mayo, an old mother will 'ave to leave her bit of a cottage. For two pounds I must be sending her every month, or she'll have naught to eat, nor no thatch over 'er head; so, I can't lose my place, Kid, an' see you don't lose it for me. You must keep away from the kennels," says he; "they're not for the likes of you. The kennels are for the quality. I wouldn't take a litter of them woolly dogs for one wag of your tail, Kid, but for all that they are your betters, same as the gentry up in the big house are my betters. I know my place and keep away from the gentry, and you keep away from the Champions." </p>
+   <p>So I never goes out of the stables. All day I just lay in the sun on the stone flags, licking my jaws, and watching the grooms wash down the carriages, and the only care I had was to see they didn't get gay and turn the hose on me. There wasn't even a single rat to plague me. Such stables I never did see. </p>
+   <p>"Nolan," says the head-groom, "some day that dog of yours will give you the slip. You can't keep a street-dog tied up all his life. It's against his natur'." The head-groom is a nice old gentleman, but he doesn't know everything. Just as though I'd been a street-dog because I liked it. As if I'd rather poke for my vittles in ash-heaps than have 'em handed me in a wash-basin, and would sooner bite and fight than be polite and sociable. If I'd had mother there I couldn't have asked for nothing more. But I'd think of her snooping in the gutters, or freezing of nights under the bridges, or, what's worse of all, running through the hot streets with her tongue down, so wild and crazy for a drink, that the people would shout "mad dog" at her, and stone her. Water's so good, that I don't blame the men-folks for locking it up inside their houses, but when the hot days come, I think they might remember that those are the dog-days and leave a little water outside in a trough, like they do for the horses. Then we wouldn't go mad, and the policemen wouldn't shoot us. I had so much of everything I wanted that it made me think a lot of the days when I hadn't nothing, and if I could have given what I had to mother, as she used to share with me, I'd have been the happiest dog in the land. Not that I wasn't happy then, and most grateful to the Master, too, and if I'd only minded him, the trouble wouldn't have come again. </p>
+   <p>But one day the coachman says that the little lady they called Miss Dorothy had come back from school, and that same morning she runs over to the stables to pat her ponies, and she sees me. </p>
+   <p>"Oh, what a nice little, white little dog," said she; "whose little dog are you?" says she. </p>
+   <p>"That's my dog, miss," says the Master. "'Is name is Kid," and I ran up to her most polite, and licks her fingers, for I never see so pretty and kind a lady. </p>
+   <p>"You must come with me and call on my new puppies," says she, picking me up in her arms and starting off with me. </p>
+   <p>"Oh, but please, Miss," cries Nolan, "Mr. Wyndham give orders that the Kid's not to go to the kennels." </p>
+   <p>"That'll be all right," says the little lady; "they're my kennels too. And the puppies will like to play with him." </p>
+   <p>You wouldn't believe me if I was to tell you of the style of them quality-dogs. If I hadn't seen it myself I wouldn't have believed it neither. The Viceroy of Canada don't live no better. There was forty of them, but each one had his own house and a yard—most exclusive—and a cot and a drinking-basin all to hisself. They had servants standing 'round waiting to feed 'em when they was hungry, and valets to wash 'em; and they had their hair combed and brushed like the grooms must when they go out on the box. Even the puppies had overcoats with their names on 'em in blue letters, and the name of each of those they called champions was painted up fine over his front door just like it was a public-house or a veterinary's. They were the biggest St. Bernards I ever did see. I could have walked under them if they'd have let me. But they were very proud and haughty dogs, and looked only once at me, and then sniffed in the air. The little lady's own dog was an old gentleman bull-dog. He'd come along with us, and when he notices how taken aback I was with all I see, 'e turned quite kind and affable and showed me about. </p>
+   <p>"Jimmy Jocks," Miss Dorothy called him, but, owing to his weight, he walked most dignified and slow, waddling like a duck as you might say, and looked much too proud and handsome for such a silly name. </p>
+   <p>"That's the runway, and that's the Trophy House," says he to me, "and that over there is the hospital, where you have to go if you get distemper, and the vet. gives you beastly medicine." </p>
+   <p>"And which of these is your 'ouse, sir?" asks I, wishing to be respectful. But he looked that hurt and haughty. "I don't live in the kennels," says he, most contemptuous. "I am a house-dog. I sleep in Miss Dorothy's room. And at lunch I'm let in with the family, if the visitors don't mind. They most always do, but they're too polite to say so. Besides," says he, smiling most condescending, "visitors are always afraid of me. It's because I'm so ugly," says he. "I suppose," says he, screwing up his wrinkles and speaking very slow and impressive, "I suppose I'm the ugliest bull-dog in America," and as he seemed to be so pleased to think hisself so, I said, "Yes, sir, you certainly are the ugliest ever I see," at which he nodded his head most approving. </p>
+   <p>"But I couldn't hurt 'em, as you say," he goes on, though I hadn't said nothing like that, being too polite. "I'm too old," he says; "I haven't any teeth. The last time one of those grizzly bears," said he, glaring at the big St. Bernards, "took a hold of me, he nearly was my death," says he. I thought his eyes would pop out of his head, he seemed so wrought up about it. "He rolled me around in the dirt, he did," says Jimmy Jocks, "an' I couldn't get up. It was low," says Jimmy Jocks, making a face like he had a bad taste in his mouth. "Low, that's what I call it, bad form, you understand, young man, not done in our circles—and—and low." He growled, way down in his stomach, and puffed hisself out, panting and blowing like he had been on a run. </p>
+   <p>"I'm not a street-fighter," he says, scowling at a St. Bernard marked "Champion." "And when my rheumatism is not troubling me," he says, "I endeavor to be civil to all dogs, so long as they are gentlemen." </p>
+   <p>"Yes, sir," said I, for even to me he had been most affable. </p>
+   <p>At this we had come to a little house off by itself and Jimmy Jocks invites me in. "This is their trophy-room," he says, "where they keep their prizes. Mine," he says, rather grand-like, "are on the sideboard." Not knowing what a sideboard might be, I said, "Indeed, sir, that must be very gratifying." But he only wrinkled up his chops as much as to say, "It is my right." </p>
+   <p>The trophy-room was as wonderful as any public-house I ever see. On the walls was pictures of nothing but beautiful St. Bernard dogs, and rows and rows of blue and red and yellow ribbons; and when I asked Jimmy Jocks why they was so many more of blue than of the others, he laughs and says, "Because these kennels always win." And there was many shining cups on the shelves which Jimmy Jocks told me were prizes won by the champions. </p>
+   <p>"Now, sir, might I ask you, sir," says I, "wot is a champion?" </p>
+   <p>At that he panted and breathed so hard I thought he would bust hisself. "My dear young friend!" says he. "Wherever have you been educated? A champion is a—a champion," he says. "He must win nine blue ribbons in the 'open' class. You follow me—that is—against all comers. Then he has the title before his name, and they put his photograph in the sporting papers. You know, of course, that <emphasis>I</emphasis> am a champion," says he. "I am Champion Woodstock Wizard III., and the two other Woodstock Wizards, my father and uncle, were both champions." </p>
+   <p>"But I thought your name was Jimmy Jocks," I said. </p>
+   <p>He laughs right out at that. </p>
+   <p>"That's my kennel name, not my registered name," he says. "Why, you certainly know that every dog has two names. Now, what's your registered name and number, for instance?" says he. </p>
+   <p>"I've only got one name," I says. "Just Kid." </p>
+   <p>Woodstock Wizard puffs at that and wrinkles up his forehead and pops out his eyes. </p>
+   <p>"Who are your people?" says he. "Where is your home?" </p>
+   <p>"At the stable, sir," I said. "My Master is the second groom." </p>
+   <p>At that Woodstock Wizard III. looks at me for quite a bit without winking, and stares all around the room over my head. </p>
+   <p>"Oh, well," says he at last, "you're a very civil young dog," says he, "and I blame no one for what he can't help," which I thought most fair and liberal. "And I have known many bullterriers that were champions," says he, "though as a rule they mostly run with fire-engines, and to fighting. For me, I wouldn't care to run through the streets after a hose-cart, nor to fight," says he; "but each to his taste." </p>
+   <p>I could not help thinking that if Woodstock Wizard III. tried to follow a fire-engine he would die of apoplexy, and that, seeing he'd lost his teeth, it was lucky he had no taste for fighting, but, after his being so condescending, I didn't say nothing. </p>
+   <p>"Anyway," says he, "every smooth-coated dog is better than any hairy old camel like those St. Bernards, and if ever you're hungry down at the stables, young man, come up to the house and I'll give you a bone. I can't eat them myself, but I bury them around the garden from force of habit, and in case a friend should drop in. Ah, I see my Mistress coming," he says, "and I bid you good-day. I regret," he says, "that our different social position prevents our meeting frequent, for you're a worthy young dog with a proper respect for your betters, and in this country there's precious few of them have that." Then he waddles off, leaving me alone and very sad, for he was the first dog in many days that had spoken to me. But since he showed, seeing that I was a stable-dog, he didn't want my company, I waited for him to get well away. It was not a cheerful place to wait, the Trophy House. The pictures of the champions seemed to scowl at me, and ask what right had such as I even to admire them, and the blue and gold ribbons and the silver cups made me very miserable. I had never won no blue ribbons or silver cups; only stakes for the old Master to spend in the publics, and I hadn't won them for being a beautiful, high-quality dog, but just for fighting—which, of course, as Woodstock Wizard III. says, is low. So I started for the stables, with my head down and my tail between my legs, feeling sorry I had ever left the Master. But I had more reason to be sorry before I got back to him. </p>
+   <p>The Trophy House was quite a bit from the kennels, and as I left it I see Miss Dorothy and Woodstock Wizard III. walking back toward them, and that a fine, big St. Bernard, his name was Champion Red Elfberg, had broke his chain, and was running their way. When he reaches old Jimmy Jocks he lets out a roar like a grain-steamer in a fog, and he makes three leaps for him. Old Jimmy Jocks was about a fourth his size; but he plants his feet and curves his back, and his hair goes up around his neck like a collar. But he never had no show at no time, for the grizzly bear, as Jimmy Jocks had called him, lights on old Jimmy's back and tries to break it, and old Jimmy Jocks snaps his gums and claws the grass, panting and groaning awful. But he can't do nothing, and the grizzly bear just rolls him under him, biting and tearing cruel. The odds was all that Woodstock Wizard III. was going to be killed. I had fought enough to see that, but not knowing the rules of the game among champions, I didn't like to interfere between two gentlemen who might be settling a private affair, and, as it were, take it as presuming of me. So I stood by, though I was shaking terrible, and holding myself in like I was on a leash. But at that Woodstock Wizard III., who was underneath, sees me through the dust, and calls very faint, "Help, you!" he says. "Take him in the hind-leg," he says. "He's murdering me," he says. And then the little Miss Dorothy, who was crying, and calling to the kennel-men, catches at the Red Elfberg's hind-legs to pull him off, and the brute, keeping his front pats well in Jimmy's stomach, turns his big head and snaps at her. So that was all I asked for, thank you. I went up under him. It was really nothing. He stood so high that I had only to take off about three feet from him and come in from the side, and my long, "punishing jaw" as mother was always talking about, locked on his woolly throat, and my back teeth met. I couldn't shake him, but I shook myself, and every time I shook myself there was thirty pounds of weight tore at his windpipes. I couldn't see nothing for his long hair, but I heard Jimmy Jocks puffing and blowing on one side, and munching the brute's leg with his old gums. Jimmy was an old sport that day, was Jimmy, or, Woodstock Wizard III., as I should say. When the Red Elfberg was out and down I had to run, or those kennel-men would have had my life. They chased me right into the stables; and from under the hay I watched the head-groom take down a carriage-whip and order them to the right about. Luckily Master and the young grooms were out, or that day there'd have been fighting for everybody. </p>
+   <p>Well, it nearly did for me and the Master. "Mr. Wyndham, sir," comes raging to the stables and said I'd half-killed his best prize-winner, and had oughter be shot, and he gives the Master his notice. But Miss Dorothy she follows him, and says it was his Red Elfberg what began the fight, and that I'd saved Jimmy's life, and that old Jimmy Jocks was worth more to her than all the St. Bernards in the Swiss mountains—where-ever they be. And that I was her champion, anyway. Then she cried over me most beautiful, and over Jimmy Jocks, too, who was that tied up in bandages he couldn't even waddle. So when he heard that side of it, "Mr. Wyndham, sir," told us that if Nolan put me on a chain, we could stay. So it came out all right for everybody but me. I was glad the Master kept his place, but I'd never worn a chain before, and it disheartened me—but that was the least of it. For the quality-dogs couldn't forgive my whipping their champion, and they came to the fence between the kennels and the stables, and laughed through the bars, barking most cruel words at me. I couldn't understand how they found it out, but they knew. After the fight Jimmy Jocks was most condescending to me, and he said the grooms had boasted to the kennel-men that I was a son of Regent Royal, and that when the kennel-men asked who was my mother they had had to tell them that too. Perhaps that was the way of it, but, however, the scandal was out, and every one of the quality-dogs knew that I was a street-dog and the son of a black-and-tan. </p>
+   <p>"These misalliances will occur," said Jimmy Jocks, in his old-fashioned way, "but no well-bred dog," says he, looking most scornful at the St. Bernards, who were howling behind the palings, "would refer to your misfortune before you, certainly not cast it in your face. I, myself, remember your father's father, when he made his debut at the Crystal Palace. He took four blue ribbons and three specials." </p>
+   <p>But no sooner than Jimmy would leave me, the St. Bernards would take to howling again, insulting mother and insulting me. And when I tore at my chain, they, seeing they were safe, would howl the more. It was never the same after that; the laughs and the jeers cut into my heart, and the chain bore heavy on my spirit. I was so sad that sometimes I wished I was back in the gutter again, where no one was better than me, and some nights I wished I was dead. If it hadn't been for the Master being so kind, and that it would have looked like I was blaming mother, I would have twisted my leash and hanged myself. </p>
+   <p>About a month after my fight, the word was passed through the kennels that the New York Show was coming, and such goings on as followed I never did see. If each of them had been matched to fight for a thousand pounds and the gate, they couldn't have trained more conscientious. But, perhaps, that's just my envy. The kennel-men rubbed 'em and scrubbed 'em and trims their hair and curls and combs it, and some dogs they fatted, and some they starved. No one talked of nothing but the Show, and the chances "our kennels" had against the other kennels, and if this one of our champions would win over that one, and whether them as hoped to be champions had better show in the "open" or the "limit" class, and whether this dog would beat his own dad, or whether his little puppy sister couldn't beat the two of them. Even the grooms had their money up, and day or night you heard nothing but praises of "our" dogs, until I, being so far out of it, couldn't have felt meaner if I had been running the streets with a can to my tail. I knew shows were not for such as me, and so I lay all day stretched at the end of my chain, pretending I was asleep, and only too glad that they had something so important to think of, that they could leave me alone. </p>
+   <p>But one day before the Show opened, Miss Dorothy came to the stables with "Mr. Wyndham, sir," and seeing me chained up and so miserable, she takes me in her arms. </p>
+   <p>"You poor little tyke," says she. "It's cruel to tie him up so; he's eating his heart out, Nolan," she says. "I don't know nothing about bull-terriers," says she, "but I think Kid's got good points," says she, "and you ought to show him. Jimmy Jocks has three legs on the Rensselaer Cup now, and I'm going to show him this time so that he can get the fourth, and if you wish, I'll enter your dog too. How would you like that, Kid?" says she. "How would you like to see the most beautiful dogs in the world? Maybe, you'd meet a pal or two," says she. "It would cheer you up, wouldn't it, Kid?" says she. But I was so upset, I could only wag my tail most violent. "He says it would!" says she, though, being that excited, I hadn't said nothing. </p>
+   <p>So, "Mr. Wyndham, sir," laughs and takes out a piece of blue paper, and sits down at the head-groom's table. </p>
+   <p>"What's the name of the father of your dog, Nolan?" says he. And Nolan says, "The man I got him off told me he was a son of Champion Regent Royal, sir. But it don't seem likely, does it?" says Nolan. </p>
+   <p>"It does not!" says "Mr. Wyndham, sir," short-like. </p>
+   <p>"Aren't you sure, Nolan?" says Miss Dorothy. </p>
+   <p>"No, Miss," says the Master. </p>
+   <p>"Sire unknown," says "Mr. Wyndham, sir," and writes it down. </p>
+   <p>"Date of birth?" asks "Mr. Wyndham, sir." </p>
+   <p>"I—I—unknown, sir," says Nolan. And "Mr. Wyndham, sir," writes it down. </p>
+   <p>"Breeder?" says "Mr. Wyndham, sir." </p>
+   <p>"Unknown," says Nolan, getting very red around the jaws, and I drops my head and tail. And "Mr. Wyndham, sir," writes that down. </p>
+   <p>"Mother's name?" says "Mr. Wyndham, sir." </p>
+   <p>"She was a—unknown," says the Master. And I licks his hand. </p>
+   <p>"Dam unknown," says "Mr. Wyndham, sir," and writes it down. Then he takes the paper and reads out loud: "Sire unknown, dam unknown, breeder unknown, date of birth unknown. You'd better call him the 'Great Unknown,'" says he. "Who's paying his entrance-fee?" </p>
+   <p>"I am," says Miss Dorothy. </p>
+   <p>Two weeks after we all got on a train for New York; Jimmy Jocks and me following Nolan in the smoking-car, and twenty-two of the St. Bernards, in boxes and crates, and on chains and leashes. Such a barking and howling I never did hear, and when they sees me going, too, they laughs fit to kill. </p>
+   <p>"Wot is this; a circus?" says the railroad-man. </p>
+   <p>But I had no heart in it. I hated to go. I knew I was no "show" dog, even though Miss Dorothy and the Master did their best to keep me from shaming them. For before we set out Miss Dorothy brings a man from town who scrubbed and rubbed me, and sand-papered my tail, which hurt most awful, and shaved my ears with the Master's razor, so you could most see clear through 'em, and sprinkles me over with pipe-clay, till I shines like a Tommy's cross-belts. </p>
+   <p>"Upon my word!" says Jimmy Jocks when he first sees me. "What a swell you are! You're the image of your grand-dad when he made his debut at the Crystal Palace. He took four firsts and three specials." But I knew he was only trying to throw heart into me. They might scrub, and they might rub, and they might pipe-clay, but they couldn't pipe-clay the insides of me, and they was black-and-tan. </p>
+   <p>Then we came to a Garden, which it was not, but the biggest hall in the world. Inside there was lines of benches, a few miles long, and on them sat every dog in the world. If all the dog-snatchers in Montreal had worked night and day for a year, they couldn't have caught so many dogs. And they was all shouting and barking and howling so vicious, that my heart stopped beating. For at first I thought they was all enraged at my presuming to intrude, but after I got in my place, they kept at it just the same, barking at every dog as he come in; daring him to fight, and ordering him out, and asking him what breed of dog he thought he was, anyway. Jimmy Jocks was chained just behind me, and he said he never see so fine a show. "That's a hot class you're in, my lad," he says, looking over into my street, where there were thirty bull-terriers. They was all as white as cream, and each so beautiful that if I could have broke my chain, I would have run all the way home and hid myself under the horse-trough. </p>
+   <p>All night long they talked and sang, and passed greetings with old pals, and the home-sick puppies howled dismal. Them that couldn't sleep wouldn't let no others sleep, and all the electric lights burned in the roof, and in my eyes. I could hear Jimmy Jocks snoring peaceful, but I could only doze by jerks, and when I dozed I dreamed horrible. All the dogs in the hall seemed coming at me for daring to intrude, with their jaws red and open, and their eyes blazing like the lights in the roof. "You're a street-dog! Get out, you street-dog!" they yells. And as they drives me out, the pipe-clay drops off me, and they laugh and shriek; and when I looks down I see that I have turned into a black-and-tan. </p>
+   <p>They was most awful dreams, and next morning, when Miss Dorothy comes and gives me water in a pan, I begs and begs her to take me home, but she can't understand. "How well Kid is!" she says. And when I jumps into the Master's arms, and pulls to break my chain, he says, "If he knew all as he had against him, Miss, he wouldn't be so gay." And from a book they reads out the names of the beautiful high-bred terriers which I have got to meet. And I can't make 'em understand that I only want to run away, and hide myself where no one will see me. </p>
+   <p>Then suddenly men comes hurrying down our street and begins to brush the beautiful bull-terriers, and Nolan rubs me with a towel so excited that his hands trembles awful, and Miss Dorothy tweaks my ears between her gloves, so that the blood runs to 'em, and they turn pink and stand up straight and sharp. </p>
+   <p>"Now, then, Nolan," says she, her voice shaking just like his fingers, "keep his head up—and never let the Judge lose sight of him." When I hears that my legs breaks under me, for I knows all about judges. Twice, the old Master goes up before the Judge for fighting me with other dogs, and the Judge promises him if he ever does it again, he'll chain him up in jail. I knew he'd find me out. A Judge can't be fooled by no pipe-clay. He can see right through you, and he reads your insides. </p>
+   <p>The judging-ring, which is where the Judge holds out, was so like a fighting-pit, that when I came in it, and find six other dogs there, I springs into position, so that when they lets us go I can defend myself, But the Master smoothes down my hair and whispers, "Hold 'ard, Kid, hold 'ard. This ain't a fight," says he. "Look your prettiest," he whispers. "Please, Kid, look your prettiest," and he pulls my leash so tight that I can't touch my pats to the sawdust, and my nose goes up in the air. There was millions of people a-watching us from the railings, and three of our kennel-men, too, making fun of Nolan and me, and Miss Dorothy with her chin just reaching to the rail, and her eyes so big that I thought she was a-going to cry. It was awful to think that when the Judge stood up and exposed me, all those people, and Miss Dorothy, would be there to see me driven from the show. </p>
+   <p>The Judge, he was a fierce-looking man with specs on his nose, and a red beard. When I first come in he didn't see me owing to my being too quick for him and dodging behind the Master. But when the Master drags me round and I pulls at the sawdust to keep back, the Judge looks at us careless-like, and then stops and glares through his specs, and I knew it was all up with me. </p>
+   <p>"Are there any more?" asks the Judge, to the gentleman at the gate, but never taking his specs from me. </p>
+   <p>The man at the gate looks in his book. "Seven in the novice-class," says he. "They're all here. You can go ahead," and he shuts the gate. </p>
+   <p>The Judge, he doesn't hesitate a moment. He just waves his hand toward the corner of the ring. "Take him away," he says to the Master. "Over there and keep him away," and he turns and looks most solemn at the six beautiful bull-terriers. I don't know how I crawled to that corner. I wanted to scratch under the sawdust and dig myself a grave. The kennel-men they slapped the rail with their hands and laughed at the Master like they would fall over. They pointed at me in the corner, and their sides just shaked. But little Miss Dorothy she presses her lips tight against the rail, and I see tears rolling from her eyes. The Master, he hangs his head like he had been whipped. I felt most sorry for him, than all. He was so red, and he was letting on not to see the kennel-men, and blinking his eyes. If the Judge had ordered me right out, it wouldn't have disgraced us so, but it was keeping me there while he was judging the high-bred dogs that hurt so hard. With all those people staring too. And his doing it so quick, without no doubt nor questions. You can't fool the judges. They see insides you. </p>
+   <p>But he couldn't make up his mind about them high-bred dogs. He scowls at 'em, and he glares at 'em, first with his head on the one side and then on the other. And he feels of 'em, and orders 'em to run about. And Nolan leans against the rails, with his head hung down, and pats me. And Miss Dorothy comes over beside him, but don't say nothing, only wipes her eye with her finger. A man on the other side of the rail he says to the Master, "The Judge don't like your dog?" </p>
+   <p>"No," says the Master. </p>
+   <p>"Have you ever shown him before?" says the man. </p>
+   <p>"No," says the Master, "and I'll never show him again. He's my dog," says the Master, "an' he suits me! And I don't care what no judges think." And when he says them kind words, I licks his hand most grateful. </p>
+   <p>The Judge had two of the six dogs on a little platform in the middle of the ring, and he had chased the four other dogs into the corners, where they was licking their chops, and letting on they didn't care, same as Nolan was. </p>
+   <p>The two dogs on the platform was so beautiful that the Judge hisself couldn't tell which was the best of 'em, even when he stoops down and holds their heads together. But at last he gives a sigh, and brushes the sawdust off his knees and goes to the table in the ring, where there was a man keeping score, and heaps and heaps of blue and gold and red and yellow ribbons. And the Judge picks up a bunch of 'em and walks to the two gentlemen who was holding the beautiful dogs, and he says to each "What's his number?" and he hands each gentleman a ribbon. And then he turned sharp, and comes straight at the Master. </p>
+   <p>"What's his number?" says the Judge. And Master was so scared that he couldn't make no answer. </p>
+   <p>But Miss Dorothy claps her hands and cries out like she was laughing, "Three twenty-six," and the Judge writes it down, and shoves Master the blue ribbon. </p>
+   <p>I bit the Master, and I jumps and bit Miss Dorothy, and I waggled so hard that the Master couldn't hold me. When I get to the gate Miss Dorothy snatches me up and kisses me between the ears, right before millions of people, and they both hold me so tight that I didn't know which of them was carrying of me. But one thing I knew, for I listened hard, as it was the Judge hisself as said it. </p>
+   <p>"Did you see that puppy I gave 'first' to?" says the Judge to the gentleman at the gate. </p>
+   <p>"I did. He was a bit out of his class," says the gate-gentleman. </p>
+   <p>"He certainly was!" says the Judge, and they both laughed. </p>
+   <p>But I didn't care. They couldn't hurt me then, not with Nolan holding the blue ribbon and Miss Dorothy hugging my ears, and the kennel-men sneaking away, each looking like he'd been caught with his nose under the lid of the slop-can. </p>
+   <p>We sat down together, and we all three just talked as fast as we could. They was so pleased that I couldn't help feeling proud myself, and I barked and jumped and leaped about so gay, that all the bull-terriers in our street stretched on their chains, and howled at me. </p>
+   <p>"Just look at him!" says one of those I had beat. "What's he giving hisself airs about?" </p>
+   <p>"Because he's got one blue ribbon!" says another of 'em. "Why, when I was a puppy I used to eat 'em, and if that Judge could ever learn to know a toy from a mastiff, I'd have had this one." </p>
+   <p>But Jimmy Jocks he leaned over from his bench, and says, "Well done, Kid. Didn't I tell you so!" What he 'ad told me was that I might get a "commended," but I didn't remind him. </p>
+   <p>"Didn't I tell you," says Jimmy Jocks, "that I saw your grandfather make his debut at the Crystal—" </p>
+   <p>"Yes, sir, you did, sir," says I, for I have no love for the men of my family. </p>
+   <p>A gentleman with a showing leash around his neck comes up just then and looks at me very critical. "Nice dog you've got, Miss Wyndham," says he; "would you care to sell him?" </p>
+   <p>"He's not my dog," says Miss Dorothy, holding me tight. "I wish he were." </p>
+   <p>"He's not for sale, sir," says the Master, and I was that glad. </p>
+   <p>"Oh, he's yours, is he?" says the gentleman, looking hard at Nolan. "Well, I'll give you a hundred dollars for him," says he, careless-like. </p>
+   <p>"Thank you, sir, he's not for sale," says Nolan, but his eyes get very big. The gentleman, he walked away, but I watches him, and he talks to a man in a golf-cap, and by and by the man comes along our street, looking at all the dogs, and stops in front of me. </p>
+   <p>"This your dog?" says he to Nolan. "Pity he's so leggy," says he. "If he had a good tail, and a longer stop, and his ears were set higher, he'd be a good dog. As he is, I'll give you fifty dollars for him." </p>
+   <p>But before the Master could speak, Miss Dorothy laughs, and says, "You're Mr. Polk's kennel-man, I believe. Well, you tell Mr. Polk from me that the dog's not for sale now any more than he was five minutes ago, and that when he is, he'll have to bid against me for him." The man looks foolish at that, but he turns to Nolan quick-like. "I'll give you three hundred for him," he says. </p>
+   <p>"Oh, indeed!" whispers Miss Dorothy, like she was talking to herself. "That's it, is it," and she turns and looks at me just as though she had never seen me before. Nolan, he was a gaping, too, with his mouth open. But he holds me tight. </p>
+   <p>"He's not for sale," he growls, like he was frightened, and the man looks black and walks away. </p>
+   <p>"Why, Nolan!" cries Miss Dorothy, "Mr. Polk knows more about bull-terriers than any amateur in America. What can he mean? Why, Kid is no more than a puppy! Three hundred dollars for a puppy!" </p>
+   <p>"And he ain't no thoroughbred neither!" cries the Master. "He's 'Unknown,' ain't he? Kid can't help it, of course, but his mother, Miss—" </p>
+   <p>I dropped my head. I couldn't bear he should tell Miss Dorothy. I couldn't bear she should know I had stolen my blue ribbon. </p>
+   <p>But the Master never told, for at that, a gentleman runs up, calling, "Three Twenty-Six, Three Twenty-Six," and Miss Dorothy says, "Here he is, what is it?" </p>
+   <p>"The Winner's Class," says the gentleman "Hurry, please. The Judge is waiting for him." </p>
+   <p>Nolan tries to get me off the chain onto a showing leash, but he shakes so, he only chokes me. "What is it, Miss?" he says. "What is it?" </p>
+   <p>"The Winner's Class," says Miss Dorothy. "The Judge wants him with the winners of the other classes—to decide which is the best. It's only a form," says she. "He has the champions against him now." </p>
+   <p>"Yes," says the gentleman, as he hurries us to the ring. "I'm afraid it's only a form for your dog, but the Judge wants all the winners, puppy class even." </p>
+   <p>We had got to the gate, and the gentleman there was writing down my number. </p>
+   <p>"Who won the open?" asks Miss Dorothy. </p>
+   <p>"Oh, who would?" laughs the gentleman. "The old champion, of course. He's won for three years now. There he is. Isn't he wonderful?" says he, and he points to a dog that's standing proud and haughty on the platform in the middle of the ring. </p>
+   <p>I never see so beautiful a dog, so fine and clean and noble, so white like he had rolled hisself in flour, holding his nose up and his eyes shut, same as though no one was worth looking at. Aside of him, we other dogs, even though we had a blue ribbon apiece, seemed like lumps of mud. He was a royal gentleman, a king, he was. His Master didn't have to hold his head with no leash. He held it hisself, standing as still as an iron dog on a lawn, like he knew all the people was looking at him. And so they was, and no one around the ring pointed at no other dog but him. </p>
+   <p>"Oh, what a picture," cried Miss Dorothy; "he's like a marble figure by a great artist—one who loved dogs. Who is he?" says she, looking in her book. "I don't keep up with terriers." </p>
+   <p>"Oh, you know him," says the gentleman. "He is the Champion of champions, Regent Royal." </p>
+   <p>The Master's face went red. </p>
+   <p>"And this is Regent Royal's son," cries he, and he pulls me quick into the ring, and plants me on the platform next my father. </p>
+   <p>I trembled so that I near fall. My legs twisted like a leash. But my father he never looked at me. He only smiled, the same sleepy smile, and he still keep his eyes half-shut, like as no one, no, not even his son, was worth his lookin' at. </p>
+   <p>The Judge, he didn't let me stay beside my father, but, one by one, he placed the other dogs next to him and measured and felt and pulled at them. And each one he put down, but he never put my father down. And then he comes over and picks up me and sets me back on the platform, shoulder to shoulder with the Champion Regent Royal, and goes down on his knees, and looks into our eyes. </p>
+   <p>The gentleman with my father, he laughs, and says to the Judge, "Thinking of keeping us here all day. John?" but the Judge, he doesn't hear him, and goes behind us and runs his hand down my side, and holds back my ears, and takes my jaws between his fingers. The crowd around the ring is very deep now, and nobody says nothing. The gentleman at the score-table, he is leaning forward, with his elbows on his knees, and his eyes very wide, and the gentleman at the gate is whispering quick to Miss Dorothy, who has turned white. I stood as stiff as stone. I didn't even breathe. But out of the corner of my eye I could see my father licking his pink chops, and yawning just a little, like he was bored. </p>
+   <p>The Judge, he had stopped looking fierce, and was looking solemn. Something inside him seemed a troubling him awful. The more he stares at us now, the more solemn he gets, and when he touches us he does it gentle, like he was patting us. For a long time he kneels in the sawdust, looking at my father and at me, and no one around the ring says nothing to nobody. </p>
+   <p>Then the Judge takes a breath and touches me sudden. "It's his," he says, but he lays his hand just as quick on my father. "I'm sorry," says he. </p>
+   <p>The gentleman holding my father cries: </p>
+   <p>"Do you mean to tell me—" </p>
+   <p>And the Judge, he answers, "I mean the other is the better dog." He takes my father's head between his hands and looks down at him, most sorrowful. "The King is dead," says he, "long live the King. Good-by, Regent," he says. </p>
+   <p>The crowd around the railings clapped their hands, and some laughed scornful, and everyone talks fast, and I start for the gate so dizzy that I can't see my way. But my father pushes in front of me, walking very daintily, and smiling sleepy, same as he had just been waked, with his head high, and his eyes shut, looking at nobody. </p>
+   <p>So that is how I "came by my inheritance," as Miss Dorothy calls it, and just for that, though I couldn't feel where I was any different, the crowd follows me to my bench, and pats me, and coos at me, like I was a baby in a baby-carriage. And the handlers have to hold 'em back so that the gentlemen from the papers can make pictures of me, and Nolan walks me up and down so proud, and the men shakes their heads and says, "He certainly is the true type, he is!" And the pretty ladies asks Miss Dorothy, who sits beside me letting me lick her gloves to show the crowd what friends we is, "Aren't you afraid he'll bite you?" and Jimmy Jocks calls to me, "Didn't I tell you so! I always knew you were one of us. Blood will out, Kid, blood will out. I saw your grandfather," says he, "make his debut at the Crystal Palace. But he was never the dog you are!" </p>
+   <p>After that, if I could have asked for it, there was nothing I couldn't get. You might have thought I was a snow-dog, and they was afeerd I'd melt. If I wet my pats, Nolan gave me a hot bath and chained me to the stove; if I couldn't eat my food, being stuffed full by the cook, for I am a house-dog now, and let in to lunch whether there is visitors or not, Nolan would run to bring the vet. It was all tommy-rot, as Jimmy says, but meant most kind. I couldn't scratch myself comfortable, without Nolan giving me nasty drinks, and rubbing me outside till it burnt awful, and I wasn't let to eat bones for fear of spoiling my "beautiful" mouth, what mother used to call my "punishing jaw," and my food was cooked special on a gas-stove, and Miss Dorothy gives me an overcoat, cut very stylish like the champions', to wear when we goes out carriage-driving. </p>
+   <p>After the next show, where I takes three blue ribbons, four silver cups, two medals, and brings home forty-five dollars for Nolan, they gives me a "Registered" name, same as Jimmy's. Miss Dorothy wanted to call me "Regent Heir Apparent," but I was THAT glad when Nolan says, "No, Kid don't owe nothing to his father, only to you and hisself. So, if you please, Miss, we'll call him Wyndham Kid." And so they did, and you can see it on my overcoat in blue letters, and painted top of my kennel. It was all too hard to understand. For days I just sat and wondered if I was really me, and how it all come about, and why everybody was so kind. But, oh, it was so good they was, for if they hadn't been, I'd never have got the thing I most wished after. But, because they was kind, and not liking to deny me nothing, they gave it me, and it was more to me than anything in the world. </p>
+   <p>It came about one day when we was out driving. We was in the cart they calls the dog-cart, because it's the one Miss Dorothy keeps to take Jimmy and me for an airing. Nolan was up behind, and me in my new overcoat was sitting beside Miss Dorothy. I was admiring the view, and thinking how good it was to have a horse pull you about so that you needn't get yourself splashed and have to be washed, when I hears a dog calling loud for help, and I pricks up my ears and looks over the horse's head. And I sees something that makes me tremble down to my toes. In the road before us three big dogs was chasing a little, old lady-dog. She had a string to her tail, where some boys had tied a can, and she was dirty with mud and ashes, and torn most awful. She was too far done up to get away, and too old to help herself, but she was making a fight for her life, snapping her old gums savage, and dying game. All this I see in a wink, and then the three dogs pinned her down, and I can't stand it no longer and clears the wheel and lands in the road on my head. It was my stylish overcoat done that, and I curse it proper, but I gets my pats again quick, and makes a rush for the fighting. Behind me I hear Miss Dorothy cry, "They'll kill that old dog. Wait, take my whip. Beat them off her! The Kid can take care of himself," and I hear Nolan fall into the road, and the horse come to a stop. The old lady-dog was down, and the three was eating her vicious, but as I come up, scattering the pebbles, she hears, and thinking it's one more of them, she lifts her head and my heart breaks open like someone had sunk his teeth in it. For, under the ashes and the dirt and the blood, I can see who it is, and I know that my mother has come back to me. </p>
+   <p>I gives a yell that throws them three dogs off their legs. </p>
+   <p>"Mother!" I cries. "I'm the Kid," I cries. "I'm coming to you, mother, I'm coming." </p>
+   <p>And I shoots over her, at the throat of the big dog, and the other two, they sinks their teeth into that stylish overcoat, and tears it off me, and that sets me free, and I lets them have it. I never had so fine a fight as that! What with mother being there to see, and not having been let to mix up in no fights since I become a prize-winner, it just naturally did me good, and it wasn't three shakes before I had 'em yelping. Quick as a wink, mother, she jumps in to help me, and I just laughed to see her. It was so like old times. And Nolan, he made me laugh too. He was like a hen on a bank, shaking the butt of his whip, but not daring to cut in for fear of hitting me. </p>
+   <p>"Stop it, Kid," he says, "stop it. Do you want to be all torn up?" says he. "Think of the Boston show next week," says he, "Think of Chicago. Think of Danbury. Don't you never want to be a champion?" How was I to think of all them places when I had three dogs to cut up at the same time. But in a minute two of 'em begs for mercy, and mother and me lets 'em run away. The big one, he ain't able to run away. Then mother and me, we dances and jumps, and barks and laughs, and bites each other and rolls each other in the road. There never was two dogs so happy as we, and Nolan, he whistles and calls and begs me to come to him, but I just laugh and play larks with mother. </p>
+   <p>"Now, you come with me," says I, "to my new home, and never try to run away again." And I shows her our house with the five red roofs, set on the top of the hill. But mother trembles awful, and says: "They'd never let the likes of me in such a place. Does the Viceroy live there, Kid?" says she. And I laugh at her. "No, I do," I says; "and if they won't let you live there, too, you and me will go back to the streets together, for we must never be parted no more." So we trots up the hill, side by side, with Nolan trying to catch me, and Miss Dorothy laughing at him from the cart. </p>
+   <p>"The Kid's made friends with the poor old dog," says she. "Maybe he knew her long ago when he ran the streets himself. Put her in here beside me, and see if he doesn't follow." </p>
+   <p>So, when I hears that, I tells mother to go with Nolan and sit in the cart, but she says no, that she'd soil the pretty lady's frock; but I tells her to do as I say, and so Nolan lifts her, trembling still, into the cart, and I runs alongside, barking joyful. </p>
+   <p>When we drives into the stables I takes mother to my kennel, and tells her to go inside it and make herself at home. "Oh, but he won't let me!" says she. </p>
+   <p>"Who won't let you?" says I, keeping my eye on Nolan, and growling a bit nasty, just to show I was meaning to have my way. "Why, Wyndham Kid," says she, looking up at the name on my kennel. </p>
+   <p>"But I'm Wyndham Kid!" says I. </p>
+   <p>"You!" cries mother. "You! Is my little Kid the great Wyndham Kid the dogs all talk about?" And at that, she, being very old, and sick, and hungry, and nervous, as mothers are, just drops down in the straw and weeps bitter. </p>
+   <p>Well, there ain't much more than that to tell. Miss Dorothy, she settled it. </p>
+   <p>"If the Kid wants the poor old thing in the stables," says she, "let her stay." </p>
+   <p>"You see," says she, "she's a black-and-tan, and his mother was a black-and-tan, and maybe that's what makes Kid feel so friendly toward her," says she. </p>
+   <p>"Indeed, for me," says Nolan, "she can have the best there is. I'd never drive out no dog that asks for a crust nor a shelter," he says. "But what will Mr. Wyndham do?" </p>
+   <p>"He'll do what I say," says Miss Dorothy, "and if I say she's to stay, she will stay, and I say—she's to stay!" </p>
+   <p>And so mother and Nolan, and me, found a home. Mother was scared at first—not being used to kind people—but she was so gentle and loving, that the grooms got fonder of her than of me, and tried to make me jealous by patting of her, and giving her the pick of the vittles. But that was the wrong way to hurt my feelings. That's all, I think. Mother is so happy here that I tell her we ought to call it the Happy Hunting Grounds, because no one hunts you, and there is nothing to hunt; it just all comes to you. And so we live in peace, mother sleeping all day in the sun, or behind the stove in the head-groom's office, being fed twice a day regular by Nolan, and all the day by the other grooms most irregular, And, as for me, I go hurrying around the country to the bench-shows; winning money and cups for Nolan, and taking the blue ribbons away from father. </p>
+   <empty-line/>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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
+BmFQB/8AuNjMZjMftoydI8M//9k=</binary>
+</FictionBook>

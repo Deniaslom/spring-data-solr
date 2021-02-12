@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Raymond</first-name>
+    <middle-name>F.</middle-name>
+    <last-name>Jones</last-name>
+   </author>
+   <book-title>Cubs of the Wolf</book-title>
+   <annotation>
+    <p>A century earlier, the Markovians were the meanest, nastiest, orneriest specimens in the entire Council of Galactic Associates. The worlds in their corner of their galaxy controlled a military force that outweighed anything the Council could possibly bring to bear against them.</p>
+    <p>With complete disregard interplanetary order they harassed and attacked peaceful shipping and inoffensive cultures throughout a wide territory. For years the Council debated and threatened — but nothing was ever done. Then, so gradually it was hardly noticed, the harassments began to die down. The warlike posturing was abandoned by the Markovians. Within a period of about seventy or eighty years there was a complete about-face.</p>
+    <p>What had happened? Cameron and his new wife Joyce are going into unfriendly regions to find out, in this classic adventure from one of the early novelists of science fiction, Raymond F. Jones.</p>
+   </annotation>
+   <date>1955</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>freakup1</nickname>
+   </author>
+   <program-used>FictionBook Editor Release 2.6.6</program-used>
+   <date value="2013-04-09">09 April 2013</date>
+   <id>652E645E-05E2-41FC-89D3-7345BEDB96DB</id>
+   <version>1.0</version>
+   <history>
+    <p>file creation by freakup1 v1.0</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>Cubs of the Wolf / Astounding Science Fiction November 1955</book-name>
+   <year>1955</year>
+  </publish-info>
+  <custom-info info-type="">Illustrated by Rogers</custom-info>
+ </description>
+ <body>
+  <title>
+   <p>CUBS OF THE WOLF</p>
+   <p>BY RAYMOND F. JONES</p>
+  </title>
+  <epigraph>
+   <p>It may be that there is a weapon that, from the viewpoint of the one it's used on, is worse than lethal. You might say that death multiplies you by zero; what would multiplication by minus one do?</p>
+  </epigraph>
+  <section>
+   <title>
+    <p>I</p>
+   </title>
+   <image l:href="#i_001.png"/>
+   <p>In the spring the cherry blossoms are heavy in the air over the campus of Solarian Institute of Science and Humanities. On a small slope that rims the park area, Cameron Wilder lay on his back squinting through the cloud of pink-white petals to the sky beyond. Beside him, Joyce Farquhar drew her jacket closer with an irritated gesture. It was still too cold to be sitting on the grass, but Cameron didn't seem to notice it — or anything else, Joyce thought.</p>
+   <p>”If you don't submit a subject for your thesis now,” she said, ”you'll take another full six months getting your doctorate. Sometimes I think you don't really want it!”</p>
+   <p>Cameron stirred. He shifted his squinting gaze from the sky to Joyce and finally sat up. But he was staring ahead through the trees again as he took his pipe from his pocket and began filling it slowly.</p>
+   <p>”I <emphasis>don't</emphasis> want it if it's not going to mean anything after I get it,” he said belligerently. ”I'm not going to do an investigation of some silly subject like The Transience of Venusian Immigrants in Relation to the Martian Polar Ice Cap Cycle. Solarian sociologists are the butt of enough ridicule now. Do something like that and for the rest of your life you get knocking of the knees whenever anybody inquires about the specialty you worked in and threatens to read your thesis.”</p>
+   <p>”Nobody's asking you to do anything you don't want to. But you picked the field of sociology to work in. Now I don't see why you have to act such a purist that it takes months to find a research project for your degree. Pick something — anything! — I don't care what it is. But if you don't get a degree and an appointment out of the next session I don't think we'll ever get married — not ever.”</p>
+   <p>Cameron removed his pipe from his mouth with a precise grip and considered it intently as it cupped in his hands. ”I'm glad you mentioned marriage,” he said. ”I was just about to speak of it myself.”</p>
+   <p>”Well, don't!” said Joyce. ”After three years — Three years!”</p>
+   <p>He turned to face her and smiled for the first time. He liked to lead her along occasionally just to watch her explode, but he was not always sure when he had gone too far. Joyce had a mind like a snapping, random matching calculator while he operated more on a slow, carefully shaping analogue basis, knowing things were never quite what they seemed but trying to get as close an approximation of the true picture as possible.</p>
+   <p>”Will you marry me now?” he said.</p>
+   <p>The question did not seem to startle her. ”No degree, no appointment — and no chance of getting one — we couldn't even get a license. I hope you aren't suggesting we try to get along without one, or on a forgery!”</p>
+   <p>Cameron shook his head. ”No, darling, this is a perfectly bona fide proposal, complete with license, appointment, the works — what do you say?”</p>
+   <p>”I say this spring sun is too much for you.” She touched the dark mass of his hair, warmed by the sun's rays, and put her head on his shoulder. She started to cry. ”Don't tease me like that, Cameron. It seems like we've been waiting forever — and there's still forever ahead of us. You can't do anything you want to—”</p>
+   <p>Cameron put his arms about her, not caring if the whole Institute faculty leaned out the windows to watch. ”That's why you should appreciate being about to marry such a resourceful fellow,” he said more gently. And now he dropped all banter. ”I've been thinking about how long it's been, too. That's why I decided to try to kill a couple of sparrows with one pebble.”</p>
+   <p>Joyce sat up. ”You aren't serious—?”</p>
+   <p>Cameron sucked on his pipe once more. ”Ever hear of the Markovian Nucleus?” he said thoughtfully.</p>
+   <p>Joyce slowly nodded her head. ”Oh, I think I've heard the name mentioned,” she murmured, ”but nothing more than that.”</p>
+   <p>”I've asked for that as my research project.”</p>
+   <p>”But that's clear out of the galaxy — in Transpace!”</p>
+   <p>”Yes, and obviously out of bounds for the ordinary graduate researcher. But because of the scholarship record I've been able to rack up here I took a chance on applying to the Corning Foundation for a grant. And they decided to take a chance on me after considerable and not entirely painless investigation. That's why you were followed around like a suspected Disloyalist for a month. My application included a provision for you to go along as my wife. Professor Fothergill notified me this morning that the grant had been awarded.”</p>
+   <p>”Cam—” Joyce's voice was brittle now. ”You aren't fooling me?”</p>
+   <p>He gathered her in his arms again. ”You think I would fool about something like that, darling? In a week you'll be Mrs. C. Wilder, and as soon as school is out, on your way to the Markovian Nucleus. And besides, it took me almost as much work preparing the research prospectus as the average guy spends on his whole project!”</p>
+   <empty-line/>
+   <p>Sometimes Joyce Farquhar wished Cameron were a good deal different than he was. But then he wouldn't have been Cameron, and she wouldn't want to marry him, she supposed. And somehow, while he fell behind on the mid-stretch, he always managed to come in at the end with the rest of the field. Or just a little bit ahead of it.</p>
+   <p>Or a good deal ahead of it. As now. It took her a few moments to realize the magnitude of the coup he had actually pulled off. For weeks she had been depressed because he refused to use some trivial, breeze research to get his degree. He could have started it as much as a year ago, and they could have been married now if he'd set himself up a real cinch.</p>
+   <p>But now they were getting married anyway — and Cameron was getting the kind of research deal that would satisfy his frantic desire for integrity in a world where it counted for little, and his wish to contribute something genuine to the sociological understanding of sentient creatures.</p>
+   <p>Their marriage, as was customary, would be a cut and dried affair. A call to the license bureau, receipt of formal sanction in the mail — she supposed Cameron had already made application — and a little party with a few of their closest friends on the campus. She wished she had lived in the days when getting married was much easier to do, and something to make a fuss about.</p>
+   <p>She stirred and sat up, loosening the jacket as the sun came from behind a puff of cloud. ”You could have told me about this a long time ago, couldn't you?” she said accusingly.</p>
+   <p>Cameron nodded. ”I could have. But I didn't want to get false hopes aroused. I didn't have much hope the deal would actually go through, myself. I think Fothergill is pretty much responsible for it.”</p>
+   <p>”Transpace—” Joyce said dreamily. ”Tell me about the Markovian Nucleus. Why is it important enough for a big research study, anyway?”</p>
+   <p>”It's a case of a leopard who changed his spots,” said Cameron. ”And nobody knows how or why. The full title of the project is A Study of the Metamorphosis of the Markovian Nucleus.”</p>
+   <p>”What happened? How are they any different from the way they used to be?”</p>
+   <p>”A hundred and fifty years ago the Markovians were the meanest, nastiest, orneriest specimens in the entire Council of Galactic Associates. The groups of worlds in one corner of their galaxy, which make up the Nucleus, controlled a military force that outweighed anything the Council could possibly bring to bear against them.</p>
+   <p>”With complete disregard of any scheme of interplanetary rules or order they harassed and attacked peaceful shipping and inoffensive cultures throughout a wide territory. They were something demanding the Council's military action. But the Council lacked the strength.</p>
+   <p>”For years the Council dragged on, debating and threatening ineffectively. But nothing was ever done. And then, so gradually it was hardly noticed, the harassments began to die down. The warlike posturing was abandoned by the Markovians. Within a period of about seventy or eighty years there was a complete about-face. They wound up as good Indians, peaceful, coГ¶perative and intelligent members of the Council.”</p>
+   <p>”Didn't anybody ever find out why?” asked Joyce.</p>
+   <p>”No. Nobody <emphasis>wanted</emphasis> to find out. In the early years the worlds of the Council were hiding behind their collective hands hoping with all their might that the threat might go away if they kept their eyes closed long enough. And by some miracle of all miracles, when they parted their fingers for a scared glimpse, the threat had disappeared.</p>
+   <p>”When they could breathe a little more easily it seemed a foolish thing to bring out this old skeleton from the closet again, so a perpetual state of hush was established. Finally, the whole thing was practically forgotten except for a short paragraph in an occasional history text. But no politician or historian has ever dared publicly to question the mysterious why of the Markovian's about-face.”</p>
+   <p>”Sociologists should have done it long ago,” said Joyce.</p>
+   <p>”There was always the political pressure, of course,” said Cameron. ”But the real reason was simply our preoccupation with making bibliographies of each others' papers. It's going to take a lot of leg work, something in which our formal courses don't give us any basic training. Fothergill understands that — it's why he pushed me so hard with the Foundation. And Riley up there is capable of seeing it, too.</p>
+   <p>”I showed him that here was a complex of at least a hundred and ten major planets, inhabited by a fairly homogenous, civilized people, speaking from a technological point of view at least. And almost overnight some force changed the entire cultural posture. I made him see that identification of that force is of no small interest to us right now. If it operated once, it could operate again — and would its results be as happy a second time?</p>
+   <p>”Riley got the Foundation to kick through enough for you and me to make a start. A preliminary survey is about all it will amount to, actually, but if we show evidence of something tangible I'll get my degree, you'll get your basic certification — and we'll both return in charge of a full-scale inquiry with a staff big enough to really dig into things next year.</p>
+   <p>”Now — about this matter of marriage which you didn't want me to speak of—”</p>
+   <p>”Keep talking, Cam — you're doing wonderfully!”</p>
+   <empty-line/>
+   <p>They got married at once, even though there were several weeks of school which had to be finished before they could leave. Among their friends on the campus there were a good many whispered remarks about the insanity of Joyce and Cameron in planning such a fantastic excursion, but Joyce was certain there was as much envy as criticism in the eyes of her associates. It might be true when they asserted that every conceivable sociological factor or combination of factors could be found and analyzed right here in the Solar System, but a husband who could finagle a way to combine a honeymoon trip halfway across space with his graduate research thesis was a rare specimen. Joyce played her advantage for all it was worth.</p>
+   <p>Two weeks before departure time, however, Cameron was called to the office of Professor Fothergill. As he entered he found a third man present, wearing a uniform he recognized at once as belonging to the Council Secretariat.</p>
+   <p>”I'll wait outside,” he said abruptly as Fothergill turned. ”I got your message and came right over. I didn't know—”</p>
+   <p>”Sit down,” said Fothergill. ”Cameron, this is Mr. Ebbing, whose position you no doubt recognize. Mr. Ebbing, Mr. Wilder.”</p>
+   <p>The men shook hands and took seats across from each other. Fothergill sat between them at the polished table. ”The Council, it seems, has developed an interest in your proposed research among the Markovians,” he said. ”I'll let Mr. Ebbing tell you about it.”</p>
+   <p>Cameron felt a sinking anticipation within him as he turned to the secretary. Surely the Council wasn't going to actively oppose the investigation after so long a time!</p>
+   <p>The secretary coughed and shuffled the papers he drew from his case. ”It's not actually the Council's interest,” he said, and Cameron was immediately relieved. ”But I have been asked by the Markovian Nucleus, through their representative, to suggest that they would like to save you the long and unnecessary trip. He offers to co-operate to the fullest degree by causing all necessary materials to be transferred to your site of study right here. He feels that this is the least they can do since so much interest appears to exist in the Nucleus.”</p>
+   <p>Cameron stared at the secretary, trying to discern what the man's own attitude might be, but Ebbing gave no sign of playing it any way but straight.</p>
+   <p>”It sounds like a polite invitation to stay home and mind our own business,” said Cameron finally. ”They don't want company.”</p>
+   <p>The secretary's expression changed to acknowledgment of the correct appraisal. ”They don't want any investigation into the Metamorphosis of the Markovian Nucleus. There is no such thing. It is entirely a myth.”</p>
+   <p>”Says the Markovians—!”</p>
+   <p>Ebbing nodded. ”Says the Markovians. Other worlds, both within and without the Council have persisted in spreading tales and rumors about the Markovians for a long time. They don't like it. They are willing to co-operate in having a correct analysis of their culture published, but they don't want any more of these infamous rumors circulated.”</p>
+   <p>”Then why aren't they willing to promote such an investigation? This would be their big chance — if their ridiculous position were true!”</p>
+   <p>”They <emphasis>are</emphasis> willing. I've told you the representative has offered to send you all needed material showing the status of their culture.”</p>
+   <p>Cameron looked at the secretary for a long time before speaking again. ”What's your position?” he asked finally. ”Are we being ordered off the investigation?”</p>
+   <p>”The Markovian representative doesn't want to go to quite that extreme. He knows that, too, would react unfavorably towards his people. Here's his point: So far, he's blocked news of your proposed research getting to his home worlds. But he knows that if you do carry it out in the manner you propose it is going to make a lot of the home folks mighty unhappy and they'll demand to know why he didn't stop it. So he's trying to satisfy both sides at once.”</p>
+   <p>”Why will the people in the Nucleus be made unhappy by our coming?”</p>
+   <p>”Because you'll go there trying to track down the basis for the rumors that defame the Markovian character. You'll bring forcibly to their attention the fact that the rest of the Universe believes the Markovians are basically a bunch of pirates.”</p>
+   <p>”And the Markovians don't like to hear these things?”</p>
+   <p>”Definitely not.”</p>
+   <p>”So you tell me the research is not being forbidden, but that the Markovians won't like it. Suppose I tell you, then, I'm not going to give up short of an order from the Council itself. But I am willing to camouflage the investigation if necessary. I'll make no open mention of what outside opinion says of the Markovians. I'll simply make a study of their history and character as it becomes available to me.”</p>
+   <p>Ebbing nodded slowly, his eyes fixed on Cameron's face. ”I would say that would be eminently satisfactory,” he said. ”I will inform the representative of your decision.”</p>
+   <p>Then his face became more severe. ”The Council will be pleased to learn of your willingness to be discreet. I wonder if you understand that the Foundation came to us upon receipt of your application, for official clearance of the project. It coincided quite fortuitously with the plans of the Council itself. For a long time we have been concerned with the lack of information regarding the Markovian situation and have been at a loss as to how to improve our situation.</p>
+   <p>”Your proposed investigation seemed the answer, but we anticipated the Markovian objection and had to make certain you would co-operate to his satisfaction. I believe this will do it.”</p>
+   <p>”Why is the Council concerned?” said Cameron. ”Have the Markovians changed their attitude in any way?”</p>
+   <p>”No — but the rest of us remember, even though we don't speak of it, that the Nucleus was never punished for its depredations, nor was it ever defeated. Its strength is as great as ever in proportion to the other Council worlds.</p>
+   <p>”What are the chances and potentialities of the Nucleus worlds ever again becoming the marauders they once were? That is the question which we feel must be answered. Without knowing, we are sitting on a powder keg in which the fuse may or may not be lighted. Will you bring us back the answer we need?”</p>
+   <p>Cameron felt a sudden grimness which had not been present before. ”I'll do all I can,” he said soberly. ”If the information is there I'll bring it back.”</p>
+   <empty-line/>
+   <p>After the secretary had gone and Fothergill turned from the door to rejoin him Cameron sat in faintly shocked consideration of the Council's unexpected support. It took his research out of the realm of the purely sociological and projected it into politics and diplomacy. He was pleased by their confidence, but not cheered by the added responsibility.</p>
+   <p>”That's a lucky break,” said Fothergill enthusiastically, ”and I'm beginning to suspect you may be rather badly in need of all the breaks you can get once you land among the Markovians. Don't forget for a single minute that you are dealing with the sons and grandsons of genuine pirates.”</p>
+   <p>The professor sat down again. ”There's one other little item of interest I turned up the other day. You should know about it before you leave. The Markovian Nucleus is somewhat of a hotbed of Ids.”</p>
+   <p>”Ids — you mean the Idealists—?”</p>
+   <p>Fothergill nodded. ”Know anything about them?”</p>
+   <p>”Not much, except that they are a sort of parasitic group, living usually in a servant relationship to other races on terran-type worlds. As I recall, even they claim that they do not know the planet or even the galaxy of their origin, because they have been wanderers for so many generations among alien races. Perhaps it would be a good idea to make a study of them, too — I don't know that a thorough one has ever been made.”</p>
+   <p>”That's what I wanted to warn you about,” said Fothergill, smiling. ”Stick to one subject at a time. The Ids <emphasis>would</emphasis> make a nice research project in themselves, and maybe you can get around to it eventually. But leave them alone for the present and don't become distracted from your basic project among the Markovians. The policy of the Corning Foundation is to demand something very definite in return for the money they lay on the line. You won't get to go back next year unless you produce. That's why I don't want you to get sidetracked in any way.”</p>
+  </section>
+  <section>
+   <title>
+    <p>II</p>
+   </title>
+   <p>Cameron admitted to himself that he was getting more edgy as the day of departure approached, but he tried to keep Joyce from seeing it. He was worried about the possible development of further opposition now that the Markovian had expressed his displeasure, and he was worried about their reception once they reached the Nucleus. He wondered why they had not seen in advance that it would be an obvious blunder to let the Markovians be aware of their real purpose. It didn't even require a pirate ancestry to make groups unappreciative about resurrection of their family skeletons.</p>
+   <p>But no other hindrance appeared, and on the evening before their departure Fothergill called that word had been received from Ebbing stating the Markovian representative had approved the visit now that Cameron had expressed a change in his objectives. Their coming had been announced to the Markovian people and the way prepared for an official welcome.</p>
+   <p>Cameron was pleased by the change of attitude. He was hit for the first time, however, by the full force of the fact that he was taking his bride to a pirate center which the Council had never overthrown and which was active only moments ago, culturally speaking.</p>
+   <p>If any kind of trouble should develop the Council would be almost impotent in offering them assistance. On the face of it, there was no reason to expect trouble. But the peculiarly oblique opposition of the Markovian delegate in the Council continued to make him uneasy.</p>
+   <p>His tentative suggestion that he would feel better if he knew she were safe on Earth brought a blistering response from Joyce, which left him with no doubts about carrying out his original plans.</p>
+   <p>And then, as the last of their packing was completed and they were ready to call it a day, the phone buzzed. Cameron hesitated, determined to let it go unanswered, then punched the button irritably on audio only.</p>
+   <p>Instead of the caller, he heard the voice of the operator. ”One moment please. Interstellar, Transpace, printed. Please connect visio.”</p>
+   <p>It was like a shock, he thought afterwards. There was no one he knew who could be making such a call to him. But automatically he did as directed. Joyce had come up and was peering over his shoulder now. The screen fluttered for a moment with polychrome colors and cleared. The message, printed for English translation, stood out sharply. Joyce and Cameron exclaimed simultaneously at the titling. It was from Premier Jargla, Executive Head of the Markovian Government.</p>
+   <p>”To Wilder, Cameron and Joyce,” it read, ”greetings and appreciation for your proposed visit to the Markovian Nucleus for study of our history and customs. We have not been before so honored. We feel, however, that it is an imposition on your Foundation and on you personally to require that you make the long journey to the Nucleus for this purpose alone. While we would be honored to entertain you—”</p>
+   <p>It was the same proposition as Ebbing had reported the delegate offered. Only this time it was from the head of the Markovian government himself.</p>
+   <p>They sat up nearly all the rest of the night considering this new development. ”Maybe you shouldn't go, after all,” said Joyce once. ”Maybe this is something that needs bigger handling than we can possibly give it.”</p>
+   <p>Cameron shook his head. ”<emphasis>I've</emphasis> got to go. They haven't closed the door and said we can't come. If I backed out before they did, I'd be known the rest of my life as the guy who was <emphasis>going</emphasis> to crack the Markovian problem. But I'd much rather you—”</p>
+   <p>”No! If you're going, so am I.”</p>
+   <empty-line/>
+   <p>They consulted again with Fothergill and finally drafted as polite a reply as possible, explaining they were newly married, desired to make the trip a honeymoon excursion primarily and conduct an investigation into Markovian culture to prevent the waste of the wonderful opportunity their visit would afford them.</p>
+   <p>An hour before takeoff a polite acknowledgment came back from the Nucleus assuring them a warm welcome and congratulating them on their marriage. They went at once to the spaceport and took over their stateroom. ”Before anything else happens to try to pull us off this investigation,” Cameron said.</p>
+   <p>The trip would be a long one, involving more than two months subjective time, because no express runs moved any distance at all in the direction of the Nucleus. It was necessary to transfer three times, with days of waiting between ships on planets whose surface conditions permitted exploration only in cumbersome suits that could not be worn for more than short periods. Most of the waiting time was spent in the visitors' chambers at the landing fields.</p>
+   <p>These seemed to grow progressively worse. The last one could not maintain a gravity below 2G, and the minimum temperature available was 104 degrees. There was a three-day wait here and Joyce spent most of it lying on the bed, under the breeze of a fan which seemed to have required a special dispensation of the governing body to obtain.</p>
+   <image l:href="#i_002.png"/>
+   <p>Cameron, however, was unwilling to spend his time this way in spite of the discomfort imposed by any kind of activity. Humidity was a physical factor which seemed to have gone undiscovered by the inhabitants of the planet they were on. He was sure it was constantly maintained within a fractional per cent of one hundred as he donned a clean pair of trunks and staggered miserably along the corridor toward a window that gave a limited view of the city about them.</p>
+   <p>That was when he discovered that they were to be accompanied on the remainder of the journey by a Markovian citizen and his Id servant.</p>
+   <p>The visitors' chamber in which these semi-terran conditions were supplied consisted of only three suites. The other two had been empty when Cameron and Joyce arrived the night before. Now a Markovian Id occupied a seat by the window. He glanced up with warm friendliness and invited Cameron to join him.</p>
+   <p>Cameron hesitated, undecided for a moment whether to return to his suite for the portable semantic translator used in his profession at times like this. He always felt there was something decidedly unprofessional about resorting to their use and had spent many hours trying to master Markovian before leaving. He understood the Id well enough and decided to see if he could get along without the translator.</p>
+   <p>”Thanks,” he said, taking a seat. ”I don't suppose there's much else to do except look at the scenery here.”</p>
+   <p>The Id showed obvious surprise that Cameron spoke the language without use of an instrument. His look of pleasure increased. ”It is not often we find one of your race who has taken the trouble to make himself communicable with us. You must be expecting to make a long stay?”</p>
+   <p>Cameron's sense of caution returned as he remembered the previous results of indiscreet announcement of his purpose. He wiped the stream of sweat from his face and neck and took a good look at the Id.</p>
+   <empty-line/>
+   <p>The Idealists were of an anthropomorphic race, dark-skinned like the terran Indian. Very few of them had ever appeared on Earth, however, and this was actually Cameron's first view of one in the flesh. He knew something of their reputation and characteristics from very brief study at the Institute — but no one really knew very much of the Ids as far as Earthmen were concerned. The warning of Fothergill to keep to the main line of his research sank to the bottom of his mind as he leaned toward the stranger with a fresh sense of excitement inside him.</p>
+   <p>”I have never felt you could understand another man unless you spoke his language,” he said in his not too stumbling Markovian.</p>
+   <p>The Id, like himself, was dressed in the briefest of garments and perspiration poured from the dark skin as he nodded. ”You speak sounder wisdom than one usually meets in a stranger,” he said. ”May I introduce myself: Sal Karone, servant of the Master Dalls Ret Marthasa?”</p>
+   <p>Cameron introduced himself and cautiously explained that he and Joyce were on their honeymoon, but had a side interest in the history and customs of the Markovian Nucleus. ”My people know so little about you,” he said, ”it would be a great privilege to be able to take back information that would increase our mutual understanding.”</p>
+   <p>”All that the Idealists have belongs to every man and every race,” said Sal Karone solemnly. ”What we can give you may be had for the asking. But I would give you a word of warning about my Masters.”</p>
+   <p>Cameron felt the flesh of his back tingle with sudden chill as the eyes of the Id turned full upon him.</p>
+   <p>”Do not try to find out the hidden things of the Masters. That is what you have come for, is it not, Cameron Wilder? That is why you have taken so much trouble to learn the language which we speak. I say do not inquire of the things about which they do not wish to speak. My Masters are a people who cannot yet be understood by the men of other worlds. In time there will be understanding, but that time is not yet. You will only bring disaster and disappointment upon us and yourselves by attempting to hasten that time.”</p>
+   <p>”I assure you I have no intention of prying,” said Cameron haltingly. He fumbled for the right Markovian words. ”You have misunderstood — We come only in friendship and with no intention of disturbing—”</p>
+   <p>The Id nodded sagely. ”So many crises are originated by good intentions. But I am sure that now you understand the feelings of my Masters in these things that you will be concerned only with your own enjoyment while in the Nucleus. And do come to the centers of the Idealists, for there is much we can show you, and our willingness has no limits.”</p>
+   <p>For a moment it was impossible for Cameron to remember that he was dealing with a mere servant of the Markovians. The Id's words were so incisive and his manner so commanding that it seemed he must be speaking in his own right.</p>
+   <p>And then his manner changed. His boldness vanished and he spoke obsequiously. ”You will forgive me,” he said, ”but this is a matter concerning which there is much feeling.”</p>
+   <empty-line/>
+   <p>Cameron Wilder was more than willing to agree with this sentiment. As he returned to his own quarters he debated telling Joyce of his encounter with the Id, deciding finally that he'd have to mention it since they'd all be traveling together, but omitting the Id's repetition of the previous warnings.</p>
+   <p>He did not meet the Markovian, nor did he encounter the Id again in the waiting quarters. It was not until they had embarked on the last leg of the journey and had been aboard the vessel for half a day that they met a second time.</p>
+   <p>The ship was not a Markovian or a terran-type vessel of any kind. Another week's wait would have been required for one of those. As it was, their quarters were not too uncomfortable although very limited. The bulk of the vessel was designed for crew and passengers very much unlike Terran or Markovian, and only a few suites were provided for accommodation of such races.</p>
+   <p>This threw the travelers to the Nucleus in close association again. Their suites opened to a common lounge deck and when Cameron and Joyce went out they found Sal Karone and the Markovian, Marthasa, already there.</p>
+   <p>The Id was on his feet instantly. With a sharp bow he introduced the newcomers to his Master. Dells Marthasa stood and extended a hand with a smile. ”I believe that is your greeting on Earth, is it not?” he said.</p>
+   <p>”You must be familiar with our home world,” said Cameron, returning the handshake.</p>
+   <p>”Only a little, through my studies,” said the Markovian. ”Enough to make me want to hear much more. Please join us. Since my sargh told me we would be traveling together I have looked forward to your company.”</p>
+   <p>The term, <emphasis>sargh</emphasis>, as Cameron learned shortly was applied to all Ids attached to Markovians. It had a connotation somewhere between servant and companion. Sal Karone remained in the background, but there was no servility in his manner. His eyes remained respectfully — almost fondly; that was the right word, Cameron thought curiously — on Marthasa.</p>
+   <p>While the Id was slender in build, the Markovian was taller and bulkier. His complexion was also dark, but not quite so much so as the Id's. He was dressed in loose, highly colored attire that gave Cameron an impression of an Oriental potentate of his own world.</p>
+   <p>But somehow there was a quality in Marthasa's manner that was jarring. It would have been less so if the Markovian had been less anthropomorphic in form and feature, but Cameron found it difficult to think of him as anything but a fellow man.</p>
+   <p>A man of arrogance and ill manners, and completely unaware that he was so.</p>
+   <p>It was apparent in his gestures and in the negligence with which he leaned back and surveyed his companions. ”You'll be surprised when you see the Nucleus,” he said. ”We sometimes hear of rumors circulated among Council worlds that Markovian culture is rather backward.”</p>
+   <p>”I've never heard anything of that kind,” said Cameron. ”In fact we've heard almost nothing at all of the Nucleus. That's why we decided to come.”</p>
+   <p>”I'm sure we can make you glad you did. Don't you think so, Karone?”</p>
+   <p>The face of the Id was very sober as he nodded solemnly and said, ”Indeed, Master.” His burning eyes were boring directly into Cameron's own.</p>
+   <p>”I want to hear about your people, about Earth,” said Marthasa. ”Tell me what you would like to see and do while you're in the Nucleus.”</p>
+   <p>While Joyce answered, explaining they hardly knew what there was to be seen, Cameron's attention was fixed by the problem of the strange relationship between the two men — the two races. In the face of the Id there seemed a serenity, a dignity that the Markovian would never know. Why had the Ids failed to lift themselves out of servility to a state of independence, he wondered?</p>
+   <p>Joyce explained the story about their honeymoon trip and built their interest in Markovian culture as casual indeed. As she went on, Marthasa seemed to be struck by a sudden thought.</p>
+   <p>”I insist that you make your headquarters with me during your stay,” he said. ”I can see that you learn everything possible about the Nucleus while you are here. My son is a Chief Historian at our largest research library and my daughter has the post of Assistant Curator at our Museum of Science and Culture. You will never have a better opportunity to examine the culture of the Nucleus!”</p>
+   <p>Cameron winced inwardly at the thought of Marthasa's companionship during their whole stay, and yet the Markovian's statement might be perfectly true — there would be no better opportunity to make their study.</p>
+   <p>”We have an official note of welcome from your Executive Head, Premier Jargla,” he said. ”While we would be very happy to accept your invitation, it may be that he has different plans for our reception.”</p>
+   <p>Marthasa waved a hand. ”I shall arrange for my appointment as your official host. Consider it agreed upon!”</p>
+   <p>It was agreed. But Joyce was not as optimistic as Cameron in regarding it an aid to their study. ”If they have a general aversion to talking about their pirate ancestry, Marthasa is just the boy to put us off the track,” she said. ”If he gets a clue to what we really want to know, he'll keep us busy looking at everything else until we give up and go home.”</p>
+   <p>Cameron leaned back in the deep chair with his hands behind his head. ”It's not too hard to imagine Marthasa's great-great-grandfather running down vessels in space and pillaging helpless cities on other planets. The veneer of civilization on him doesn't look very thick.”</p>
+   <p>”It's not hard to imagine Marthasa doing it,” said Joyce. ”A scimitar between his teeth would be completely in character!”</p>
+   <p>”If all goes well, you will probably see just that — figuratively speaking, of course. Where a cultural shift has been so great as this one you are certain to see evidence of both levels in conflict with one another. It's like a geologic fault line. Once we learn enough about the current mores the anomalies will stand out in full view. That's what we want to watch for.”</p>
+   <p>”One thing that's out of character right now is his offer of assistance through his son, the Chief Historian,” said Joyce. ”That doesn't check with the previous invitations to stay home. Once they let us have access to their historical records we'll have them pegged.”</p>
+   <p>”We haven't got it yet,” said Cameron. ”We can't be sure just what they'll let us see. But for my money I'd just as soon tackle the question of the Ids. Sal Karone is twice the man Marthasa is, yet he acts like he has no will of his own when the Markovian is around.”</p>
+   <p>”The Roman-slave relationship,” said Joyce. ”The Markovians probably conquered a large community of the Ids in their pirate days and brought them here as slaves. And I'll bet they are very much aware that the Ids are the better men. Marthasa knows it. That's why he has to put on a show in front of Sal Karone. He's the old Roman merchant struggling to keep up his conviction of superiority before the Greek scholar slave.”</p>
+   <p>”The Ids aren't supposed to be slaves. According to the little that's known they are completely free. I'm going to get Marthasa's version of it, anyway. Fothergill and the Foundation can't object to that much investigation of the Ids.”</p>
+   <p>He found the Markovian completely willing to talk about his <emphasis>sargh</emphasis>. On the last day of the voyage they managed to be alone for a time without the presence of Sal Karone.</p>
+   <p>Marthasa shook his head in answer to Cameron's question. ”No, the <emphasis>sargh</emphasis> is not a slave — not in the sense I believe you mean it. None of the Ids are. It's a matter of religion with them to be attached to us the way they are. They have some incomprehensible belief that their existence is of no value unless they are serving their fellow beings. Since that means <emphasis>all</emphasis> of them they can't be satisfied by serving each other so they have to pick on some other race.</p>
+   <p>”I don't recall when they first showed up in the Nucleus, but it's been many generations ago. There've been Ids in my family for a half dozen generations anyway.”</p>
+   <p>”They had space flight, so they came under their own power?” Cameron asked incredulously.</p>
+   <p>”No. Nothing like that. You can't imagine them building spaceships can you? They migrated at first as lowest-class passengers on the commercial lines. Nobody knows just where they came from. They don't even know their home worlds. At first we tried to persuade them to go somewhere else, but then we saw how useful they could be with their fanatic belief in servitude.</p>
+   <p>”At present there is probably no family in the Nucleus that doesn't have at least one Id <emphasis>sargh</emphasis>. Many of us have one for every member of the family.” Marthasa paused. The tone of his voice changed. ”When you've had one almost all your life as I've had Sal Karone it — well, it does something to you.”</p>
+   <p>”What do you mean?” Cameron asked cautiously.</p>
+   <p>”Consider the situation from Sal Karone's point of view. He has no life whatever that is his own. His whole purpose is to give me companionship and satisfy my requirements. And I don't have to force him in any way. It's all voluntary. He's free to leave, even, any time he wants to. But I'm certain he never will.”</p>
+   <p>”Why do you feel so sure of this?”</p>
+   <p>”It's hard to explain. I feel as if I've become so much a part of him that he couldn't survive alone any more. He's the one who's made it that way, not me. I have become indispensable to his existence. That's the way I explain it to myself. Most of my friends agree that this is about right.”</p>
+   <p>”It's rather difficult to understand a relationship like that — unless you put it in terms I am familiar with on Earth.”</p>
+   <p>”Yes—? What would it be called among your people?”</p>
+   <p>”When a man so devotes his life to another we say it is because of love.”</p>
+   <p>Marthasa considered the word. ”You would be wrong,” he said. ”It is just that in some way we have become indispensable to the Ids. They're parasites, if you want to put it that way. But they provide us a relationship we can get nowhere else, and that does us a great deal of good. That's what I meant when I said it does something to us.”</p>
+   <p>”What about the Id's own culture? Haven't they any community ties among themselves, or do they ignore their own kind?”</p>
+   <p>”We've never investigated very much. I suppose some of our scholars know the answer to that, but the rest of us don't. The Ids have communities, all right. Not all of them are in service as sarghs at one time. They have little groups and communities on the outskirts of our cities, but they don't amount to much. As a race they are simply inferior. They don't have the capacity for a strong culture of their own, so they can't exist independently and build a social structure like other people. It's this religion of theirs that does it. They won't let go of it, and as long as they hang onto it they can't stand on their own feet. But you don't need to feel sorry for them. We treat them all right.”</p>
+   <p>”Of course — didn't mean to imply anything else,” said Cameron. ”Do you know if there are other Id groups serving in other galaxies?”</p>
+   <p>”Must be thousands of them altogether. Out beyond the Nucleus, away from your galaxy, you can't find a planet anywhere that isn't using the Ids. It's a wonderful setup. The Ids get what they want, and we get <emphasis>sarghs</emphasis> with nothing like the slave relationship you had in mind. With slaves there's rebellion, constant need of watchfulness, and no genuine companionship. A <emphasis>sargh</emphasis> is different. He can be a man's friend.”</p>
+  </section>
+  <section>
+   <title>
+    <p>III</p>
+   </title>
+   <p>They came out of the darkness of Transpace that evening and the stars returned in the glory of a million closely gathered suns. The Markovian Nucleus lay in a galaxy of tightly packed stars that made bright the nights of all their planets. It was a spectacle for Cameron, who had traveled but little away from the Solar System, and for Joyce who had never traveled at all.</p>
+   <p>Marthasa and Sal Karone were with them in the lounge watching the screens as the ship changed drives. The Markovian squinted a moment and pointed to a minor dot near the corner of the view. ”That's our destination. Another six hours and you can set foot on the best planet in the whole Universe!”</p>
+   <p>If it had been mere enthusiasm, Cameron could have taken it with tolerant understanding. But Marthasa's smugness and arrogance had not deserted him once since the beginning of this leg of the trip. Objectively, as a cultural facet to be examined, it was interesting, but Cameron agreed with Joyce that it was going to be difficult to live with.</p>
+   <p>The unsolved puzzle, however, was Sal Karone. It was obvious that the Id was sensitive to the gauche ways of the Master, yet his equally obvious devotion was unwavering.</p>
+   <p>Marthasa had sent word ahead to the government that he desired the Terrans to be his guests. Evidently he was a person of influence for assent was returned immediately.</p>
+   <p>His planet was a colorful world, banded by huge, golden deserts and pinkish seas. The dense vegetation of the habitable areas was blue with only a scattered touch of green. Cameron wondered about the chemistry involved.</p>
+   <p>The landing was made at a port that bordered a sea. The four of them were the only ones disembarking, and before the car that met them had reached the edge of the city the ship was gone again.</p>
+   <p>A pirates' lair, Cameron thought, without the slightest touch of amusement. The field looked very old, and from it he could imagine raiders had once taken off to harass distant shipping and do wanton destruction of cities and peoples on innocent worlds.</p>
+   <p>He watched the face of Marthasa as they rode through the city. There was a kind of Roman splendor in what they saw, and there was a crude Roman pride in the Markovian who was their host. The arrogance, that was not far from cruelty, could take such pride in the sweep of spaceships embarking on missions of murder and plunder.</p>
+   <p>And yet all this barbarism had been put aside. Only the arrogance remained, expressed in Marthasa's tone as he called their attention to the features of the city and landscape through which they passed. It wasn't pleasing particularly to Terran tastes, but Cameron guessed that it represented a considerable accomplishment to the Markovians. Stone appeared to be the chief building material, and, while the craftsmanship was exact, the lines of the structures lacked the grace of the Greek and Roman monuments of which Cameron was reminded.</p>
+   <p>They came at last to the house of Marthasa. There was no doubt now that he was a man of wealth or importance — probably both. He occupied a vast, villa-like structure set on a low hill overlooking the city. It was a place of obvious luxury in the economic scale of the Markovians.</p>
+   <p>They were assigned spacious quarters overlooking a garden of incredible colors beyond the transparent wall facing it. Sal Karone was also assigned duties as their personal attendant, which Cameron grasped intuitively was a gesture of supreme honor among the Markovians. He thanked Marthasa profusely for this courtesy.</p>
+   <p>After getting unpacked they were shown through the house and grounds and met Marthasa's family. His wife was a woman of considerable beauty even by Terran standards, but there was a sharpness in her manner and a sense of coldness in the small black eyes that repelled Cameron and Joyce even as the thoughtless actions of Marthasa had done.</p>
+   <p>Cameron looked carefully for the same qualities in the three smaller children who were at home, and found them easily. In none of them was there the aura of serenity possessed by the Id servants.</p>
+   <p>When they were finally alone that night Cameron sat down to make some notes on their observations up to date. ”The fault line I mentioned is so obvious you can't miss it,” he said to Joyce. ”It's as if they're living one kind of life because they think it's the thing to do, but all their thoughts and feelings are being drawn invisibly in another direction — and they're half ashamed of it.”</p>
+   <p>”Maybe the Ids have something to do with it. Remember Marthasa's statement that the relationship of the <emphasis>sarghs</emphasis> does something to the Markovians? If we found out exactly what that something is, we might have the answer.”</p>
+   <p>Cameron shook his head. ”I've tried to fit it together that way, too, but it just doesn't add up. The basic premise of the Ids is asceticism and there never was any strength in that idea. Marthasa is probably right in his estimate of the Ids. They have achieved an internal serenity but only through compensating their basic weakness with the crude strength of the Markovians and other races to which they cling. They haven't the strength to build a civilization of their own. Certainly they haven't got the power to influence the whole Nucleus. No — we'll have to look a good deal farther than the Ids before we find the answer. I'm convinced of that, even though I'd like to find out exactly what makes them tick. Maybe next trip—”</p>
+   <empty-line/>
+   <p>The following days were spent in almost profitless activity as far as their basic purpose in being in the Nucleus was concerned. Marthasa and his wife took them on long tours through the city and into the scenic areas of the continent. They promised trips over the whole planet and to other worlds of the Nucleus. There seemed no end to the sight-seeing that was proposed for them to do.</p>
+   <p>Cameron improved his facility with the language, and Joyce was beginning to get along without the translator. They were introduced to a considerable number of other Markovians, including the official representative of Premier Jargla. This gave them added contact with the Markovian character, but Marthasa and his family seemed so typical of the race that scarcely anything new was learned from the others.</p>
+   <p>At no time was anything hinted in reference to the original reluctance to have the Terrans visit the Nucleus. All possible courtesy was shown them now, and Cameron dared not mention the invitations to stay home. He felt the situation was as penetrable as a thick wall of sponge rubber backed by a ten-foot foundation of steel.</p>
+   <p>After three weeks of this, however, he cautiously broached the subject of meeting the son and daughter of Marthasa in regard to visiting the library and museum. He had met each of them just once and found them rather cool to his presence. He had not dared express his interest in their specialties at that time.</p>
+   <p>Marthasa was favorable and apologetic, however. ”I have intended to arrange it,” he said. ”There have been so many other things to do that I have neglected your interest in these things. We won't neglect it any longer. Suppose we make an appointment for this afternoon? Zlenon will be able to give you his personal attention.”</p>
+   <image l:href="#i_003.png"/>
+   <p>Zlenon was Marthasa's son, who held the position of Chief Historian at the research library. He was more slender and darker than his father, and lacking in his volubility and glad-handedness.</p>
+   <p>He greeted Cameron's request with a tolerant smile. ”You have to be quite specific, Mr. Wilder, when you say you would like to know about the history of the Markovian Nucleus. You understand the Nucleus consists of over a hundred worlds and has a composite history extending back more than thirty thousand of your years in very minute detail.”</p>
+   <p>Cameron countered with a helpless shrug and smile. ”I'm afraid I'll have to depend on your good nature to guide me through such a mass. I don't intend to become a student of Markovian history, of course, but perhaps you have adequate summaries with which a stranger could start. Going backward, let us say, for perhaps two or three hundred Terran years?”</p>
+   <p>”Of course — some very excellent ones are available—” He moved toward the reading table nearby and began punching a selection of buttons.</p>
+   <p>As Cameron and Joyce moved to follow, Marthasa waved a hand expansively and started out the other way. ”I can see you're going to be set for a while. I'll just leave you here, and send the car back after I reach the house. Don't be late for dinner.”</p>
+   <p>They nodded and smiled and turned to Zlenon. The Markovian was watching them with pin-point eyes. ”I wondered if there was any <emphasis>particular</emphasis> problem in which you might be interested,” he said calmly. ”If there is—?”</p>
+   <p>Cameron shook his head hastily. ”No — certainly not. Just general information—”</p>
+   <p>The Historian turned his attention to the table and began explaining its use to the Terrans, showing how they could obtain recording of any specific material they wished to choose. It would appear in either printed or pictorial form or could be had on audio if they wanted it. Once he was certain they could make their own selections he left them to their study.</p>
+   <p>”This is the best break we could possibly have hoped for,” Joyce whispered as Zlenon disappeared from their sight. ”We can get anything we want in the whole library if I understand the operation of this gadget the way I think I do.”</p>
+   <p>”That's the way it looks to me,” Cameron answered. ”But don't get your hopes too high. There must be a catch in it somewhere, the way they were trying to shoo us away from coming here.”</p>
+   <empty-line/>
+   <p>They punched the buttons for the history of the planet they were on, scanning slowly from the present to earlier years. There were endless accountings of trading and commercial treaties between members of the Nucleus as shifts of economic balance occurred. There were stories of explorations and benevolent contacts with races on the outer worlds. Details of their most outstanding scientific discoveries, which seemed to come with profligate rapidity—</p>
+   <p>Cameron whipped back through the pages of the histories, searching only for a single item, one clue to the swift evolution from barbarism to peaceful co-operation. After an hour he was in the middle of that critical period when the Council despaired of its inability to cope with the Markovian menace.</p>
+   <p>But the stories of commerce and invention and far-flung exchange with other peoples continued. Nowhere was there any reference to the violence of the period. They went back two hundred — five hundred years — beyond the time when Council members first made contact with the Nucleus.</p>
+   <p>There was nothing.</p>
+   <p>Cameron sat back in complete puzzlement as it became apparent that it was useless to go back further. ”The normal thing would be for them to brag all over the place about their great conquests. Even races who become comparatively civilized citizens ordinarily let themselves go when it comes to history. If they've had a long record of conquest and bloodshed, they say so with plenty of chest pounding. Of course, it's padded out to reflect their righteous conquest over tyranny, but it's always there in <emphasis>some</emphasis> form.</p>
+   <p>”But nothing up to now has been normal about the development of the Markovian problem and this really tops it off — the complete omission of any reference to their armed conquests.”</p>
+   <p>”Maybe this planet didn't participate very much. Perhaps only a small number of the Nucleus worlds were responsible for it,” said Joyce.</p>
+   <p>Cameron shook his head. ”No. The Council records show that the Nucleus as a unit was responsible, and that virtually all the worlds are specifically mentioned. And even if this one had been out of it completely you could still expect references to it because there was constant interchange with most of the other planets. We can try another one, though—”</p>
+   <p>They tried one more, then a half dozen in quick scanning. They swept through a summarization of the Nucleus as a whole during that critical period.</p>
+   <p>There was nothing to show that the Markovians had ever been anything but peace-loving citizens intent on pursuit of science, commerce, and the arts.</p>
+   <p>”This could have been rigged for our special benefit,” said Joyce thoughtfully as they ended the day's futile search. ”They didn't want to apply enough pressure to keep us from coming, but they did want to make sure we wouldn't find out anything about their past.”</p>
+   <p>Cameron shook his head slowly. ”It couldn't have been done in the time they've had. Simply cutting out what they didn't want to show us wouldn't have done it. There's too much cross reference to all periods involved. It's a complete phony, but it's not something done on the spur of the moment just for our benefit. It's too good for that.”</p>
+   <p>”Maybe they've had it for a <emphasis>long</emphasis> time — just in case somebody like us should come along.”</p>
+   <p>”It's possible, but I don't think that's right either,” said Cameron. ”I can't give you any reason for thinking so — except the phoniness goes deeper than merely deceiving an investigator. Somehow I have the feeling that the Markovians are even deceiving themselves!”</p>
+   <empty-line/>
+   <p>They left the building and took the car back to the house of Marthasa without seeing Zlenon again. Their Markovian host was waiting. Cameron thought he sensed a trace of tension in Marthasa that wasn't there before as he led them to seats in the garden.</p>
+   <p>”We don't like to boast about the Nucleus,” he said with his customary volubility, ”but we have to admit we are proud of our science and technology. Few civilizations in the Universe can match it. That's not to disparage the fine accomplishments of the Terrans, you understand, but it's only <emphasis>natural</emphasis> that out here on these older worlds—”</p>
+   <p>They listened half attentively, trying in their imaginations to pierce the armor he used to defend so frantically the thing the Markovians did not want the outer worlds to know anything about.</p>
+   <p>The talk went on during mealtime. Marthasa's wife caught the spirit of it and they both regaled the Terrans with accounts of the grandeur of Markovian exploits. Cameron grew more and more depressed by it, and as they retired to their rooms early he began to realize how absolutely complete was the impasse into which they had been driven.</p>
+   <p>”They've let us in,” he said to Joyce. ”They've shown us the history they've written of themselves. There's no way in the Universe we can stand up and boldly challenge that history and call them the liars we know they are.”</p>
+   <p>”But they must know of the histories written on other Council worlds about their doings,” said Joyce. ”Maybe we could reach a point where we could at least ask about them. Ask how it is that other histories show that a hundred and twenty years ago a fleet of Markovian ships swept unexpectedly out of space and looted and decimated the planet Lakcaine VI. Ask why the Markovian history says only that the Nucleus concluded six new commercial treaties to the benefit of all worlds concerned in that period, without any mention of Lakcaine VI.”</p>
+   <p>”When you start asking questions like that you've got to be ready to run. And if it fizzles out you've lost all chance of coming back for a second try. That could fizzle out because they simply deny the validity of all history outside their own.”</p>
+   <p>”Then we might as well pack and go home if you're not going to challenge any of this stuff they hand out. We won't find the answer by standing around and taking <emphasis>their</emphasis> word on everything.”</p>
+   <p>”I forgot to tell you one thing,” Cameron said slowly. ”We may not have to take their word for it. Someone else here knows the truth of the situation, also.”</p>
+   <p>”Who?”</p>
+   <p>”The Ids.” He told her then of the warning Sal Karone had given him aboard the ship on the way to the Nucleus, the statement that ”My Masters are a people who cannot yet be understood by the men of other worlds.”</p>
+   <p>”The Ids know what the Markovians are and what they are trying to hide. I had almost overlooked that simple fact.”</p>
+   <p>”But you can't go out and challenge them to tell the truth any more than you can the Markovians!” Joyce protested. ”Because Sal Karone went out of his way to warn you doesn't mean he's going to get real buddy-buddy and tell you everything you want to know.”</p>
+   <p>”No, of course not. But there's one little difference between him and the Markovians. He has admitted openly that he knows why we're here. None of the Markovians have done that yet. We don't have to challenge him because there already exists the tacit understanding that something is decidedly phony.</p>
+   <p>”And besides, he invited us to come and visit the Id communities outside the city. I think that's an invitation we should accept just as soon as possible.”</p>
+  </section>
+  <section>
+   <title>
+    <p>IV</p>
+   </title>
+   <p>Sal Karone had not repeated his invitation that the Terrans visit the Id communities, but he showed no adverse reaction when Cameron said they would like to take him up on his previous offer.</p>
+   <p>”You will be very welcome,” he said. A soft smile lightened his features. ”I will notify my leaders you will come.”</p>
+   <p>With a start, Cameron realized that the existence of any kind of community probably implied leaders, but he had ignored this in view of Marthasa's insistence that the Ids had no culture of their own. He wondered just how untrue that assertion might be.</p>
+   <p>For the first time, he sensed genuine disapproval in the attitude of Marthasa when he mentioned plans to go with Sal Karone to the Id centers. ”There's nothing out there you'd want to see,” the Markovian said. ”Their village is only a group of crude huts in the forest. It'll be a waste of your time to go out there when there's so much else we could show you.”</p>
+   <p>”Sal Karone suggested the visit before we arrived,” said Cameron. ”He'd be hurt if we turned him down. Perhaps just to satisfy him—”</p>
+   <p>Angry indecision hid behind Marthasa's eyes. ”Well — maybe that makes it different,” he said finally. ”We try to do everything possible to make the Ids happy. It's up to you if you want to waste your time on the visit.”</p>
+   <p>”I think I do. Sal Karone has been very attentive and pleasant to us. It's a small favor in return.”</p>
+   <empty-line/>
+   <p>Early in the morning, two days later, they left with Sal Karone directing them to the Idealist center. They discovered that the term, at the edge of the city, was a mere euphemism. It was a long two-hour trip at the high speed of which the Markovian cars were capable.</p>
+   <p>The city itself vanished, and a thickly wooded area took its place during the last half of the journey, reminding them of the few remote, peaceful forests of Earth. Then, as the car slowed, they left the highway for a rough trail that led for a number of miles back into the forest. They came at last into a clearing circled by rough wooden dwellings possessing all the appearance of crude, primitive existence on little more than a subsistence level.</p>
+   <p>”This is the village of our Chief,” said Sal Karone. ”He will be pleased to explain all you may wish to know about the Idealist Way.”</p>
+   <p>Cameron was shocked almost beyond speech by his first sight of the clearing. He had tried to prepare for the worst, but he had told himself that the Markovian's estimate of the Ids could not be true. Now he was forced to admit that it was. In contact with all the skills of their Masters, which they would certainly be permitted to learn if they wanted to, the Ids chose primitive squalor when they were on their own.</p>
+   <p>Their serenity could be little more than the serenity of the savage who has no wants or goals and is content to merely serve those whose ambitions are greater. It was the serenity and peacefulness of death. The Ids had died — as a race — long ago. The Markovians were loud, boastful, and obnoxious, but that could be discounted as the awkwardness of youth in a race that would perhaps be very great in the Universe at a time when the Ids were wholly forgotten.</p>
+   <p>Cameron felt depressed by the sight. He began to doubt the wisdom of his coming here in hope of finding an answer to the Markovian deception. The warning of Sal Karone on shipboard seemed now like nothing more than a half ignorant demonstration of loyalty toward the Markovian Masters. Possibly there had been some talk which the Id had overheard and he had taken it upon himself to warn the Terrans — knowing perhaps nothing of the matter which the Markovians were reluctant to expose.</p>
+   <p>If he could have done so gracefully, Cameron felt he would have turned and gone back without bothering with the interview. His curiosity about the Ids themselves had all but vanished. The answer to their situation was obvious. And he had maintained such high hope that somehow his expectation in them would be fulfilled during this visit.</p>
+   <p>There was a satisfying cleanliness apparent in everything as Sal Karone led them to the largest of the buildings. Joyce seemed to be enjoying herself as she surveyed the surroundings with an interest Cameron had lost.</p>
+   <p>As they entered the doorway a thin, straight old man with a white beard arose from a chair and approached them in greeting. The ancient, conventional, patriarchal order, Cameron thought. He could see the whole setup in a nutshell right now. Squalid communities like this where the too-old and the too-young were nurtured on the calcified traditions to which nothing was ever added. The able serving in the homes of the Markovians, providing sustenance for themselves and those who depended on them. The Markovians were generous indeed in not referring to the Ids as slaves. There was little else they could ever be called.</p>
+   <p>The Chief was addressed as Venor by Sal Karone, who introduced them. ”It is kind of you to include our village in your visit to the Nucleus,” said Venor. ”There are many more spectacular things to see.”</p>
+   <p>”There is often greatest wisdom in the least spectacular,” said Cameron, trying to sound like a sage. ”Sal Karone was kind enough to invite us to your center and said there was much you could show us.”</p>
+   <p>”The things of the soul are not possible to <emphasis>show</emphasis>,” said Venor gently. ”We wish there were time that we might teach you some of the great things our people have learned in their long wanderings. I am told that your profession and your purpose in being here is the study of races and their actions and the things they have learned.”</p>
+   <p>With a start, Cameron came to greater attention. He was certain he had never given any such information in the presence of Sal Karone or Marthasa. Yet even Venor knew he was a sociologist! Here was the first knowledge that must lie behind the evidence of the undercurrent of objections of the Markovian representative in the Council and Premier Jargla.</p>
+   <p>And this primitive patriarch was in possession of it.</p>
+   <p>Relations between the individuals of this planet were something far more complex than Cameron had assumed. He hesitated a moment before speaking. Just why had this bait been so innocently thrown to him? Marthasa had never mentioned it. Yet had the Markovians asked for an attempt to get an admission from him for their own purposes? And what purposes—?</p>
+   <p>He abandoned caution, and nodded. ”Yes, that is the thing I am interested in. I had hoped to study the history and ways of the Markovians. As Sal Karone has told me, they don't want strangers to make such a study. You are perhaps not so unwilling to be known—?”</p>
+   <p>”We wish the entire Universe might know of us and be as we are.”</p>
+   <p>”You hardly make that possible, subjugating your identity so completely to that of another race. The worlds will never know of you unless you become strong and unified as a people and obtain a name of your own.”</p>
+   <p>”Our name is known,” said Venor. ”We are the Idealists. You will not find many worlds on which we are unknown, and they call us the ones who serve. Even on your world you have the saying of a philosopher who taught that any who would be master should become the servant of all. Your people once understood it.”</p>
+   <p>”Not as a literal undertaking,” said Cameron. ”You can't submerge your entire racial identity as you have done. That is not what the saying meant.”</p>
+   <p>”To us it does,” said Venor solemnly. ”We would master the Universe — and therefore we must serve it. That is the core of the law of the Idealists.”</p>
+   <empty-line/>
+   <p>Cameron let his gaze scan through the window to the small clearing in the thick forest, to the circle of wooden houses. <emphasis>We would master the Universe</emphasis> — he restrained a smile.</p>
+   <p>”You cannot believe this,” said Venor, ”because you have never understood the mark of the servant or the mark of the master. How often is there difficulty in distinguishing one from the other!”</p>
+   <p>And how often do the illusions of the mind ease the privations of the body, Cameron thought. So that was the source of the Idealist serenity. Wherever they went they considered themselves the masters through service — and conversely, those they served became the slaves, he supposed. It was a pleasant, easy philosophy that hurt no one. Except the ones who believed it. They died the moment they accepted it, for all initiative and desire were gone.</p>
+   <p>”The master is he who guides the destiny of a man or a race,” said Venor almost in meditation. ”He is not the man who gathers or disperses the wealth, or who builds the cities and the ships to the stars. The master is he who teaches what must be done with these things and how a people shall expend their lives.”</p>
+   <p>”And the Markovians do this, in obedience to you?” said Cameron whimsically.</p>
+   <p>”Wherever my people are,” answered Venor, ”strife ceases and peace comes. Who can do this is master of worlds.”</p>
+   <p>There was a strange solemnity about the voice and figure of the old Idealist that checked the sense of ridiculousness in Cameron. It seemed somehow strangely moving.</p>
+   <p>”You believe the worlds are better,” he asked gently, ”just because you are there?”</p>
+   <p>”Yes,” said Venor, ”because we are there.”</p>
+   <p>There was a pathos about it that fired Cameron's anger. On scores of worlds there were primitive groups like this one, blinding themselves with a glory that didn't exist, in the grip of ancient, meaningless traditions. The younger ones — like Sal Karone — were intelligent, worth salvaging, but they could never be lifted out of this mire of false belief unless they could be shown how empty it was.</p>
+   <p>”Nothing you have said explains the mystery of how this great thing is accomplished,” said Cameron almost angrily. ”Even if we wanted to believe it were true, it is still as utterly incomprehensible as before we came.”</p>
+   <p>”There is a saying among us,” said Venor kindly. ”Translated into your tongue it would be: How was the wild dog tamed, and a saddle put upon the fierce stallion?”</p>
+   <empty-line/>
+   <p>Stubbornly, then, Venor would say no more about the philosophy of the Idealists. He spoke freely of the many other worlds upon which the Idealists lived and served, and he affirmed the tradition that they did not even know the place of their origin, the planet that might have been their home world.</p>
+   <p>He was evasive, however, when Cameron asked when the first contact was made between his people and the Markovians. There was something that the Ids, too, were holding back, the sociologist thought, and there was no apparent reason for it.</p>
+   <p>Recklessly, he decided nothing could be lost by attempting to blast for it. ”Why have the Markovians consistently lied to us?” he said. ”They've given us their history — and if your people know the feelings of other worlds they know this history is a lie. Only a few generations ago the Markovians pirated and plundered these worlds, and now they pose as little tin gods with a silver halo. Why?”</p>
+   <p>Sal Karone stood by with a look of horror on his face, but Venor made no sign of alarm at this forbidden question. He merely inclined his held slowly and repeated, ”How was the wild dog tamed, and a saddle put upon the fierce stallion?”</p>
+   <empty-line/>
+   <p>That was the end of the interview. The Ids insisted, however, that he inspect the rest of the village and they personally guided the Terrans on the tour. Cameron's trained eye took in at a glance, however, the evidence supporting his previous conclusion. The artifacts and buildings demonstrated a primitive forest culture. The other individuals he saw were almost entirely the old and very young — the ones unsuitable as servants to the Markovians. Venor explained that family life among them paralleled in general that of the Masters. Whole Idealist families lived and served as units in the Markovian household. Exceptions existed in the case of Sal Karone and others of his age who were separated from their families and had not yet begun their own.</p>
+   <p>As they returned to the car Venor took their hands. He pressed Cameron's warmly and looked into his eyes with deep sincerity. ”You have made us glad by your presence,” he said. ”And when the time comes for you to return, we shall repay all the pleasure you have given us.”</p>
+   <p>”I'm afraid we won't be able to do that,” said Cameron. ”We appreciate your hospitality, but I'm sure time will not permit us to visit you again, as much as we'd like to.” In the past few minutes he had reached the conclusion that further research on this whole planet was futile. The best thing they could do was go somewhere else in the Nucleus and make a fresh start.</p>
+   <p>Venor shook his head, smiling. ”We will see each other again, Joyce and Cameron. I feel that the day will be very soon.”</p>
+   <p>It was senseless to let himself be irritated by the senile patriarch who spoke out of a world of illusion but Cameron could not help feeling nettled as he started back to the city. Somehow it seemed impossible to regard Venor as merely a specimen for sociological research. The Chief of the Idealists reached out of his unreal world and made his contact with the Terrans a personal thing — almost as if he had spent all his life waiting for their coming. There was a sense of intimacy against which Cameron rebelled, and yet it was not an unpleasant thing.</p>
+   <p>Cameron's mind oscillated between the annoyance of Venor's calm assertion that they would be back shortly, and the nonsense of the Id belief that they controlled the civilizations in which they were servants. How was the wild dog tamed, and a saddle put upon the fierce stallion?</p>
+   <p>He smiled faintly to himself, wondering if the Markovians were fully aware that the Ids regarded them as tamed dogs and saddled stallions. They couldn't help knowing, of course, but it was hard to imagine Marthasa and his wife being very much amused by such an estimate. The situation would be intolerable, however, if it were met by anything except amusement. It might be a mildly explosive subject, but he was going to find out about that one small item before moving on, anyway, Cameron decided.</p>
+   <empty-line/>
+   <p>Sal Karone was strangely silent during the whole of the return trip. He offered no comments and made only brief, noncommittal replies to questions about the country through which they passed. He seemed depressed by the results of their visit. Probably because the violation of his warning to not question the lives of the Markovians. It was a curious evidence of their completely unreal, proprietary attitude in respect to their Masters. They'd have to investigate Marthasa's response as thoroughly as possible. There seemed to be no taboo on discussion of the Ids with him.</p>
+   <p>His annoyance at their acceptance of the invitation to the Id village appeared to have vanished as he greeted them upon their return. ”We delayed eating, thinking you'd be back in time. If you'll join us in the dining room as soon as you're ready—?”</p>
+   <p>The villa of Marthasa seemed different after the day's experience with the Ids, although Cameron was certain nothing had changed either in a physical way or in their relations with the Markovians. It was as if his senses had been somehow sharpened to detect an undercurrent of feeling of which he had previously been unaware. Glancing at Joyce, he sensed she felt the same.</p>
+   <p>”I have the feeling that we missed something,” she said, as they changed clothes to join Marthasa and his wife. ”There was something Venor wanted us to know and wouldn't say. I would almost like to go back there again before we go away.”</p>
+   <p>Cameron was surprised at his own annoyance with Joyce's statement. It reflected the impressions in his own mind which he was trying to ignore. ”Nonsense,” he said. ”There's no use trying to read great profundity in the words of an old patriarch of the woods. He's nothing except what he appears to be.”</p>
+   <p>The Markovians talked easily of Venor and the rest of the Ids. ”We have tried to get him to join us in the city,” said Marthasa as the meal began, ”but he won't hear of it. It seems to give him a sense of importance to live out there alone with his retinue and have the other Ids come to him with their problems. He's a kind of arbiter and patriarch to all of them for many miles around.”</p>
+   <image l:href="#i_004.png"/>
+   <p>While Marthasa talked Cameron tried to bring his awareness of all the varied facets of the problem together and see it whole, as he now understood it. The Markovians, a vast pirate community, had voluntarily abandoned freebooting for reasons yet to be discovered. They had turned their backs upon it so forcibly that they hid even the history of their depredations. And one of their last acts must have been the capture of a large colony of Idealists who were forced into servitude. Now the Ids compensated their enslavement by the religious belief that service made them masters over the ex-pirates, convincing themselves that <emphasis>they</emphasis> had changed the Markovians, taming them like wild dogs, saddling them as fierce stallions—</p>
+   <p>Cameron wondered if he dared, and then dismissed the thought that there could be any risk. It was too ridiculous!</p>
+   <empty-line/>
+   <p>There was even a half-malicious smile on his lips as he broke into Marthasa's conversation. ”One of the things that made me very curious today,” he said, ”was the general reaction of your people to the Idealist illusion that they have <emphasis>tamed</emphasis> you — as expressed in their aphorism about how was the wild dog—?”</p>
+   <p>He never finished. Across the table the faces of the Markovians had frozen in sudden bitterness. The shield of friendliness vanished under the cold glare from their eyes.</p>
+   <p>Marthasa's lips seemed to curl as he whispered, ”So you came like all the rest! And we wanted so much to believe you were honest. A study! A chance to find material for lies about the Nucleus to spread among all the Council worlds.”</p>
+   <p>He continued almost sadly, ”You will be confined to your quarters until transfer authorities can arrange for your return to Earth. And you may be sure that never again will such a scheme get one of your kind into the Nucleus again.”</p>
+   <p>But there was no hint of sadness in his wife's face. She glared coldly. ”I said they should never had been permitted to come!”</p>
+   <p>Cameron rose in sudden bewildered protest. ”I assure you we have no intention—” he began.</p>
+   <p>And then he stopped. In one moment of incredible clarity while they stood there, eyes locked in bitter stares, he understood. He knew the myth was not a myth. It was cold, unbelievable reality. The Ids <emphasis>had</emphasis> tamed the Markovians.</p>
+   <p>In a moment of fear he wondered if it were anything more than a thin shell that could be shattered by a whisper from a stupid dabbler in cultures, who really knew nothing at all about the profession to which he pretended.</p>
+  </section>
+  <section>
+   <title>
+    <p>V</p>
+   </title>
+   <p>As if upon some secret signal Sal Karone appeared from the serving room at their left.</p>
+   <p>”Our visitors are no longer our guests,” Marthasa said sharply with accusing eyes still upon Cameron. ”They will remain in their rooms until time for deportation.</p>
+   <p>”I trust it will not be necessary to use force,” he said directly to Cameron.</p>
+   <p>”Of course not. But won't you let me explain — won't you even allow an apology for breaking a taboo we did not understand?”</p>
+   <p>”Is it not taboo among all civilized peoples, including your own, to invent and spread lies about those who wish you only well?”</p>
+   <p>It was useless to argue, Cameron saw. He turned, taking Joyce's arm, and allowed Sal Karone to lead them back to their rooms. As they paused at the doorway the Id spoke without expression on his dark face. ”This is not a good thing, Cameron Wilder. It would have been best for you to have considered my warning.”</p>
+   <p>He turned and stepped away, locking the door behind him.</p>
+   <p>Joyce slumped on the bed in dejection. ”This is a fine fix we've got ourselves into, being declared <emphasis>persona non grata</emphasis> before we even get a good start! They'll remember <emphasis>that</emphasis> back home when A Study of the Metamorphosis of the Markovian Nucleus is mentioned in professional circles!”</p>
+   <p>”Don't rub it in,” Cameron said, half angrily. ”How was I to know that was such a vicious taboo? It can't be any secret to the Markovians that the Ids look upon them as tamed. Why should they get their hackles up because <emphasis>I</emphasis> mentioned it?”</p>
+   <p>”All I know is we're washed up as of now. What do we do when we get back home?”</p>
+   <p>Cameron stood with his back to her, looking through the windows to the garden beyond. ”I'm not thinking of that,” he said. ”Can't you see we haven't failed? We've almost got it — the thing we came to find. We knew why the Markovians suddenly became good Indians. The Ids actually did tame them. We've got to find out how such an apparently impossible thing could be done.”</p>
+   <p>”Do you really believe that's what happened?” asked Joyce.</p>
+   <p>Cameron nodded. ”It's the only thing there is to believe. If it weren't true, Marthasa and his wife would have laughed it off as nonsense. Getting all huffy and talking about deportation for cooking up lies is the best proof you could ask for that we hit pay dirt. Don't ask me how I think the Ids could do it. <emphasis>That's</emphasis> what I'm going to find out.”</p>
+   <p>”How?”</p>
+   <p>”I don't know.”</p>
+   <p>But he did have an idea that if he could somehow get word to the old Id chieftain help could be had. He knew he was straining to believe things he wanted to believe, yet it seemed as if this were almost the very thing Venor had tried to convey the day before but had left unspoken.</p>
+   <p>There was only one possibility of establishing contact, however, and that was through Sal Karone. A remote chance indeed, Cameron thought, in view of the relationship between the Markovian and his <emphasis>sargh</emphasis>. As a last resort it was worth trying, however.</p>
+   <p>It looked as if they would not have even this chance as the evening grew darker. Cameron kept watch through the windows in the hope of signaling Sal Karone in case he should appear. They hoped he might come to the room for a final check of their needs for the night as he usually did.</p>
+   <p>But he did not appear.</p>
+   <empty-line/>
+   <p>Cameron finally went to bed after Joyce was long asleep. He turned restlessly, beating his mind with increasing wonder as to how it could be so incredibly true that the Idealists were the actual masters of the Nucleus. That they had somehow tamed the murderous, piratical Markovians. He couldn't have known this was it!</p>
+   <p>One thing he could understood, however, was the Markovians reluctance to have visitors — and their careful watch over them. Marthasa had been more than a host, he thought. He was a guard as well, trying to keep the Terrans from discovering the unpleasant reality concerning the influence of the Ids. He had slipped in allowing the visit to Venor.</p>
+   <p>At dawn there was the sound of their door opening and Cameron whirled from his dressing, hopeful it might be Sal Karone. It was Marthasa, however, grim and distant. ”I have obtained word that your deportation can be accomplished today. Premier Jargla has been informed and concurs. The Council has been notified and offers no protestations. You will ready yourselves before the evening hour.”</p>
+   <p>He slammed the door behind him. Joyce turned down the covers in the other room and sat up. ”I wonder if he isn't even going to feed us today?”</p>
+   <p>Cameron made no answer. He finished dressing hurriedly and kept a frantic watch for any sign of Sal Karone.</p>
+   <p>At last there was a knock on the door and the Id appeared with breakfast on a cart. Cameron exhaled with relief that it was not one of the other <emphasis>sarghs</emphasis> in the household.</p>
+   <p>Sal Karone eyed them impassively as he wheeled in and arranged the food on the table by a window. Cameron watched, estimating his chances.</p>
+   <p>”Your Chief, Venor, was very kind to us yesterday,” he said quietly. ”Our biggest regret in leaving is that our conversation with him must go unfinished.”</p>
+   <p>Sal Karone paused. ”Were there things you had yet to say to him?” he asked.</p>
+   <p>”No — there were things Venor wanted to tell us. You heard him. He wanted us to come back. It is completely impossible for us to see him again before we go?”</p>
+   <p>Sal Karone straightened and set the utensils on the table. ”No, it is not impossible. I have been instructed to bring you back to the village if it should be your request.”</p>
+   <p>Cameron felt a surge of eager excitement within him. ”When? Our deportation is scheduled for today. How can we get there? How can we avoid Marthasa and the Markovians?”</p>
+   <p>”Stand very quietly,” said Sal Karone, that sense of power and command in his voice and bearing as Cameron had seen it once before aboard the spaceship. ”Now,” he said. ”Close your eyes.”</p>
+   <p>There was a sudden wrenching twist as if two solid surfaces had slammed them from front and back, and a third force had thrust them sideways.</p>
+   <p>They opened their eyes in the wooden house of Venor, in the village of the Idealists.</p>
+   <empty-line/>
+   <p>”We owe you apologies,” said Venor. ”We hope you are not harmed in any way.”</p>
+   <p>Cameron stared around uncertainly. Joyce clutched his hand. ”How did we—?” Cameron stammered.</p>
+   <p>”Teleportation is the descriptive term in your language, I believe,” said Venor. ”It was rather urgent that you come without further delay so we resorted to it. Nothing else would do in the face of Marthasa's action. Sit down if you will, please. If you wish to rest or eat, your quarters are ready.”</p>
+   <p>”Our quarters—! Then you <emphasis>did</emphasis> expect us back. You knew this was going to happen exactly as it has!”</p>
+   <p>”Yes, I knew,” said Venor quietly. ”I planned it this way when word first came to us of your visit.”</p>
+   <p>”I think we are entitled to explanations,” Cameron said at last. ”We seem to have been pieces in a game we knew nothing about.”</p>
+   <p>And it had taken this long for the full impact of Venor's admission of teleportation to hit him. He closed his eyes in a moment's reaction of fright. He didn't want to believe it — and knew he must. These Idealists — who could master galaxies and tame the wild Markovians — was there anything they could not do?</p>
+   <p>”Not a game,” Venor protested. ”We planned this because we wanted you to see what you have seen. We wanted a man of Earth to know what we have done.”</p>
+   <p>”But don't the Markovians realize the foolishness of deporting us because we stumbled onto the relationship between you and them? And if you are in control how can they issue such an order — unless you want it?”</p>
+   <p>”Our relationship is more complex than that. There are different levels of control. We operate the one that brought you here—” He let Cameron consider the implication of the unfinished statement.</p>
+   <p>Then he continued, ”To understand the Markovians' reason for deporting you, consider that on Earth men have tamed wolves and made faithful, loyal dogs who can be trusted. Dogs who have forever lost the knowledge their ancestors were fierce marauders ready to rip and tear the flesh of any man or beast that came their way.</p>
+   <p>”Consider the dogs only a generation or two from the vicious wolves who were their forebears. The old urges have not entirely died, yet they want to know man's affection and trust. Could you remind them of what their kind once was without stirring up torment within them?</p>
+   <p>”So it is with the Markovians. They are peaceful and creative, but only a few generations behind them are pirates who were not fit to sit in the Councils of civilized beings. They have no tradition of culture to support them. It knocks the props out from under them, so to speak, to have it known what lies behind them. They cannot be friends with such a man. They cannot even endure the knowledge among themselves.”</p>
+   <p>”Then I was right!” Cameron exclaimed. ”Their phony history was set up to deceive their own people as well as others.”</p>
+   <p>”Yes. The dog would destroy all evidence of his wolf ancestry. It has been an enormous project, but the people of the Nucleus have been at it a long time. They have concocted a consistent history which leaves out all evidence of their predatory ancestry. The items of reality which were possible to leave have been retained. The gaps between have been bridged by fictionized accounts of glorious undertakings and discoveries. Most of the Markovian science has been taken from other cultures, but now their history boasts of heroes and discoverers who never lived and who were responsible for all the great science they enjoy.”</p>
+   <p>”But nothing stable can be built upon such an unhealthy foundation of self-deception!” Cameron protested.</p>
+   <p>”It is not unhealthy — not at the present moment,” said Venor. ”The time will come when it, too, will be thrust aside and a tremendous effort of scholarship will extract the elements of truth and find that which was suppressed. But the Markovians themselves will do it — a generation of them who can afford to laugh at the fears and fantasies of their ancestors.”</p>
+   <p>”This tells us nothing of how you were able to make a creative people out of a race of pirate marauders,” said Cameron.</p>
+   <p>”I gave you the key,” said Venor. ”It was one used long ago by your own people before it was abandoned.</p>
+   <p>”How was the savage wolf tamed to become the loyal, friendly dog? Did ancient man try to exterminate the wolves that came to his caves and carried off his young? Perhaps he tried. But he learned, perhaps accidentally, another way of conquest. He found the wolf's cubs, and learned to love them. He brought the cubs home and cared for them tenderly and his own children played with them and fed them and loved them.</p>
+   <p>”It took time, but eventually there were no more wild wolves to trouble man, because he had discovered a great friend, the dog. And man plus dog could handle wolf with ease. Dog forgot in time what his forebears were and became willing to defend man against his own kind — because man loved him.</p>
+   <p>”It happened again and again. Agricultural man hated the wild horse that ate his grain and trampled his fields. But he learned to love the horse, too, after a while. Again — no more wild horses.”</p>
+   <p>”But you can't take a predatory, savage pirate and love him into decency!” Cameron protested.</p>
+   <p>”No,” Venor agreed. ”It is too difficult ordinarily at that level, and wasteful of time and resources. But I didn't say that is what happened. You don't tame a wolf by loving it, but the cubs — yes. And even pirates have cubs, who are susceptible to being loved.</p>
+   <p>”The first weapon was hate. But after learning the futility of it, sentient creatures discovered another, the succeeding evolutionary emotion. It is pure savagery in its destructive power, a thousand times more effective in annihilating the enemy.</p>
+   <p>”You've thought 'Love thy enemy' was a soft, gentle, futile doctrine! Actually, instead of merely killing the enemy it twists his personality, destroys his identity. He continues to live, but he has lost his integrity as an entity. The wolf cub never becomes an adult wolf. He becomes Dog.</p>
+   <p>”It is not a doctrine of weakness, but the ultimate weapon of destruction. It can be used to induce any orientation desired in the mind of the enemy. He'll do everything you want him to — because he has your love.”</p>
+   <empty-line/>
+   <p>”How did you apply that to the Markovians?” asked Joyce in almost a whisper.</p>
+   <p>”It was one of the most difficult programs we have ever undertaken,” said Venor. ”There were comparatively few of us and such a tremendous population of Markovians. We had predicted long ago, even before the organization of the Council, the situation would grow critical and dangerous. By the time the Council awoke to the fact and started its futile debates we had made a strong beginning.</p>
+   <p>”We arranged to be in the path of a Markovian attack on one of the worlds where our work was completed. The Markovians were only too happy to take us into slavery and use us as victims in their brutal sports.”</p>
+   <p>”You didn't deliberately fall into a trap where you allowed yourselves to be killed and tortured by them?” exclaimed Cameron.</p>
+   <p>Venor smiled. ”The Markovians thought we did. We could hardly do that, of course. Our numbers were so small compared with theirs that we wouldn't have lasted very long. And, obviously, it would have been plain stupid. There is one key that must not be forgotten: An effective use of love requires an absolute superiority on the levels attainable by the individual to be tamed. So, in this case, we had to have power to keep the Markovians from slaughtering us or we would have been unable to accomplish our purpose.</p>
+   <p>”Teleportation is of obvious use here. Likewise, psychosomatic controls that can handle any ordinary wound we might permit them to inflict. We gave them the illusion of slaughtering and torturing us, but our numbers did not dwindle.”</p>
+   <p>”Why did you give them such an illusion?” Joyce asked. ”And you say you permitted them to inflict wounds—?”</p>
+   <p>Venor nodded. ”We were in their households, you see, employed as slaves and assigned the care of their young. The cubs of the wolf were given into our hands to love — and to tame.</p>
+   <p>”These Markovian children were witnesses to the supposed torture and killing of those who loved them. It was a tremendous psychic impact and served to drive their influence toward the side of the slaves. And even the adults slowly recognized the net loss to them of doing away with servants so skilled and useful in household tasks and caring for the young. The games and brutality vanished spontaneously within a short time. Markovians, young and old, simply didn't want them any longer.</p>
+   <p>”During the maturity of that first generation of young on whom we expended our love our position became more secure. These were no longer wolves. They had become dogs, loyal to those who had loved them, and we could use them now against their own kind. Influences to abandon piracy against other peoples began to spread throughout the Nucleus.</p>
+   <p>”Today the Markovians are no longer a threat capable of holding the Council worlds in helpless fear. They long ago ceased their depredations. Their internal stability is rising and is almost at the point where we shall be able to leave them. Our work here is about finished.”</p>
+   <p>”Surely all this was unnecessary!” Joyce said. ”With your powers of teleportation and other psionic abilities you must possess it should have been easy for you to control the Markovians directly, force them to cease their piracy—”</p>
+   <p>”Of course,” said Venor. ”That would have been so much easier for us. And so futile. The Markovians would have learned nothing through being taken over by us and operated externally. They would have remained the same. But it was our desire to change them, teach them, accomplish genuine learning within them. It is always longer and more difficult this way. The results, however, are more lasting!”</p>
+   <p>”<emphasis>Who</emphasis> are you people — <emphasis>what</emphasis> are you?” Cameron said with sudden intensity. ”You have teleportation — and how many other unknown psychic powers? You have forced us to believe you can tame such a vicious world as the Markovian Nucleus once was.</p>
+   <p>”But where is there a life of your own? With all your powers you must live at the whim of other cultures. Where is <emphasis>your</emphasis> culture? Where is your own purpose? In spite of all you have, your life is a parasitical one.”</p>
+   <p>Venor smiled gently. ”Is not the parent — or the teacher — the servant of the child?” he said. ”Has it not always been so if a species is to rise very far in its conquest of the Universe?</p>
+   <p>”But this does not mean that the parent or teacher has no life of his own. You ask where is our culture? The culture of <emphasis>all</emphasis> worlds is ours. We don't have great cities and vast fleets. The wolf cubs build these for us. They carry us across space and shelter us in their cities.</p>
+   <p>”Our own energies are expended in a thousand other and more profitable ways. We have sought and learned a few of the secrets of life and mind. With these we can move as you were moved, when we choose to do so. From where I sit I can speak with any of our kind on this planet or any world of the entire Nucleus. And a few of us, united in the effort, can touch those in distant galaxies.</p>
+   <p>”What culture would you have us acquire, that we do not have?” Venor finished.</p>
+   <empty-line/>
+   <p>Without answer, Cameron arose and strode slowly to the window, his back to the room. He looked out upon the rude wooden huts and the towering forest beyond. He tried to tell himself it was all a lie. Such things couldn't be. But he could feel it now with increasing strength, as if all his senses were quickening — the benign aura, the indefinable wash of power that seemed to lap at the edge of his mind.</p>
+   <p>Out of the corner of his eye he could see Joyce's face, almost radiant as she, too, sensed it here in the presence of the Ids.</p>
+   <p>Love, as a genuine power, had been taught by every Terran philosopher of any social worth. But it had never really been tried. Not in the way the Ids understood it. Cameron felt he could only guess at the terrible discipline of mind it required to use it as they did. The analogy of the wolf cubs was all very well, and man had learned to go that far. But there is a difference when your own kind is involved, he thought.</p>
+   <p>Perhaps it was out of sheer fear of each other that men continued to try to sway with hate, the most primitive of all their weapons.</p>
+   <p>It's easy to hate, he thought. Love is hard, and because it is, the tough humans who can't achieve it and have the patience to manipulate it must scorn it. The truly weak ones, they're incapable of the stern and brutal self-discipline required of one who loves his enemy.</p>
+   <p>But men had known how. Back in the caves they had known how to conquer the wolf and the wild horse. Where had they lost it?</p>
+   <p>The vision of the buildings and the forest with its eternal peace was still in his eyes. What else could you want, with the whole Universe in the palm of your hand?</p>
+   <p>He turned sharply. ”You tricked us into betraying ourselves to Marthasa, and you said that you planned it this way when you first heard of our coming. But you have not yet said why. Why did you want us to see what you had done?”</p>
+   <p>”You needed to have evidence from the Markovians themselves,” said Venor. ”That is why I led you to the point where the admission would be forced from them. The problem you came to solve is now answered, is it not? Is there anything to prevent you returning to Earth and writing a successful paper on the mystery of the Markovians?”</p>
+   <p>”You know very well there is,” said Cameron with the sudden sense that Venor was laughing gently at him. ”Who on Earth would believe what you have told me — that a handful of meek, subservient Ids had conquered the mighty Markovian Nucleus?”</p>
+   <p>He paused, looking at Joyce who returned his intense gaze.</p>
+   <p>”Is that all?” said Venor finally.</p>
+   <p>”No that is not all. After taking us to the heights and showing us everything that lies beyond, are you simply going to turn us away empty-handed?”</p>
+   <p>”What would you have us give you?”</p>
+   <p>”This,” said Cameron, gesturing with his hand to include the circle of all of them, and the community beyond the window. ”We want what you have discovered. Is your circle a closed one — or can you admit those who would learn of your ways but are not of your race?”</p>
+   <p>Venor's smile broadened as he arose and stepped toward them, and they felt the warm wave of acceptance from his mind even before he spoke. ”This is what we brought you here to receive,” he said. ”But you had to ask for yourselves. We wanted men of Earth in our ranks. There are many races and many worlds who make up the Idealists. That is why it is said that the Ids do not know the home world from which they originally came. It is true, they do not. We are citizens of the Universe.</p>
+   <p>”But we have never been represented by a native of Earth, which needs us badly. Will you join us, Terrans?”</p>
+   <empty-line/>
+   <p><strong>THE END</strong></p>
+   <image l:href="#i_005.png"/>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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</binary>
+ <binary id="i_001.png" content-type="image/png">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
+YII=</binary>
+ <binary id="i_002.png" content-type="image/png">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
+RK5CYII=</binary>
+ <binary id="i_003.png" content-type="image/png">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</binary>
+ <binary id="i_004.png" content-type="image/png">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</binary>
+ <binary id="i_005.png" content-type="image/png">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</binary>
+</FictionBook>

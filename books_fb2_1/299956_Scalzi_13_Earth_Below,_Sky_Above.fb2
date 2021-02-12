@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf_space</genre>
+   <author>
+    <first-name>John</first-name>
+    <last-name>Scalzi</last-name>
+   </author>
+   <book-title>Earth Below, Sky Above</book-title>
+   <date></date>
+   <coverpage>
+    <image l:href="#earth.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Human Division" number="13"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>John</first-name>
+    <last-name>Scalzi</last-name>
+   </author>
+   <program-used>calibre 0.9.24, Fiction Book Designer, FictionBook Editor Release 2.6.6</program-used>
+   <date value="2013-04-21">21.04.2013</date>
+   <id>FBD-95EA2E-2D78-AC4B-F08E-789D-F5C2-D4EDC4</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>John Scalzi</p>
+   <empty-line/>
+   <p>Earth Below, Sky Above</p>
+  </title>
+  <section>
+   <title>
+    <p>Part One</p>
+    <p>I</p>
+   </title>
+   <p>“I’m not going to lie to you, Harry,” Hart Schmidt said. “I’m a little concerned that you’ve taken me to a maintenance airlock.”</p>
+   <p>“I’m not going to toss you into space, Hart,” Wilson said. He tapped the outer portal of the airlock, which had among its features a small porthole made of a thick, transparent alloy. “It’s just that the airlocks are one of the only places on this whole godforsaken tub where you can find an actual one of <emphasis>these</emphasis>.”</p>
+   <p>“Don’t let Captain Coloma catch you calling the <emphasis>Clarke</emphasis> a tub,” Schmidt said.</p>
+   <p>“She knows it’s a tub,” Wilson said.</p>
+   <p>“Yes, but she wouldn’t like you to <emphasis>say</emphasis> it,” Schmidt said. “She’d start the purge cycle on this airlock.”</p>
+   <p>“The captain’s on the bridge,” Wilson said. “And anyway, she’s got a lot of better reasons to space me than me making a crack about her ship.”</p>
+   <p>Schmidt peered at the porthole. “This isn’t going to be a very good view,” he said.</p>
+   <p>“It’ll do well enough,” Wilson said.</p>
+   <p>“There are lots of monitors on the ship that will give you a better look,” Schmidt said.</p>
+   <p>“It’s not the same,” Wilson said.</p>
+   <p>“The resolution on the displays is better than your eyes can resolve,” Schmidt said. “As far as your eyes are concerned, it will be exactly the same. Even better, since you’ll be able to see more.”</p>
+   <p>“It’s not the eyes that matter,” Wilson said. “It’s the brain. And my brain would know.”</p>
+   <p>Schmidt said nothing to this.</p>
+   <p>“You have to understand, Hart,” Wilson said. “When you leave, they tell you that you can never come back. It’s not an idle threat. They take everything from you before you go. You’re declared legally dead. Everything you own is parceled out according to your will, if you have one. When you say ‘good-bye’ to people, it really is for the last time. You don’t see them again. You never see them again. You won’t know anything that ever happens to them again. It really is like you’ve died. Then you get on a delta, ride up the beanstalk and get on a ship. The ship takes you away. They never let you come back again.”</p>
+   <p>“You never considered the idea you might come back one day?” Schmidt said.</p>
+   <p>Wilson shook his head. “No one ever did. No one. The closest anyone ever comes to it are the guys on the transport ships who stand in front of the room full of new recruits and tell them that in ten years, most of them will be stone dead,” he said. “But even they don’t ever come back, really. They don’t leave the ships, at least not until they get back to Phoenix Station. When you’re gone, you’re gone. You’re gone forever.”</p>
+   <p>Wilson looked out the porthole. “It’s a hell of a thing, Hart,” he said. “At the time, it might not seem like a bad deal. When the Colonial Union takes you, you’re seventy-five years old, you’ve probably had some major health scare and a few minor ones, you might have bad knees and bad eyes and maybe you haven’t been able to get it up for a while. If you don’t go, then you’re going to be dead. Which means you’ll be gone anyway. Better to be gone and live.”</p>
+   <p>“It seems reasonable,” Schmidt said.</p>
+   <p>“Yes,” Wilson agreed. “But then you <emphasis>do</emphasis> go. And you do live. And the longer you live-the longer you live in <emphasis>this</emphasis> universe-the more you miss it. The more you miss the places you lived, and the people you know. The more you realize that you made a hard bargain. The more you realize you might have made a mistake in leaving.”</p>
+   <p>“You’ve never said anything about this before,” Schmidt said.</p>
+   <p>“What is there to say?” Wilson said, looking back at his friend. “My grandfather used to tell me that his grandfather told him a story about his grandfather, who immigrated to the United States from some other country. What other country, he wouldn’t say; he never talked about the old country to anyone, Grandpa said, not even his wife. When they asked him why, he said he left it behind for a reason, and whether that reason was good or bad, it was enough.”</p>
+   <p>“It didn’t bother his wife not knowing where he came from?” Schmidt asked.</p>
+   <p>“It’s just a story,” Wilson said. “I’m pretty sure Grandpa embroidered that part. But the point is that the past is the past and you let things go because you can’t change them anyway. My grandfather many times over didn’t talk about where he came from because he was never going back. For better or worse, that part of his life was done. For me, it was the same thing. That part of my life was done. What else was there to say?”</p>
+   <p>“Until now,” Schmidt said.</p>
+   <p>“Until now,” Wilson agreed, and checked his BrainPal. “Quite literally now. We skip in ten seconds.” He turned his attention back to the porthole, silently counting off the seconds.</p>
+   <p>The skip was like all skips: quiet, unimpressive, anticlimactic. The glare of the lights in the airlock were enough to wash out the sky on the other side of the porthole, but Wilson’s genetically-engineered eyes were good enough that he could make out a few of the stars.</p>
+   <p>“I think I see Orion,” he said.</p>
+   <p>“What’s Orion?” Schmidt asked. Wilson ignored him.</p>
+   <p>The <emphasis>Clarke</emphasis> turned, and a planet rolled into view.</p>
+   <p>The Earth.</p>
+   <p>“Hello, gorgeous,” Wilson said, through the porthole. “I missed you.”</p>
+   <p>“How does it feel to be home?” Schmidt asked.</p>
+   <p>“Like I never left,” Wilson said, and then lapsed into silence.</p>
+   <p>Schmidt gave him a few moments and then tapped him on the shoulder. “Okay, my turn,” he said.</p>
+   <p>“Go look at a display,” Wilson said.</p>
+   <p>Schmidt smiled. “Come on, Harry,” he said. “You know it’s not the same.”</p>
+  </section>
+  <section>
+   <title>
+    <p>II</p>
+   </title>
+   <p>“This is a bad idea,” Colonel Abel Rigney said to Colonel Liz Egan over pasta.</p>
+   <p>“I agree,” Egan said. “I wanted Thai.”</p>
+   <p>“One, you know that it was my turn to pick,” Rigney said. “Two, you know that’s not what I’m talking about.”</p>
+   <p>“We’re talking yet again about the summit between us and the Earthlings at Earth Station,” Egan said.</p>
+   <p>“Yes,” Rigney said.</p>
+   <p>“Is this an official thing?” Egan asked. “Are you, Colonel Rigney, communicating to me, the Colonial Defense Forces liaison to the Department of State, a statement from your superiors that I will be obliged to deliver to the secretary?”</p>
+   <p>“Don’t be like that, Liz,” Rigney said.</p>
+   <p>“So, no,” Egan said. “It’s not an official communication and you’re just taking advantage of our lunchtime to kvetch again in my general direction.”</p>
+   <p>“I’m not comfortable with that assessment of the situation,” Rigney said. “But yes, that’s basically correct.”</p>
+   <p>“Are you opposed to the summit?” Egan said, twirling her pasta on a fork. “Have you joined the ranks of those in the CDF who think we need to go to Earth with guns blazing and try to take over the place? Because <emphasis>that</emphasis> will be an adventure, I have to tell you.”</p>
+   <p>“I think the summit is likely to be a waste of time,” Rigney admitted. “There are still too many people pissed at the CDF down there on Earth. Then there are the people who are pissed at the Earth governments for not letting them emigrate or enlist before they die. Then there’s the fact there are still a couple hundred sovereign states on that planet, none of which wants to agree with anyone else, except on the subject of being unhappy with us. It will all end up with yelling and screaming and time being wasted, time that neither we nor the Earth really have. So, yes, waste of time.”</p>
+   <p>“If the summit were to go off as originally planned, I would agree,” Egan said. “Although the alternative-no summit, the Earth turning away from the Colonial Union, the Conclave waiting in the wings to sweep it up as a member-is considerably worse. Engagement is key, even if nothing gets done, which it won’t.”</p>
+   <p>“That’s not my actual concern,” Rigney said. “If our diplomats and theirs want to talk until they are blue in the face, then I wish them joy. I have problems with the setup.”</p>
+   <p>“You mean having it on Earth Station,” Egan said.</p>
+   <p>“Right,” Rigney said. “It’d be better to have it here at Phoenix Station.”</p>
+   <p>“Because there’s no environment the Earthlings will find <emphasis>less</emphasis> intimidating than the single largest object humanity’s ever built,” Egan said. “Which incidentally will also serve to remind them just how bottled up we’ve kept them for the last two hundred years or so.” She stuffed pasta into her mouth.</p>
+   <p>“You may have a point,” Rigney said, after a second of consideration.</p>
+   <p>“I <emphasis>may,</emphasis>” Egan said, around her pasta, and then swallowed. “We can’t have the summit here, for the reasons I just enumerated. We can’t have the summit on Earth because there’s nowhere on the planet short of the Amundsen-Scott South Pole Station where there wouldn’t be riots, either by the people who hate the Colonial Union or by the people who want us to get them off that rock. The <emphasis>Conclave,</emphasis> of all people, offered to host the summit as a quote unquote neutral third party at their own administrative rock, which I will remind you is an order of magnitude or two larger than Phoenix Station. We definitely don’t want the Earthlings to make any inferences off of <emphasis>that</emphasis>. So what are we left with?”</p>
+   <p>“Earth Station,” Rigney said.</p>
+   <p>“Earth Station indeed,” Egan said. “Which we own, even though it’s above Earth. And that is in fact going to be a negotiating point.”</p>
+   <p>Rigney furrowed his brow. “What do you mean?” he said.</p>
+   <p>“We’re offering to lease it,” Egan said. “The lease strategy was approved this morning, in fact.”</p>
+   <p>“No one told <emphasis>me</emphasis> about it,” Rigney said.</p>
+   <p>“No offense, Abel, but why would anyone tell you?” Egan said. “You’re a colonel, not a general.”</p>
+   <p>Rigney pulled at the collar of his uniform. “Stab me again, why don’t you, Liz,” he said.</p>
+   <p>“That’s not what I meant,” Egan said. “I wouldn’t know about it, either, except that I’m the liaison, and State needed the CDF to sign off on this. This is an agreement far above both of our pay grades. But it really is a masterstroke, if you think about it.”</p>
+   <p>“Us losing our sole outpost above Earth is a masterstroke?” Rigney said.</p>
+   <p>“We’re not going to lose it,” Egan said. “We’ll still own it, and mooring rights will be part of any deal. It’s a masterstroke because it changes the nature of the game. Right now Earth has no egress into space. We locked up the planet for so long that there’s no infrastructure for space travel. They have no stations. They have no spaceports. They hardly have <emphasis>spaceships,</emphasis> for God’s sake. It will take them years and a few multiples of their yearly global output to gear up. Now we’re offering up the one way into space that’s already there. Whoever controls it will control trade, will control space travel, will control the destiny of Earth, at least until everyone else on the planet gets their act together. And you know what that means.”</p>
+   <p>“It means we make someone <emphasis>else</emphasis> the target and take the heat off of us,” Rigney said.</p>
+   <p>“For starters,” Egan said. “And in the immediate time frame also disrupts any united front they may have had going. You said it yourself, Abel. The nations of Earth can’t agree about anything except being angry with us. In a single stroke we look apologetic and reasonable, they start fighting among themselves and scrambling to make alliances and deals-”</p>
+   <p>“And we can pick and choose among the players, play them off against each other and work deals to our advantage,” Rigney finished.</p>
+   <p>“Exactly so,” Egan said. “It changes the entire dynamic of the summit.”</p>
+   <p>“Unless they all decide to put aside their petty differences and focus in on us,” Rigney said.</p>
+   <p>“Seems unlikely,” Egan said. “I know you and I left Earth fifteen years ago, but I don’t think planetary international relations on Earth have reached the ‘join hands and sing songs’ stage in that time, do you?”</p>
+   <p>“I guess the right answer here is, ‘Let’s hope not,’” Rigney said.</p>
+   <p>Egan nodded. “So now you see why Earth Station is in fact the very best place for the summit to take place,” she said. “We’re not just discussing Earth and Colonial Union issues, we’ll also be walking the showroom with the floor model.”</p>
+   <p>“Do your diplomats know they’ve been reassigned to be salespeople?” Rigney asked.</p>
+   <p>“I believe they’re finding out right about now,” Egan said. She speared some more pasta.</p>
+   <empty-line/>
+   <empty-line/>
+   <p>“They’re going to hate this,” Rae Sarles said, at the hastily-convened diplomatic staff meeting on the <emphasis>Clarke</emphasis>. “We were supposed to be here to have a frank discussion about other matters entirely, and we’re changing the agenda literally hours before we’re supposed to be under way. This isn’t how it’s supposed to be done.”</p>
+   <p>Wilson, standing in the back, glanced over to Abumwe and wondered just how the ambassador would step on this particular recalcitrant underling’s head.</p>
+   <p>“I see,” Abumwe said. “And will you be making that observation to the secretary herself? Or the leadership of the Colonial Defense Forces, who signed off on this plan? Or to the heads of every other Colonial Union department involved in this policy change?”</p>
+   <p>“No, ma’am,” Sarles began.</p>
+   <p>“No,” Abumwe said. “Well, then I would suggest that you don’t spend any additional time on how things are supposed to be done, and spend a little more time on what we have to do now. The representatives from the various Earth governments may indeed be surprised that we are now open to leasing Earth Station. But our job, Ms. Sarles, is to make them be happy by the change of events. I trust you might be able to manage this.”</p>
+   <p>“Yes, Ambassador,” Sarles said.</p>
+   <p>Wilson smiled. <emphasis>Head squished,</emphasis> he thought.</p>
+   <p>“Beyond this, fundamentally, <emphasis>our</emphasis> role has not changed,” Abumwe continued. “We have been assigned a series of discussions with smaller and non-aligned countries on Earth. These are third-tier nations in terms of power and influence on Earth, but the Colonial Union is not in a position to ignore or discount any of them, and there is some potential for significant advantages for us…” Abumwe picked up her PDA to send her underlings their updated mission roles. Each of them picked up their own PDAs as if they were in church, following the lead of their pastor.</p>
+   <p>Half an hour later, the room emptied of underlings, leaving Abumwe and Wilson. “I have a special assignment for you,” Abumwe said.</p>
+   <p>“Will I be meeting with Micronesia?” Wilson said.</p>
+   <p>“No, I will,” Abumwe said. “As it happens, I am supposed to speak with them about the possibility of establishing a base on Kapingamarangi. It’s a negotiation of no small importance, or so I have been assured by the secretary herself. So if you’re done condescending to me and my team regarding our assignments, let’s continue.”</p>
+   <p>“Sorry,” Wilson said.</p>
+   <p>“Since the Perry incident, the Earth has demanded that no Colonial Union military ships or personnel come to or be stationed on Earth Station or on the planet,” Abumwe said. “Outside of an occasional high-ranking individual or two, the Colonial Union has honored that request.”</p>
+   <p>“Oh, boy,” Wilson said. “This is where you tell me that my assignment is to guard the <emphasis>Clarke</emphasis>’s rivets, isn’t it.”</p>
+   <p>“Keep interrupting me and it will be,” Abumwe said.</p>
+   <p>“Sorry,” Wilson said again.</p>
+   <p>“And no,” Abumwe said. “Leaving aside anything else, it would be cruel to bring you this close to Earth and keep you confined to the ship. And beyond that, you continue to prove yourself useful.”</p>
+   <p>“Thank you, Ambassador.” Wilson said.</p>
+   <p>“You’re still a pain in my ass,” Abumwe said.</p>
+   <p>“Understood,” Wilson said.</p>
+   <p>“The CDF continues to have no formal role in these negotiations,” Abumwe said. “However, it also sees your presence as an opportunity to reach out to military organizations on Earth. In particular, we know that the United States will have a small military unit present at the summit. We’ve alerted them to your presence, and they are receptive to meeting with you. So your assignment has two parts. The first part is simply to make yourself available to them.”</p>
+   <p>“Available in what way?” Wilson asked.</p>
+   <p>“Whatever way they want,” Abumwe said. “If they want you to talk to them about life in the CDF, do that. If they want to talk about CDF military strength and tactics, you can do that as well, so long as you don’t reveal any classified information. If they want to drink beer and arm wrestle, do that.”</p>
+   <p>“And while I’m doing that, am I drawing out information from them as well?” Wilson asked.</p>
+   <p>“If you can,” Abumwe said. “You’re of low enough rank that the members of that military detail should be comfortable with you as a person. Capitalize on that.”</p>
+   <p>“What’s the second part of the assignment?” Wilson asked.</p>
+   <p>Abumwe smiled. “The CDF wants you to go skydiving.”</p>
+   <p>“Come again?” Wilson said.</p>
+   <p>“The U.S. military brass heard rumors that the CDF will occasionally drop soldiers onto a planet from a low orbit,” Abumwe said. “They want to see it happen.”</p>
+   <p>“Swell,” Wilson said.</p>
+   <p>“You’ve done it before,” Abumwe said. “At least, when I got the assignment for you, it noted that you had done it before.”</p>
+   <p>Wilson nodded. “I did it once,” he said. “It doesn’t mean I <emphasis>liked</emphasis> it. Falling into an atmosphere at supersonic speeds and trusting a thin, fluid layer of nanobots to keep you from turning into a smeary black friction burn across half the sky is not my idea of a fun time.”</p>
+   <p>“I sympathize,” Abumwe said. “But inasmuch as it’s an actual order, I don’t think you have much of a choice.”</p>
+   <p>“There is the minor problem that while I have a standard-issue CDF combat unitard, I don’t have the getup for a skyfall,” Wilson said.</p>
+   <p>“The CDF is sending a cargo drone with two,” Abumwe said. “One for you and one for whoever jumps with you.”</p>
+   <p>“Someone’s jumping with me?” Wilson asked.</p>
+   <p>“Apparently one of the military detail at the summit has experience with aerial drops and wants to try something more exotic,” Abumwe said.</p>
+   <p>“They understand that the drop suits are controlled by a BrainPal, right?” Wilson said. “Which this other guy won’t have. First he’ll asphyxiate, then he’ll burn up, and then the tiny parts of him will eventually fall to earth as raindrop nuclei. It’s not a good plan.”</p>
+   <p>“You will be controlling the deployment of both suits,” Abumwe said.</p>
+   <p>“So if he dies during the jump, it’ll be my fault,” Wilson said.</p>
+   <p>“If he dies during the jump, I would suggest it would be politic for you to follow him,” Abumwe said.</p>
+   <p>“I liked this assignment better when all I had to do was drink beer and arm wrestle,” Wilson said.</p>
+   <p>“There is the fact that when you complete your skydive, you will be on Earth once again,” Abumwe pointed out. “Which is something you were told would never happen.”</p>
+   <p>“There is that,” Wilson admitted. “I can’t say I’m not looking forward to that. On the other hand, Earth Station is connected to the planet by way of a space elevator. I would much rather go that way. Much less dramatic, but also much safer.”</p>
+   <p>Abumwe smiled. “The good news is that you will indeed be taking the beanstalk,” she said, referring to the space elevator by its less formal name. “The bad news is that you’ll be taking it <emphasis>up,</emphasis> back from Earth, almost immediately after you land.”</p>
+   <p>“I’ll try to enjoy it until then,” Wilson said. “What about you, Ambassador? You’re originally from Earth. Any interest in going down to the surface?”</p>
+   <p>Abumwe shook her head. “I have almost no memory of Earth,” she said. “My family left because of civil war in Nigeria. It had lasted the entire span of my parents’ lives on Earth. My mother and father’s memories of the planet are not pleasant ones. We were lucky to have left, and lucky that there was a place to leave to. We were lucky that the Colonial Union existed.”</p>
+   <p>“These negotiations matter to you,” Wilson said.</p>
+   <p>“Yes,” Abumwe said. “They would anyway. This is my job. But I remember my mother’s stories and my father’s scars. I remember that for all of the sins of the Colonial Union-and it <emphasis>has</emphasis> sins, Lieutenant Wilson-the Earth would always have its wars and its refugees, and the Colonial Union kept its doors open to them. Gave them lives where they didn’t have to fear their neighbors, at the very least. I think of the wars and refugees on Earth right now. I think of how many of those refugees who have died might have lived if the Colonial Union was able to take them.”</p>
+   <p>“I’m not sure the Colonial Union has the same priorities that you have, Ambassador,” Wilson said.</p>
+   <p>Abumwe gave Wilson a bitter smile. “I’m aware that the Colonial Union’s main purpose in reestablishing relations with Earth is to renew its supply of soldiers,” she said. “And I understand we’re no longer able to colonize because of the Conclave threatening to wipe out any new settlements we make. But the planets we have still have room, and still need people. So my priorities will still be served. So long as we all do our jobs. Including you.”</p>
+   <p>“I will fall out of the sky as best I can for you,” Wilson said.</p>
+   <p>“See that you do,” Abumwe said. She picked up her PDA to turn to other business. “Incidentally, I’ve assigned you Hart Schmidt, in case you need an assistant for anything. You two seem to work together well. You can tell him I assigned him to you not because he’s unimportant, but because your assignment is a priority for the Colonial Union.”</p>
+   <p>“I will,” Wilson said. “Is it really?”</p>
+   <p>“That will depend on you, Lieutenant,” Abumwe said. She was fully engrossed in her PDA.</p>
+   <p>Wilson opened the door to find Hart Schmidt on the other side of it.</p>
+   <p>“Stalker,” Wilson said.</p>
+   <p>“Cut it out, Harry,” Schmidt said. “I’m the only one of the team without an assignment and you just had a ten-minute one-on-one with Abumwe. It doesn’t take a genius to figure out who’s going to be your monkey boy for this trip.”</p>
+  </section>
+  <section>
+   <title>
+    <p>III</p>
+   </title>
+   <p>“It doesn’t seem like much, does it?” Neva Balla said to Captain Sophia Coloma.</p>
+   <p>“You’re referring to Earth Station,” Coloma said to her executive officer.</p>
+   <p>“Yes, ma’am,” Balla said. The two of them were on the bridge of the <emphasis>Clarke,</emphasis> stationed a safe distance from Earth Station, while the <emphasis>Clarke</emphasis>’s shuttle ferried diplomats back and forth.</p>
+   <p>“You grew up on Phoenix,” Coloma said to Balla. “You’re used to looking up and seeing Phoenix Station hanging there in your sky. Compared to that, any other station looks small.”</p>
+   <p>“I grew up on the other side of the planet,” Balla said. “I didn’t see Phoenix Station with my own eyes until I was a teenager.”</p>
+   <p>“My point is that Phoenix Station is your point of reference,” Coloma said. “Earth Station is on the smaller side, but it’s no smaller than stations over most of the colonies.”</p>
+   <p>“The space elevator is interesting,” Balla said, shifting the subject slightly. “Wonder why it’s not used elsewhere.”</p>
+   <p>“It’s mostly political,” Coloma said, and pointed at the beanstalk in the display. “The physics of the beanstalk are all wrong, according to standard physics. It should just drop out of the sky. The fact it doesn’t is a reminder to the people of Earth how much more technologically advanced we are, so they avoid trying to get into it with us.”</p>
+   <p>Balla snorted. “Doesn’t seem to be working very well,” she observed.</p>
+   <p>“Now they understand the physics of it,” Coloma said. “The Perry incident solved that problem. Now they have a wealth and organization problem. They can’t afford to build another beanstalk or a large enough space station, and if any one nation tried, the rest of them would scream their heads off.”</p>
+   <p>“It’s a mess,” Balla said.</p>
+   <p>Coloma was about to agree when her PDA sounded. She glanced down at it; the flashing red-and-green banner indicated a confidential, high-priority message for her. Coloma stepped back to read the message. Balla, noting her captain’s actions, focused on other tasks.</p>
+   <p>Coloma read the message, punched in her personal code to acknowledge receipt of it and then turned to her executive officer. “I need you to clear out the shuttle bay,” she told Balla. “All crew out, no crew back in until I say so.”</p>
+   <p>Balla raised her eyebrows at this but did not question the order. “The shuttle is scheduled to return in twenty-five minutes,” she said.</p>
+   <p>“If I’m not done before then, have it hold ten klicks out until I clear it for docking,” Coloma said.</p>
+   <p>“Yes, ma’am,” Balla said.</p>
+   <p>“You have the bridge,” Coloma said, and walked out.</p>
+   <p>Minutes later, Coloma eased herself into the chair in front of the command panel of the shuttle bay’s control room and began the bay’s purge cycle. The air in the bay sucked into compressed storage; the doors of the bay opened silently in the vacuum.</p>
+   <p>An unmanned cargo drone the size of a small personal vehicle slipped into the bay and settled onto the deck. Coloma closed the doors and repressurized the bay, then walked out of the control room toward the cargo drone.</p>
+   <p>The drone required identification to unlock. Coloma pressed her right hand against the lock and waited for it to scan her prints and blood vessel configuration. After a few seconds, it unlocked.</p>
+   <p>The first thing Coloma saw was the package for Lieutenant Harry Wilson, containing a pair of suits and ’bot canisters for his upcoming dive-for which, Coloma noted sourly, he would need her shuttle again. She disapproved of what happened to her shuttles when Wilson was involved.</p>
+   <p>Coloma pushed the thought, and Wilson’s package, aside. She wasn’t really there for them.</p>
+   <p>She was there for the other package, nestled alongside Wilson’s. The one with her name on it.</p>
+   <empty-line/>
+   <empty-line/>
+   <p>“I’m supposed to be assisting you,” Schmidt said to Wilson.</p>
+   <p>“You are assisting me,” Wilson said. “By bringing me beer.”</p>
+   <p>“Which is not going to happen again, by the way,” Schmidt said, handing Wilson the IPA he’d gotten him from the bar. “I’m your assistant, not your beer boy.”</p>
+   <p>“Thank you,” Wilson said, taking the beer. He looked around the place. “The last time I was here, in this mess area, and I think at this very table, I saw my first alien. It was a Gehaar. It was a big day for me.”</p>
+   <p>“You’re not likely to see another Gehaar here,” Schmidt said. “They’re charter members of the Conclave.”</p>
+   <p>“A shame,” Wilson said. “They seemed like nice people. Messy eaters. But nice.” He took a drink from his beer. “This is excellent. You can’t get a good IPA in the Colonial Union. I have no idea why.”</p>
+   <p>“Shall I fetch you some pretzels, O my master?” Schmidt asked.</p>
+   <p>“Not with that attitude,” Wilson said. “Tell me what you found out about the state of the summit instead.”</p>
+   <p>“It’s madness, of course,” Schmidt said. “They barely got through the welcome session before they ended up throwing out the agenda for the entire summit. The fact the Colonial Union is shopping around a lease on this station has disrupted things before they could even begin.”</p>
+   <p>“Which is exactly what the Colonial Union wants,” Wilson said. “Nobody’s talking anymore about reparations to the Earth for keeping them down for so long.”</p>
+   <p>“They’re still talking about it, but nobody really cares,” Schmidt said.</p>
+   <p>“So who are the early contenders?” Wilson asked. He took another sip from his beer.</p>
+   <p>“The United States, which is not entirely surprising,” Schmidt said. “Although to cover their unilateral tracks, they’re talking about roping in Canada, Japan and Australia for a coalition bid. The Europeans are putting their chips together, and so are China and the Siberian States. India is going it alone at the moment. After that it’s a mess. Ambassador Abumwe has had most of Africa and Southeast Asia at her door, trying to schedule time with her in groups of three or four.”</p>
+   <p>“So we’ll have four or five days of this, at which point we’ll suggest that the Earth diplomats should go back to their home countries, formalize their proposals and present them at a new round of negotiations,” Wilson said. “They’ll do a first round of eliminations, which will cause a shifting of alliances and proposals, each progressively more advantageous to the Colonial Union, until at the end of it we get most of the planet doing what we want, which is supplying us with soldiers and the occasional colonist.”</p>
+   <p>“That does seem to be the plan,” Schmidt said.</p>
+   <p>“Well done, Colonial Union,” Wilson said. “I mean that in a realpolitik way, mind you.”</p>
+   <p>“I got that,” Schmidt said. “And what about you?”</p>
+   <p>“Me? I’ve been here,” Wilson said, waving a hand to encompass the bar.</p>
+   <p>“I thought you were supposed to be meeting with the U.S. military guys,” Schmidt said.</p>
+   <p>“Already met with them here,” Wilson said. “Except for the one who’ll be skydiving with me. Apparently he was delayed and will meet up with me later.”</p>
+   <p>“How did it go?” Schmidt said.</p>
+   <p>“It was a bunch of soldiers drinking and telling war stories,” Wilson said. “Boring, but comfortable and easy to navigate. Then they left, I stayed and now I’m listening to everyone who’s come in here talk about the events of the day.”</p>
+   <p>“It’s a little loud for that,” Schmidt said.</p>
+   <p>“Ah, but you don’t have superhuman, genetically-engineered ears, now, do you,” Wilson said. “And a computer in your head that can filter down anything you don’t want to focus on.”</p>
+   <p>Schmidt smiled. “All right, then,” he said. “What are you hearing right now?”</p>
+   <p>“Aside from you complaining about having to fetch me beer,” Wilson said, “there’s a Dutch diplomat and a French diplomat behind me wondering whether the Europeans should let the Russians into their bid for the station, or whether the Russians will let bygones be bygones and join up with the Siberian States and China. Also behind me and to the left, an American diplomat has been hitting on an Indonesian diplomat for the last twenty minutes and appears to be entirely clueless that he’s not going to be getting anything from anyone tonight, because he’s a complete twit. And directly across from me, four soldiers from the Union of South African States have been drinking for an hour and wondering for the last ten minutes how to pick a fight with me and make it look like I started it.”</p>
+   <p>“Wait, what?” Schmidt said.</p>
+   <p>“It’s true,” Wilson said. “To be fair, I <emphasis>am</emphasis> green. I <emphasis>do</emphasis> stand out in a crowd. Apparently these fellows have heard that Colonial Defense Forces soldiers are supposed to be incredibly bad-ass, but they’re looking at me and they don’t see it. No, sir, they don’t see it at <emphasis>all</emphasis>. So they want to pick a fight with me and see how tough I really am. Purely for the sake of inquiry, I’m sure.”</p>
+   <p>“What are you going to do about it?” Schmidt asked, looking over at the soldiers Wilson was speaking of.</p>
+   <p>“I’m going to sit here and drink my beer and keep listening to conversations,” Wilson said. “I’m not worried, Hart.”</p>
+   <p>“There are four of them,” Schmidt said. “And they don’t look like nice people.”</p>
+   <p>“They’re harmless enough,” Wilson said. He swallowed a large portion of his IPA and set the glass down, then appeared to listen to something for a minute. “Oh, okay. They’ve just decided to do it. Here they come.”</p>
+   <p>“Great,” Schmidt said, watching as the four men stood up from their table.</p>
+   <p>“Relax, Hart,” Wilson said. “It’s not you they want to punch out.”</p>
+   <p>“I can still be collateral damage,” Schmidt said.</p>
+   <p>“Don’t worry, I’ll protect you,” Wilson said.</p>
+   <p>“My hero,” Schmidt said, sarcastically.</p>
+   <p>“Hey,” one of the soldiers said, to Wilson. “Are you one of those Colonial Defense Forces soldiers?”</p>
+   <p>“No, I just like the color green,” Wilson said. He finished the rest of his beer and looked regretfully at the empty glass.</p>
+   <p>“It’s a fair question,” the soldier said.</p>
+   <p>“You’re Kruger, right?” Wilson said, setting down the glass.</p>
+   <p>“What?” said the soldier, momentarily confused.</p>
+   <p>“Sure you are,” Wilson said. “I recognize the voice.” He pointed to another one. “That would make you Goosen, I’d guess. You’re probably Mothudi”-he pointed at another, and then at the final one-“and that would make you Pandit. Did I get everyone right?”</p>
+   <p>“How did you know that?” Kruger asked.</p>
+   <p>“I was listening in to your conversation,” Wilson said, standing up. “You know, the one where you were trying to figure out how to make it look like I started swinging at you first, so you could all try to kick the shit out of me.”</p>
+   <p>“We never said that,” said Pandit.</p>
+   <p>“Sure you did,” Wilson said. He turned and gave Schmidt his glass. “Would you get me another?” he asked.</p>
+   <p>“Okay,” Schmidt said, taking the glass but not taking his eyes off the four soldiers.</p>
+   <p>Wilson turned back to the soldiers. “You guys want anything? I’m buying.”</p>
+   <p>“I said, we didn’t say that,” Pandit said.</p>
+   <p>“You did, actually,” Wilson said.</p>
+   <p>“Are you calling me a liar?” Pandit asked, agitated.</p>
+   <p>“It’s pretty clear I am, now, isn’t it?” Wilson said. “So: Drinks?…Anyone?…No?” He turned back to Schmidt. “Just me, then. But, you know, get something for yourself.”</p>
+   <p>“I’ll take my time,” Schmidt said.</p>
+   <p>“Eh,” Wilson said. “This won’t take long.”</p>
+   <p>Pandit grabbed Wilson’s shoulder, and Wilson let himself be spun around. “I don’t appreciate being called a liar in front of my friends,” Pandit said. He took his hand off Wilson’s shoulder.</p>
+   <p>“Then don’t lie in front of your friends,” Wilson said. “It’s pretty simple, actually.”</p>
+   <p>“I think you owe Pandit here an apology,” Kruger said.</p>
+   <p>“For what?” Wilson said. “For accurately representing what he said? I don’t think so.”</p>
+   <p>“Mate, you’re going to find it in your best interest to apologize,” Goosen said.</p>
+   <p>“It’s not going to happen,” Wilson said.</p>
+   <p>“Then I think we’re going to have a problem here,” Goosen said.</p>
+   <p>“You mean, <emphasis>now</emphasis> you’re going to try to beat the crap out of me?” Wilson said. “Shocked, I am. If you had just admitted this up front, we could be done by now.”</p>
+   <p>“We’re not going to <emphasis>try</emphasis> anything,” said Mothudi.</p>
+   <p>“Of course not,” Wilson said. He squeezed the bridge of his nose as if exasperated. “Gentlemen. I want you to notice that there are four of you and one of me. I also want you to notice that I am not the slightest bit concerned that a quartet of clearly experienced military muscleheads such as yourselves are planning to attempt to pummel me into dogmeat. Now, what does that <emphasis>mean</emphasis>? One, it could mean that I’m absolutely delusional. Two, it could mean that you really haven’t the slightest idea what you’re getting into. Which is it? You get to choose.”</p>
+   <p>The four soldiers looked at one another and grinned. “We’re going to go with absolutely delusional,” Kruger said.</p>
+   <p>“Fine,” Wilson said. He walked into the wide public corridor directly in front of the bar. The four soldiers watched him walk away, confused. Wilson turned to look at them. “Well, don’t just stand there like morons,” he said. “Get out here.”</p>
+   <p>The four of them walked out to him, hesitant. Wilson waved them closer. “Come on, guys,” he said. “Don’t act like you didn’t want this. Gather round.”</p>
+   <p>“What are we doing?” Goosen asked, uncertain.</p>
+   <p>“You guys want a crack at me,” Wilson said. “Okay, so, here’s the deal. Spread yourselves out any way you like. Then one of you tries to hit me. If you can hit me without me blocking you, you get to hit me again. But if I block you, then it’s my turn. I have to hit all four of you without any of you blocking me. If any of you block me, it’s your turn again. Got it?”</p>
+   <p>“Why are we doing it this way?” Mothudi asked.</p>
+   <p>“Because this way it looks like we’re having harmless high jinks rather than the four of you attempting to start a war between Earth and the Colonial Union by randomly assaulting a CDF soldier,” Wilson said. “I think that’s wise, don’t you? So, go ahead now, position yourselves.”</p>
+   <p>The four soldiers spread out in a semicircle in front of Wilson.</p>
+   <p>“Anytime,” Wilson said.</p>
+   <p>“Harry Wilson?” said a female voice.</p>
+   <p>Wilson turned to look. Kruger rushed him, arms raised. Wilson blocked Kruger and put him on his back. Kruger exhaled in surprise.</p>
+   <p>“Attacking while I was distracted,” Wilson said. “Nice. Futile, but nice.” He hauled Kruger back up and pushed him back into his old position. Then he returned his attention to the woman who addressed him.</p>
+   <p>“Danielle Lowen,” he said. “What a pleasant surprise.”</p>
+   <p>“All right, I give up,” Lowen said. She was standing with a man wearing a uniform. “What exactly are you doing?”</p>
+   <p>“I’m embarrassing these four knuckledraggers,” Wilson said.</p>
+   <p>“Do you need any help?” the man next to Lowen asked.</p>
+   <p>“No, I’m good,” Wilson said, and Mothudi took a lunge at him. Mothudi was on the deck shortly thereafter. “You went out of turn,” Wilson said, mildly, to him. He got off Mothudi’s neck and let him crawl back into position. Then he looked back to Lowen. “Where are you two off to?” he asked.</p>
+   <p>“Actually, we were looking for you,” Lowen said, and nodded to the man standing with her. “This is Captain David Hirsch, United States Air Force. Also, my cousin.”</p>
+   <p>“You’re the one taking the high dive with me,” Wilson said.</p>
+   <p>“That’s right,” Hirsch said.</p>
+   <p>“Nice to meet you,” Wilson said.</p>
+   <p>“Hey,” Kruger said. “Are we fighting here or what?”</p>
+   <p>“Sorry,” Wilson said to him, and turned back to Hirsch and Lowen. “Excuse me for a minute.”</p>
+   <p>“Take your time,” Hirsch said.</p>
+   <p>“Will take no time at all,” Wilson said. He faced the four soldiers again. “Three rounds,” he said.</p>
+   <p>“What?” said Kruger.</p>
+   <p>“Three rounds,” Wilson repeated. “As in, I hit all of you three times each and we’re done. I’ve got people to see, and you probably need to practice breathing through your mouths or something. So, three rounds. Okay?”</p>
+   <p>“Whatever,” Kruger said.</p>
+   <p>“Good,” Wilson said, and smacked each of them across the face, hard, before they knew what hit them. They stood, holding their cheeks, stunned.</p>
+   <p>“That’s one,” Wilson said. “Here comes round two.”</p>
+   <p>“Wai-,” Kruger began, and the end of the word was lost in multiple smacking sounds.</p>
+   <p>“Okay, that’s two,” Wilson said. “Ready for three?”</p>
+   <p>“Fuck this,” Goosen said, and all four men rushed Wilson simultaneously.</p>
+   <p>“Aaaaand that’s three,” Wilson said, to the four, who were all on the deck, clutching their necks and gasping. “Don’t worry, guys, your tracheas are just bruised. You’ll be fine in a day. Well, two days. Don’t rush it. So, we’re done here?…Guys?”</p>
+   <p>Kruger vomited onto the deck.</p>
+   <p>“I’m going to take that as a ‘yes,’” Wilson said. He reached down and patted the back of Kruger’s head. “Thanks for the workout, kids. It’s been fun. Don’t worry, I’ll see myself out.” He stood back up and walked over to Lowen and Hirsch.</p>
+   <p>“That was impressive,” Hirsch said.</p>
+   <p>“What’s really going to disturb you is that I am the Colonial Defense Forces version of totally out of shape,” Wilson said. “I’ve spent the last several years as a lab nerd.”</p>
+   <p>“It’s true,” Lowen said. “He barely moved at all the last time I saw him.”</p>
+   <p>“I did drink you under the table,” Wilson reminded her.</p>
+   <p>“And ignored the pass I was making at you,” Lowen said.</p>
+   <p>“I’m not that kind of boy,” Wilson said.</p>
+   <p>“I’m not sure I want to be around for this conversation,” Hirsch said.</p>
+   <p>“It’s just banter,” Wilson assured him.</p>
+   <p>“Coward,” Lowen said, smiling.</p>
+   <p>“Speaking of which, my friend Hart is back in the bar, holding a beer for me,” Wilson said. “Care to join us?” He jerked a thumb back at the four soldiers, still prone on the deck. “I tried to buy them beers, but they refused. Now look at them.”</p>
+   <p>“I think we’ll join you,” Hirsch said. “If only out of self-defense.”</p>
+   <p>“Wise,” Wilson said. “Very wise.”</p>
+  </section>
+  <section>
+   <title>
+    <p>IV</p>
+   </title>
+   <p>“You wanted to see me,” Abumwe said to Coloma.</p>
+   <p>“Yes,” Coloma said. “I’m sorry to take you away from your commitments.”</p>
+   <p>“You didn’t,” Abumwe said. “I had scheduled an hour to eat and relax. This is it. And after forty minutes of a delegate from Kenya explaining to me how that country should be <emphasis>given</emphasis> Earth Station, on account of the space elevator having its base in Nairobi, anything you have to say to me will be a stream of clear rationality by comparison.”</p>
+   <p>“I’ve been drafted,” Coloma said.</p>
+   <p>“I withdraw my previous assertion,” Abumwe said. “What do you mean, drafted?”</p>
+   <p>Coloma showed Abumwe her PDA, open to the order from the CDF. “The Colonial Defense Forces, with permission from the Department of State, has at least temporarily classified the <emphasis>Clarke</emphasis> as a CDF ship, and has at least temporarily drafted me into the service. Same rank, and I share a joint designation as captain with the Colonial Union’s civilian service, so none of my crew has to be drafted to follow my orders. I’ve also been ordered to keep this drafting, and the new designation for the <emphasis>Clarke,</emphasis> in strict secrecy.”</p>
+   <p>“You’re telling me,” Abumwe observed.</p>
+   <p>“No, I’m not,” Coloma said.</p>
+   <p>“Understood,” Abumwe said.</p>
+   <p>“Whatever this is involves you and your people,” Coloma said. “Orders or not, you need to know.”</p>
+   <p>“Why do you think the CDF has done this?” Abumwe asked.</p>
+   <p>“Because I think they expect something,” Coloma said. “We sacrificed the <emphasis>Clarke</emphasis> at Danavar-the former <emphasis>Clarke</emphasis>-when someone set a trap for the Utche. We don’t know who. <emphasis>This</emphasis> ship was used by the CDF to try to ferret out a spy in their own ranks, unsuccessfully. When the Earth delegation came onto the ship, one of their own murdered another of their own, and tried to frame us for it, for reasons that have never been made clear to us. And then there was the <emphasis>Urse Damay,</emphasis> which fired on us when we were meeting with the Conclave, and controlled by forces unknown.”</p>
+   <p>“We’re not to blame for any of those,” Abumwe said. “Those weren’t about us in particular.”</p>
+   <p>“No, of course not,” Coloma agreed. “We’ve been in the wrong place at the wrong time. But in each case some outside, unknown group has been manipulating events for their own purpose. The same group? Separate groups? If separate, working together or apart? And to what end? And now we’re here, meeting with representatives from Earth. We know there’s still a spy within the CDF. We know that on Earth, someone is also pulling strings.”</p>
+   <p>“And if either is going to make a statement or an action, this would be the time and the place,” Abumwe concluded.</p>
+   <p>Coloma nodded. “Even more so because the Colonial Defense Forces have no ships at Earth Station and no personnel, other than Lieutenant Wilson.”</p>
+   <p>“And now you,” Abumwe said.</p>
+   <p>“Right,” Coloma said. “My primary orders are to pay close attention to any incoming ships. They’ve given me a schedule of every ship, from the Colonial Union or elsewhere, that is expected at Earth Station in the next ninety-six hours. They’ve also given me access to Earth Station’s flight control systems, so I can track ship communications. If anything looks suspicious, I’m to alert Earth Station and ping a drone they’ve placed at skip distance, which will immediately skip back to Phoenix Station.”</p>
+   <p>“There’s the possibility that the threat might come from Earth, not outside of it,” Abumwe said. “The beanstalk to Earth Station has been bombed before. There are riots happening on Earth right now because of this summit and the CDF. Any of that could be cover for an event.”</p>
+   <p>“It’s possible, but I don’t think that’s the CDF’s main concern. I think whoever it is that’s modeling this over there thinks an attack from a ship is the likely play,” Coloma said.</p>
+   <p>“What makes you sure?” Abumwe asked.</p>
+   <p>“Because the CDF gave me something else besides orders,” Coloma said.</p>
+   <empty-line/>
+   <empty-line/>
+   <p>“So what the hell is the Colonial Union really up to?” Lowen asked Wilson. They, Schmidt and Hirsch were on their third round together at the bar.</p>
+   <p>Wilson smiled and leaned back in his chair. “This is the place where I’m supposed to feign surprise and exclaim that the Colonial Union is acting only from the best and purest motives, right?”</p>
+   <p>“Smart-ass,” Lowen said.</p>
+   <p>Wilson raised his glass to her. “You know me so well,” he said.</p>
+   <p>“It’s a serious question, though,” Lowen said.</p>
+   <p>“I know,” Wilson said. “And my serious answer is that you know as much about it as I do.” He motioned to Schmidt. “As either of us does.”</p>
+   <p>“We got our new directives about an hour before we set foot on Earth Station,” Schmidt said. “We were taken as much by surprise on this as you folks were.”</p>
+   <p>“Why would you do it that way?” Hirsch asked. “I’m not a diplomat, so I might be missing out on some deep-level chess moves, but it seems like you guys are flying by the seat of your pants, here.”</p>
+   <p>“That’s what it’s <emphasis>supposed</emphasis> to look like,” Lowen said. “Spring the idea of leasing the station here on the delegations from Earth to disrupt their plans to act in concert addressing legitimate grievances they have with the Colonial Union. Spring it on the actual diplomats from the Colonial Union so they don’t have any real authority to do anything other than listen to the Earth delegations grovel for a shot at the station lease. Change the conversation and change the direction of how Earth sees the Colonial Union. No, David, it’s supposed to look like confusion. But I’d bet you long odds that the Colonial Union’s been planning this little strategy for a long time. And for right now it’s working exactly how they wanted it to.” She drank from her beer.</p>
+   <p>“Sorry,” Wilson said.</p>
+   <p>“I don’t blame <emphasis>you,</emphasis>” Lowen said. “You’re just a tool like all the rest of us are. Although you seem to be having more fun than most at this point.”</p>
+   <p>“He’s been drinking beer and beating up people,” Schmidt said. “What’s not to like?”</p>
+   <p>“This from a man who hid at the bar while I was taking on four guys at once,” Wilson said.</p>
+   <p>“You told me to go,” Schmidt said. “I was just following orders.”</p>
+   <p>“And anyway, Captain Hirsch here and I will be doing some very important business tomorrow,” Wilson said.</p>
+   <p>“That’s right,” Hirsch agreed. “Come fourteen hundred hours, Lieutenant Wilson and I will jump out of a perfectly good space station.”</p>
+   <p>“It’s the first step that gets you,” Wilson said.</p>
+   <p>“I’m not worried about the stepping,” Hirsch said. “I’m mildly concerned about the landing.”</p>
+   <p>“Well, leave that to me,” Wilson said.</p>
+   <p>“I have to leave it to you,” Hirsch pointed out. “You’re the one with the computer in your head.”</p>
+   <p>“What does that mean?” Lowen said.</p>
+   <p>“The suits we’ll be inside of are controlled by a BrainPal,” Wilson said, tapping his temple. “Unfortunately your cousin lacks one, and doesn’t seem likely to get one between now and the jump. So I’ll be controlling the deployment of both suits.”</p>
+   <p>Lowen looked at her cousin and then back at Wilson. “Is that safe?” she asked.</p>
+   <p>“We’re dropping to the Earth from the darkness of space,” Wilson said. “What about this is safe?”</p>
+   <p>Hirsch cleared his throat, loudly and obviously.</p>
+   <p>“What I meant to say is, of course it’s safe,” Wilson said. “Couldn’t be safer. Safer than going to the bathroom. Lots of people die pooping, you know. Happens every day.”</p>
+   <p>Lowen narrowed her eyes at Wilson. “I’m not supposed to say this, but David is my favorite cousin,” she said.</p>
+   <p>“I’m telling Rachel,” Hirsch said.</p>
+   <p>“Your sister owes me money,” Lowen said. “Now shut up. I’m threatening Harry, here.” Hirsch grinned and shut up. “As I was saying, David’s my favorite cousin. If something happens to him, I’m going to have to come for you, Harry. And I won’t be as easy on you as those four soldiers were. I will, and this is a promise, kick your ass.”</p>
+   <p>“Have you ever kicked anyone’s ass?” Hirsch asked. “Ever? You were always kind of a girly-girl.”</p>
+   <p>Lowen slugged Hirsch in the arm. “I’ve been saving my kick-assery up for a special occasion,” she said. “This could be it. You should feel honored.”</p>
+   <p>“Oh, I do feel honored,” Hirsch said.</p>
+   <p>“If you’re so honored, you can get the next round,” Lowen said.</p>
+   <p>“I’m not sure I’m <emphasis>that</emphasis> honored,” Hirsch said.</p>
+   <p>Lowen looked shocked. “I threaten a Colonial Defense Forces soldier for you, and you won’t even get me a beer? That’s it, you no longer have official favorite cousin status. Rachel is back on top.”</p>
+   <p>“I thought she owed you money,” Hirsch said.</p>
+   <p>“Yes, but <emphasis>you</emphasis> owe me a beer,” Lowen said.</p>
+   <p>“Family,” Hirsch said, to Wilson and Schmidt, and then got up. “Anything for you two?”</p>
+   <p>“I’ll get Harry’s,” Schmidt said, getting up. “Come on, David. Walk you to the bar.” The two of them made their way through the crowd toward the beer taps.</p>
+   <p>“He seems like a good guy,” Wilson said, to Lowen.</p>
+   <p>“He is,” Lowen said. “And I’m serious, Harry. Don’t let anything happen to him.”</p>
+   <p>Wilson held up his hand, as if pledging. “I swear I will not let anything happen to your cousin. Or at the very least, if anything happens to him, it will happen to me, too,” he said.</p>
+   <p>“That last part doesn’t inspire me with confidence,” Lowen said.</p>
+   <p>“It will be fine, I promise,” Wilson said. “The last time I did this, people were shooting at me on my way down. I missed having a leg blown off by millimeters. This will be a cakewalk compared to that.”</p>
+   <p>“I still don’t like it,” Lowen said.</p>
+   <p>“I sympathize entirely,” Wilson said. “This wasn’t exactly my idea, you know. But, look. David and I will have to get together tomorrow before the jump anyway in order to go over dive protocols and to walk him through what we’ll be doing. In your ample spare time, why don’t you tag along with him? I’ll give the impression I know what I’m talking about, I swear.”</p>
+   <p>Lowen pulled out her PDA and scrolled through her schedule. “Can you do it at eleven?” she asked. “I have a fifteen-minute hole in my schedule then. I was going to use it to pee, but I can do this instead.”</p>
+   <p>“I’m not responsible for your bladder,” Wilson said.</p>
+   <p>“I’ll keep that in mind,” Lowen said. She put her PDA away. “At least I have time to pee. There are some people I know who have so many meetings now that they’re positively at risk for peritonitis.”</p>
+   <p>“Busy schedules,” Wilson said.</p>
+   <p>“Yes, well,” Lowen said. “This is what happens when one party drops a bomb onto everyone’s schedule and turns what was going to be an orderly summit into a goddamned mess, Harry.”</p>
+   <p>“Sorry,” Wilson said again.</p>
+   <p>“This goes back to that arrogance thing,” Lowen said. “You remember. You and I talked about this before. The Colonial Union’s biggest problem is its arrogance. This is a perfect example. Rather than sit down with the nations of the Earth to discuss the ramifications of keeping us bottled up for centuries, it’s attempting a sleight-of-hand maneuver, distracting us with this station lease.”</p>
+   <p>“I remember also saying to you that if you wanted someone to defend the Colonial Union’s practices, you came to the wrong shop,” Wilson said. “Although I’ll note, strictly as a matter of observation, that the Colonial Union’s plan seems to be working perfectly.”</p>
+   <p>“It’s working <emphasis>now,</emphasis>” Lowen said. “I’m willing to concede it’s a reasonable short-term solution. But as a long-term solution it has problems.”</p>
+   <p>“Such as,” Wilson said.</p>
+   <p>“Such as what is the Colonial Union going to do when the United States, China and Europe all say that as a matter of restitution, the Colonial Union should <emphasis>give</emphasis> us Earth Station?” Lowen said. “Forget all this leasing crap. The cost of one space station is a substantial discount on the profits accrued from two centuries of essentially free labor and security for the Colonial Union. You’d be getting off cheap.”</p>
+   <p>“I’m not sure the Colonial Union will agree with that theory,” Wilson said.</p>
+   <p>“We don’t need you to agree,” Lowen said. “All we really have to do is wait. The Colonial Union is unsustainable without new colonists and soldiers. I’m sure your economists and military planners have figured this one out already. You need us more than we need you.”</p>
+   <p>“I would imagine the natural response to this would be that you wouldn’t like what happens to Earth if the Colonial Union fails,” Wilson said.</p>
+   <p>“If it was just the Earth, you’d be right,” Lowen said. “But there’s option B.”</p>
+   <p>“You mean joining the Conclave,” Wilson said.</p>
+   <p>“Yep,” Lowen said.</p>
+   <p>“The Earth would have to get itself a lot more organized than it is at the moment,” Wilson said. “The Conclave doesn’t like having to deal with fractions of a planet.”</p>
+   <p>“I think we could be sufficiently motivated,” Lowen said. “If the alternatives were either a forced alliance with former oppressors, or being collateral damage when that former oppressor falls.”</p>
+   <p>“But then humanity is divided,” Wilson said. “That’s not going to be good.”</p>
+   <p>“For whom?” Lowen countered. “For humanity? Or for the Colonial Union? They’re not the same thing, you know. If there is a human division, in the end, who will be to blame for it? Not <emphasis>us,</emphasis> Harry. Not Earth.”</p>
+   <p>“You don’t have to sell me, Dani,” Wilson said. “So, how is this line of argument going with the U.S. delegation?” Wilson asked.</p>
+   <p>Lowen frowned.</p>
+   <p>“Ah,” Wilson said.</p>
+   <p>“You would think nepotism would help me out here,” Lowen said. “Being the daughter of the U.S. secretary of state should have a perk or two, especially when I’m right. But there’s the minor problem that Dad is under orders to tell us here to try to hammer out a deal before the end of the summit. He says my points will make a fine ‘backup plan’ if we don’t end up getting the lease outright.”</p>
+   <p>“Does he mean it?” Wilson asked.</p>
+   <p>Lowen frowned again.</p>
+   <p>“Ah,” Wilson said once more.</p>
+   <p>“Oh, good, our drinks are here,” Lowen said, motioning to Hirsch and Schmidt, who were navigating back, beers in hand. “Just in time to drown my sorrows.”</p>
+   <p>“Did we miss anything?” Hirsch asked, handing his cousin a beer.</p>
+   <p>“I was just talking about how hard it is to be right all the time,” Lowen said.</p>
+   <p>“You were talking to the right guy about that,” Schmidt said, sitting down. “Harry has the same problem. Just ask him.”</p>
+   <p>“Well, then,” Lowen said, and raised her glass. “I propose a toast. Here’s to being right all the time. May God and history forgive us.”</p>
+   <p>They all clinked glasses to that.</p>
+  </section>
+  <section>
+   <title>
+    <p>Part Two</p>
+    <empty-line/>
+    <p>V</p>
+   </title>
+   <p>“Captain Coloma,” Ensign Lemuel said, “another ship skipped in.”</p>
+   <p>Coloma muttered her thanks to Lemuel and checked her PDA. She had made it a standing order to her bridge crew to alert her when ships arrived or departed Earth Station, without giving them further explanation. The crew didn’t question the order; it was trivially easy to track the other ships. The order had been in effect for most of a day now. It was late morning on the second day of the summit.</p>
+   <p>Coloma’s display registered the new ship, a small freighter. It was one of eleven ships floating outside of Earth Station, the other ten arrayed in parking zones. There were four Colonial Union diplomatic ships; including the <emphasis>Clarke,</emphasis> there was the <emphasis>Aberforth,</emphasis> the <emphasis>Zhou</emphasis> and the <emphasis>Schulz</emphasis>, each carrying its complement of diplomats negotiating with the delegations from Earth, who came to the station by way of the beanstalk. Three ships, the <emphasis>Robin Meisner,</emphasis> the <emphasis>Leaping Dolphin</emphasis> and the <emphasis>Rus Argo,</emphasis> were cargo freighters from the Colonial Union, which had some limited trade with the Earth. The two remaining ships were Budek cargo haulers; the Budek were negotiating to join the Conclave but in the meantime were fans of citrus fruits.</p>
+   <p>In her earpiece, Coloma could hear Earth Station’s flight controller ask the new ship to identify itself: the first red flag. Colonial Union cargo ships had encrypted transponders that the station would ping as soon as the ship skipped into its space. The fact that control was asking for identification meant it either had no transponder or had disabled it. It also meant the ship was an unscheduled arrival. If it had been scheduled but was without a transponder, control would have hailed it under the expected name.</p>
+   <p>Coloma had the <emphasis>Clarke</emphasis> scan the new ship and ran the data against a specific database of ships given to her by the CDF. It took less than a second for a match to pop up. The ship was the <emphasis>Erie Morningstar,</emphasis> a civilian transport and cargo ship that had gone missing months earlier. The <emphasis>Erie Morningstar</emphasis> had started its life as a CDF cruiser more than seventy years prior; for civilian use, it was gutted and reconfigured for cargo-carrying purposes.</p>
+   <p>It didn’t mean it could not be reconfigured back into combat.</p>
+   <p>Earth Station was now hailing the <emphasis>Erie Morningstar</emphasis> for the third time, to no response, which satisfied Coloma that the ship was now officially in the “suspicious” territory.</p>
+   <p>“Captain, new ship skipped in,” Lemuel said.</p>
+   <p>“Another one?” Coloma asked.</p>
+   <p>“Yes, ma’am,” Lemuel said. “Uh, and another…two…ma’am, I have a bunch skipping in pretty much simultaneously.”</p>
+   <p>Coloma looked down at her display. There were eight new contacts there. As she watched, two new contacts lit up, and then another two.</p>
+   <p>In her earpiece, Coloma could hear Earth Station control cursing. There was an edge of panic to the voice.</p>
+   <p>Now there were fifteen new contacts to go with the <emphasis>Erie Morningstar</emphasis>.</p>
+   <p>Coloma’s database from the CDF had sixteen ships on it.</p>
+   <p>She didn’t bother running the other fifteen.</p>
+   <p>“Where’s our shuttle?” Coloma asked.</p>
+   <p>“It just docked at Earth Station and is prepping to return,” Lemuel said.</p>
+   <p>“Tell it to hold and prepare to bring back our people,” Coloma said.</p>
+   <p>“How many of them?” Lemuel asked.</p>
+   <p>“All of them,” Coloma said, ordered the <emphasis>Clarke</emphasis> on emergency alert and sent an urgent message to Ambassador Abumwe.</p>
+   <empty-line/>
+   <empty-line/>
+   <p>Ambassador Abumwe was listening to the Tunisian representative discuss her country’s plans for Earth Station when her PDA vibrated in three short bursts followed by one long one. Abumwe picked up the PDA and swiped it open to read the message there from Captain Coloma.</p>
+   <p><emphasis>Big trouble,</emphasis> it said. <emphasis>Sixteen ships. Get your people out now. Shuttle at gate seven. It leaves in ten minutes. Anyone still there after that stays there</emphasis>.</p>
+   <p>“Go back to the beanstalk,” Abumwe said, looking at the Tunisian representative.</p>
+   <p>“Excuse me?” the Tunisian representative said.</p>
+   <p>“I said, go back to the beanstalk,” Abumwe repeated, and then stood up. “Get on the first elevator down. Don’t stop. Don’t wait.”</p>
+   <p>“What’s happening?” the Tunisian representative asked, but Abumwe was already out the door, sending a global message to her team.</p>
+  </section>
+  <section>
+   <title>
+    <p>VI</p>
+   </title>
+   <p>“You look like you’re in a unitard,” Danielle Lowen said to Harry Wilson, pointing to his combat suit as he and Hart Schmidt came up to her and David Hirsch. The four of them were meeting in an otherwise unoccupied cargo hold of Earth Station.</p>
+   <p>“The curious reason for that is because I am in a unitard,” Wilson said. He stopped in front of her and dropped the large canvas bag he was carrying. “That’s what our combat suit is. This one is actually a heavy-duty combat suit, designed for vacuum work.”</p>
+   <p>“Do you engage in dance battles?” Lowen asked. “Because if you did, I think that would be stupendous.”</p>
+   <p>“Sadly, no,” Wilson said. “And we’re all the lesser for it.”</p>
+   <p>“So I’m going to have to put one of those on,” Hirsch said, pointing to the combat suit.</p>
+   <p>“Only if you want to live,” Wilson said. “It’s optional otherwise.”</p>
+   <p>“I think I’ll choose life,” Hirsch said.</p>
+   <p>“Probably the right choice,” Wilson said. He reached into the bag he was carrying and handed Hirsch the unitard within it. “This is yours.”</p>
+   <p>“It’s a little small,” Hirsch said, taking the article and looking at it doubtfully.</p>
+   <p>“It will expand to fit,” Wilson said. “That will fit you, or Hart, or Dani. One size really does fit all. It also features a cowl, which when I activate it will cover your face entirely. Try not to freak out when that happens.”</p>
+   <p>“Got it,” Hirsch said.</p>
+   <p>“Good,” Wilson said. “You want to put it on now?”</p>
+   <p>“I think I’ll wait,” Hirsch said, and handed it back.</p>
+   <p>“Chicken,” Wilson said, taking and storing it back in the bag and pulling out another object.</p>
+   <p>“That looks like a parachute,” Hirsch said.</p>
+   <p>“Functionally, you are correct,” Wilson said. “Literally, not. This is your store of nanobots. When you hit the atmosphere, they release and form a heat shield around you to keep you from burning up. Once you make it into the troposphere, then they form into a parachute and you’ll glide down. We’ll be landing at a football field outside of Nairobi. I understand some of your friends will have a helicopter standing by to take me back to the beanstalk.”</p>
+   <p>“Yes,” Hirsch said. “Sorry it won’t be a longer stay.”</p>
+   <p>“It’ll still be good to hit the home soil,” Wilson said. He set down the ’bot pack and reached in for one more object. “Supplementary oxygen,” he said. “Because it’s a long way down.”</p>
+   <p>“Thank you for thinking of that,” Hirsch said.</p>
+   <p>“You’re welcome,” Wilson said.</p>
+   <p>“It doesn’t seem like a lot of oxygen,” Lowen said, looking at it.</p>
+   <p>“It’s not,” Wilson said. “When the combat suit is covering his face, it will sequester the carbon dioxide and recirculate the oxygen. He won’t need as much.”</p>
+   <p>“It’s a handy suit,” Lowen said. “Shame it looks so silly.”</p>
+   <p>“She’s right, you know,” Schmidt said.</p>
+   <p>“Don’t you start, Hart,” Wilson said, and then both his BrainPal and Schmidt’s PDA went off in alarm. Wilson accessed his message, from Ambassador Abumwe.</p>
+   <p><emphasis>Sixteen unidentified ships have appeared around Earth Station,</emphasis> it said. <emphasis>Stop what you’re doing and head to gate seven. The shuttle leaves in ten minutes. Do not wait. Do not start a panic. Just go. Now.</emphasis></p>
+   <p>Wilson looked over to Schmidt, who had just finished his message. Schmidt looked back, alarmed. Wilson quickly put everything back into his canvas bag.</p>
+   <p>Lowen caught their expressions. “What is it?” she said.</p>
+   <p>“There might be trouble,” Wilson said, hefting the bag.</p>
+   <p>“What kind of trouble?” Hirsch said.</p>
+   <p>“Sixteen mysterious ships suddenly appearing outside the window kind of trouble,” Wilson said.</p>
+   <p>Lowen’s and Hirsch’s PDAs sounded. They both reached for them. “Read them while walking,” Wilson suggested. “Come on.” The four of them made their way out of the cargo hold and headed to the main corridor of the station.</p>
+   <p>“I’m being told to head to the beanstalk elevators,” Lowen said.</p>
+   <p>“So am I,” Hirsch said. “We’re evacuating the station.”</p>
+   <p>The four of them walked through a maintenance door into the main corridor, and into chaos. Word had spread, and quickly. A stream of Earth citizens, with looks ranging from concern to panic, were beginning to push their way toward the beanstalk elevator entry areas.</p>
+   <p>“That doesn’t look good,” Wilson said, and started walking purposefully against the general rush. “Come on. We’re going to our shuttle at gate seven. Come with us. We’ll get you on our shuttle.”</p>
+   <p>“I can’t,” Hirsch said, stopping. The others stopped with him. “My team has been ordered to assist the evacuation. I have to go to the beanstalk.”</p>
+   <p>“I’ll go with you,” Lowen said.</p>
+   <p>“No,” Hirsch said. “Harry’s right, it’s a mess, and it’s going to get messier. Go with him and Hart.” He went in to give his cousin a hug and a quick peck on the cheek. “See you soon, Dani.” He looked over to Wilson. “Get her out of here,” he said.</p>
+   <p>“We will,” Wilson said. Hirsch nodded and headed down the corridor, toward the beanstalk elevators.</p>
+   <p>“Gate seven is still a quarter of the way around the station,” Schmidt said. “We need to start running.”</p>
+   <p>“Let’s run,” Wilson agreed. Schmidt took off, weaving through holes in the crowd. Wilson followed, keeping pace with, and making a path for, Lowen.</p>
+   <p>“Will you have room for me?” Lowen asked.</p>
+   <p>“We’ll make room,” Wilson said.</p>
+   <empty-line/>
+   <empty-line/>
+   <p>“They’re not doing anything,” Balla said to Coloma, staring at the sixteen ships. “Why aren’t they doing anything?”</p>
+   <p>“They’re waiting,” Coloma said.</p>
+   <p>“Waiting for what?” Balla asked.</p>
+   <p>“I don’t know yet,” Coloma said.</p>
+   <p>“You knew about this, didn’t you,” Balla said. “You’ve been having us count off ships as they came in. You were looking for this.”</p>
+   <p>Coloma shook her head. “The CDF told me to be looking for <emphasis>a</emphasis> ship,” she said. “Their intelligence suggested a single ship might attack or disrupt the summit, like a single ship tried to disrupt our meeting with the Conclave. A single ship would be all that would be needed, so a single ship is what they prepared me for. This”-Coloma waved at the display, with sixteen ships hovering silently-“is not what I was expecting.”</p>
+   <p>“You sent a skip drone,” Balla said. “That will bring the cavalry.”</p>
+   <p>“I sent the data to the drone,” Coloma said. “The drone is at skip distance. It will take two hours for the data to get to the drone, and it will take them at least that long to decide to send any ships. Whatever is going to happen here is going to be done by then. We’re on our own.”</p>
+   <p>“What are we going to do?” Balla said.</p>
+   <p>“We’re going to wait,” Coloma said. “Get me a report from our shuttle.”</p>
+   <p>“It’s filling up,” Balla said, after a minute. “We’re missing two or three people. We’re coming close to our deadline. What do you want to do?”</p>
+   <p>“Keep the shuttle there as long as you can,” Coloma said.</p>
+   <p>“Yes, ma’am,” Balla said.</p>
+   <p>“Let Abumwe know we’re holding on for her stragglers, but that we’ll have to seal up if things get hot,” Coloma said.</p>
+   <p>“Yes, Captain,” Balla said, and then pointed at a display that was focused on the station itself. From the bottom of the station there was movement. A car on the elevator was making its way down the beanstalk. “It looks like they’re evacuating people through the elevator.”</p>
+   <p>Coloma watched the elevator car descend silently for a moment and then felt a thought enter her head with such blinding assurance that it felt like a physical blow. “Tell the shuttle pilot to seal up and go now,” she said.</p>
+   <p>“Ma’am?” Balla said.</p>
+   <p>“Now, Neva!” Coloma said. “Now! Now!”</p>
+   <p>“Captain, missile launch!” said weapons desk officer Lao. “Six missiles, headed for the station.”</p>
+   <p>“Not to the station,” Coloma said. “Not yet.”</p>
+   <empty-line/>
+   <empty-line/>
+   <p>“Stuff them in,” David Hirsch said, to Sergeant Belinda Thompson. “Pack them in like it’s a Tokyo subway.”</p>
+   <p>The two of them had been assigned to keep order at the elevator cars, which were “cars” in only the strictest sense. Each of the cars was more like a large conference room in size, torus shaped around its cable. The car could comfortably fit a hundred or so; Hirsch planned on jamming in twice that number. He and Thompson shoved people in, none too gently, and yelled at them to go all the way to the back of the car.</p>
+   <p>A thrumming vibration in Hirsch’s soles told him that one of the other elevator cars was finally under way, sliding down the cable toward Nairobi and to safety. <emphasis>Two hundred fewer people to worry about,</emphasis> he thought, and smiled. This was not the day he’d been planning to have.</p>
+   <p>“What are you smiling about?” Thompson wanted to know, shoving another diplomat into the car.</p>
+   <p>“Life is full of little surpris-,” Hirsch said, and then was sucked out into space as six missiles targeting the departed elevator car smashed into the car, destroying it, and into the beanstalk cable, wrenching it askew and sending a wave up the cable into the car-boarding area. The wave tore open the deck, sending Hirsch and several others tumbling into vacuum and tearing open the deck, crushing the car Hirsch and Thompson had been filling into the hull of the boarding area. The air sucked out of the gash, launching several unfortunates into the space below the station.</p>
+   <p>The station’s automatic overrides took control, sealing off the elevator-boarding area, dooming everyone in it-three or four hundred of Earth’s diplomatic corps-to death by asphyxiation.</p>
+   <p>Elsewhere in Earth Station, airtight bulkheads deployed, sealing off sections of the station, and the people in them, in the hope of stanching the loss of atmosphere to only a few areas and protecting the rest still inside from the hard vacuum of the outside cosmos.</p>
+   <p>For how long was the question.</p>
+  </section>
+  <section>
+   <title>
+    <p>VII</p>
+   </title>
+   <p>Wilson felt rather than saw the emergency bulkhead springing up in front of him and saw Hart Schmidt on the other side of it. Wilson grabbed Lowen and tried to push his way through the now thoroughly panicked crowd, but the mob pushed him and Lowen back and into their flow. Wilson had just enough time to see the shock on Schmidt’s face as the bottom and top bulkheads slammed shut, separating the two of them. Wilson yelled at Schmidt to get to the shuttle. Schmidt didn’t hear it over the din.</p>
+   <p>Around Wilson, the screams of the people near him reached a crescendo as they realized the bulkheads had sealed them off. They were trapped in this section of Earth Station.</p>
+   <p>Wilson looked at Lowen, who had gone ashen. She realized the same thing everyone else had.</p>
+   <p>He looked around and realized that they were at shuttle gate five.</p>
+   <p><emphasis>No shuttle here,</emphasis> Wilson thought. Then he thought of something else.</p>
+   <p>“Come on,” he said to Lowen, grabbing her hand again. He went perpendicular to the crowd, toward the shuttle gate. Lowen followed bonelessly. Wilson checked the doorway at the shuttle gate and found it unlocked. He pulled it open, pushed Lowen through it and closed it, he hoped, before any of the mob could see him.</p>
+   <p>The shuttle area was cold and empty. Wilson set down the bag he was carrying and began to dig through it. “Dani,” he said, and then looked up after he got no response. “Dani!” he said, more forcefully. She glanced over to him, a lost look in her eyes. “I need you to take off your clothes,” he said.</p>
+   <p>This snapped her out of her shock. “Excuse me?” she said.</p>
+   <p>Wilson smiled; his inappropriate remark had gotten the response he’d hoped for. “I need you to take off your clothes because I need you to get into this,” he said, holding up the CDF combat unitard.</p>
+   <p>“Why?” Lowen said, and a second later her eyes widened. “No,” she began.</p>
+   <p><emphasis>“Yes,”</emphasis> Wilson said, forcefully. “The station is under attack, Dani. We’re sealed off. Whoever’s doing this has the ability to peel the skin off this station like an orange. We missed our ride. If we’re getting off this thing, there’s only one way to do it. We’re jumping off.”</p>
+   <p>“I don’t know how,” Lowen said.</p>
+   <p>“You don’t have to know how, because I do,” Wilson said, and held up the unitard. “All you have to do is get into this. And hurry, because I don’t think we have a whole lot of time.”</p>
+   <p>Lowen nodded, took the unitard and started unbuttoning her blouse. Wilson turned away.</p>
+   <p>“Harry,” Lowen said.</p>
+   <p>Wilson turned his head back slightly. “Yeah?”</p>
+   <p>“For the record, this was not really how I planned to get undressed with you,” Lowen said.</p>
+   <p>“Really,” Wilson said. “Because this was how I planned it all along.”</p>
+   <p>Lowen laughed a shaky, exhausted laugh. Wilson turned away, to let Lowen retain her modesty and so she couldn’t see the expression on his face as he tried to ping Hart Schmidt.</p>
+   <empty-line/>
+   <empty-line/>
+   <p>Earth Station gave a shudder, sirens went off and that was enough for Jastine Goeth, the <emphasis>Clarke</emphasis>’s shuttle pilot. “Buttoning up now,” she said, and sealed the door to the shuttle.</p>
+   <p>“I have two people left,” Abumwe said. “We wait for them.”</p>
+   <p>“We’re leaving,” Goeth said.</p>
+   <p>“I don’t think you heard me,” Abumwe said, using her coldest <emphasis>Don’t fuck with me</emphasis> voice.</p>
+   <p>“I heard you,” Goeth said, as she worked her departure sequence. “You want to wait? I’ll unseal the door for you for five seconds so you can get out. But I am <emphasis>going,</emphasis> Ambassador. This place is blowing up around us. I don’t plan to be here when it breaks apart. Now leave or shut up. You can string me up later, but right now this is my ship. Sit down and let me work.”</p>
+   <p>Abumwe stared at Goeth for several seconds in cold fury, which Goeth ignored. Then she turned, glared one of her staff out of a seat and sat.</p>
+   <p>Goeth pushed the “Emergency Purge” option on her control panel, which overrode the station’s standard purge cycle. There was a bang as the shuttle bay’s outside portal irised open with the bay’s atmosphere still inside, sucking out through the dilating door. Goeth didn’t wait for it to open all the way. She jammed the shuttle through, damaging the door as she went. She did not believe at this point that it would matter.</p>
+   <empty-line/>
+   <empty-line/>
+   <p>Schmidt saw the bulkheads go up, saw Harry yell something at him he couldn’t hear and then took off running again toward gate seven, which he could see at the far end of the section. Schmidt knew at this point that his time had likely expired, but he still had to get there to see for himself.</p>
+   <p>Which was how Schmidt saw the shuttle leave, through the wide window of the seating area just as he came up to the gate.</p>
+   <p>“So close,” Schmidt whispered, and could barely register the words over the screams of those trapped in the section with him. They were all going to die in here together.</p>
+   <p>He wished they wouldn’t be so loud about it.</p>
+   <p>Schmidt looked at the seating area, shrugged to himself and collapsed onto one of the benches, staring up at the ceiling of the gate area. He’d missed his ride by a matter of seconds. It was sort of appropriate, he supposed. At the end of the day, he was always a half a step behind.</p>
+   <p>Somewhere in the section, he could hear someone sobbing, loudly, terrified of the moment. Schmidt registered it but didn’t feel the emotion himself. If this was the end, it wasn’t the worst end he could imagine. He wasn’t scared about it. He just wished it weren’t so soon.</p>
+   <p>Schmidt’s PDA went off; the tone told him it was Wilson. <emphasis>The lucky bastard,</emphasis> Schmidt thought. He had no doubt that even now Harry was figuring out some way out of this. Schmidt loved his friend Harry, admired him and even looked up to him in his way. But right now, at what looked like the end of his days, he found the last thing he actually wanted to do was talk to him.</p>
+   <empty-line/>
+   <empty-line/>
+   <p>“Two new missiles launched,” Lao said. “They’re heading for our shuttle.”</p>
+   <p>“Of course they are,” Coloma said. Whoever was doing this wanted to make some sort of point about people leaving Earth Station.</p>
+   <p>Fortunately, Coloma didn’t have to stand for it.</p>
+   <p>She went to her personal display, marked the missiles heading toward the shuttle and marked the ship that had fired them. She pulled up a command panel on her display and pressed a button.</p>
+   <p>The missiles vaporized and the ship that launched them blossomed into flame.</p>
+   <p>“What was that?” Balla said.</p>
+   <p>“Neva, tell the shuttle pilot to go to Earth,” Coloma said. “These ships are firing Melierax missiles. They’re not rated for atmosphere. They’ll burn up. Get that shuttle as deep into the atmosphere as it can go, as fast as it can go.”</p>
+   <p>Balla passed on the order and then looked back at her captain.</p>
+   <p>“I told you the CDF was expecting one ship. So they gave me one of their new toys: a drone that fires a beam of antimatter particles. It’s been floating alongside the <emphasis>Clarke</emphasis> since yesterday. I think they wanted it to have a field test.”</p>
+   <p>“I think it works,” Balla said.</p>
+   <p>“The problem is that it has about six shots to it,” Coloma said. “I put a beam to each of the missiles and three beams into that ship. I’ve got another shot left, if I’m lucky. If there was just one ship out there, that wouldn’t be an issue. But there are fifteen others. And I’ve just made the <emphasis>Clarke</emphasis> a target.”</p>
+   <p>“What do you want to do?” Balla asked.</p>
+   <p>“I want you to get the crew to the escape pods,” Coloma said. “They’re not firing at us now because they’re still trying to figure out what just happened. That’s not going to last long. Get everyone off the ship before it happens.”</p>
+   <p>“And what are you going to do?” Balla asked.</p>
+   <p>“I’m going to go down with the ship,” Coloma said. “And if I’m lucky, I’m going to take some of them with me.”</p>
+  </section>
+  <section>
+   <title>
+    <p>VIII</p>
+   </title>
+   <p>The first volley of missiles aimed at Earth Station, six in all, destroyed the elevator car and irreparably damaged the beanstalk cable itself. The second volley of missiles, five times the number of the first, violently sheared Earth Station from the cable, severing the two just below their join.</p>
+   <p>The station and beanstalk were previously under the thrall of impressively high-order physics that kept them where they were supposed to be, at an altitude they should not have possibly been at, constructed in a manner that should not have sufficed. This physical legerdemain was powered literally by the earth itself, from a deep well of geothermal energy punched into the skin of the planet, which took extra effort to reach from Nairobi, situated more than a mile above sea level.</p>
+   <p>Without this nearly inexhaustible draw of power, the station reverted to life under conventional physics. This spelled doom for it, and for the beanstalk it fed on, a doom that was designed as minutely and purposefully as the station itself.</p>
+   <p>Its doom was designed to do two things. One, to protect the planet below (and, depending, space above) from falling chunks of a space station 1.8 kilometers in diameter, as well as several hundred kilometers of beanstalk. Two, to keep the secrets of the technology from falling into the hands of Earthlings. The two goals dovetailed into a single solution.</p>
+   <p>The beanstalk did not fall. It was designed not to fall. The energy formerly devoted to keeping it whole and structurally sound was rapidly and irrevocably committed to another task entirely: tearing it apart. Hundreds of kilometers above the surface of the planet, the strands of the beanstalk began to unwind at the molecular level, becoming minute particles of metallic dust. The waste heat generated expanded gases released by the process, puffing the dust into the upper reaches of the atmosphere. Air patterns and turbulence in the lower reaches of the atmosphere did the same task farther down. The people of Nairobi looked up to see the beanstalk smearing itself into the sky, pushed by prevailing winds like charcoals rubbed by a frenetic artist.</p>
+   <p>It would take six hours for the beanstalk to evaporate. Its particulate matter treated East Africa to gorgeous sunsets for a week and the world to a year of temperatures one one-hundreth of degree Celsius cooler than they would have been otherwise.</p>
+   <p>Earth Station, damaged and cut away from its power source, began the process of killing itself in an organized fashion before its rotational energy could do it chaotically. Resigned as it was to its own death, the station powered up its emergency energy sources, which would keep the now sealed-off segments of the station warm and breathable for approximately two hours, more than enough time to get the remaining people on the station to the escape pods, which now showed themselves by way of pathed lighting and an automated voice system, directing the trapped and desperate to them. On the outside of the station, panels blew off, exposing the hulls of the escape pods to space, making it easy for them to launch once they were filled.</p>
+   <p>Once all the escape pods were away, the station would dismantle itself, not by the beanstalk method, which required massive, directed energies the station no longer possessed or could harness, but by a simpler, less elegant solution: detonating itself through the use of shaped, high-energy explosives. Nothing larger than thirty cubic centimeters would remain, and what did remain would either burn up in the atmosphere or be tossed into space.</p>
+   <p>It was a good plan that did not take into account how an actively attacking force might affect an orderly self-destruction.</p>
+   <empty-line/>
+   <empty-line/>
+   <p>Because Hart Schmidt was one of the few people in his section of the station not screaming or crying, he was one of the first to hear the automated voice informing the people trapped there that escape pods were now available on the shuttle deck of every gate. He blinked, listened again to confirm he’d heard what he thought he had heard and then gave himself a moment to think, <emphasis>Who the fuck tells people there are escape pods after they’re already trapped and think they’re going to die?</emphasis> Then he picked himself up and headed to the door of gate seven.</p>
+   <p>Which was stuck, or appeared to be, at any rate; Schmidt’s attempts to pull it open were like those of a child attempting to yank open a door held shut by a professional athlete. Schmidt cursed and kicked the door. After he was done dealing with the pain of kicking a door, a thought registered with him: The door was so cold, Schmidt could feel the heat sucking out of his shoe even with just a kick. He put his hand on the door proper, close to the jamb; it was like ice. It also seemed to suck at his fingertips.</p>
+   <p>Schmidt put his head close to the door, and over the din of people yelling and screaming, he heard another sound entirely: a high, urgent whisper of a whistle.</p>
+   <p>“Are you going to open that door?” someone asked Schmidt.</p>
+   <p>He turned, stepping away from the door, and rubbed his ear. He looked over.</p>
+   <p>It was Kruger and his three buddies.</p>
+   <p>“It’s <emphasis>you,</emphasis>” Kruger said. His neck was purple.</p>
+   <p>“Hi,” Schmidt said.</p>
+   <p>“Open that door,” Kruger said. By now a small group of people, who had heard the automated message, anxiously stood behind Kruger.</p>
+   <p>“That’s a really bad idea,” Schmidt said.</p>
+   <p>“Are you fucking kidding me?” Kruger said. “The station is blowing up around us, there are escape pods on the other side of that door and you’re telling me it’s a bad idea to open it?” He grabbed Schmidt before he could respond and tossed him out of the way, hurling him into a bench in the process. Then he grabbed the doorjamb and pulled. “Bastard’s stuck,” he said, after a second, and prepared to give it a mighty yank.</p>
+   <p>“There’s a vacuum-,” Schmidt began.</p>
+   <p>Krueger indeed yanked mightily, throwing the door open just enough that he might conceivably slide through, and was sucked through so quickly that when the door slammed shut on his hand, it left the tops of three of his fingers behind.</p>
+   <p>For the first time since the crisis began, there was dead silence at gate seven.</p>
+   <p>“What the <emphasis>fuck</emphasis> just happened?” bellowed Mothudi, breaking the silence.</p>
+   <p>“There’s a vacuum on the other side of that door,” Schmidt said, and then saw the blank expression on Mothudi’s face. “There’s no <emphasis>air</emphasis>. If you try to go in there, you won’t be able to breathe. You’ll die before you get down the ramp to the escape pods.”</p>
+   <p>“Kruger’s dead?” asked another of the soldiers, the one called Goosen.</p>
+   <p><emphasis>Unless he carries his own oxygen supply, you bet,</emphasis> Schmidt thought, but did not say. What he said was, “Yes, Kruger is dead.”</p>
+   <p>“The hell with this,” said the third soldier, the one named Pandit. “I’m going to gate six.” He bolted toward the gate at the end of the section, where people had queued to make their way to the escape pods. Mothudi and Goosen joined him a second later, followed by a yelling mass of humanity from gate seven who finally got it through their heads that there might not be enough spaces on the escape pods for all of them. A riot had begun.</p>
+   <p>Schmidt knew that for survival purposes he should be in the fray at gate six, but he couldn’t bring himself to do it. He decided he’d rather die as a fundamentally decent human being than live as the sort of asshole who’d tear out someone’s liver to get into an escape pod.</p>
+   <p>The thought brought him inner peace, for about five seconds. Then the fact that he was going to die bubbled up again and scared him shitless. He leaned his head back against the bench Krueger had thrown him into and closed his eyes. Then he opened them again and looked forward. Into the back of the gate attendant’s lectern. Which among other things had a large first-aid box slotted into it.</p>
+   <p>Schmidt looked over at Kruger’s fingertips for a second, snerked and reached over to the box. He pulled it out and opened it up.</p>
+   <p>Inside, among many other things, were a foil blanket and a very small oxygen kit.</p>
+   <p><emphasis>Hey, look, your very own oxygen supply,</emphasis> Schmidt’s brain said to him.</p>
+   <p>“Yeah, well, don’t get too excited,” he said, out loud, to his brain. “You still can’t get that door open without losing your hand.”</p>
+   <p>Gate six exploded.</p>
+   <p>In the immediate aftermath, Schmidt wasn’t sure if he’d been deafened by the pressure blast blowing out his eardrums or all the air in the section that contained gate six and gate seven being sucked out into space, along with Goosen, Pandit and Mothudi and everyone else who had been raging at gate six. Then he felt the air in his lungs seeping out through his lips and nose and decided it just didn’t matter. He grabbed at the first-aid box, wrapped the blanket over the top half of his body as tightly as he could with one hand and with the other covered his face and mouth with the mask of the oxygen kit.</p>
+   <p>The mask immediately fogged. Schmidt gave himself a quick hit of oxygen and tried not to panic.</p>
+   <p>In another minute, the section was completely silent and Schmidt felt himself start to freeze. He got up from the bench he’d crouched under and went to the gate seven door. It opened with only the slightest resistance.</p>
+   <p>On the other side of the door was Kruger: cyanotic, fingerless, frozen and looking, in death, extraordinarily pissed. Schmidt sidestepped Kruger’s corpsicle and ran as quickly as he could down the ramp, blue fingers clutching the space blanket and the oxygen.</p>
+   <p>The shuttle deck of gate seven had sprouted what looked like several doors leading to subterranean alcoves: the escape pods. Schmidt picked the closest one and with shivering hands cycled the portal shut. Sealed, the escape pod sensed the vacuum and freezing cold and blasted both oxygen and warmth into the pod. Schmidt cried and shook.</p>
+   <p>“Pod launch in fifteen seconds,” a computerized voice said. “Secure yourself, please.”</p>
+   <p>Schmidt, still shivering violently, reached up and pulled down the padded seat restraint as the escape pod counted off the seconds. He passed out before the voice got to three and missed his launch entirely.</p>
+   <empty-line/>
+   <p>Lowen cried with relief when the automated announcement about the escape pods fired up and then started going for one of them when their egress doors on the deck floor opened. Wilson reached out and held her back.</p>
+   <p>“What are you doing?” she yelled at him, clawing at his hand.</p>
+   <p>“We have a way off this station,” Wilson said to her. “Other people don’t.”</p>
+   <p>Lowen pointed to the escape pods opening up around her. “I’d rather go this way,” she said. “I’d rather have something around me when I launch myself into space.”</p>
+   <p>“Dani,” Wilson said, “it’s going to be okay. Trust me.”</p>
+   <p>Lowen stopped going for the escape pods but didn’t look the least bit happy about it.</p>
+   <p>“When they start launching these things, they’re probably going to cycle out the air,” Wilson said. “Let’s go ahead and cover up.” He attached his oxygen apparatus and then covered his head with his cowl.</p>
+   <p>“How do you see?” Lowen asked, looking at the blankness of the cowl.</p>
+   <p>“The suit nanobots are photosensitive and send a feed to my BrainPal, which allows me to see,” Wilson said. He reached over to help her with her oxygen and to seal her cowl.</p>
+   <p>“Great,” Lowen said. “How am I going to see?”</p>
+   <p>Wilson stopped. “Uh,” he said.</p>
+   <p>“‘Uh’?” Lowen said. “Are you <emphasis>kidding</emphasis> me, Harry?”</p>
+   <p>“Here,” Wilson said, and sent instructions from his BrainPal to Lowen’s suit. It sealed up everywhere but the eyes. “That should be fine until we go,” he said.</p>
+   <p>“When is that?” Lowen asked.</p>
+   <p>“I was going to do an emergency purge of the deck,” Wilson said. “But now I’ll wait for the pods to go before we do.”</p>
+   <p>“And then I’ll be blind,” Lowen said.</p>
+   <p>“Sorry,” Wilson said.</p>
+   <p>“Just talk to me on the way down, all right?” Lowen said.</p>
+   <p>“Uh,” Wilson said.</p>
+   <p>“‘Uh,’ again?” Lowen said.</p>
+   <p>“No, wait,” Wilson said. “You have your PDA, right?”</p>
+   <p>“I put it in my underwear, since you insisted I take off my clothes,” Lowen said.</p>
+   <p>“Put the audio up as loud as you can. Then I should be able to talk to you,” Wilson said.</p>
+   <p>From above the shuttle deck, the two of them heard panicked yelling and screaming, and the thundering of people running down the ramp to the shuttle deck.</p>
+   <p>“Oh, my God, Harry,” Lowen said, pointing at the rush. “Look at that.”</p>
+   <p>Harry turned in time to see a flash, a hole in the hull where the bottom of the ramp used to be, and people both thrown into the air and sucked out of the hole. Lowen screamed and turned, losing her footing and falling hard against the deck, momentarily stunning her. The suction of the hole sent her tumbling silently into space.</p>
+   <p>Harry frantically sent a command to her suit to cover her eyes and then leaped into space after her.</p>
+  </section>
+  <section>
+   <title>
+    <p>IX</p>
+   </title>
+   <p>Captain Coloma had been keeping tabs on Schmidt and Wilson, the <emphasis>Clarke</emphasis>’s lost sheep, via their PDA and BrainPal, respectively. Wilson had been moving about shuttle gate five but seemed fine; Schmidt was at gate seven, having just missed the shuttle, and was largely motionless until the announcement about the escape pods. Then the ships attacking Earth Station started putting missiles into the shuttle gates, intentionally targeting the decks where the people were funneling into escape pods.</p>
+   <p>“You sons of bitches,” Coloma said.</p>
+   <p>She was alone on the <emphasis>Clarke</emphasis>. The escape pods off the ship seemed not to attract attention. At the very least, no missiles were sent in their direction. Not every crew member was happy to go; she’d had to threaten Neva Balla with a charge of insubordination to get her into a pod. Coloma smiled grimly at this memory. Balla was going to make an excellent captain.</p>
+   <p>The ships targeted and hit the sections Wilson and Schmidt were in. Coloma zoomed in and saw the wreckage and the bodies vomiting out of the holes in the Earth Station hull. Remarkably, Coloma’s tracking data told her both Wilson and Schmidt were alive and moving. “Come on, guys,” Coloma said.</p>
+   <p>Wilson’s data indicated he had been sucked out of gate five. Coloma grimaced at this but then watched his BrainPal data further. He was alive and just fine, aside from hyperventilating slightly. Coloma wondered how he was managing this trick until she remembered that he was scheduled to do a jump with a U.S. soldier later today. It looked as though he were doing it earlier than he expected. Coloma watched his data for a few seconds more to assure herself that he was good, then turned her attention to Schmidt.</p>
+   <p>Her data on Schmidt was less exact because his PDA did not track his vital statistics, unlike a BrainPal. All Coloma could tell was that Schmidt was on the move. He had gotten himself down the ramp of gate seven, which the <emphasis>Clarke</emphasis>’s shuttle pilot had damaged, meaning it was filled with vacuum. Despite that, Schmidt had planted himself in an escape pod. Coloma was curious how he’d managed that and regretted that at this point it would be unlikely that she would ever find out.</p>
+   <p>The escape pod launched, plunging down toward the atmosphere.</p>
+   <p>The <emphasis>Erie Morningstar</emphasis> launched a missile directly toward it.</p>
+   <p>Coloma smiled. She went to her display, tracked the missile and vaporized it with the final blast of her antiparticle beam. “No one shoots down <emphasis>my</emphasis> people, you asshole,” she said.</p>
+   <p>And finally, Coloma and the <emphasis>Clarke</emphasis> had the attention of the interloping ships. The <emphasis>Erie Morningstar</emphasis> launched two missiles in her direction. Coloma waited until they were almost on top of her before deploying countermeasures. The missiles detonated beautifully, away from the <emphasis>Clarke,</emphasis> which was now swinging itself around as Coloma plugged in a course for the <emphasis>Erie Morningstar</emphasis>.</p>
+   <p>The <emphasis>Erie Morningstar</emphasis> responded with two more missiles; Coloma once more waited until the last minute before countermeasures. This time she was not as lucky. The starboard missile tore into the skin of the <emphasis>Clarke,</emphasis> rupturing forward compartments. If anyone had been there, they would be dead. Coloma grinned fiercely.</p>
+   <p>In the distance, three ships fired on the <emphasis>Clarke,</emphasis> two missiles each. Coloma looked at her display to gauge how long it would be until impact. She grimaced at the numbers and pushed the <emphasis>Clarke</emphasis>’s engines to full.</p>
+   <p>The <emphasis>Erie Morningstar</emphasis> was now clearly aware of what the <emphasis>Clarke</emphasis> was up to and was attempting evasive maneuvers. Coloma compensated and recalculated and was pleased with her results. There was no way the <emphasis>Erie Morningstar</emphasis> wasn’t going to get kissed by the <emphasis>Clarke</emphasis>.</p>
+   <p>The first of the new set of missiles plowed into the <emphasis>Clarke,</emphasis> followed by the second and then the third and fourth in rapid succession. The <emphasis>Clarke</emphasis> went dark. It didn’t matter; the <emphasis>Clarke</emphasis> had inertia on its side.</p>
+   <p>The <emphasis>Clarke</emphasis> crumpled into the <emphasis>Erie Morningstar</emphasis> as the fifth and sixth missiles struck, shattering both ships.</p>
+   <p>Coloma smiled. Her Colonial Defense Forces orders were, should she engage a hostile ship that attacked either her or Earth Station, to disable the ship if she could and destroy it only if necessary. They wanted whoever was in the ship, in order to find out who was behind everything the Colonial Union was coming up against.</p>
+   <p><emphasis>That ship is definitely disabled,</emphasis> Coloma thought. <emphasis>Is it destroyed? If it is, it had it coming. It went after my people</emphasis>.</p>
+   <p>Sitting there in the dark, Coloma reached over and patted the <emphasis>Clarke</emphasis> fondly.</p>
+   <p>“You’re a good ship,” she said. “I’m glad you were mine.”</p>
+   <p>A seventh missile tore into the bridge.</p>
+   <empty-line/>
+   <p>Wilson couldn’t see Lowen but could track her. His BrainPal vision showed her as a tumbling sprite twenty clicks to the east. Well, fair enough. He was tumbling, too, because of his hasty exit from Earth Station; his BrainPal gave him an artificially stabilized view of things. Wilson was less concerned about her tumbling and more concerned about her utter silence. Even screaming would be better because it would mean she was conscious and alive. But there was nothing from her.</p>
+   <p>Wilson pushed it from his mind as best he could. There was nothing he could do about it right now. Once they were in the atmosphere, he could maneuver himself over to her and see how she was doing. For now, all he needed to do was get her through the burning part of reentry.</p>
+   <p>Instead of thinking about Lowen, Wilson had his BrainPal turn its visual attention to Earth Station, which floated darkly above him, save for the occasional flare as the missiles struck another area of the station. Wilson did a status check of the Colonial Union diplomatic ships at Earth Station. The <emphasis>Aberforth,</emphasis> the <emphasis>Zhou</emphasis> and the <emphasis>Schulz</emphasis> were all pulling away from Earth Station at speed, with or without their diplomatic contingents. Their captains were probably aware by now that one way or another, Earth Station was going up like a roman candle.</p>
+   <p>The <emphasis>Clarke</emphasis> was missing or not responding. That was not good at all. It it wasn’t there, then it wouldn’t matter whether the shuttle got everyone out or not; they would have met their fate on the ship. Wilson tried not to think about that.</p>
+   <p>He especially tried not to think about Hart.</p>
+   <p>There was a dazzling light from Earth Station. Wilson focused his attention on it once more.</p>
+   <p>It was detonating. Not haphazardly, as in the attack; no, this was a planned and focused thing, a series of brilliant flashes designed to reduce an entire spaceship into chunks no larger than one’s own hand. Whatever the attacking ships started, the Colonial Union’s detonation protocols were finishing now.</p>
+   <p>A thought flashed into Wilson’s head: <emphasis>Some of that debris is headed this direction and it’s going much faster than you are.</emphasis></p>
+   <p>A second thought flashed into Wilson’s head: <emphasis>Well, fuck.</emphasis></p>
+   <p>Wilson’s BrainPal alerted him that Lowen was beginning to drag on the Earth’s atmosphere. A second later, it told him he was beginning to do the same thing. Wilson ordered the release of the nanobots and immediately found himself encased in a matte black sphere. On the other side of that, he knew, would be several thousand degrees of reentry friction that the nanobots were shielding him from, taking some of the heat from the reentry to strengthen the shield as he fell.</p>
+   <p><emphasis>This would not be a good time for Dani to wake up,</emphasis> Wilson thought, thinking about the flat darkness surrounding him. Then he remembered that she would be in darkness anyway because she had no BrainPal.</p>
+   <p><emphasis>I’m definitely not a fun first date,</emphasis> Wilson thought.</p>
+   <p>He fell and fell some more and tried not to think of Lowen, or Hart, or the <emphasis>Clarke,</emphasis> or the fact that screaming chunks of Earth Station were almost certainly whizzing past him at ultrasonic speeds and could turn him into kibble if they smacked into him.</p>
+   <p>This did not leave a whole lot to think about.</p>
+   <p>There was a sudden fluttering sound and the nanobots tore away. Wilson blinked in the noontime sun. He was amazed to remember that it was still barely after noon, Nairobi time; everything that had happened happened in just about an hour.</p>
+   <p>Wilson did not think he could take many more hours like this.</p>
+   <p>Lowen pinged on his consciousness. She was now less than five klicks away and a klick up, still tumbling but less so in the atmosphere. Wilson carefully negotiated his way over to her, stabilized her and, as much as he could, checked her vitals. At the very least, she was still breathing. It was something.</p>
+   <p>Still, not having her conscious was not going to be a good thing when it came to landing.</p>
+   <p>Wilson thought about it for a moment, but only for a moment, because the ground was going to become a problem in the very near future. Then he checked how many nanobots he had left, estimated how much weight they were going to hold and then wrapped himself around Lowen, face-to-face. They were going to go in tandem.</p>
+   <p>That covered, Wilson finally looked around to see where he was. In the close distance the beanstalk still stood, feathering in the wind. Wilson had no idea what that was about, but it meant that he remained somewhere near Nairobi. He looked down, compared the terrain with what he had stored in his BrainPal and realized he could make it to the football field he and Hirsch were originally planning to land at.</p>
+   <p>Lowen woke up at around three thousand meters and began screaming and thrashing. Wilson spoke directly into her ear. “I’m here,” he said. “Don’t panic.”</p>
+   <p>“Where are we?” Lowen asked.</p>
+   <p>“Ten thousand feet above Kenya,” Wilson said.</p>
+   <p>“Oh, God,” Lowen said.</p>
+   <p>“I have you,” Wilson said. “We’re in tandem.”</p>
+   <p>“How did you manage that?” Lowen asked, calming down.</p>
+   <p>“It seemed a better idea than you falling alone while unconscious,” Wilson said.</p>
+   <p>“Point,” Lowen said, after a second.</p>
+   <p>“I’m about five seconds from deploying the chute,” Wilson said. “Are you ready?”</p>
+   <p>Lowen tightened up around Wilson. “Let’s never do this again,” she said.</p>
+   <p>“Promise,” he said. “Here we go.” He deployed ’bots from both of their packs so that both of them were tethered into the chute. There was a sharp jerk, and then the two of them were floating.</p>
+   <p>“We’re close enough to the ground and going slow enough that you could use your eyes if you wanted,” Wilson said, after a few moments. Lowen nodded. Wilson had her cowl open up.</p>
+   <p>Lowen looked down and then jerked her head back up, eyes closed. “Okay, that was a spectacularly bad idea,” she said.</p>
+   <p>“We’ll be down in just a minute,” Wilson promised.</p>
+   <p>“And this parachute for two won’t mess us up?” Lowen asked.</p>
+   <p>“No,” Wilson said. “It’s smarter than a real parachute.”</p>
+   <p>“Don’t say this is not a real parachute, please,” Lowen said.</p>
+   <p>“It’s smarter than other parachutes,” Wilson corrected. “It’s been compensating for wind and other factors since we opened it up.”</p>
+   <p>“Great,” Lowen said. “Just tell me when we’re down.”</p>
+   <p>They were down a minute and a half later, the nanobots dissipating into the wind as their feet touched down. Lowen disengaged from Wilson, grabbed her head, turned to the side and threw up.</p>
+   <p>“Sorry,” Wilson said.</p>
+   <p>“It’s not you, I swear,” Lowen said, spitting to clear her mouth. “It’s <emphasis>everything</emphasis>.”</p>
+   <p>“I understand,” Wilson said. “I’m sorry about that, too.”</p>
+   <p>He looked up in the sky and watched bits of Earth Station fall like glitter.</p>
+  </section>
+  <section>
+   <title>
+    <p>X</p>
+   </title>
+   <p>“I told you it was a bad idea,” Rigney said, to Egan.</p>
+   <p>“Your continued lack of enthusiasm is noted,” Egan replied. “Not that it does us any good at this point.”</p>
+   <p>The two of them sat on a bench at Avery Park, a small neighborhood park in an outer borough of Phoenix City, feeding ducks.</p>
+   <p>“This is nice,” Rigney said, tossing bread to the ducks.</p>
+   <p>“Yes,” Egan said.</p>
+   <p>“Peaceful,” Rigney said.</p>
+   <p>“It is,” Egan said, tossing her own bread at the quacking birds.</p>
+   <p>“If I had to do this more than once a year, I might stab something,” Rigney said.</p>
+   <p>“There is that,” Egan said. “But you said you wanted to catch up. I assumed you meant actually catch up, not just talk sports scores. And right now is not the time to be catching up on anything in Phoenix Station itself.”</p>
+   <p>“I knew that much already,” Rigney said.</p>
+   <p>“So what do you want to know?” Egan asked.</p>
+   <p>“I want to know how bad it is,” Rigney said. “From your end, I mean. I know how bad it is on my end.”</p>
+   <p>“How bad is it on your end?” Egan asked.</p>
+   <p>“Full-bore panic,” Rigney said. “I could go into details, but you might run screaming. You?”</p>
+   <p>Egan was quiet for a moment while she tossed more bread at the birds. “Do you remember when you came to my presentation for those midlevel bureaucrats and you heard me tell them that the Colonial Union is thirty years out from total collapse?” she said.</p>
+   <p>“Yes, I do,” Rigney said.</p>
+   <p>“Well, we were wrong about that,” Egan said. “It’s closer to twenty.”</p>
+   <p>“That can’t all be because of what happened at Earth Station,” Rigney said.</p>
+   <p>“Why couldn’t it?” Egan said. “They think <emphasis>we</emphasis> did it, Abel. They think we lured several hundred of their best diplomatic and political minds into a shooting gallery and then had a fake group of terrorists blow the place apart. They didn’t shoot to destroy the space station outright. They went after the elevator car and they waited until people went for the escape pods to put holes in the shuttle bays. They went for the Earthlings.”</p>
+   <p>“They also shot at the <emphasis>Clarke</emphasis> and its shuttle,” Rigney pointed out.</p>
+   <p>“The shuttle got away,” Egan pointed out. “As did the single escape pod to make it off Earth Station. As for the <emphasis>Clarke,</emphasis> how hard is it to make the argument that it was a decoy to throw the scent off their trail, especially since everyone but their captain survived? And especially since fourteen of the ships that attacked Earth Station seem to have disappeared back into the same black hole from which they came. Seems a fine conspiracy.”</p>
+   <p>“That’s a little much,” Rigney said.</p>
+   <p>“It would be if we were dealing with rational events,” Egan said. “But look at it from the Earth’s point of view. Now they have no serious egress into space, their political castes are decimated and paranoid, and they’re reminded that at this moment, their fate is not their own. The easiest, best scapegoat they have is us. They will never forget this. They will never forgive it. And no matter what evidence comes to light about it, exonerating <emphasis>us,</emphasis> they will simply never believe it.”</p>
+   <p>“So Earth is off the table,” Rigney said.</p>
+   <p>“It’s so far off the table the table is underneath the curve of the planet,” Egan said. “We’ve lost the Earth. For real this time. Now the only thing we can hope for is that it stays neutral and unaffiliated. That might mean that seventy years down the road we might have a shot at them again. If they join the Conclave, it’s all over.”</p>
+   <p>“And what does State think the chances of that are?” Rigney said. “Of them joining the Conclave?”</p>
+   <p>“At this moment? Better than them coming back to us,” Egan said.</p>
+   <p>“The consensus at CDF is that the Conclave is behind all of this, you know,” Rigney said. “Everything since Danavar. They have the means to plant spies in the CDF and in the Department of State. They have the resources to pluck our ships out of the sky, turn them back into warships and drop them next to Earth Station. All sixteen of the ships that disappeared showed up there. And there’s something else we haven’t told State yet.”</p>
+   <p>“What is that?” Egan said.</p>
+   <p>“The ship Captain Coloma smashed the <emphasis>Clarke</emphasis> into. The <emphasis>Erie Morningstar.</emphasis> It had no crew. It was run by a brain in a box.”</p>
+   <p>“Like the one in the <emphasis>Urse Damay,</emphasis>” Egan said. “Of course, the Conclave maintains the <emphasis>Urse Damay</emphasis> was taken from them as well. Along with several other ships.”</p>
+   <p>“Our intelligence hasn’t confirmed those stories,” Rigney said. “They could be running that across the trail to keep us confused.”</p>
+   <p>“Then there’s the matter of someone out there actively sabotaging our relationships with Earth,” Egan said. “And the fact there’s a growing segment of the colony population who wants to replace the Colonial Union with an entirely new union with the Earth at the center. That certainly seemed to spring up overnight.”</p>
+   <p>“Another thing the Conclave has resources for,” Rigney pointed out.</p>
+   <p>“Perhaps,” Egan said. “Or perhaps there’s a third party who is playing us, Earth and the Conclave for fools for purposes we haven’t figured out yet.”</p>
+   <p>Rigney shook his head. “The simplest explanation is usually the correct one,” he said.</p>
+   <p>“I agree,” Egan said. “Where I disagree is whether making the Conclave the bad guy is the simplest explanation. I think it’s clear that someone wants the Colonial Union dead and destroyed, and Earth is the lever to do that. I also think it’s possible the same someone has been poking at the Conclave, trying to find the lever that destroys them, too. We almost found one, once.”</p>
+   <p>“I don’t think the CDF is comfortable with that level of shadowy conspiracy, Liz,” Rigney said. “They prefer something they can hit with a stick.”</p>
+   <p>“Find it first, Abel,” Egan said. “Then you can hit it all you like.”</p>
+   <p>The two sat there, silent, chucking bread at ducks.</p>
+   <p>“At least you’ve gotten one thing right,” Egan said.</p>
+   <p>“What’s that,” Rigney said.</p>
+   <p>“Your fire team,” Egan said. “Ambassador Abumwe and her people. We keep setting her up with impossible missions and she always gets something out of them. Sometimes not the things we want. But always something.”</p>
+   <p>“She blew the Bula negotiations,” Rigney said.</p>
+   <p>“<emphasis>We</emphasis> blew the Bula negotiations,” Egan reminded him. “We told her to lie, and she did exactly what we told her to do, and we were caught red-handed when she did it.”</p>
+   <p>“Fair enough,” Rigney said. “What are you going to do with Abumwe now?”</p>
+   <p>“You mean, now that she and her team are the only group to survive the Earth Station attack intact, and her captain has become a posthumous hero both for saving her entire diplomatic team and for taking down two of the attacking ships, <emphasis>and</emphasis> the sole bright spot for the Colonial Union in this whole sorry mess was Lieutenant Wilson saving the daughter of the United States secretary of state by leaping off an exploding space station with her in tow?” Egan said.</p>
+   <p>“Yes, that,” Rigney said.</p>
+   <p>“We start with a promotion, I think,” Egan said. “She and her people are no longer the B-team, and we don’t have any more time to waste. Things are never going back to what they were, Abel. We need to build the future as fast as we can. Before it collapses in on us. Abumwe’s going to help get us there. Her and her team. All of them. All of them that are left, anyway.”</p>
+   <empty-line/>
+   <p>Wilson and Lowen stood on the grounds of what remained of the Nairobi beanstalk and Earth Station, waiting for his ride, the shuttle that was slowly coming in for a landing.</p>
+   <p>“So, what’s it like?” Lowen wanted to know.</p>
+   <p>“What’s what like?” Wilson asked.</p>
+   <p>“Leaving Earth a second time,” Lowen said.</p>
+   <p>“It’s the same in a lot of ways,” Wilson said. “I’m excited to go, to see what’s out there in the universe. But I also know it’s not likely that I’m ever coming back. And once again, I’m leaving behind people I care about.”</p>
+   <p>Lowen smiled at that and gave Wilson a peck on the cheek. “You don’t have to leave,” she said. “You can always defect.”</p>
+   <p>“Tempting,” he said. “But as much as I love the Earth, I have to admit something.”</p>
+   <p>“And what’s that,” Lowen said.</p>
+   <p>“I’m just not from around here anymore,” Wilson said</p>
+   <p>The shuttle landed.</p>
+   <p>“Well,” Lowen said, “if you ever change your mind, you know where we are.”</p>
+   <p>“I do,” Wilson said. “You know where I am, too. Come up and see me.”</p>
+   <p>“That’s going to be a little more difficult now, all things considered,” Lowen said.</p>
+   <p>“I know,” Wilson said. “The offer still stands.”</p>
+   <p>“One day I’ll take you up on that,” Lowen said.</p>
+   <p>“Good,” Wilson said. “Life’s always interesting with you around.”</p>
+   <p>The shuttle door opened. Wilson picked up his bag to go.</p>
+   <p>“Hey, Harry,” Lowen said.</p>
+   <p>“Yes?” Wilson said.</p>
+   <p>“Thanks for saving my life,” she said.</p>
+   <p>Wilson smiled and waved good-bye.</p>
+   <p>Hart Schmidt and Ambassador Ode Abumwe were waiting inside.</p>
+   <p>Wilson smiled and shook the ambassador’s hand warmly. “You have no idea how glad I am to see you again, ma’am,” he said to her.</p>
+   <p>Abumwe smiled equally warmly. “Likewise, Lieutenant.”</p>
+   <p>Wilson turned to Schmidt. “As for you,” he said. “Don’t you do that again. That whole almost dying thing.”</p>
+   <p>“I promise nothing,” Schmidt said.</p>
+   <p>Wilson hugged his friend, then sat down and buckled in.</p>
+   <p>“Did you have a good time back on Earth?” Schmidt asked.</p>
+   <p>“I did,” Wilson said. “Now let’s go home.”</p>
+   <p>Abumwe nodded to the shuttle pilot. They put the Earth below them and headed into the sky above.</p>
+   <empty-line/>
+  </section>
+ </body>
+</FictionBook>

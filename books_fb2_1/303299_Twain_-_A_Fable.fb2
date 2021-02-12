@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>prose_classic</genre>
+   <genre>humor_prose</genre>
+   <author>
+    <first-name>Mark</first-name>
+    <last-name>Twain</last-name>
+   </author>
+   <book-title>A Fable</book-title>
+   <annotation>
+    <p>Введите сюда краткую аннотацию</p>
+   </annotation>
+   <date></date>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>Your</first-name>
+    <last-name>Name</last-name>
+   </author>
+   <program-used>FictionBook Editor Release 2.6.6</program-used>
+   <date value="2013-05-19">19 May 2013</date>
+   <id>1A8E748C-ABE5-4472-A14E-7255C1011BBB</id>
+   <version>1.0</version>
+   <history>
+    <p>1.0 — создание файла</p>
+   </history>
+  </document-info>
+ </description>
+ <body>
+  <section>
+   <title>
+    <p>A FABLE</p>
+   </title>
+   <empty-line/>
+   <empty-line/>
+   <p>Once upon a time an artist who had painted a small and very beautiful picture placed it so that he could see it in the mirror. He said, "This doubles the distance and softens it, and it is twice as lovely as it was before."</p>
+   <p>The animals out in the woods heard of this through the housecat, who was greatly admired by them because he was so learned, and so refined and civilized, and so polite and high-bred, and could tell them so much which they didn't know before, and were not certain about afterward. They were much excited about this new piece of gossip, and they asked questions, so as to get at a full understanding of it. They asked what a picture was, and the cat explained.</p>
+   <p>"It is a flat thing," he said; "wonderfully flat, marvelously flat, enchantingly flat and elegant. And, oh, so beautiful!"</p>
+   <p>That excited them almost to a frenzy, and they said they would give the world to see it. Then the bear asked:</p>
+   <p>"What is it that makes it so beautiful?"</p>
+   <p>"It is the looks of it," said the cat.</p>
+   <p>This filled them with admiration and uncertainty, and they were more excited than ever. Then the cow asked:</p>
+   <p>"What is a mirror?"</p>
+   <p>"It is a hole in the wall," said the cat. "You look in it, and there you see the picture, and it is so dainty and charming and ethereal and inspiring in its unimaginable beauty that your head turns round and round, and you almost swoon with ecstasy."</p>
+   <p>The ass had not said anything as yet; he now began to throw doubts. He said there had never been anything as beautiful as this before, and probably wasn't now. He said that when it took a whole basketful of sesquipedalian adjectives to whoop up a thing of beauty, it was time for suspicion.</p>
+   <p>It was easy to see that these doubts were having an effect upon the animals, so the cat went off offended. The subject was dropped for a couple of days, but in the meantime curiosity was taking a fresh start, aid there was a revival of interest perceptible. Then the animals assailed the ass for spoiling what could possibly have been a pleasure to them, on a mere suspicion that the picture was not beautiful, without any evidence that such was the case. The ass was not, troubled; he was calm, and said there was one way to find out who was in the right, himself or the cat: he would go and look in that hole, and come back and tell what he found there. The animals felt relieved and grateful, and asked him to go at once—which he did.</p>
+   <p>But he did not know where he ought to stand; and so, through error, he stood between the picture and the mirror. The result was that the picture had no chance, and didn't show up. He returned home and said:</p>
+   <p>"The cat lied. There was nothing in that hole but an ass. There wasn't a sign of a flat thing visible. It was a handsome ass, and friendly, but just an ass, and nothing more."</p>
+   <p>The elephant asked:</p>
+   <p>"Did you see it good and clear? Were you close to it?"</p>
+   <p>"I saw it good and clear, O Hathi, King of Beasts. I was so close that I touched noses with it."</p>
+   <p>"This is very strange," said the elephant; "the cat was always truthful before—as far as we could make out. Let another witness try. Go, Baloo, look in the hole, and come and report."</p>
+   <p>So the bear went. When he came back, he said:</p>
+   <p>"Both the cat and the ass have lied; there was nothing in the hole but a bear."</p>
+   <p>Great was the surprise and puzzlement of the animals. Each was now anxious to make the test himself and get at the straight truth. The elephant sent them one at a time.</p>
+   <p>First, the cow. She found nothing in the hole but a cow.</p>
+   <p>The tiger found nothing in it but a tiger.</p>
+   <p>The lion found nothing in it but a lion.</p>
+   <p>The leopard found nothing in it but a leopard.</p>
+   <p>The camel found a camel, and nothing more.</p>
+   <p>Then Hathi was wroth, and said he would have the truth, if he had to go and fetch it himself. When he returned, he abused his whole subjectry for liars, and was in an unappeasable fury with the moral and mental blindness of the cat. He said that anybody but a near-sighted fool could see that there was nothing in the hole but an elephant.</p>
+   <empty-line/>
+   <p>MORAL, BY THE CAT</p>
+   <empty-line/>
+   <p>You can find in a text whatever you bring, if you will stand between it and the mirror of your imagination. You may not see your ears, but they will be there.</p>
+   <empty-line/>
+  </section>
+ </body>
+</FictionBook>
